@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+<Subject type="Mathematics">
+<Level age="">
+<ExamBoard title="AandAS">
+<ProductTitle name="Solutionbank">
+<SubjectArea name="Statistics" abbrev="S">
+<Unit number="1">
+<Section>
+<Chapter number="1" title="Review Exercise">
+<Exercise letter="A"><p><b>Review 1</b></p>
+<QuestionData number="1">
+<Question>
+<p>In a factory, machines <i>A, B</i> and <i>C</i> are all producing metal rods of the same length. Machine <i>A</i> produces 35% of the rods, machine <i>B</i> produces 25% and the rest are produced by machine <i>C</i>. Of their production of rods, machines <i>A, B</i> and <i>C</i> produce 3%, 6% and 5% defective rods respectively.</p>
+<p><b>a</b> Draw a tree diagram to represent this information.</p>
+<p><b>b</b> Find the probability that a randomly selected rod is</p>
+<p><b>i</b> produced by machine <i>A</i> and is defective,</p>
+<p><b>ii</b> is defective.</p>
+<p><b>c</b> Given that a randomly selected rod is defective, find the probability that it was produced by machine <i>C</i>.</p>
+</Question><Solution>
+<p>Give your answers to at least 3 significant figures unless otherwise stated in the question.
+<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="middle"/>
+<tbody>
+<tr><td><b>a</b><br/><img src="images\S1F049.jpg"/></td><td>Remember to label all the branches and put all the probabilities on.</td></tr>
+<tr><td><b>bi</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo>&#x2229;</mo><mi>D</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0.35</mn><mo>&#x00D7;</mo><mn>0.03,</mn><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">0.0105</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mspace width="1ex"/><mfrac><mrow><mn>21</mn></mrow><mrow><mn>2000</mn></mrow></mfrac></mrow></math></td><td/></tr>
+<tr><td><b>ii</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>D</mi><mo stretchy="false">)</mo></mrow><mo>=</mo><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo>&#x2229;</mo><mi>D</mi><mo stretchy="false">)</mo><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>B</mi><mo>&#x2229;</mo><mi>D</mi><mo stretchy="false">)</mo><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>C</mi><mo>&#x2229;</mo><mi>D</mi><mo stretchy="false">)</mo></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="6.9ex"/><mo>=</mo><mrow><mn>0.0105</mn><mo>+</mo><mo stretchy="false">(</mo><mn>0.25</mn><mo>&#x00D7;</mo><mn>0.06</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>0.4</mn><mo>&#x00D7;</mo><mn>0.05</mn><mo stretchy="false">)</mo></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="6.9ex"/><mo>=</mo><mrow><munder accentunder='true'><mrow><mn fontweight="bold">0.0455</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mspace width="1ex"/><mfrac><mrow><mn>91</mn></mrow><mrow><mn>2000</mn></mrow></mfrac></mrow></math></td><td>If often helps to write down which combinations you want.</td></tr>
+
+<tr><td><b>c</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>C</mi><mo>&#x007C;</mo><mi>D</mi><mo stretchy="false">)</mo></mrow><mo>=</mo><mrow><mfrac><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>C</mi><mo>&#x2229;</mo><mi>D</mi><mo stretchy="false">)</mo></mrow><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>D</mi><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>0.4</mn><mo>&#x00D7;</mo><mn>0.05</mn></mrow><mrow><mn>0.0455</mn></mrow></mfrac></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="9.3ex"/><mo>=</mo><mrow><munder accentunder='true'><mrow><mn fontweight="bold">0.440</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mspace width="1ex"/><mfrac><mrow><mn>40</mn></mrow><mrow><mn>91</mn></mrow></mfrac></mrow></math></td><td>The words &#x201C;given that&#x201D; in the question tell you to use conditional probability.</td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Summarised opposite are the distances, to the nearest mile, travelled to work by a random sample of 120 commuters.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><b>Distance (to the nearest mile)</b></td><td><b>Number of commuters</b></td></tr>
+<tr><td>0&#x2013;9</td><td>10</td></tr>
+<tr><td>10&#x2013;19</td><td>19</td></tr>
+<tr><td>20&#x2013;29</td><td>43</td></tr>
+<tr><td>30&#x2013;39</td><td>25</td></tr>
+<tr><td>40&#x2013;49</td><td>8</td></tr>
+<tr><td>50&#x2013;59</td><td>6</td></tr>
+<tr><td>60&#x2013;69</td><td>5</td></tr>
+<tr><td>70&#x2013;79</td><td>3</td></tr>
+<tr><td>80&#x2013;89</td><td>1</td></tr></tbody>
+</table></p>
+<p>For this distribution,</p>
+<p><b>a</b> describe its shape,</p>
+<p><b>b</b> use linear interpolation to estimate its median.</p>
+<p>The mid-point of each class was represented by <i>x</i> and its corresponding frequency by <i>f</i> giving
+&#x03A3;<i>fx</i> = 3550 and &#x03A3;<i>fx</i><sup>2</sup> = 138&#x00A0;020</p>
+<p><b>c</b> Estimate the mean and standard deviation of this distribution.</p>
+<p>One coefficient of skewness is given by</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy="false">(</mo><mtext>mean</mtext><mo>&#x2212;</mo><mtext>median</mtext><mo stretchy="false">)</mo></mrow><mrow><mtext>standard</mtext><mtext>deviation</mtext></mrow></mfrac></mrow></math></p>
+<p><b>d</b> Evaluate this coefficient for this distribution.</p>
+<p><b>e</b> State whether or not the value of your coefficient is consistent with your description in part <b>a</b>. Justify your answer.</p>
+<p><b>f</b> State, with a reason, whether you should use the mean or the median to represent the data in this distribution.</p>
+<p><b>g</b> State the circumstance under which it would not matter whether you used the mean or the median to represent a set of data.</p>
+</Question><Solution>
+<p><b>a</b> Positive skew
+<table>
+<col align="left" valign="top" width="320px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Median</mtext><mo>:</mo><mfrac><mrow><mn>120</mn></mrow><mn>2</mn></mfrac><msup><mrow><mo>=</mo><mn>60</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>term so in the</mtext><mspace width="1ex"/><mn>20</mn><mo>&#x2212;</mo><mn>29</mn><mspace width="1ex"/><mtext>class</mtext></mrow></math></td><td>We do not need to do any rounding as the data is grouped.</td></tr>
+<tr><td><img src="images\S1F050.jpg"/></td><td>Draw a diagram if it helps to get the fractions. Remember to use the class boundaries. Here they are 19.5 and 29.5 as there are gaps in the data. The end values on the bottom are the cumulative frequency for the previous class and this class.</td></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>2</mn></msub><mo>&#x2212;</mo><mn>19.5</mn></mrow><mrow><mn>29.5</mn><mo>&#x2212;</mo><mn>19.5</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mn>60</mn><mo>&#x2212;</mo><mn>29</mn></mrow><mrow><mn>72</mn><mo>&#x2212;</mo><mn>29</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>2</mn></msub></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>19.5</mn><mo>+</mo><mfrac><mrow><mn>31</mn></mrow><mrow><mn>43</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>10</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><mn fontweight="bold">26.7</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td/></tr>
+<tr><td><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>3550</mn></mrow><mrow><mn>120</mn></mrow></mfrac><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">29.6</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td>Using <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><mi>x</mi></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac></mrow></math></td></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mi>&#x03C3;</mi></mtd><mtd columnalign="left"><mo>=</mo><mrow><msqrt><mrow><mfrac><mrow><mn>138020</mn></mrow><mrow><mn>120</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>3550</mn></mrow><mrow><mn>120</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>16.5829</mn></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><mn fontweight="bold">16.6</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td>Use <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msqrt><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><mi>x</mi></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt></mrow></math>and the accurate value for the mean</td><td/></tr>
+<tr><td><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mn>3</mn><mo stretchy="false">(</mo><mn>29.6</mn><mo>&#x2212;</mo><mn>26.7</mn><mo stretchy="false">)</mo></mrow><mrow><mn>16.6</mn></mrow></mfrac><mo>=</mo><mn>0.5199</mn><mo>&#x2026;</mo></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mspace width="12.3ex"/><mo>=</mo><mrow><munder accentunder='true'><mrow><mn fontweight="bold">0.520</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mrow></math></td><td>Use the accurate figures to do this calculation. Although you can write down the numbers to 3 s.f. If you use the rounded off figures you get 0.524 which may lose a mark.</td><td/></tr>
+<tr><td><b>e Yes it is as 0.520 &#x003E; 0</b></td><td/></tr>
+<tr><td><b>f</b> Use <b><u>Median</u></b></td><td/></tr>
+<tr><td>Since the data is skewed</td><td/></tr>
+<tr><td><b>g</b> If the data are <b><u>symmetrical</u></b> or <b><u>skewness is zero</u></b></td><td/></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>A teacher recorded, to the nearest hour, the time spent watching television during a particular week by each child in a random sample. The times were summarised in a grouped frequency table and represented by a histogram.</p>
+<p>One of the classes in the grouped frequency distribution was 20&#x2013;29 and its associated frequency was 9. On the histogram the height of the rectangle representing that class was 3.6 cm and the width was 2 cm.</p>
+<p><b>a</b> Give a reason to support the use of a histogram to represent these data.</p>
+<p><b>b</b> Write down the underlying feature associated with each of the bars in a histogram.</p>
+<p><b>c</b> Show that on this histogram each child was represented by 0.8 cm<sup>2</sup>.</p>
+<p>The total area under the histogram was 24 cm<sup>2</sup>.</p>
+<p><b>d</b> Find the total number of children in the group.</p>
+</Question><Solution>
+<p><table width="95%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b> Time is a continuous variable</td><td/></tr>
+<tr><td><b>b</b> Area is proportional to frequency</td><td/></tr>
+<tr><td><b>c</b> Area of bar = 3.6 &#x00D7; 2 = 7.2</td><td rowspan="2">Remember it is the area of the bar which represents the frequency in a histogram.</td></tr>
+<tr><td>9 children represented by 7.2 so: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>7.2</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mn>0.8</mn></mrow></math> or <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>7.2</mn></mrow><mrow><mn>0.8</mn></mrow></mfrac><mo>=</mo><mn>9</mn></mrow></math> or 0.8 &#x00D7; 9 = 7.2</td></tr>
+<tr><td>1 child represented by 0.8</td></tr>
+<tr><td><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Total</mtext><mo>=</mo><mfrac><mrow><mn>24</mn></mrow><mrow><mn>0.8</mn></mrow></mfrac><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">30</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td/></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p><b>a</b> Give two reasons to justify the use of statistical models.</p>
+<p>It has been suggested that there are seven stages involved in creating a statistical model. They are summarised below, with stages 3, 4 and 7 missing.</p>
+<p>Stage 1. The recognition of a real-world problem.</p>
+<p>Stage 2. A statistical model is devised.</p>
+<p>Stage 3.</p>
+<p>Stage 4.</p>
+<p>Stage 5. Comparisons are made against the devised model.</p>
+<p>Stage 6. Statistical concepts are used to test how well the model describes the real-world problem.</p>
+<p>Stage 7.</p>
+<p><b>b</b> Write down the missing stages.</p>
+</Question><Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b> Any 2 lines from</td><td/></tr>
+<tr><td>Used to simplify <u>or</u> represent a real world problem.</td><td/></tr>
+<tr><td>Cheaper <u>or</u> quicker (than producing the real situation) <u>or</u> more easily modified</td><td/></tr>
+<tr><td>To improve understanding of the real world problem</td><td/></tr>
+<tr><td>Used to predict outcomes from a real world problem (idea of predictions)</td><td/></tr>
+<tr><td><b>b</b> (3) Model used to make predictions.</td><td rowspan="2">You could put 3 and 4 the other way round.</td></tr>
+<tr><td>(4) Experimental data collected</td><td/></tr>
+<tr><td>(7) Model is refined. (Steps 2(or 3) to 5(or 6) are repeated)</td><td/></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The following table summarises the distances, to the nearest km, that 134 examiners travelled to attend a meeting in London.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><b>Distance (km)</b></td><td><b>Number of examiners</b></td></tr>
+<tr><td>41&#x2013;45</td><td>4</td></tr>
+<tr><td>46&#x2013;50</td><td>19</td></tr>
+<tr><td>51&#x2013;60</td><td>53</td></tr>
+<tr><td>61&#x2013;70</td><td>37</td></tr>
+<tr><td>71&#x2013;90</td><td>15</td></tr>
+<tr><td>91&#x2013;150</td><td>6</td></tr></tbody>
+</table></p>
+<p><b>a</b> Give a reason to justify the use of a histogram to represent these data.</p>
+<p><b>b</b> Calculate the frequency densities needed to draw a histogram for these data.</p>
+<p>(<i>Do not draw the histogram.</i>)</p>
+<p><b>c</b> Use interpolation to estimate the median <i>Q</i><sub>2</sub>, the lower quartile <i>Q</i><sub>1</sub>, and the upper quartile <i>Q</i><sub>3</sub> of these data.</p>
+<p>The mid-point of each class is represented by <i>x</i> and the corresponding frequency by <i>f</i>. Calculations then give the following values</p>
+<p>&#x03A3;<i>fx</i> = 8379.5 and &#x03A3;<i>fx</i><sup>2</sup> = 557 489.75</p>
+<p><b>d</b> Calculate an estimate of the mean and an estimate of the standard deviation for these data.</p>
+<p>One coefficient of skewness is given by</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>&#x2212;</mo><mn>2</mn><msub><mi>Q</mi><mn>2</mn></msub><mo>+</mo><msub><mi>Q</mi><mn>1</mn></msub></mrow><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>&#x2212;</mo><msub><mi>Q</mi><mn>1</mn></msub></mrow></mfrac><mn>.</mn></mrow></math></p>
+<p><b>e</b> Evaluate this coefficient and comment on the skewness of these data.</p>
+<p><b>f</b> Give another justification of your comment in <b>e</b>.</p>
+</Question><Solution>
+<p><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b> Distance is a continuous variable.</td><td/></tr>
+<tr><td><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>F</mtext><mtext>.D</mtext><mn>.</mn><mo>=</mo><mfrac><mrow><mtext>frequency</mtext></mrow><mrow><mtext>class</mtext><mspace width="1ex"/><mtext>width</mtext></mrow></mfrac><mo>&#x21D2;</mo><mn>0.8,3.8,5.3,3.7,0.75,0.1</mn></mrow></math></td></tr>
+<tr><td><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mi>Q</mi><mn>2</mn></msub><mspace width="1ex"/><mtext>is the</mtext><mspace width="1ex"/><mfrac><mrow><mn>134</mn></mrow><mn>2</mn></mfrac><msup><mrow><mo>=</mo><mn>67</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>term so is in the class 51 &#x2013; 60</mtext></mrow></math></td><td/></tr>
+
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>2</mn></msub><mo>&#x2212;</mo><mn>50.5</mn></mrow><mrow><mn>60.5</mn><mo>&#x2212;</mo><mn>50.5</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>67</mn><mo>&#x2212;</mo><mn>23</mn></mrow><mrow><mn>76</mn><mo>&#x2212;</mo><mn>23</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><msub><mtext fontweight="bold">Q</mtext><mn fontweight="bold">2</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo fontweight="bold">=</mo><munder accentunder='true'><mrow><mn fontweight="bold">58.8</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr>
+
+<mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>1</mn></msub><mspace width="1ex"/><mtext>is the</mtext><mspace width="1ex"/><mfrac><mrow><mn>134</mn></mrow><mn>4</mn></mfrac></mrow></mtd><mtd columnalign="left"><mrow><msup><mrow><mo>=</mo><mn>33.5</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>term</mtext></mrow></mtd></mtr>
+
+<mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>&#x2212;</mo><mn>50.5</mn></mrow><mrow><mn>60.5</mn><mo>&#x2212;</mo><mn>50.5</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mn>33.5</mn><mo>&#x2212;</mo><mn>23</mn></mrow><mrow><mn>76</mn><mo>&#x2212;</mo><mn>23</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>1</mn></msub></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><mn fontweight="bold">52.5</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>3</mn></msub><mspace width="1ex"/><mtext>is the</mtext><mspace width="1ex"/><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>134</mn></mrow><mn>4</mn></mfrac></mrow></mtd><mtd columnalign="left"><msup><mrow><mo>=</mo><mn>100.5</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>term</mtext></mtd></mtr>
+
+<mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>&#x2212;</mo><mn>60.5</mn></mrow><mrow><mn>70.5</mn><mo>&#x2212;</mo><mn>60.5</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mn>100.5</mn><mo>&#x2212;</mo><mn>76</mn></mrow><mrow><mn>113</mn><mo>&#x2212;</mo><mn>76</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>3</mn></msub></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><mn fontweight="bold">67.1</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td></tr>
+
+<tr><td><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean</mtext></mrow><mo>=</mo><mrow><mfrac><mrow><mn>8379.5</mn></mrow><mrow><mn>134</mn></mrow></mfrac></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="8ex"/><mrow><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">62.5</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td>Using <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><mi>x</mi></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac></mrow></math></td></tr>
+
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard</mtext><mspace width="1ex"/><mtext>deviation</mtext></mrow><mo>=</mo><mrow><msqrt><mrow><mfrac><mrow><mn>557489.75</mn></mrow><mrow><mn>134</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>8379.5</mn></mrow><mrow><mn>134</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="15.5ex"/><mrow><mo>=</mo><mrow><munder accentunder='true'><mrow><mn fontweight="bold">15.8</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mrow></math></td><td>Using <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msqrt><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><mi>x</mi></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt></mrow></math>and the accurate value for the mean. Using the rounded off version will give the wrong anser.</td></tr>
+<tr><td><b>e</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mfrac><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>&#x2212;</mo><mn>2</mn><msub><mi>Q</mi><mn>2</mn></msub><mo>+</mo><msub><mi>Q</mi><mn>1</mn></msub></mrow><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>&#x2212;</mo><msub><mi>Q</mi><mn>1</mn></msub></mrow></mfrac></mrow></mtd><mtd><mo>=</mo></mtd><mtd><mrow><mfrac><mrow><mn>67.1</mn><mo>&#x2212;</mo><mn>2</mn><mo>&#x00D7;</mo><mn>58.8</mn><mo>+</mo><mn>52.5</mn></mrow><mrow><mn>67.1</mn><mo>&#x2212;</mo><mn>52.5</mn></mrow></mfrac></mrow></mtd></mtr></mtable></math></td><td/></tr>
+
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="8ex"/><mrow><mo fontweight="bold">=</mo><munder accentunder='true'><mrow><mn fontweight="bold">0.137</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mo>&#x21D2;</mo><mspace width="1ex"/><mtext fontweight="bold">POSITIVE SKEW</mtext></mrow></math></td><td/></tr>
+<tr><td><b>f</b> For positive skew Mean &#x003E; median and 62.5 &#x003E; 58.8</td><td/></tr>
+<tr><td>or</td><td/></tr>
+<tr><td><i>Q</i><sub>3</sub> &#x2212; <i>Q</i><sub>2</sub> (8.3) &#x003E; <i>Q</i><sub>2</sub> &#x2212; <i>Q</i><sub>1</sub> (6.3)</td><td rowspan="2">You should put the figures as well as the reason to show skew. Simply stating for example mean &#x003E; median is not enough.</td></tr>
+<tr><td>or</td><td/></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy="false">(</mo><mn>62.5</mn><mo>&#x2212;</mo><mn>58.8</mn><mo stretchy="false">)</mo></mrow><mrow><mn>15.8</mn></mrow></mfrac><mo>=</mo><mn>0.703</mn><mo>&#x003E;</mo><mn>0</mn></mrow></math></td><td/></tr>
+<tr><td>Therefore positive skew.</td><td/></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>Aeroplanes fly from City <i>A</i> to City <i>B</i>. Over a long period of time the number of minutes delay in take-off from City <i>A</i> was recorded. The minimum delay was five minutes and the maximum delay was 63 minutes. A quarter of all delays were at most 12 minutes, half were at most 17 minutes and 75% were at most 28 minutes. Only one of the delays was longer than 45 minutes.</p>
+<p>An outlier is an observation that falls either 1.5 &#x00D7; (interquartile range) above the upper quartile or 1.5 &#x00D7; (interquartile range) below the lower quartile.</p>
+<p><b>a</b> On graph paper, draw a box plot to represent these data.</p>
+<p><b>b</b> Comment on the distribution of delays. Justify your answer.</p>
+<p><b>c</b> Suggest how the distribution might be interpreted by a passenger who frequently flies from City <i>A</i> to City <i>B</i>.</p>
+</Question><Solution>
+<p><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b> 1.5 (<i>Q</i><sub>3</sub> &#x2212; <i>Q</i><sub>1</sub>) = 1.5 (28 &#x2212; 12) = 24<br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>+</mo><mn>24</mn><mo>=</mo><mn>52</mn><mo>&#x21D2;</mo><mn>63</mn></mrow></math> is outlier<br/><i>Q</i><sub>1</sub> &#x2212; 24 = &#x2212;12 &#x003C;0 no outliers</td><td>You must always check for outliers before drawing a box plot. Show your working and state what the outliers are if there are any. Or say no outliers if there are none.</td></tr>
+<tr><td><img src="images\S1F051.jpg"/></td><td>The Outlier is marked by the cross.<br/>The end of the whisker is put 45 since the question states that only one of the values is greater than 45. If we had not been told this the whisker would have gone at 52.<br/>Always label the axis<br/></td></tr>
+<tr><td><b>b</b> The distribution is positive skew since</td><td/></tr>
+<tr><td><i>Q</i><sub>2</sub>&#x2212; <i>Q</i><sub>1</sub> (5) &#x003C; <i>Q</i><sub>3</sub> &#x2212; <i>Q</i><sub>2</sub> (11)</td><td>Use figures to back up your reason</td></tr>
+<tr><td><b>c</b> Many delays are small so passengers should find these acceptable.</td><td>Always interpret in the context of the question</td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<p>Give your answers to at least 3 significant figures unless otherwise stated in the question.</p>
+<QuestionData number="7">
+<Question>
+<p>In a school there are 148 students in Years 12 and 13 studying Science, Humanities or Arts subjects. Of these students, 89 wear glasses and the others do not. There are 30 Science students of whom 18 wear glasses. The corresponding figures for the Humanities students are 68 and 44 respectively.</p>
+<p>A student is chosen at random.</p>
+<p>Find the probability that this student</p>
+<p><b>a</b> is studying Arts subjects,</p>
+<p><b>b</b> does not wear glasses, given that the student is studying Arts subjects.</p>
+<p>Amongst the Science students, 80% are right-handed. Corresponding percentages for Humanities and Arts students are 75% and 70% respectively.</p>
+<p>A student is again chosen at random.</p>
+<p><b>c</b> Find the probability that this student is right-handed.</p>
+<p><b>d</b> Given that this student is right-handed, find the probability that the student is studying Science subjects.</p>
+</Question><Solution>
+<p><table>
+<col align="left" valign="top" width="375"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"></td><td align="left">Glasses</td><td align="left">No glasses</td><td align="left">Totals</td></tr> <tr><td align="left">Science</td><td align="left">18</td><td align="left">12</td><td align="left">30</td></tr> <tr><td align="left">Arts</td><td align="left">27</td><td align="left">23</td><td align="left">50</td></tr> <tr><td align="left">Humanities</td><td align="left">44</td><td align="left">24</td><td align="left">68</td></tr> <tr><td align="left">Totals</td><td align="left">89</td><td align="left">59</td><td align="left">148</td></tr></tbody></table></td><td>Drawing a two way table enables you to see the data clearly. A Venn diagram would be too complicated as 5 circles would be needed</td></tr></tbody></table></p>
+<p>
+<table>
+<col align="left" valign="top" width="375px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>Arts</mtext><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>50</mn></mrow><mrow><mn>148</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>25</mn></mrow><mrow><mn>74</mn></mrow></mfrac><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">0.338</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td/></tr>
+
+<tr><td><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>no glasses</mtext><mo>/</mo><mtext>Arts</mtext><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><msup><mtext>G</mtext><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><mi>A</mi><mo stretchy="false">)</mo></mrow><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>23</mn><mo>/</mo><mn>148</mn></mrow><mrow><mn>50</mn><mo>/</mo><mn>148</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>23</mn></mrow><mrow><mn>50</mn></mrow></mfrac><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">0.46</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td>The words &#x201C;given that&#x201D; in the question tell you to use conditional probability.</td></tr>
+<tr><td><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>Right handed</mtext><mo stretchy="false">)</mo><mo>=</mo><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>S</mtext><mo>&#x2229;</mo><mtext>RH</mtext><mo stretchy="false">)</mo><mo>+</mo><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo>&#x2229;</mo><mtext>RH</mtext><mo stretchy="false">)</mo><mo>+</mo><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>H</mtext><mo>&#x2229;</mo><mtext>RH</mtext><mo stretchy="false">)</mo></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="15ex"/><mtable><mtr><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>30</mn></mrow><mrow><mn>148</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>0.8</mn><mo>+</mo><mfrac><mrow><mn>50</mn></mrow><mrow><mn>148</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>0.7</mn><mo>+</mo><mfrac><mrow><mn>68</mn></mrow><mrow><mn>148</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>0.75</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>55</mn></mrow><mrow><mn>74</mn></mrow></mfrac><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">0.743</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td>It often helps to write down which combinations you want.</td></tr>
+<tr><td><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>Science</mtext><mo>/</mo><mtext>right handed</mtext><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>S</mtext><mo>&#x2229;</mo><mtext>RH</mtext><mo stretchy="false">)</mo></mrow><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>RH</mtext><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mfrac><mrow><mn>30</mn></mrow><mrow><mn>148</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>0.8</mn></mrow><mrow><mfrac><mrow><mn>55</mn></mrow><mrow><mn>74</mn></mrow></mfrac></mrow></mfrac></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="35ex"/><mrow><mo>=</mo><mfrac><mrow><mn>12</mn></mrow><mrow><mn>55</mn></mrow></mfrac><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">0.218</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td>The words &#x201C;given that&#x201D; in the question tell you to use conditional probability.</td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="8">
+<Question>
+<p>Over a period of time, the number of people <i>x</i> leaving a hotel each morning was recorded. These data are summarised in the stem and leaf diagram below.</p>
+<p><table cellpadding="0" cellspacing="0">
+<col align="center" valign="top" width="50"/>
+<col align="center" valign="top" width="20"/>
+<col align="center" valign="top" width="20"/>
+<col align="center" valign="top" width="20"/>
+<col align="center" valign="top" width="20"/>
+<col align="center" valign="top" width="20"/>
+<col align="center" valign="top" width="20"/>
+<col align="center" valign="top" width="20"/>
+<col align="center" valign="top" width="20"/>
+<tbody>
+<tr><td style="border-bottom:1px solid black;border-right:1px solid black">Number leaving</td><td style="border-bottom:1px solid black;" colspan="5">3|2 means 32</td><td style="border-bottom:1px solid black;">&#x00A0;</td><td style="border-bottom:1px solid black;">&#x00A0;</td><td style="border-bottom:1px solid black;">Totals</td></tr>
+<tr><td style="border-right:1px solid black">2</td><td>7</td><td>9</td><td>9</td><td></td><td></td><td></td><td></td><td>(3)</td></tr>
+<tr><td style="border-right:1px solid black">3</td><td>2</td><td>2</td><td>3</td><td>5</td><td>6</td><td></td><td></td><td>(5)</td></tr>
+<tr><td style="border-right:1px solid black">4</td><td>0</td><td>1</td><td>4</td><td>8</td><td>9</td><td></td><td></td><td>(5)</td></tr>
+<tr><td style="border-right:1px solid black">5</td><td>2</td><td>3</td><td>3</td><td>6</td><td>6</td><td>6</td><td>8</td><td>(7)</td></tr>
+<tr><td style="border-right:1px solid black">6</td><td>0</td><td>1</td><td>4</td><td>5</td><td></td><td></td><td></td><td>(4)</td></tr>
+<tr><td style="border-right:1px solid black">7</td><td>2</td><td>3</td><td></td><td></td><td></td><td></td><td></td><td>(2)</td></tr>
+<tr><td style="border-right:1px solid black">8</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td>(1)</td></tr></tbody>
+</table></p>
+<p>For these data,</p>
+<p><b>a</b> write down the mode,</p>
+<p><b>b</b> find the values of the three quartiles.</p>
+<p>Given that &#x03A3;<i>x</i> = 1335 and &#x03A3;<i>x</i><sup>2</sup> = 71 801, find</p>
+<p><b>c</b> the mean and the standard deviation of these data.</p>
+<p>One measure of skewness is found using</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy="false">(</mo><mtext>mean</mtext><mo>&#x2212;</mo><mtext>mode</mtext><mo stretchy="false">)</mo></mrow><mrow><mtext>standard deviation</mtext></mrow></mfrac><mn>.</mn></mrow></math></p>
+<p><b>d</b> Evaluate this measure to show that these data are negatively skewed.</p>
+<p><b>e</b> Give two other reasons why these data are negatively skewed.</p>
+</Question><Solution>
+<p>
+<table>
+<col align="left" valign="top" width="390px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b> Mode is <b><u>56</u></b></td><td/></tr>
+<tr><td><b>b</b>&#x00A0;<i>Q</i><sub>1</sub> is the <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>27</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>6.75</mn></mrow></math> which rounds up to 7<sup>th</sup> term <i>Q</i><sub>1</sub> = <b><u>35</u></b></td><td rowspan="2">Rounding needs to be used as the data is discrete</td></tr>
+<tr><td><i>Q</i><sub>2</sub> is the <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>27</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>13.5</mn></mrow></math> which rounds up to 14<sup>th</sup> term <i>Q</i><sub>2</sub> = <b><u>52</u></b></td></tr>
+<tr><td><i>Q</i><sub>3</sub> is the <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>27</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>20.25</mn></mrow></math> which rounds up to 21<sup>st</sup> term <i>Q</i><sub>3</sub> = <b><u>60</u></b></td><td/></tr>
+<tr><td><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>1335</mn></mrow><mrow><mn>27</mn></mrow></mfrac><mo>=</mo><mn>49.</mn><mover accent='true'><mn>4</mn><mo>&#x02D9;</mo></mover><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><munder accentunder='true'><mrow><mn fontweight="bold">49</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mfrac><mn>4</mn><mrow><munder accentunder='true'><mn>9</mn><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mfrac></mrow></math></td><td>Using <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><mi>x</mi></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac></mrow></math></td></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>71801</mn></mrow><mrow><mn>27</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>1335</mn></mrow><mrow><mn>27</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">14.6</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td>Using <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msqrt><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><mi>x</mi></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt></mrow></math></td></tr>
+<tr><td><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mn>3</mn><mo>(</mo><mn>49.4</mn><mo>&#x2212;</mo><mn>56</mn><mo>)</mo></mrow><mrow><mn>14.6</mn></mrow></mfrac><mo>=</mo><mo>&#x2212;</mo><munder accentunder='true'><mn fontweight="bold">1.356</mn><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td/></tr>
+<tr><td><b>e</b> For negative skew;</td><td/></tr>
+<tr><td>Mean&#x003C;median&#x003C;mode (49.4 &#x003C; 52 &#x003C; 56)<br/><i>Q</i><sub>2</sub> &#x2212; <i>Q</i><sub>1</sub> (17) &#x003E; <i>Q</i><sub>3</sub> &#x2212; <i>Q</i><sub>2</sub> (8)<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy="false">(</mo><mn>49.4</mn><mo>&#x2212;</mo><mn>52</mn><mo stretchy="false">)</mo></mrow><mrow><mn>14.6</mn></mrow></mfrac><mo>=</mo><mo>&#x2212;</mo><mn>0.534</mn></mrow></math></td>
+<td>Any 2 of these would be acceptable but you should put the figures as well as the reason to show skew. Simply stating for example mean &#x003C; median &#x003C; mode is not enough.</td></tr></tbody></table>
+</p>
+</Solution>
+</QuestionData>
+<QuestionData number="9">
+<Question>
+<p>A bag contains nine blue balls and three red balls. A ball is selected at random from the bag and its colour is recorded. The ball is not replaced. A second ball is selected at random and its colour is recorded.</p>
+<p><b>a</b> Draw a tree diagram to represent the information.</p>
+<p>Find the probability that</p>
+<p><b>b</b> the second ball selected is red,</p>
+<p><b>c</b> both balls selected are red, given that the second ball selected is red.</p>
+</Question><Solution>
+<p><table>
+<col align="left" valign="top" width="375px"/>
+<col align="left" valign="middle"/>
+<tbody>
+<tr><td><b>a</b><br/> <img src="images\S1F052.jpg"/></td><td>Remember to label all the branches and put all the probabilities on.</td></tr>
+<tr><td><b>b</b> P(Second ball is red) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mo>=</mo><mrow><mfrac><mn>9</mn><mrow><mn>12</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>3</mn><mrow><mn>11</mn></mrow></mfrac><mo>+</mo><mfrac><mn>3</mn><mrow><mn>12</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>2</mn><mrow><mn>11</mn></mrow></mfrac></mrow></math></td><td>It often helps to write down which combinations you want.</td></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="21ex"/><mrow><mo>=</mo><munder accentunder='true'><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">4</mn></mfrac></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr>
+<tr><td><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>P(Both are red &#x007C; Second ball is red)</mtext><mo>=</mo><mrow><mfrac><mrow><mfrac><mn>3</mn><mrow><mn>12</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>2</mn><mrow><mn>11</mn></mrow></mfrac></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfrac><mo>=</mo><munder accentunder='true'><mrow><mfrac><mn fontweight="bold">2</mn><mrow><mn fontweight="bold">11</mn></mrow></mfrac></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mrow></math></td><td>The words &#x201C;given that&#x201D; in the question tell you to use conditional probability.</td></tr>
+</tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="10">
+<Question>
+<p>For the events <i>A</i> and <i>B</i>,</p>
+<p>P(<i>A</i> &#x2229; <i>B</i>&#x2032;) = 0.32, P(<i>A</i>&#x2032; &#x2229; <i>B</i>) = 0.11 and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0.65</mn></mrow></math>.</p>
+<p><b>a</b> Draw a Venn diagram to illustrate the complete sample space for the events <i>A</i> and <i>B</i>.</p>
+<p><b>b</b> Write down the value of P(<i>A</i>) and the value of P(<i>B</i>).</p>
+<p><b>c</b> Find P(<i>A</i>|<i>B</i>&#x2032;).</p>
+<p><b>d</b> Determine whether or not <i>A</i> and <i>B</i> are independent.</p>
+</Question><Solution>
+<p><table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi mathvariant="normal">P</mi><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mi mathvariant="normal">P</mi><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy='false'>)</mo><mo>+</mo><mi mathvariant="normal">P</mi><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>&#x2212;</mo><mi mathvariant="normal">P</mi><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math></td><td/></tr>
+<tr><td>0.65 = 0.32 + 0.11 + P(<i>A</i> &#x2229; <i>B</i>)</td><td/></tr>
+<tr><td>P(<i>A</i> &#x2229; <i>B</i>) = 0.22</td><td/></tr>
+<tr><td>1 &#x2212; 0.32 &#x2212; 0.22 &#x2212; 0.11 = 0.35</td><td/></tr>
+<tr><td><img src="images\S1F053.jpg"/></td><td>When drawing a Venn diagram remember to draw a rectangle around the circles and add the probability 0.35.</td></tr>
+<tr><td><b>b</b> P(<i>A</i>) = 0.32 + 0.22 = <b><u>0.54</u></b></td><td/></tr>
+<tr><td>P(<b><i>B</i></b>) = <b><u>0.33</u></b></td><td/></tr>
+<tr><td><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo>&#x2223;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy="false">)</mo></mrow><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>0.32</mn></mrow><mrow><mn>0.67</mn></mrow></mfrac><mo>=</mo><munder accentunder='true'><mrow><mfrac><mrow><mn fontweight="bold">32</mn></mrow><mrow><mn fontweight="bold">67</mn></mrow></mfrac></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td>The words &#x201C;given that&#x201D; in the question tell you to use conditional probability.</td></tr>
+<tr><td><b>d</b> For independence P(<i>A</i> &#x2229; <i>B</i>) = P(<i>A</i>)P(<i>B</i>)</td><td/></tr>
+<tr><td>For these data 0.22 &#x02260; 0.54 &#x00D7; 0.33 = 0.1782</td><td/></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>&#x2234;</mo></mrow></math> NOT independent</td><td/></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="11">
+<Question>
+<p><b>a</b> Describe the main features and uses of a box plot.</p>
+<p>Children from schools <i>A</i> and <i>B</i> took part in a fun run for charity. The times, to the nearest minute, taken by the children from school <i>A</i> are summarised in Figure 1.</p>
+<p><img src="images/S1F182.jpg"/></p>
+<p><b>bi</b> Write down the time by which 75% of the children in school <i>A</i> had completed the run.</p>
+<p><b>ii</b> State the name given to this value.</p>
+<p><b>c</b> Explain what you understand by the two crosses (&#x00D7;) on Figure 1.</p>
+<p>For school <i>B</i> the least time taken by any of the children was 25 minutes and the longest time was 55 minutes.</p>
+<p>The three quartiles were 30, 37 and 50 respectively.</p>
+<p><b>d</b> On graph paper, draw a box plot to represent the data from school <i>B</i>.</p>
+<p><b>e</b> Compare and contrast these two box plots.</p>
+</Question><Solution>
+<p><b>a</b> Indicates max/median/min/upper quartile/lower quartile</p>
+<p>Indicates outliers</p>
+<p>Indicates skewness</p>
+<p>Allows comparisons</p>
+<p>Indicates range / IQR/ spread</p>
+<p><b>bi</b> 37 minutes</p>
+<p><b>ii</b> Upper quartile /third quartile /75<sup>th</sup> percentile</p>
+<p>
+<table>
+<col align="left" valign="top" width="320px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>c</b> Outliers</td><td/></tr>
+<tr><td morerows="1">Observations that are different from the other observations and need to be treated with caution.</td></tr>
+<tr><td>These two children probably walked/ took a lot longer.</td><td/></tr>
+<tr><td><b>d</b> IQR = 20</td><td rowspan="3">You must always check for outliers before drawing a box plot. Show your working and state what the outliers are if there are any. Or say no outliers if there are none.</td></tr>
+<tr><td>Q<sub>1</sub> &#x2212; 1.5 &#x00D7; 20 = 0 therefore no outliers</td></tr>
+<tr><td>Q<sub>3</sub> + 1.5 &#x00D7; 20 = 80 therefore no outliers</td></tr>
+<tr><td><img src="images\S1F054.jpg"/></td><td>Use the same scale as the one in the question so they are easy to compare. As there are no outliers you must use the highest and lowest values for the end of the whiskers.</td></tr>
+<tr><td><b>e</b> Children from school A generally took less time.</td><td rowspan="6">You should always try to compare a measure of location, a measure of spread and skewness. Doing say the IQR and range will be treated as one comparison not two</td></tr>
+<tr><td>50% of B &#x2264; 37 mins, 75% of A &#x003C; 37 mins (similarly for 30)</td></tr>
+<tr><td>Median of A &#x003C; median of B</td></tr>
+<tr><td>A has outliers, (B does not)</td></tr>
+<tr><td>Both positive skew</td></tr>
+<tr><td>IQR of A &#x003C; IQR of B, range of A &#x003E; range of B</td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="12">
+<Question>
+<p>Sunita and Shelley talk to each other once a week on the telephone. Over many weeks they recorded, to the nearest minute, the number of minutes spent in conversation on each occasion. The following table summarises their results.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><b>Time (to the nearest minute)</b></td><td><b>Number of conversations</b></td></tr>
+<tr><td>5&#x2013;9</td><td>2</td></tr>
+<tr><td>10&#x2013;14</td><td>9</td></tr>
+<tr><td>15&#x2013;19</td><td>20</td></tr>
+<tr><td>20&#x2013;24</td><td>13</td></tr>
+<tr><td>25&#x2013;29</td><td>8</td></tr>
+<tr><td>30&#x2013;34</td><td>3</td></tr></tbody>
+</table></p>
+<p>Two of the conversations were chosen at random.</p>
+<p><b>a</b> Find the probability that both of them were longer than 24.5 minutes.</p>
+<p>The mid-point of each class was represented by <i>x</i> and its corresponding frequency by <i>f</i>, giving &#x03A3;<i>fx</i> = 1060.</p>
+<p><b>b</b> Calculate an estimate of the mean time spent on their conversations.</p>
+<p>During the following 25 weeks they monitored their weekly conversations and found that at the end of the 80 weeks their overall mean length of conversation was 21 minutes.</p>
+<p><b>c</b> Find the mean time spent in conversation during these 25 weeks.</p>
+<p><b>d</b> Comment on these two mean values.</p>
+</Question><Solution>
+<p>
+<table>
+<col align="left" valign="top" width="385px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>
+<b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>both longer than</mtext><mspace width="1ex"/><mn>24.5</mn><mo stretchy="false">)</mo><mo>=</mo><mrow><mfrac><mrow><mn>11</mn></mrow><mrow><mn>55</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>54</mn></mrow></mfrac></mrow></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="24.5ex"/><mrow><mo>=</mo><mfrac><mrow><mn fontweight="bold">1</mn></mrow><mrow><mn fontweight="bold">27</mn></mrow></mfrac><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mn>0.</mn><mover accent='true'><mn>0</mn><mo>&#x02D9;</mo></mover><mn>3</mn><mover accent='true'><mn>7</mn><mo>&#x02D9;</mo></mover><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mn>0.037</mn><mspace width="1ex"/><mtext>to</mtext><mspace width="1ex"/><mn>3</mn><mspace width="1ex"/><mtext>sf</mtext></mrow></math></td>
+<td>Note the numbers reduce in the fractions as they are different conversations</td></tr>
+
+<tr><td><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mtext>Estimate of mean time spent</mtext></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>on their conversations is</mtext><mo>=</mo><mfrac><mrow><mn>1060</mn></mrow><mrow><mn>55</mn></mrow></mfrac></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="21ex"/><mrow><mo>=</mo><mrow><mn fontweight="bold">19</mn><mfrac><mn fontweight="bold">3</mn><mrow><mn fontweight="bold">11</mn></mrow></mfrac></mrow><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mn>19.</mn><mover accent='true'><mn>2</mn><mo>&#x02D9;</mo></mover><mover accent='true'><mn>7</mn><mo>&#x02D9;</mo></mover></mrow></math></td><td/></tr>
+
+<tr><td><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mn>1060</mn><mo>+</mo><mo>&#x2211;</mo><mi>f</mi><mi>y</mi></mrow><mrow><mn>80</mn></mrow></mfrac><mo>=</mo><mn>21</mn></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="6ex"/><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><mi>y</mi><mo>=</mo><mn>620</mn></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>y</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mfrac><mrow><mn>620</mn></mrow><mrow><mn>25</mn></mrow></mfrac><mo>=</mo><munder accentunder='true'><mn fontweight="bold">24.8</mn><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td>
+
+<td>Using <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mtext>total time</mtext></mrow><mrow><mtext>total number</mtext></mrow></mfrac></mrow></math></td></tr>
+<tr><td><b>d</b> Increase in mean value.</td><td/></tr>
+<tr><td>Length of conversations increased considerably during the 25 weeks relative to the 55 weeks.</td><td>You need to put your comment in the context of the question</td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="13">
+<Question>
+<p>A group of 100 people produced the following information relating to three attributes. The attributes were wearing glasses, being left-handed and having dark hair.</p>
+<p>Glasses were worn by 36 people, 28 were left-handed and 36 had dark hair. There were 17 who wore glasses and were left-handed, 19 who wore glasses and had dark hair and 15 who were left-handed and had dark hair. Only 10 people wore glasses, were left-handed and had dark hair.</p>
+<p><b>a</b> Represent these data on a Venn diagram.</p>
+<p>A person was selected at random from this group.</p>
+<p>Find the probability that this person</p>
+<p><b>b</b> wore glasses but was not left-handed and did not have dark hair,</p>
+<p><b>c</b> did not wear glasses, was not left-handed and did not have dark hair,</p>
+<p><b>d</b> had only two of the attributes,</p>
+<p><b>e</b> wore glasses given they were left-handed and had dark hair.</p>
+</Question><Solution>
+<p>
+<table><col align="left" valign="top" width="350px"/>
+<col align="left" valign="middle"/>
+<tbody>
+<tr><td><b>a</b> <img src="images\S1F055.jpg"/></td><td>Start in the middle of the Venn diagram and work outwards. Remember the rectangle and those not in any of the circles. Your numbers should total 100.</td></tr>
+<tr><td><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>G</mi><mn>,</mn><mover accent='true'><mrow><mi>L</mi></mrow><mo stretchy='true'>&#x00AF;</mo></mover><mn>,</mn><mover accent='true'><mi>D</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>=</mo><mfrac><mn fontweight="bold">1</mn><mrow><munder accentunder='true'><mrow><mn fontweight="bold">10</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mfrac></mrow></math></td><td/></tr>
+<tr><td><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mover accent='true'><mi>G</mi><mo stretchy='true'>&#x00AF;</mo></mover><mn>,</mn><mover accent='true'><mrow><mi>L</mi></mrow><mo stretchy='true'>&#x00AF;</mo></mover><mn>,</mn><mover accent='true'><mi>D</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn fontweight="bold">41</mn></mrow><mrow><munder accentunder='true'><mrow><mn fontweight="bold">100</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mfrac></mrow></math></td><td/></tr>
+<tr><td><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>Only two attributes</mtext><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>9</mn><mo>+</mo><mn>7</mn><mo>+</mo><mn>5</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn fontweight="bold">21</mn></mrow><mrow><munder accentunder='true'><mrow><mn fontweight="bold">100</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mfrac></mrow></math></td><td/></tr>
+<tr><td><b>e</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>G</mi><mo>&#x2223;</mo><mi>L</mi><mo>&#x0026;</mo><mi>D</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>G</mi><mo>&#x2223;</mo><mi>L</mi><mo>&#x0026;</mo><mi>D</mi><mo stretchy="false">)</mo></mrow><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>L</mi><mo>&#x2223;</mo><mi>D</mi><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mfrac><mrow><mn>10</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>15</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>15</mn></mrow></mfrac><mo>=</mo><mfrac><mn fontweight="bold">2</mn><mrow><munder accentunder='true'><mn fontweight="bold">3</mn><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mfrac></mrow></math></td><td>The words &#x201C;given that&#x201D; in the question tell you to use conditional probability.</td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="14">
+<Question>
+<p>A survey of the reading habits of some students revealed that, on a regular basis, 25% read quality newspapers, 45% read tabloid newspapers and 40% do not read newspapers at all.</p>
+<p><b>a</b> Find the proportion of students who read both quality and tabloid newspapers.</p>
+<p><b>b</b> Draw a Venn diagram to represent this information.</p>
+<p>A student is selected at random. Given that this student reads newspapers on a regular basis,</p>
+<p><b>c</b> find the probability that this student only reads quality newspapers.</p>
+</Question><Solution>
+<p>
+<table>
+<col align="left" valign="top" width="275px"/>
+ <col align="left" valign="top"/>
+ <tbody>
+<tr><td><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>Q</mi><mo>&#x222A;</mo><mi>T</mi><mo stretchy="false">)</mo><mo>=</mo><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>Q</mi><mo stretchy="false">)</mo><mo>+</mo><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>T</mi><mo stretchy="false">)</mo><mo>&#x2212;</mo><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>Q</mi><mo>&#x2229;</mo><mi>T</mi><mo stretchy="false">)</mo></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mn>0.6</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.25</mn><mo>+</mo><mn>0.45</mn><mo>&#x2212;</mo><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>Q</mi><mo>&#x2229;</mo><mi>T</mi><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>Q</mi><mo>&#x2229;</mo><mi>T</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">0.1</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td/></tr>
+
+<tr><td rowspan="2"><b>b</b> <img src="images\S1F056.jpg"/></td><td>When drawing a Venn diagram remember to draw a rectangle around the circles and add the probability 0.4.</td></tr>
+<tr><td>Remember it is the total in circle A = 0.25 and the total in circle B = 0.45.</td></tr>
+<tr><td><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>Q</mi><mo>&#x2229;</mo><msup><mi>T</mi><mo>&#x0027;</mo></msup><mo stretchy="false">&#x007C;</mo><mi>Q</mi><mo>&#x222A;</mo><mi>T</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>0.15</mn></mrow><mrow><mn>0.6</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">0.25</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td>The words &#x201C;given that&#x201D; in the question tell you to use conditional probability.</td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="15">
+<Question>
+<p>Figure 2 shows a histogram for the variable <i>t</i> which represents the time taken, in minutes, by a group of people to swim 500 m.</p>
+<p><img src="images/S1F183.jpg"/></p>
+<p><b>a</b> Copy and complete the frequency table for <i>t</i>.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><b><i>t</i></b></td><td>5&#x2013;10</td><td>10&#x2013;14</td><td>14&#x2013;18</td><td>18&#x2013;25</td><td>25&#x2013;40</td></tr>
+<tr><td><b>Frequency</b></td><td>10</td><td>16</td><td>24</td><td></td><td></td></tr></tbody>
+</table></p>
+<p><b>b</b> Estimate the number of people who took longer than 20 minutes to swim 500 m.</p>
+<p><b>c</b> Find an estimate of the mean time taken.</p>
+<p><b>d</b> Find an estimate for the standard deviation of <i>t</i>.</p>
+<p><b>e</b> Find the median and quartiles for <i>t</i>.</p>
+<p>One measure of skewness is found using</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy="false">(</mo><mtext>mean</mtext><mo>&#x2212;</mo><mtext>median</mtext><mo stretchy="false">)</mo></mrow><mrow><mtext>standard deviation</mtext></mrow></mfrac></mrow></math></p>
+<p><b>f</b> Evaluate this measure and describe the skewness of these data.</p>
+</Question><Solution>
+<p>
+<table>
+<col align="left" valign="top" width="275px"/>
+ <col align="left" valign="top"/>
+ <tbody>
+<tr><td><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mn>18</mn><mo>&#x2013;</mo><mn>25</mn><mspace width="1ex"/><mtext>group, area</mtext><mo>=</mo><mn>7</mn><mo>&#x00D7;</mo><mn>5</mn><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">35</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>25</mn><mo>&#x2013;</mo><mn>40</mn><mtext>group, area</mtext><mo>=</mo><mn>15</mn><mo>&#x00D7;</mo><mn>1</mn><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">15</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td>Check the bars given to see whether the area equals the frequency or is proportional to the frequency. Here it equals the frequency.</td></tr>
+<tr><td><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mo stretchy="false">(</mo><mn>25</mn><mo>&#x2212;</mo><mn>20</mn><mo stretchy="false">)</mo><mo>&#x00D7;</mo><mn>5</mn><mo>+</mo><mo stretchy="false">(</mo><mn>40</mn><mo>&#x2212;</mo><mn>25</mn><mo stretchy="false">)</mo><mo>&#x00D7;</mo><mn>1</mn><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">40</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td>Calculatimg the area on the histogram for time &#x003E; 20</td></tr>
+<tr><td><b>c</b> Mid points are 7.5, 12, 16, 21.5, 32.5</td><td/></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><mo>=</mo><mn>100</mn></mrow></math></td><td>The word estimate is used in the question when the midpoints are used to calculate the mean and standard deviation.</td></tr>
+<tr><td colspan="2"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><mi>t</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mo stretchy="false">(</mo><mn>10</mn><mo>&#x00D7;</mo><mn>7.5</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>16</mn><mo>&#x00D7;</mo><mn>12</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>24</mn><mo>&#x00D7;</mo><mn>16</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>35</mn><mo>&#x00D7;</mo><mn>21.5</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>15</mn><mo>&#x00D7;</mo><mn>32.5</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>1891</mn></mrow></mtd></mtr></mtable></math></td></tr>
+<tr><td colspan="2"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><mi>t</mi></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1891</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">18.91</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr>
+<tr><td colspan="2"><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><msup><mi>t</mi><mn>2</mn></msup><mo>=</mo><mo stretchy="false">(</mo><mn>10</mn><mo>&#x00D7;</mo><msup><mrow><mn>7.5</mn></mrow><mn>2</mn></msup><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>16</mn><mo>&#x00D7;</mo><msup><mrow><mn>12</mn></mrow><mn>2</mn></msup><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>24</mn><mo>&#x00D7;</mo><msup><mrow><mn>16</mn></mrow><mn>2</mn></msup><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>35</mn><mo>&#x00D7;</mo><msup><mrow><mn>21.5</mn></mrow><mn>2</mn></msup><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>15</mn><mo>&#x00D7;</mo><msup><mrow><mn>32.5</mn></mrow><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mn>41033</mn></mrow></math></td></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>&#x03C3;</mi><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>41033</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>1891</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">7.26</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td><td>Using <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msqrt><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi><mi>x</mi></mrow><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>f</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt></mrow></math></td></tr>
+<tr><td rowspan="2"><b>e</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="4ex"/><mrow><msub><mi>Q</mi><mn>2</mn></msub><mspace width="1ex"/><mtext>is the</mtext><mspace width="1ex"/><mfrac><mrow><mn>100</mn></mrow><mn>2</mn></mfrac><mo>=</mo><msup><mrow><mn>50</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>term</mtext></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>2</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">18</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>1</mn></msub><mspace width="1ex"/><mtext>is the</mtext><mspace width="1ex"/><mfrac><mrow><mn>100</mn></mrow><mn>4</mn></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><msup><mrow><mn>25</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>term</mtext></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>&#x2212;</mo><mn>10</mn></mrow><mrow><mn>14</mn><mo>&#x2212;</mo><mn>10</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>25</mn><mo>&#x2212;</mo><mn>10</mn></mrow><mrow><mn>26</mn><mo>&#x2212;</mo><mn>10</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>Q</mi><mn>1</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">13.75</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>3</mn></msub><mspace width="1ex"/><mtext> is the</mtext><mspace width="1ex"/><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>100</mn></mrow><mn>4</mn></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><msup><mrow><mn>75</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>term</mtext></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>&#x2212;</mo><mn>18</mn></mrow><mrow><mn>25</mn><mo>&#x2212;</mo><mn>18</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>75</mn><mo>&#x2212;</mo><mn>50</mn></mrow><mrow><mn>85</mn><mo>&#x2212;</mo><mn>50</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>3</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">23</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td>
+<td>No Rounding is needed when calculating the quartiles etc as the data is grouped.<br/>
+The 50<sup>th</sup> term is at the end of the 14 &#x2212; 18 class so it is 18 as there are no gaps in the classes</td></tr>
+<tr><td><b>f</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mn>3</mn><mo stretchy="false">(</mo><mn>18.91</mn><mo>&#x2212;</mo><mn>18</mn><mo stretchy="false">)</mo></mrow><mrow><mn>7.26</mn></mrow></mfrac><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">0.376</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mtext>therefore it is positive skew</mtext></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="16">
+<Question>
+<p>A company assembles drills using components from two sources. Goodbuy supplies 85% of the components and Amart supplies the rest. It is known that 3% of the components supplied by Goodbuy are faulty and 6% of those supplied by Amart are faulty.</p>
+<p><b>a</b> Represent this information on a tree diagram.</p>
+<p>An assembled drill is selected at random.</p>
+<p><b>b</b> Find the probability that it is not faulty.</p>
+</Question><Solution>
+<p>
+<table>
+<col align="left" valign="top" width="320px"/>
+<col align="left" valign="middle"/>
+<tbody>
+<tr><td><b>a</b> <img src="images\S1F057.jpg"/></td><td>Remember to label all the branches and put all the probabilities on.</td></tr>
+<tr><td><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>Not faulty</mtext><mo stretchy="false">)</mo><mo>=</mo><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mtext>G</mtext><mo>&#x2229;</mo><mtext>NF</mtext><mo stretchy="false">)</mo><mo>+</mo><mi mathvariant="normal">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo>&#x2229;</mo><mtext>NF</mtext><mo stretchy="false">)</mo></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="13.2ex"/><mtable><mtr><mtd columnalign="left"><mrow><mo>=</mo><mo stretchy="false">(</mo><mn>0.85</mn><mo>&#x00D7;</mo><mn>0.97</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>0.15</mn><mo>&#x00D7;</mo><mn>0.94</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">0.9655</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td>It often helps to write down which combinations you want.</td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="17">
+<Question>
+<p>Data is coded using <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>120</mn></mrow><mn>5</mn></mfrac></mrow></math>. The mean of the coded data is 24 and the standard deviation is 2.8. Find the mean and the standard deviation of the original data.</p>
+</Question><Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>120</mn></mrow><mn>5</mn></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>24</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>x</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>240</mn><mspace width="1ex"/><mtext>therefore mean</mtext><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">240</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>standard deviation</mtext></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>2.8</mn><mo>&#x00D7;</mo><mn>5</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">14</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></p>
+
+</Solution></QuestionData>
+
+</Exercise>
+</Chapter></Section></Unit></SubjectArea></ProductTitle></ExamBoard></Level></Subject></Harcourt>

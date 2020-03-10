@@ -1,0 +1,482 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='followme 24' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='input'/>
+    <active-option view-id='input' option-id='input.paired.1'/>
+    <active-option view-id='solution' option-id='solution'/>
+  </gui-settings>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>30</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>15</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>4</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>12</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>3</mn>
+      <mn>4</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>8</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>6</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>5</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>14</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>7</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>3</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>24</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>8</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>3</mn>
+      <mn>4</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>12</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>9</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>2</mn>
+      <mn>7</mn>
+    </mfrac>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>35</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>10</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>2</mn>
+      <mn>9</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>18</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>4</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>6</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>30</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>5</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>4</mn>
+      <mn>5</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>30</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>24</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>3</mn>
+      <mn>4</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>28</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>21</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>2</mn>
+      <mn>3</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>24</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>16</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>52</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>26</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>9</mn>
+      <mn>10</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>30</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>27</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>3</mn>
+      <mn>7</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>70</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>30</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>5</mn>
+      <mn>12</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>48</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>20</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>2</mn>
+      <mn>3</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>27</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>18</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>4</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>88</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>22</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>3</mn>
+      <mn>5</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>20</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>12</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>3</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>69</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>23</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>3</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>84</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>28</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>26</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>13</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>5</mn>
+      <mn>8</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>40</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>25</mn>
+  </mrow>
+</math>
+  </eqnpair>
+</eqnpairs>

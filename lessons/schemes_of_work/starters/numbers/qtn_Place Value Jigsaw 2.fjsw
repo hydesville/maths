@@ -1,0 +1,586 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='standard hexagonal jigsaw 30' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='solution'/>
+    <active-option view-id='input' option-id='input.paired.30'/>
+    <active-option view-id='output' option-id='output.normal size'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>53</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>5</mn>
+    <mo>.</mo>
+    <mn>3</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>530</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mn>1000</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>53</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>53</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>53</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>0053</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>053</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>530000</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>5300</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>5300</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>1</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>530</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>6</mn>
+    <mo>.</mo>
+    <mn>83</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>683</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>683</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>01</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>6</mn>
+    <mo>.</mo>
+    <mn>83</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>6830</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>01</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>68</mn>
+    <mo>.</mo>
+    <mn>3</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>68</mn>
+    <mo>.</mo>
+    <mn>3</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>683</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>68</mn>
+    <mo>.</mo>
+    <mn>3</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>001</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>0683</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>6</mn>
+    <mo>.</mo>
+    <mn>83</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>001</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>6830</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mo>.</mo>
+    <mn>002</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>1000</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3002</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>30</mn>
+    <mo>.</mo>
+    <mn>02</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>3002</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>3002</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>30</mn>
+    <mo>.</mo>
+    <mn>02</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>03002</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>01</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mo>.</mo>
+    <mn>002</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>30020</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>01</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>300</mn>
+    <mo>.</mo>
+    <mn>2</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>26</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>20</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1</mn>
+    <mo>.</mo>
+    <mn>3</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>530</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>200</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mo>.</mo>
+    <mn>65</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>54</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>200</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>108</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mo>.</mo>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>50</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>160</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>06</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>2000</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>120</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>5200</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>50</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>104</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>48</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>2</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>9</mn>
+    <mo>.</mo>
+    <mn>6</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>64</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>2</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>320</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>48</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>480</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>900</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>1000</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>9</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>01</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>74</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&times;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>3</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>22</mn>
+    <mo>.</mo>
+    <mn>2</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>800</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&divide;</mo>
+    <mtext>&nbsp;</mtext>
+    <mn>40</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>20</mn>
+  </mrow>
+</math>
+  </eqnpair>
+</eqnpairs>

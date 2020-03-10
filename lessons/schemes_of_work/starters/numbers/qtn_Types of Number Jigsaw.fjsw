@@ -1,0 +1,677 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='standard hexagonal jigsaw 30' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='output'/>
+    <active-option view-id='input' option-id='input.paired.25'/>
+    <active-option view-id='output' option-id='output.normal size'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">Prime</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">Factorisation</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>140</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>2</mn>
+        <mtext>²</mtext>
+        <mi mathvariant="italic">x5x7</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">Prime</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">factorisation</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>54</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>2</mn>
+        <mtext>&nbsp;</mtext>
+        <mi>x</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>3</mn>
+        <mtext>³</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">Multiple</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>54</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>864</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">Factor</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>1728</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>864</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">Multiple</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>7</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>427</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">Factor</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>870</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>174</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">HCF</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>120</mn>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">and</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>72</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>6</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">LCM</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>120</mn>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">and</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>72</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>1440</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">Prime</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">factorisation</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>1530</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>2</mn>
+        <mi mathvariant="italic">x3</mi>
+        <mtext>²</mtext>
+        <mi mathvariant="italic">x5x17</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>How</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>many</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>factors</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>does</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>240</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>have</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>20</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>How</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>many</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>factors</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>does</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>150</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>have</mi>
+    <mo>?</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>12</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>What</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>is</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>24</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>in</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>prime</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>factor</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>form</mi>
+    <mo>?</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mtext>³</mtext>
+    <mi mathvariant = 'italic'>x3</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>What</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>is</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>HCF</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>12</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>16</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>4</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>What</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>is</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>HCF</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>16</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>18</mn>
+    <mo>?</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>What</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>is</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>HCF</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>14</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>42</mn>
+    <mo>?</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>14</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>What</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>is</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>HCF</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>20</mn>
+    <mo>,</mo>
+    <mn>30</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>40</mn>
+    <mo>?</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>10</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>Find</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>LCM</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;&nbsp;</mtext>
+    <mn>24</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>36</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>72</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>Find</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>LCM</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>15</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>20</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>60</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>Prime</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>Factorisation</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>1615</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>17</mn>
+    <mi mathvariant = 'italic'>x19x5</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>Prime</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>Factorisation</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>1080</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mtext>³</mtext>
+    <mi mathvariant = 'italic'>x3</mi>
+    <mtext>³</mtext>
+    <mi mathvariant = 'italic'>x5</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>HCF</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x3</mi>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x5</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mi mathvariant = 'italic'>x3</mi>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x7</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>18</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>LCM</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x3</mi>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x5</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mi mathvariant = 'italic'>x3</mi>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x7</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1260</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>HCF</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mi mathvariant = 'italic'>x3</mi>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x5x17</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mi mathvariant = 'italic'>x3</mi>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x5x11</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>90</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>LCM</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mi mathvariant = 'italic'>x3</mi>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x5x17</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mi mathvariant = 'italic'>x3</mi>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x5x11</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>16830</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>HCF</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mi mathvariant = 'italic'>x3x5</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x3x7</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>6</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>LCM</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>of</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mi mathvariant = 'italic'>x3x5</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>and</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mtext>²</mtext>
+    <mi mathvariant = 'italic'>x3x7</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>420</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>5</mn>
+    <mtext>³</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>125</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mroot>
+      <mn>343</mn>
+      <mn>3</mn>
+    </mroot>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>7</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <msup>
+      <mn>18</mn>
+      <mn>5</mn>
+    </msup>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1889568</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mroot>
+      <mn>6561</mn>
+      <mn>4</mn>
+    </mroot>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>9</mn>
+  </mrow>
+</math>
+  </eqnpair>
+</eqnpairs>

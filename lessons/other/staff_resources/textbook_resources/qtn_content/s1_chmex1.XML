@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+<Subject type="Mathematics">
+<Level age="">
+<ExamBoard title="AandAS">
+<ProductTitle name="Solutionbank">
+<SubjectArea name="Statistics" abbrev="S">
+<Unit number="1">
+<Section>
+<Chapter number="" title="Examination style paper">
+<Exercise letter="A"><p><b>Examination style paper</b></p>
+<QuestionData number="1">
+<Question>
+<p><b>1</b> A fair die has six faces numbered 1, 1, 1, 2, 2 and 3. The die is rolled twice and the number showing on the uppermost face is recorded.</p>
+<p>
+<table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td>Find the probability that the sum of the two numbers is at least three.</td><td>(5)</td></tr></table></p>
+</Question>
+<Solution><p><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody><tr><td>
+<table border="1" cellpadding="3" cellspacing="0">
+<col width="35px" align="center"/>
+<col width="35px" align="center"/>
+<col width="35px" align="center"/>
+<col width="35px" align="center"/>
+<col width="35px" align="center"/>
+<col width="35px" align="center"/>
+<col width="35px" align="center"/>
+<tbody>
+<tr><td><b>3</b></td><td><u><i>4</i></u></td><td><u><i>4</i></u></td><td><u><i>4</i></u></td><td><u><i>5</i></u></td><td><u><i>5</i></u></td><td><u><i>6</i></u></td></tr>
+<tr><td><b>2</b></td><td><u><i>3</i></u></td><td><u><i>3</i></u></td><td><u><i>3</i></u></td><td><u><i>4</i></u></td><td><u><i>4</i></u></td><td><u><i>5</i></u></td></tr>
+<tr><td><b>2</b></td><td><u><i>3</i></u></td><td><u><i>3</i></u></td><td><u><i>3</i></u></td><td><u><i>4</i></u></td><td><u><i>4</i></u></td><td><u><i>5</i></u></td></tr>
+<tr><td><b>1</b></td><td>2</td><td>2</td><td>2</td><td><u><i>3</i></u></td><td><u><i>3</i></u></td><td><u><i>4</i></u></td></tr>
+<tr><td><b>1</b></td><td>2</td><td>2</td><td>2</td><td><u><i>3</i></u></td><td><u><i>3</i></u></td><td><u><i>4</i></u></td></tr>
+<tr><td><b>1</b></td><td>2</td><td>2</td><td>2</td><td><u><i>3</i></u></td><td><u><i>3</i></u></td><td><u><i>4</i></u></td></tr>
+<tr><td><b>Second First</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>2</b></td><td><b>2</b></td><td><b>3</b></td></tr></tbody></table></td><td>The easiest solution involves drawing a diagram to represent the sample space. Each square is the sum of the scores on the die. The first method mark is for attempting the diagram and the second is an accuracy mark for all the values correct.<br/>Each of the values that are &#x2018;at least 3&#x2019; are underlined; 3, 4, 5 &#x0026; 6.<br/>M1A1A1</td></tr></tbody></table></p>
+<p><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td ><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Sum at least</mtext><mspace width="1ex"/><mn>3</mn><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>27</mn></mrow><mrow><mn>36</mn></mrow></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></math></td><td>There are 27 values underlined and 36 values in the sample space. Then cancel the fraction.</td></tr>
+<tr><td></td><td>M1A1</td></tr></tbody></table></p>
+<p><b>ALTERNATIVE SOLUTION</b></p>
+<p><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>Let <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>D</mi><mn>1</mn></msub></mrow></math> = the number on the first die</td><td rowspan="1">This is a slightly quicker solution.</td></tr>
+<tr><td>and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>D</mi><mn>2</mn></msub></mrow></math> = the number on the second die</td></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mspace width="1ex"/><mtext>P</mtext><mo stretchy='false'>(</mo><msub><mi>D</mi><mn>1</mn></msub><mo>+</mo><msub><mi>D</mi><mn>2</mn></msub><mo>&#x2265;</mo><mn>3</mn><mo stretchy='false'>)</mo><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><msub><mi>D</mi><mn>1</mn></msub><mo>+</mo><msub><mi>D</mi><mn>2</mn></msub><mo>=</mo><mn>2</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow><mspace width="21.5ex"/><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><msub><mi>D</mi><mn>1</mn></msub><mo>=</mo><mn>1</mn><mspace width="1ex"/><mtext>and</mtext><mspace width="1ex"/><msub><mi>D</mi><mn>2</mn></msub><mo>=</mo><mn>1</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow><mspace width="21.5ex"/><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><msub><mi>D</mi><mn>1</mn></msub><mo>=</mo><mn>1</mn><mo stretchy='false'>)</mo><mo>&#x00D7;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><msub><mi>D</mi><mn>2</mn></msub><mo>=</mo><mn>1</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow><mspace width="7ex"/><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mtd></mtr><mtr><mtd><mrow><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mtd></mtr></mtable></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>D</mi><mo>=</mo><mn>1</mn><mo stretchy='false'>)</mo><mo>=</mo><mn>0.5</mn></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>D</mi><mn>1</mn></msub></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>D</mi><mn>2</mn></msub></mrow></math> are independent so the probabilities are multiplied together.</td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Jars are filled with jam by a machine. Each jar states it contains 450 g of jam.</p>
+<p>The actual weight of jam in each jar is normally distributed with mean 460 g and standard deviation of 10 g.</p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>a</b> Find the probability that a jar contains less then the stated weight of 450 g.</td><td>(3)</td></tr></table></p>
+<p>Jars are sold in boxes of 30.</p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>b</b> Find the expected number of jars containing less than the stated weight.</td><td>(2)</td></tr></table></p>
+<p> The standard deviation is still 10 g. The mean weight is changed so that 1% of the jars contain less than the stated weight of 450 g of jam.</p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>c</b> Find the new mean weight of jam.</td><td>(4)</td></tr></table></p>
+</Question>
+<Solution><p>(a) <table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo>&#x003C;</mo><mn>450</mn><mo stretchy='false'>)</mo></mrow><mo>=</mo><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>450</mn><mo>&#x2212;</mo><mn>460</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>1.0</mn><mo stretchy='false'>)</mo></mrow></math></td><td rowspan="2">Standardise by subtracting the mean and dividing by the standard deviation gets the first method mark and the z value of -1.0 gets the accuracy mark.</td></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.8413</mn><mo>=</mo><mn>0.1587</mn></mrow></math></td></tr></tbody></table></p>
+<p>(b) <table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>Expected number of jars = 30 &#x00D7; 0.1587</td><td></td></tr>
+<tr><td>= 4.761 or 4.76 or 4.8</td><td/></tr></tbody></table></p>
+<p>(c)<br/><table><col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody><tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="left"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo>&#x003C;</mo><mn>450</mn><mo stretchy='false'>)</mo><mo>=</mo><mn>0.01</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mfrac><mrow><mn>450</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mo>&#x2212;</mo><mn>2.3263</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mi>&#x03BC;</mi><mo>=</mo><mn>473.263</mn><mo>=</mo><mn>473</mn><mspace width="1ex"/><mtext>to</mtext><mspace width="1ex"/><mn>3</mn><mspace width="1ex"/><mtext>sf</mtext></mrow></mtd></mtr></mtable></mrow></math></td><td> Forming the correct equation with the new mean as an unknown gets the method and accuracy mark, the B mark is awarded for getting &#x2212;2.3263 from the tables</td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>A discrete random variable <i>X</i> has a probability distribution as shown in the table below</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>0</td><td>1</td><td>2</td><td>3</td></tr>
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td>0.2</td><td>0.3</td><td><i>b</i></td><td>2<i>a</i></td></tr>
+</tbody></table></p>
+<p>where <i>a</i> and b are constants.</p>
+<p>If E(<i>X</i>) = 1.6,</p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>a</b> show that <i>b</i> = 0.2 and find the value of <i>a</i>.</td><td>(5)</td></tr></table></p>
+<p>Find</p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>b</b> E(5 &#x2212; 2<i>X</i>),</td><td>(2)</td></tr></table></p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>c</b> Var(<i>X</i>),</td><td>(3)</td></tr></table></p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>d</b> Var(5 &#x2212; 2<i>X</i>).</td><td>(2)</td></tr></table></p>
+</Question>
+<Solution>
+<p>(a)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>0.5</mn><mo>+</mo><mi>b</mi><mo>+</mo><mn>2</mn><mi>a</mi><mo>=</mo><mn>1</mn></mrow></math></td><td>Remember that adding all the probabilities together equals 1.</td></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>0.3</mn><mo>+</mo><mn>2</mn><mi>b</mi><mo>+</mo><mn>6</mn><mi>a</mi></mrow><mo>=</mo><mrow><mn>1.6</mn></mrow></math></td><td rowspan="3">The second equation is formulated from the value of the expectation. Multiply the values of <i>X</i> by the associated probabilities and equate to 1.6.</td></tr>
+<tr><td>Solving</td></tr>
+<tr><td><i>a</i> = 0.15, <i>b</i> = 0.2</td></tr></tbody></table></p>
+<p>(b)<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mtext>E</mtext><mo stretchy='false'>(</mo><mn>5</mn><mo>&#x2212;</mo><mn>2</mn><mi>X</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>5</mn><mo>&#x2212;</mo><mn>2</mn><mtext>E</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>5</mn><mo>&#x2212;</mo><mn>2</mn><mo>&#x00D7;</mo><mn>1.6</mn><mo>=</mo><mn>1.8</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+<p>(c)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>Var</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd><mrow><mo>=</mo><msup><mn>1</mn><mn>2</mn></msup><mo>&#x00D7;</mo><mn>0.3</mn><mo>+</mo><msup><mn>2</mn><mn>2</mn></msup><mo>&#x00D7;</mo><mn>0.2</mn><mo>+</mo><msup><mn>3</mn><mn>2</mn></msup><mo>&#x00D7;</mo><mn>0.3</mn><mo>&#x2212;</mo><msup><mrow><mn>1.6</mn></mrow><mn>2</mn></msup></mrow></mtd></mtr><mtr><mtd><mrow><mo>=</mo><mn>1.24</mn></mrow></mtd></mtr></mtable></mrow></math></td><td>For the variance you square each value of <i>x</i> and multiply by the probability. Remember to subtract the square of the expectation.</td></tr></tbody></table></p>
+<p>(d)<br/>
+Var (5 &#x2212; 2X) = 4 &#x00D7; Var(X) = 4.96</p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The attendance at college of a group of 20 students was recorded for a four week period. The numbers of students attending each of the 16 classes are shown below.</p>
+<p><table width="25%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>20</td><td>20</td><td>19</td><td>19</td></tr>
+<tr><td>18</td><td>19</td><td>18</td><td>20</td></tr>
+<tr><td>20</td><td>16</td><td>19</td><td>20</td></tr>
+<tr><td>17</td><td>19</td><td>20</td><td>18</td></tr>
+</tbody></table></p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>a</b> Calculate the mean and the standard deviation of the attendance.</td><td>(4)</td></tr></table></p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>b</b> Express the mean as a percentage of the 20 students in the group.</td><td>(1)</td></tr></table></p>
+<p>In the same four week period, the attendance of a different group of 22 students was recorded.</p>
+<p><table width="25%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>22</td><td>18</td><td>20</td><td>21</td></tr>
+<tr><td>17</td><td>16</td><td>16</td><td>17</td></tr>
+<tr><td>20</td><td>17</td><td>18</td><td>19</td></tr>
+<tr><td>18</td><td>20</td><td>17</td><td>16</td></tr>
+</tbody></table></p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>c</b> Find the mode, median and inter-quartile range for this group of students.</td><td>(3)</td></tr></table></p>
+<p>A box plot for the first group of students is drawn below.</p>
+<p><img src="images\S1F186.jpg"/></p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>d</b> Using the same scale draw a box plot for the second group of students.</td><td>(3)</td></tr></table></p>
+<p>The mean percentage attendance and standard deviation for the second group of students are 82.95 and 1.82 respectively.</p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>e</b> Compare and contrast the attendance of each group of students.</td><td>(3)</td></tr></table></p>
+</Question>
+<Solution>
+<p>(a) <table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>x</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mfrac><mrow><mn>302</mn></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>18.875</mn></mrow></math></td><td rowspan="2">Set out your working clearly so you will still be given the method mark if you make a calculator error.</td></tr>
+<tr><td>standard deviation is <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msqrt><mrow><mfrac><mrow><mn>5722</mn></mrow><mrow><mn>16</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mn>18.875</mn></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><msqrt><mrow><mn>1.359375</mn></mrow></msqrt></mrow></math></td></tr></tbody></table></p>
+<p>= 1.16592&#x2026;</p>
+<p>(b) mean % attendance is <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>18.875</mn></mrow><mrow><mn>20</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>100</mn><mo>=</mo><mn>94.375</mn></mrow></math></p>
+<p>(c) Mode is 17</p>
+<p>Median is 18</p>
+<p>IQR is 20 &#x2212; 17 = 3</p>
+<p>(d) <table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>First Group:</td><td/></tr>
+<tr><td><img src="images\S1F187.jpg"/></td><td/></tr>
+<tr><td>Second Group:</td><td>Put the box plots side by side so you can compare easily.</td></tr>
+<tr><td><img src="images\S1F187a.jpg"/></td><td/></tr>
+</tbody></table></p>
+<p>(e) <table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>First mean % &#x003E; Second mean %</td><td rowspan="5">There are 3 marks for this part, so 3 different correct comments are required. Try to comment about location, spread and shape.</td></tr>
+<tr><td>First IQR &#x003C; Second IQR</td></tr>
+<tr><td>First sd &#x003C; Second sd</td></tr>
+<tr><td>First range &#x003C; Second range</td></tr>
+<tr><td>First negative skew, given by whiskers, symmetric by box</td></tr>
+<tr><td>Second positive skew.</td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The random variable <i>X</i> has the distribution</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mi>n</mi></mfrac><mspace width="1ex"/><mtext>for</mtext><mspace width="1ex"/><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mo>&#x2026;</mo><mo>,</mo><mi>n</mi><mn>.</mn></mrow></math></p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>a</b> Write down the name of the distribution.</td><td>(1)</td></tr></table></p>
+<p>Given that E(<i>X</i>) = 10,</p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>b</b> show that <i>n</i> = 19,</td><td>(2)</td></tr>
+<tr><td><b>c</b> Find Var(<i>X</i>).</td><td>(2)</td></tr></table></p>
+</Question>
+<Solution><p>(a) Discrete uniform distribution</p>
+<p>(b)<br/><table><col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><mo stretchy='false'>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo stretchy='false'>)</mo></mrow><mn>2</mn></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>10</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>n</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>19</mn></mrow></mtd></mtr></mtable></mrow></math></td><td>Learning the details of the uniform distribution and formulae for mean and variance make this question easier.</td></tr></tbody></table></p>
+<p>(c) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mo stretchy='false'>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo stretchy='false'>)</mo><mo stretchy='false'>(</mo><mi>n</mi><mo>&#x2212;</mo><mn>1</mn><mo stretchy='false'>)</mo></mrow><mn>12</mn></mfrac><mo>=</mo><mn>30</mn></mrow></math></p></Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>A researcher thinks that there is a link between a person&#x2019;s confidence and their height. She devises a test to measure the confidence, <i>c</i>, of nine people and their height, <i>h</i> cm. The data are shown in the table below.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>h</i></td><td>179</td><td>169</td><td>187</td><td>166</td><td>162</td><td>193</td><td>161</td><td>177</td><td>168</td></tr>
+<tr><td><i>c</i></td><td>569</td><td>561</td><td>579</td><td>561</td><td>540</td><td>598</td><td>542</td><td>565</td><td>573</td></tr>
+</tbody></table></p>
+<p>[&#x03A3;<i>h</i> = 1562, &#x03A3;<i>c</i> = 5088, &#x03A3;<i>hc</i> = 884 484, &#x03A3;<i>h</i><sup>2</sup> = 272094, &#x03A3;<i>c</i><sup>2</sup> = 2878966]</p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>a</b> Draw a scatter diagram to represent these data.</td><td>(2)</td></tr>
+<tr><td><b>b</b> Find the values of <i>S</i><sub><i>hh</i></sub>, <i>S</i><sub><i>cc</i></sub> and <i>S</i><sub><i>hc</i></sub>.</td><td>(3)</td></tr>
+<tr><td><b>c</b> Calculate the value of the product moment correlation coefficient.</td><td>(3)</td></tr>
+<tr><td><b>d</b> Calculate the equation of the regression line of <i>c</i> on <i>h</i>.</td><td>(4)</td></tr>
+<tr><td><b>e</b> Draw this line on your scatter diagram.</td><td>(2)</td></tr>
+<tr><td><b>f</b> Interpret the gradient of the regression line.</td><td>(1)</td></tr></table></p>
+<p>The researcher decides to use this regression model to predict a person&#x2019;s confidence.</p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>g</b> Find the proposed confidence for the person who has a height of 172 cm.</td><td>(2)</td></tr></table></p>
+</Question>
+<Solution><p>(a) &#x0026; (e)</p>
+<p><table><col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images\S1F188.jpg"/></td><td>Be careful when plotting the points.
+Make sure the regression line passes through this point. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo stretchy='false'>(</mo><mover accent='true'><mi>h</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>,</mo><mover accent='true'><mi>c</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo stretchy='false'>)</mo></mrow></math><br/>B1B1 (2) for points, B1B1 (2) for line.</td></tr></tbody></table></p>
+<p>(b)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><msub><mi>S</mi><mrow><mi>h</mi><mi>h</mi></mrow></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>272094</mn><mo>&#x2212;</mo><mfrac><mrow><msup><mrow><mn>1562</mn></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1000.</mn><mover accent='true'><mn>2</mn><mo>&#x02D9;</mo></mover></mrow></mtd></mtr><mtr><mtd><mrow><msub><mi>S</mi><mrow><mi>c</mi><mi>c</mi></mrow></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>2878966</mn><mo>&#x2212;</mo><mfrac><mrow><msup><mrow><mn>5088</mn></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>2550</mn></mrow></mtd></mtr><mtr><mtd><mrow><msub><mi>S</mi><mrow><mi>h</mi><mi>c</mi></mrow></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>884484</mn><mo>&#x2212;</mo><mfrac><mrow><mn>1562</mn><mo>&#x00D7;</mo><mn>5088</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1433.</mn><mover accent='true'><mn>3</mn><mo>&#x02D9;</mo></mover></mrow></mtd></mtr></mtable></mrow></math></td><td>Make sure you work accurately as all these marks are for the answers.</td></tr></tbody></table></p>
+<p>(c)<br/><table><col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><msub><mi>S</mi><mrow><mi>h</mi><mi>c</mi></mrow></msub></mrow><mrow><msqrt><mrow><msub><mi>S</mi><mrow><mi>h</mi><mi>h</mi></mrow></msub><msub><mi>S</mi><mrow><mi>c</mi><mi>c</mi></mrow></msub></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1433.</mn><mover accent='true'><mn>3</mn><mo>&#x02D9;</mo></mover></mrow><mrow><msqrt><mrow><mn>1000.</mn><mover accent='true'><mn>2</mn><mo>&#x02D9;</mo></mover><mo>&#x00D7;</mo><mn>2550</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mn>0.897488</mn></mrow></math></td><td>Don&#x2019;t forget the square root.</td></tr></tbody></table></p>
+<p>(d)<br/>
+<table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mi>b</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>1433.</mn><mover accent='true'><mn>3</mn><mo>&#x02D9;</mo></mover></mrow><mrow><mn>1000.</mn><mover accent='true'><mn>2</mn><mo>&#x02D9;</mo></mover></mrow></mfrac><mo>=</mo><mn>1.433015</mn></mrow></mtd></mtr><mtr><mtd><mi>a</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>5088</mn></mrow><mn>9</mn></mfrac><mo>&#x2212;</mo><mi>b</mi><mo>&#x00D7;</mo><mfrac><mrow><mn>1562</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mn>316.6256</mn></mrow></mtd></mtr><mtr><mtd><mi>c</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>1.43</mn><mi>h</mi><mo>+</mo><mn>317</mn></mrow></mtd></mtr></mtable></mrow></math></td><td>Set out your working carefully and remember to subtract the b in the second equation.</td></tr></tbody></table></p>
+<p>(e) See Graph</p>
+<p>(f)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>For every 1 cm increase in height, the confidence measure increases by 1.43.</td><td>This must be in context i.e. it relates to &#x2018;height&#x2019; and &#x2018;confidence measure&#x2019;.</td></tr></tbody></table></p>
+<p>(g)<br/><table><col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mi>h</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>172</mn></mrow></mtd></mtr><mtr><mtd><mi>c</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>1.43</mn><mo>&#x00D7;</mo><mn>172</mn><mo>+</mo><mn>317</mn><mo>=</mo><mn>563</mn><mspace width="1ex"/><mtext>to</mtext><mspace width="1ex"/><mn>3</mn><mspace width="1ex"/><mtext>sf</mtext></mrow></mtd></mtr></mtable></mrow></math></td><td>Substituting <i>h</i> = 172 into your equation gets the method mark.</td></tr></tbody></table></p></Solution></QuestionData>
+<QuestionData number="7">
+<Question>
+<p>A fairground game involves trying to hit a moving target with an air rifle pellet.</p>
+<p>Each player has up to three pellets in a round. Five points are scored if a pellet hits the target, but the round is over if a pellet misses the target.</p>
+<p>Jean has a constant probability of 0.4 of hitting the target.</p>
+<p>The random variable <i>X</i> is the number of points Jean scores in a round.</p>
+<p>Find</p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>a</b> the probability that Jean scores 15 points in a round,</td><td>(2)</td></tr>
+<tr><td><b>b</b> the probability distribution of <i>X</i>.</td><td>(5)</td></tr></table></p>
+<p>A game consists of two rounds.</p>
+<p><table>
+<col align="left" valign="top" width="700px"/>
+<col align="left" valign="top"/>
+<tr><td><b>c</b> Find the probability that Jean scores more points in her second round than her first.</td><td>(6)</td></tr></table></p>
+</Question>
+<Solution>
+<p>(a) P(Scores 15 points)</p>
+<p><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>= P(hit,hit,hit) = 0.4 &#x00D7; 0.4 &#x00D7; 0.4 = 0.064</td><td>There is only one way of scoring 15 points.</td></tr></tbody></table></p>
+<p>(b)<br/>
+<table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody><tr><td>
+<table border="1" cellpadding="5" cellspacing="0">
+<col width="110px" align="center" valign="top"/>
+<col width="75px" align="center" valign="top"/>
+<col width="90px" align="center" valign="top"/>
+<col width="90px" align="center" valign="top"/>
+<col width="75px" align="center" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>0</td><td>5</td><td>10</td><td>15</td></tr>
+<tr><td rowspan="2">P(<i>X</i> = <i>x</i>)</td><td>0.6</td><td>0.4 &#x00D7; 0.6</td><td>0.4<sup>2</sup> &#x00D7; 0.6</td><td>&#x00A0;</td></tr>
+<tr><td>0.6</td><td>0.24</td><td>0.096</td><td>0.064</td></tr></tbody>
+</table></td><td>Set out the distribution in a table</td></tr></tbody></table></p>
+<p>(c)<br/><table><col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="left"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Jean scores more in round two than round one</mtext><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo>=</mo><mn>0</mn><mspace width="1ex"/><mtext>then</mtext><mspace width="1ex"/><mi>X</mi><mo>=</mo><mn>5</mn><mo>,</mo><mn>10</mn><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mn>15</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>+</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo>=</mo><mn>5</mn><mspace width="1ex"/><mtext>then</mtext><mspace width="1ex"/><mi>X</mi><mo>=</mo><mn>10</mn><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mn>15</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>+</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo>=</mo><mn>10</mn><mspace width="1ex"/><mtext>then</mtext><mspace width="1ex"/><mi>X</mi><mo>=</mo><mn>15</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr></mtable></mrow></math></td><td>There is only 1 way of scoring each value as the round ends if Jean misses.</td></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.6</mn><mo>&#x00D7;</mo><mo stretchy='false'>(</mo><mn>0.24</mn><mo>+</mo><mn>0.096</mn><mo>+</mo><mn>0.064</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>+</mo><mn>0.24</mn><mo>&#x00D7;</mo><mo stretchy='false'>(</mo><mn>0.096</mn><mo>+</mo><mn>0.064</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>+</mo><mn>0.096</mn><mo>&#x00D7;</mo><mn>0.064</mn></mrow></mtd></mtr></mtable></mrow></math></td><td>Consider the possible score for the first round in turn and the corresponding scores on the second round.</td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.284544</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.285</mn><mspace width="1ex"/><mo stretchy='false'>(</mo><mn>3</mn><mspace width="1ex"/><mtext>sf</mtext><mo stretchy='false'>)</mo></mrow></mtd></mtr></mtable></mrow></math></p></Solution></QuestionData>
+</Exercise>
+</Chapter>
+</Section>
+</Unit>
+</SubjectArea>
+</ProductTitle>
+</ExamBoard>
+</Level>
+</Subject>
+</Harcourt>

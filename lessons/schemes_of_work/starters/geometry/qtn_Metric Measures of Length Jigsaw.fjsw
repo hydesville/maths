@@ -1,0 +1,513 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='extended hexagonal jigsaw 30' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='input'/>
+    <active-option view-id='input' option-id='input.paired.30'/>
+    <active-option view-id='output' option-id='output.normal size'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>1</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>100</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>1</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>10</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>50</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>5</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>1</mn>
+        <mi mathvariant="italic">km</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>1000</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>80</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>800</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>700</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>0</mn>
+        <mo>.</mo>
+        <mn>7</mn>
+        <mi mathvariant="italic">km</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>35</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>350</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>2</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>2000</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>2</mn>
+        <mo>.</mo>
+        <mn>1</mn>
+        <mi mathvariant="italic">km</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>2100</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>56</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>5</mn>
+        <mo>.</mo>
+        <mn>6</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>67</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>0</mn>
+        <mo>.</mo>
+        <mn>67</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>350</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>3</mn>
+        <mo>.</mo>
+        <mn>5</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>25</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>0</mn>
+        <mo>.</mo>
+        <mn>25</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>2</mn>
+        <mo>.</mo>
+        <mn>4</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>240</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>1</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>0</mn>
+        <mo>.</mo>
+        <mn>1</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>12</mn>
+        <mo>.</mo>
+        <mn>5</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>125</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>9</mn>
+        <mo>.</mo>
+        <mn>04</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>9040</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>45</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>450</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>1</mn>
+        <mo>.</mo>
+        <mn>29</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>129</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>6</mn>
+        <mo>.</mo>
+        <mn>7</mn>
+        <mi mathvariant="italic">km</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>6700</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>20</mn>
+        <mi mathvariant="italic">km</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>20000</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>740</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>0</mn>
+        <mo>.</mo>
+        <mn>74</mn>
+        <mi mathvariant="italic">km</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>1030</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>1</mn>
+        <mo>.</mo>
+        <mn>03</mn>
+        <mi mathvariant="italic">km</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>4</mn>
+        <mo>.</mo>
+        <mn>56</mn>
+        <mi mathvariant="italic">km</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>4560</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>4</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>0</mn>
+        <mo>.</mo>
+        <mn>004</mn>
+        <mi mathvariant="italic">km</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>3</mn>
+        <mo>.</mo>
+        <mn>7</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>3700</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>9</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>0</mn>
+        <mo>.</mo>
+        <mn>9</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>387</mn>
+        <mi mathvariant="italic">mm</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>38</mn>
+        <mo>.</mo>
+        <mn>7</mn>
+        <mi mathvariant="italic">cm</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>29</mn>
+        <mo>.</mo>
+        <mn>5</mn>
+        <mi mathvariant="italic">km</mi>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>29500</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>23000</mn>
+        <mi>m</mi>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mn>23</mn>
+    <mi mathvariant = 'italic'>km</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+  <eqnpair>
+  </eqnpair>
+</eqnpairs>

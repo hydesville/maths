@@ -1,0 +1,494 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='standard hexagonal jigsaw 30' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='input'/>
+    <active-option view-id='input' option-id='input.paired.29'/>
+    <active-option view-id='output' option-id='output.normal size'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>1</mn>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>cube</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>2</mn>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>smallest</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>prime</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>3</mn>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>triangle</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>4</mn>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>square</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>5</mn>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>prime</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>6</mn>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>triangle</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>7</mn>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>prime</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>8</mn>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>cube</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>9</mn>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>square</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>10</mn>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>triangle</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>1</mn>
+      </mrow>
+    </math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>square</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>2</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">product</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>1</mn>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">and</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>2</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>3</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">sum</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>1</mn>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">and</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>2</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>4</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">multiple</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>2</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>5</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">factor</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>25</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>6</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">multiple</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>3</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>7</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">sum</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">the</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>1</mn>
+        <mi mathvariant="italic">st</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">and</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>3</mn>
+        <mi mathvariant="italic">rd</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">prime</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">numbers</mi>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>8</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">factor</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>24</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>9</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mi mathvariant="italic">square</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">root</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>81</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn>11</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>5</mn>
+        <mi mathvariant="italic">th</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">smallest</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">prime</mi>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">number</mi>
+        <mtext>&nbsp;</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>11</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>palindromic</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>number</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>12</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mi mathvariant = 'italic'>its</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>prime</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>factors</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>are</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mo>,</mo>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mo>&amp;</mo>
+    <mn>3</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <msqrt>
+      <mtext>100</mtext>
+    </msqrt>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>12</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>a dozen</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>13</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>7th term in the Fibonacci sequence</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>14</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>one less than a triangle number</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>13</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <msqrt>
+      <mtext>169</mtext>
+    </msqrt>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>15</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>prime factors are the 2nd and 3rd prime numbers</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>15</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>triangle number</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>14</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>sum of two prime numbers</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+</eqnpairs>

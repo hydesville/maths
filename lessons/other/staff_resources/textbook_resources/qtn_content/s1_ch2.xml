@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+<Subject type="Mathematics">
+<Level age="">
+<ExamBoard title="AandAS">
+<ProductTitle name="Solutionbank">
+<SubjectArea name="Statistics" abbrev="S">
+<Unit number="1">
+<Section>
+<Chapter number="2" title="Representation and summary of data &#x2013; location"><p><b>Chapter 2</b></p>
+<Exercise letter="A"><p><b>Exercise 2A</b></p>
+<QuestionData number="1">
+<Question>
+<p>State whether each of the following variables is qualitative or quantitative.</p>
+<p><b>a</b> Height of a tree.</p>
+<p><b>b</b> Colour of car.</p>
+<p><b>c</b> Time waiting in a queue.</p>
+<p><b>d</b> Shoe size.</p>
+<p><b>e</b> Name of pupils in a class.</p></Question>
+<Solution>
+<p><b>a Quantitative</b> as it is numerical.</p>
+<p><b>b Qualitative</b> as it is a descriptive word.</p>
+<p><b>c Quantitative</b> as it is numerical.</p>
+<p><b>d Quantitative</b> as it is numerical.</p>
+<p><b>e Qualitative</b> as they are descriptive words.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>State whether each of the following quantitative variables is continuous or discrete.</p>
+<p><b>a</b> Shoe size.</p>
+<p><b>b</b> Length of leaf.</p>
+<p><b>c</b> Number of people on a bus.</p>
+<p><b>d</b> Weight of sugar.</p>
+<p><b>e</b> Time required to run 100 m.</p>
+<p><b>f</b> Lifetime in hours of torch batteries.</p>
+</Question><Solution>
+<p><b>a Discrete</b> &#x2013; you do not get a size 4.78</p>
+<p><b>b Continuous</b> &#x2013; it can be any size &#x2013; not necessarily a whole number.</p>
+<p><b>c Discrete</b> &#x2013; you do not get bits of people.</p>
+<p><b>d Continuous</b> &#x2013; it can be any weight &#x2013; not necessarily a whole number.</p>
+<p><b>e Continuous</b> &#x2013; it can be any amount of time &#x2013; not necessarily a whole number</p>
+<p><b>f Continuous</b> &#x2013; it can be any amount of time &#x2013; not necessarily a whole number</p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>Explain why</p>
+<p><b>a</b> &#x2018;Type of tree&#x2019; is a qualitative variable.</p>
+<p><b>b</b> &#x2018;The number of pupils in a class&#x2019; is a discrete quantitative variable.</p>
+<p><b>c</b> &#x2018;The weight of a collie dog&#x2019; is a continuous quantitative variable.</p>
+</Question>
+<Solution>
+<p><b>a</b> It is a descriptive rather than numerical</p>
+<p><b>b</b> You can not have bits of pupils in a class &#x2013; only whole numbers. It is quantitative as it is numerical.</p>
+<p><b>c</b> Weight can take any value in a given range.</p>
+<p>Therefore it is continuous. It is quantitative as it is numerical.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The nurse at a health centre records the heights, <i>h</i> cm, to the nearest cm, of a group of boys in the same school age group. The frequency table shows the results.</p>
+<p><b>a</b> Complete the table by putting in the cumulative frequency totals.</p>
+<p>
+<table border="1" cellpadding="3" cellspacing="0">
+<tr><td align="center"><b><i>h</i></b></td><td align="center"><b>Frequency (<i>f</i>)</b></td><td align="center"><b>Cumulative frequency</b></td></tr>
+<tr><td align="center">165</td><td align="center">8</td><td>&#x00A0;</td></tr>
+<tr><td align="center">166</td><td align="center">7</td><td>&#x00A0;</td></tr>
+<tr><td align="center">167</td><td align="center">9</td><td>&#x00A0;</td></tr>
+<tr><td align="center">168</td><td align="center">14</td><td>&#x00A0;</td></tr>
+<tr><td align="center">169</td><td align="center">18</td><td>&#x00A0;</td></tr>
+<tr><td align="center">170</td><td align="center">16</td><td>&#x00A0;</td></tr>
+</table></p>
+<p><b>b</b> State the number of boys who are less than 168 cm tall.</p>
+<p><b>c</b> Write down the height that is the most common.</p>
+</Question><Solution>
+<p><b>a</b> 
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><i>h</i></td><td align="center">Frequency (<i>f</i>)</td><td align="center">Cumulative frequency</td></tr>
+<tr><td align="center">165</td><td align="center">8</td><td align="center"><b>8</b></td></tr>
+<tr><td align="center">166</td><td align="center">7</td><td align="center"><b>15</b></td></tr>
+<tr><td align="center">167</td><td align="center">9</td><td align="center"><b>24</b></td></tr>
+<tr><td align="center">168</td><td align="center">14</td><td align="center"><b>38</b></td></tr>
+<tr><td align="center">169</td><td align="center">18</td><td align="center"><b>56</b></td></tr>
+<tr><td align="center">170</td><td align="center">16</td><td align="center"><b>72</b></td></tr>
+</tbody></table></p>
+<p><b>b 24 boys</b></p>
+<p><b>c 169 cm</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The distribution of the lifetimes of torch batteries is shown in the grouped frequency table below.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<tr><td align="center"><b>Lifetime (nearest 0.1 of an hour)</b></td><td align="center"><b>Frequency</b></td><td align="center"><b>Cumulative frequency</b></td></tr>
+<tr><td align="center">5.0&#x2013;5.9</td><td align="center">5</td><td>&#x00A0;</td></tr>
+<tr><td align="center">6.0&#x2013;6.9</td><td align="center">8</td><td>&#x00A0;</td></tr>
+<tr><td align="center">7.0&#x2013;7.9</td><td align="center">10</td><td>&#x00A0;</td></tr>
+<tr><td align="center">8.0&#x2013;8.9</td><td align="center">22</td><td>&#x00A0;</td></tr>
+<tr><td align="center">9.0&#x2013;9.9</td><td align="center">10</td><td>&#x00A0;</td></tr>
+<tr><td align="center">10.0&#x2013;10.9</td><td align="center">2</td><td>&#x00A0;</td></tr>
+
+</table></p>
+<p><b>a</b> Complete the cumulative frequency column.</p>
+<p><b>b</b> Write down the class boundaries for the second group.</p>
+<p><b>c</b> Work out the mid-point of the fifth group.</p>
+</Question><Solution>
+<p><b>a</b> 
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center">Lifetime (hours)</td><td align="center">frequency</td><td align="center">Cumulative frequency</td></tr>
+<tr><td align="center">5.0&#x2013;5.9</td><td align="center">5</td><td align="center"><b>5</b></td></tr>
+<tr><td align="center">6.0&#x2013;6.9</td><td align="center">8</td><td align="center"><b>13</b></td></tr>
+<tr><td align="center">7.0&#x2013;7.9</td><td align="center">10</td><td align="center"><b>23</b></td></tr>
+<tr><td align="center">8.0&#x2013;8.9</td><td align="center">22</td><td align="center"><b>45</b></td></tr>
+<tr><td align="center">9.0&#x2013;9.9</td><td align="center">10</td><td align="center"><b>55</b></td></tr>
+<tr><td align="center">10.0&#x2013;10.9</td><td align="center">2</td><td align="center"><b>57</b></td></tr>
+</tbody></table></p>
+<p><b>b 5.95</b> and <b>6.95</b></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mn>8.95</mn><mo>+</mo><mn>9.95</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn fontweight="bold">9.45</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The distribution of the weights of two-month-old piglets is shown in the grouped frequency table below.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<tr><td align="center"><b>Weight (kg)</b></td><td align="center"><b>Frequency</b></td><td align="center"><b>Cumulative frequency</b></td></tr>
+<tr><td align="center">1.2&#x2013;1.3</td><td align="center">8</td><td>&#x00A0;</td></tr>
+<tr><td align="center">1.3&#x2013;1.4</td><td align="center">28</td><td>&#x00A0;</td></tr>
+<tr><td align="center">1.4&#x2013;1.5</td><td align="center">32</td><td>&#x00A0;</td></tr>
+<tr><td align="center">1.5&#x2013;1.6</td><td align="center">22</td><td>&#x00A0;</td></tr>
+
+</table></p>
+<p><b>a</b> Write down the class boundaries for the third group.</p>
+<p><b>b</b> Work out the mid-point of the second group.</p>
+</Question><Solution>
+<p><b>a 1.4</b> and <b>1.5</b>. there are no gaps therefore the boundaries are the numbers of the class.</p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mn>1.3</mn><mo>+</mo><mn>1.4</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn fontweight="bold">1.35</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>Write down which of the following statements are true.</p>
+<p><b>a</b> The weight of apples is discrete data.</p>
+<p><b>b</b> The number of apples on the trees in an orchard is discrete data.</p>
+<p><b>c</b> The amount of time it takes a train to make a journey is continuous data.</p>
+<p><b>d</b> David collected data on car colours by standing at the end of his road and writing down the car colours. Is the data he collected qualitative?</p>
+</Question><Solution>
+<p>A is <b>not true</b></p>
+<p>B is <b>true</b></p>
+<p>C is <b>true</b></p>
+<p>D is <b>true</b></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="B"><p><b>Exercise 2B</b></p>
+<QuestionData number="1">
+<Question>
+<p>Meryl collected wild mushrooms every day for a week. When she got home each day she weighed them to the nearest 100 g. The weights are shown below.</p>
+<p>500 700 400 300 900 700 700</p>
+<p><b>a</b> Write down the mode for these data.</p>
+<p><b>b</b> Calculate the mean for these data.</p>
+<p><b>c</b> Find the median for these data.</p>
+<p>On the next day, Meryl collects 650 g of wild mushrooms.</p>
+<p><b>d</b> Write down the effect this will have on the mean, the mode and the median.</p>
+</Question>
+<Solution>
+<p><b>a 700g</b> as this is the most often occurring.</p>
+<p><b>b</b> 500 + 700 + 400 + 300 + 900 + 700 + 700 = 4200</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>4200</mn></mrow><mn>7</mn></mfrac><mo>=</mo><mn fontweight="bold">600</mn><mtext fontweight="bold">g</mtext></mrow></math></p>
+<p><b>c</b> 300 400 500 <b>700</b> 700 700 900</p>
+<p><b>700g</b> is the median as it is the middle value.</p>
+<p><b>d</b></p>
+<p>It will <b>increase the mean</b> as 650&#x003E;600.</p>
+<p>The <b>mode will be unchanged</b>.</p>
+<p>It will <b>decrease the median</b> as there will then be 8 values and 650 &#x003C; median(700). It will lie mid way between 650 and 700.</p>
+ </Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Joe collects six pieces of data <i>x</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>x</i><sub>3</sub>, <i>x</i><sub>4</sub>, <i>x</i><sub>5</sub> and <i>x</i><sub>6</sub>. He works out that &#x03A3;<i>x</i> is 256.2.</p>
+<p><b>a</b> Calculate the mean for these data.</p>
+<p>He collects another piece of data. It is 52.</p>
+<p><b>b</b> Write down the effect this piece of data will have on the mean.</p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mn>256.2</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn fontweight="bold">42.7</mn></mrow></math></p>
+<p><b>b</b> It will <b>increase the mean</b> as it is greater than the old mean of 42.7.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>A small workshop records how long it takes, in minutes, for each of their workers to make a certain item. The times are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b>Worker</b></td><td align="center"><i>A</i></td><td align="center"><i>B</i></td><td align="center"><i>C</i></td><td align="center"><i>D</i></td><td align="center"><i>E</i></td><td align="center"><i>F</i></td><td align="center"><i>G</i></td><td align="center"><i>H</i></td><td align="center"><i>I</i></td><td align="center"><i>J</i></td></tr>
+<tr><td align="left"><b>Time in minutes</b></td><td align="center">7</td><td align="center">12</td><td align="center">10</td><td align="center">8</td><td align="center">6</td><td align="center">8</td><td align="center">5</td><td align="center">26</td><td align="center">11</td><td align="center">9</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Write down the mode for these data.</p>
+<p><b>b</b> Calculate the mean for these data.</p>
+<p><b>c</b> Find the median for these data.</p>
+<p><b>d</b> The manager wants to give the workers an idea of the average time they took. Write down, with a reason, which of the answers to <b>a</b>, <b>b</b> and <b>c</b> he should use.</p>
+</Question>
+<Solution>
+<p><b>a 8 minutes</b> as everything else occurs once but there are two 8's.</p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mn>102</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">10.2</mn><mspace width="1ex"/><mtext fontweight="bold">minutes</mtext></mrow></math></p>
+<p><b>c</b> 5 6  7 8 8 9 10 11 12 26</p>
+<p>Median is <b>8.5 minutes</b></p>
+<p><b>d</b> The median would be reasonable. The <b>mean</b> is <b>affected by</b> the extreme value of <b>26.</b></p>
+<p>In this case the mode is close to the median so would be acceptable but this would not always be the case.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>A farmer keeps a record of the weekly milk yield of his herd of seven cows over a period of six months. He finds that the mean yield is 24 litres. He buys another cow that he is told will produce 28 litres of milk a week. Work out the effect this will have on the mean milk yield of his cows.</p>
+</Question>
+<Solution>
+<p> The new total milk yield will be (7 &#x00D7; 24) + 28 = 196</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>New mean</mtext><mo>=</mo><mfrac><mrow><mn>196</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">24.5</mn><mspace width="1ex"/><mtext fontweight="bold">litres</mtext></mrow></math></p>
+<p>The <b>new cow increases the mean milk yield</b> of the herd.</p>
+</Solution>
+</QuestionData><QuestionData number="5">
+<Question>
+<p>A clothes retailer has two shops in the town of Field-gate. Shop <i>A</i> employs 15 people and shop <i>B</i> employs 22 people. The mean number of days of sickness in a year taken by the employees in shop <i>A</i> is 4.6 and the mean number of days of sickness taken by the employees in shop <i>B</i> is 6.5 days. Calculate the mean number of days of sickness taken per year by all 37 employees. Give your answer to one decimal place.</p>
+</Question>
+<Solution>
+<p>Total number of days sickness for both shops = (4.6 &#x00D7; 15) + (6.5 &#x00D7; 22) = 212</p>
+<p>Mean number of days for all employees <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mrow><mn>212</mn></mrow><mrow><mn>37</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">5.73</mn><mspace width="1ex"/><mtext fontweight="bold">days</mtext></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The rainfall in a certain seaside holiday resort was measured, in millimetres, every week for ten weeks. The hours of sunshine were also recorded. The data are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b>Rainfall (mm)</b></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">3</td><td align="center">26</td><td align="center">3</td><td align="center">2</td><td align="center">3</td><td align="center">0</td></tr>
+<tr><td align="left"><b>Sunshine (hours)</b></td><td align="center">70</td><td align="center">15</td><td align="center">10</td><td align="center">15</td><td align="center">18</td><td align="center">0</td><td align="center">15</td><td align="center">21</td><td align="center">21</td><td align="center">80</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Calculate the mean rainfall per week.</p>
+<p><b>b</b> Calculate the mean number of hours of sunshine per week.</p>
+<p><b>c</b> Write down the modal amount of rainfall and the modal amount of sunshine per week.</p>
+<p><b>d</b> Work out the median rainfall and the median amount of sunshine per week.</p>
+<p>The council plans to produce a brochure and in it they wish to promote the resort as having lots of sunshine and little rain.</p>
+<p><b>e</b> Write down, with reasons, which of the mean, mode or median they should quote in their brochure as the average rainfall and hours of sunshine.</p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mn>43</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">4.3</mn><mspace width="1ex"/><mtext fontweight="bold">mm</mtext></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mn>265</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">26.5</mn><mspace width="1ex"/><mtext fontweight="bold">hours</mtext></mrow></math></p>
+<p><b>c</b> modal <b>rainfall</b> = <b>3 mm</b></p>
+<p>modal <b>sunshine</b> = <b>15 hours</b></p>
+<p><b>d</b> Rainfall 0 0 1 2 <b>2 3</b> 3 3 3 26</p>
+<p><b>Median rainfall is 2.5 mm</b></p>
+<p>Sunshine 0 10 15 15 <b>15 18</b> 21 21 70 80</p>
+<p><b>Median Sunshine is 16.5 hours</b></p>
+<p><b>e</b> They will probably want to quote the least rainfall and the highest amount of sunshine. They would use the <b>median rainfall</b> and the <b>mean amount of sunshine</b>.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>The mean marks for a statistics exam were worked out for three classes. Class 1 had 12 students with a mean mark of 78%. Class 2 had 16 students with a mean mark of 84%. Class 3 had 18 students with a mean mark of 54%. Work out the mean % mark to the nearest whole number for all 46 students.</p>
+</Question><Solution>
+<p>Total marks for all students = (12 &#x00D7; 78) + (16 &#x00D7; 84) + (18 &#x00D7; 54) = 3252</p>
+<p>Mean for all 46 students is <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3252</mn></mrow><mrow><mn>46</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">71 &#x0025;</mn></mrow></math> to nearest percent</p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="C"><p><b>Exercise 2C</b></p>
+<QuestionData number="1">
+<Question>
+<p>The marks scored in a multiple choice statistics test by a class of students are:</p>
+<p><table cellpadding="0" cellspacing="0">
+<col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><tbody>
+<tr><td>5</td><td>9</td><td>6</td><td>9</td><td>10</td><td>6</td><td>8</td><td>5</td><td>5</td><td>7</td><td>9</td><td>7</td></tr>
+<tr><td>8</td><td>6</td><td>10</td><td>10</td><td>7</td><td>9</td><td>6</td><td>9</td><td>7</td><td>7</td><td>7</td><td>8</td></tr>
+<tr><td>6</td><td>9</td><td>7</td><td>8</td><td>6</td><td>7</td><td>8</td><td>7</td><td>9</td><td>8</td><td>5</td><td>7</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Draw a frequency distribution table for these data.</p>
+<p><b>b</b> Calculate the mean mark for these data.</p>
+<p><b>c</b> Write down the number of students who got a mark greater than the mean mark.</p>
+<p><b>d</b> Write down whether or not the mean mark is greater than the modal mark.</p>
+</Question>
+<Solution>
+<p><b>a</b>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody><tr><td align="center">Mark</td><td align="center">Frequency</td></tr>
+<tr><td align="center">5</td><td align="center"><b>4</b></td></tr>
+<tr><td align="center">6</td><td align="center"><b>6</b></td></tr>
+<tr><td align="center">7</td><td align="center"><b>10</b></td></tr>
+<tr><td align="center">8</td><td align="center"><b>6</b></td></tr>
+<tr><td align="center">9</td><td align="center"><b>7</b></td></tr>
+<tr><td align="center">10</td><td align="center"><b>3</b></td></tr>
+</tbody></table></p>
+<p><b>b</b> (5 &#x00D7; 4) + (6 &#x00D7; 6) + (7 &#x00D7; 10) + (8 &#x00D7; 6) + (9 &#x00D7; 7) + (10 &#x00D7; 3) = 267</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>267</mn></mrow><mrow><mn>36</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">7.42</mn><mspace width="1ex"/><mtext>marks</mtext></mrow></math> </p>
+<p><b>c</b> 6 + 7 + 3 = <b>16</b> students</p>
+<p><b>d</b> The modal mark is 7 so the <b>mean</b> mark <b>is greater</b> than the modal mark.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>The table shows the number of eggs laid in 25 blackbirds&#x2019; nests.</p>
+<p><table border="1" cellpadding="3" cellspacing="0" width="80%">
+<tr><td align="left"><b>Number of eggs</b></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td><td align="center">5</td><td align="center">6</td><td align="center">7</td></tr>
+<tr><td align="left"><b>Number of nests</b></td><td align="center">0</td><td align="center">0</td><td align="center">0</td><td align="center">1</td><td align="center">3</td><td align="center">9</td><td align="center">8</td><td align="center">4</td></tr>
+</table></p>
+<p>Using your knowledge of measures of location decide what number of eggs you could expect a blackbird&#x2019;s nest to contain. Give reasons for your answer.</p>
+</Question><Solution>
+<p><b>a</b> Modal number of eggs is 5</p>
+<p>Median number of eggs is 5</p>
+<p>Mean number of eggs is 5.44</p>
+<p>We would expect there to be <b>5 eggs in a nest</b> as both the <b>mode and median are 5</b> and the <b>mean rounded to the nearest whole number is also 5.</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>The table shows the frequency distribution for the number of petals in the flowers of a group of celandines.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Number of petals</b></td><td align="center"><b>Frequency (<i>f</i>)</b></td></tr>
+<tr><td align="center">5</td><td align="center">8</td></tr>
+<tr><td align="center">6</td><td align="center">57</td></tr>
+<tr><td align="center">7</td><td align="center">29</td></tr>
+<tr><td align="center">8</td><td align="center">3</td></tr>
+<tr><td align="center">9</td><td align="center">1</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Work out how many celandines were in the group.</p>
+<p><b>b</b> Write down the modal number of petals.</p>
+<p><b>c</b> Calculate the mean number of petals.</p>
+<p><b>d</b> Calculate the median number of petals.</p>
+<p><b>e</b> If you saw a celandine, write down how many petals. you would expect it to have.</p>
+</Question>
+<Solution>
+<p><b>a</b> 8 + 57 + 29 + 3 + 1 = <b>98</b> celandines</p>
+<p><b>b 6</b> petals</p>
+<p><b>c</b> (5 &#x00D7; 8) + (6 &#x00D7; 57) + (7 &#x00D7; 29) + (8 &#x00D7; 3) + (9 &#x00D7; 1) = 618 petals</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>618</mn></mrow><mrow><mn>98</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">6.31</mn><mspace width="1ex"/><mtext>petals</mtext></mrow></math></p>
+<p><b>d median is the</b> 49.5<sup>th</sup>&#x00A0;<b>value</b> = <b>6</b></p>
+<p><b>e 6</b> petals</p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The frequency table shows the number of breakdowns, <i>b</i>, per month recorded by a road haulage firm over a certain period of time.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Breakdowns <i>b</i></b></td><td align="center"><b>Frequency <i>f</i></b></td><td align="center"><b>Cumulative frequency</b></td></tr>
+<tr><td align="center">0</td><td align="center">8</td><td align="center">8</td></tr>
+<tr><td align="center">1</td><td align="center">11</td><td align="center">19</td></tr>
+<tr><td align="center">2</td><td align="center">12</td><td align="center">31</td></tr>
+<tr><td align="center">3</td><td align="center">3</td><td align="center">34</td></tr>
+<tr><td align="center">4</td><td align="center">1</td><td align="center">35</td></tr>
+<tr><td align="center">5</td><td align="center">1</td><td align="center">36</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Write down the number of months for which the firm recorded the breakdowns.</p>
+<p><b>b</b> Write down the number of months in which there were two or fewer breakdowns.</p>
+<p><b>c</b> Write down the modal number of breakdowns.</p>
+<p><b>d</b> Find the median number of breakdowns.</p>
+<p><b>e</b> Calculate the mean number of breakdowns.</p>
+<p><b>f</b> In a brochure about how many loads reach their destination on time, the firm quotes one of the answers to <b>c</b>, <b>d</b> or <b>e</b> as the number of breakdowns per month for its vehicles. Write down which of the three answers the firm should quote in the brochure.</p>
+</Question>
+<Solution>
+<p><b>a 36</b> months</p>
+<p><b>b 31</b> months</p>
+<p><b>c 2</b> breakdowns</p>
+<p><b>d</b> Median is 18.5<sup>th</sup> value = <b>1</b></p>
+<p><b>e</b> (11 &#x00D7; 1) + (12 &#x00D7; 2) + (3 &#x00D7; 3) + (1 &#x00D7; 4) + (1 &#x00D7; 5) = 53</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>53</mn></mrow><mrow><mn>36</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">1.47</mn><mspace width="1ex"/><mtext>breakdowns</mtext></mrow></math></p>
+<p><b>f</b> The <b>median since this is the lowest value</b>.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>A company makes school blazers in eight sizes. The first four sizes cost &#x00A3;48. The next three sizes cost &#x00A3;60 and the largest size costs &#x00A3;76.80. Write down, with a reason which of the mean, mode, or median cost the company is likely to use in advertising its average price.</p>
+</Question><Solution>
+<p>Mode is &#x00A3;48</p>
+<p>Median is 4.5<sup>th</sup> value <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mrow><mn>48</mn><mo>+</mo><mn>60</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mo>&#x00A3;</mo><mn>54</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean is</mtext><mspace width="1ex"/><mfrac><mrow><mo stretchy='false'>(</mo><mn>4</mn><mo>&#x00D7;</mo><mn>48</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>3</mn><mo>&#x00D7;</mo><mn>60</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>76.80</mn><mo stretchy='false'>)</mo></mrow><mn>8</mn></mfrac><mo>=</mo><mfrac><mrow><mn>448.8</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mo>&#x00A3;</mo><mn>56.1</mn></mrow></math></p>
+<p><b>The company would quote the mode as it is the lowest of the three averages.</b></p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="D"><p><b>Exercise 2D</b></p>
+<QuestionData number="1">
+<Question>
+<p>A hotel is worried about the reliability of its lift. It keeps a weekly record of the number of times it breaks down over a period of 26 weeks. The data collected are summarised in the table opposite.</p>
+<p><b>a</b> Estimate the mean number of breakdowns.</p>
+<p><b>b</b> Use interpolation to estimate the median number of breakdowns.</p>
+<p><b>c</b> The hotel considers that an average of more than one breakdown per week is not acceptable. Judging from your answers to <b>b</b> and <b>c</b> write down with a reason whether or not you think the hotel should consider getting a new lift.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Number of breakdowns</b></td><td align="center"><b>Frequency of breakdowns (<i>f</i>)</b></td></tr>
+<tr><td align="center">0&#x2013;1</td><td align="center">18</td></tr>
+<tr><td align="center">2&#x2013;3</td><td align="center">7</td></tr>
+<tr><td align="center">4&#x2013;5</td><td align="center">1</td></tr>
+</tbody>
+</table></p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean is</mtext><mspace width="1ex"/><mfrac><mrow><mo stretchy='false'>(</mo><mn>0.5</mn><mo>&#x00D7;</mo><mn>18</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>2.5</mn><mo>&#x00D7;</mo><mn>7</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>4.5</mn><mo>&#x00D7;</mo><mn>1</mn><mo stretchy='false'>)</mo></mrow><mrow><mn>26</mn></mrow></mfrac><mo>=</mo></mrow><mrow><mn fontweight="bold">1.19</mn><mspace width="1ex"/><mtext fontweight="bold">breakdowns</mtext></mrow></math></p>
+<p><b>b</b> Median value is 13<sup>th</sup> value. This is in the first class.</p>
+<p>Let <i>m</i> be the median.</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mi>m</mi><mo>&#x2212;</mo><mn>0</mn></mrow><mrow><mn>1.5</mn><mo>&#x2212;</mo><mn>0</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>13</mn><mo>&#x2212;</mo><mn>0</mn></mrow><mrow><mn>18</mn><mo>&#x2212;</mo><mn>0</mn></mrow></mfrac><mspace width="1ex"/><mtext>so</mtext><mspace width="1ex"/><mi>m</mi><mo>&#x2248;</mo><mn>1.08</mn><mspace width="1ex"/><mtext>(3 sf)</mtext></mrow></math></p>
+<p><b>c</b> The median is less than 1 and the mean is only a little about 1 &#x2013; it is 1 if rounded to the nearest whole number. The hotel need not consider getting a new lift yet, but should keep an eye on the situation.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>The weekly wages (to the nearest &#x00A3;) of the production line workers in a small factory is shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Weekly wage &#x00A3;</b></td><td align="center"><b>Number of workers, <i>f</i>,</b></td></tr>
+<tr><td align="center">175&#x2013;225</td><td align="center">4</td></tr>
+<tr><td align="center">226&#x2013;300</td><td align="center">8</td></tr>
+<tr><td align="center">301&#x2013;350</td><td align="center">18</td></tr>
+<tr><td align="center">351&#x2013;400</td><td align="center">28</td></tr>
+<tr><td align="center">401&#x2013;500</td><td align="center">7</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Write down the modal class.</p>
+<p><b>b</b> Calculate an estimate of the mean wage.</p>
+<p><b>c</b> Use interpolation to find an estimate for the median wage.</p>
+</Question>
+<Solution>
+<p><b>a 351 &#x2212; 400</b></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mo stretchy='false'>(</mo><mn>200</mn><mo>&#x00D7;</mo><mn>4</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>263</mn><mo>&#x00D7;</mo><mn>8</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>325.5</mn><mo>&#x00D7;</mo><mn>18</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>375.5</mn><mo>&#x00D7;</mo><mn>28</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>450.5</mn><mo>&#x00D7;</mo><mn>7</mn><mo stretchy='false'>)</mo></mrow><mrow><mn>65</mn></mrow></mfrac></mrow></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mrow><mn>800</mn><mo>+</mo><mn>2104</mn><mo>+</mo><mn>5859</mn><mo>+</mo><mn>10514</mn><mo>+</mo><mn>3153.5</mn></mrow><mrow><mn>65</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>22430.5</mn></mrow><mrow><mn>65</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">345.08</mn></mrow></math></p>
+<p><b>c</b> Median is the 32.5<sup>th</sup> value. This is in the 351 &#x2212; 400 class</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mi>m</mi><mo>&#x2212;</mo><mn>350.5</mn></mrow><mrow><mn>400.5</mn><mo>&#x2212;</mo><mn>350.5</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>32.5</mn><mo>&#x2212;</mo><mn>30</mn></mrow><mrow><mn>58</mn><mo>&#x2212;</mo><mn>30</mn></mrow></mfrac></mrow></math></p><p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mi>m</mi><mo>&#x2212;</mo><mn>350.5</mn></mrow><mrow><mn>50</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2.5</mn></mrow><mrow><mn>28</mn></mrow></mfrac></mrow></math></p>
+<p><i>m</i> &#x2212; 350.5 = 4.46</p>
+<p><i>m</i> = &#x00A3;<b>354.96</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>The noise levels at 30 locations near an outdoor concert venue were measured to the nearest decibel. The data collected is shown in the grouped frequency table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b>Noise (decibels)</b></td><td align="center">65&#x2013;69</td><td align="center">70&#x2013;74</td><td align="center">75&#x2013;79</td><td align="center">80&#x2013;84</td><td align="center">85&#x2013;89</td><td align="center">90&#x2013;94</td><td align="center">95&#x2013;99</td></tr>
+<tr><td align="left"><b>Frequency (<i>f</i>)</b></td><td align="center">1</td><td align="center">4</td><td align="center">6</td><td align="center">6</td><td align="center">8</td><td align="center">4</td><td align="center">1</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Calculate an estimate of the mean noise level.</p>
+<p><b>b</b> A noise level above 82 decibels was considered unacceptable. Estimate the number of locations that had unacceptable noise levels.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mo stretchy='false'>(</mo><mn>67</mn><mo>&#x00D7;</mo><mn>1</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>72</mn><mo>&#x00D7;</mo><mn>4</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>77</mn><mo>&#x00D7;</mo><mn>6</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>82</mn><mo>&#x00D7;</mo><mn>6</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>87</mn><mo>&#x00D7;</mo><mn>8</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>92</mn><mo>&#x00D7;</mo><mn>4</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>97</mn><mo>&#x00D7;</mo><mn>1</mn><mo stretchy='false'>)</mo></mrow><mrow><mn>30</mn></mrow></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mrow><mn>2470</mn></mrow><mrow><mn>30</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">82.3</mn><mspace width="1ex"/><mtext fontweight="bold">decibels</mtext></mrow></math></p>
+<p><b>b</b></p>
+<p>82 is the middle of class 80 to 84.</p>
+<p>So number of locations with unacceptable noise levels is 3 + 8 + 4 + 1 = <b>16</b></p></Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>DIY store <b>A</b> considered that it was good at employing older workers. A rival store <b>B</b> disagreed and said that it was better. The two stores produced a frequency table of their workers&#x2019; ages. The table is shown below</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Age of workers (to the nearest year)</b></td><td align="center"><b>Frequency store A</b></td><td align="center"><b>Frequency store B</b></td></tr>
+<tr><td align="center">16&#x2013;25</td><td align="center">5</td><td align="center">4</td></tr>
+<tr><td align="center">26&#x2013;35</td><td align="center">16</td><td align="center">12</td></tr>
+<tr><td align="center">36&#x2013;45</td><td align="center">14</td><td align="center">10</td></tr>
+<tr><td align="center">46&#x2013;55</td><td align="center">22</td><td align="center">28</td></tr>
+<tr><td align="center">56&#x2013;65</td><td align="center">26</td><td align="center">25</td></tr>
+<tr><td align="center">66&#x2013;75</td><td align="center">14</td><td align="center">13</td></tr>
+</tbody>
+</table></p>
+<p>By comparing estimated means for each store decide which store employs more older workers.</p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Store A</mtext><mspace width="1ex"/><mfrac><mrow><mo stretchy='false'>(</mo><mn>20.5</mn><mo>&#x00D7;</mo><mn>5</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>30.5</mn><mo>&#x00D7;</mo><mn>16</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>40.5</mn><mo>&#x00D7;</mo><mn>14</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>50.5</mn><mo>&#x00D7;</mo><mn>22</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>60.5</mn><mo>&#x00D7;</mo><mn>26</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>70.5</mn><mo>&#x00D7;</mo><mn>14</mn><mo stretchy='false'>)</mo></mrow><mrow><mn>97</mn></mrow></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mrow><mn>4828.5</mn></mrow><mrow><mn>97</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">50</mn><mspace width="1ex"/><mtext fontweight="bold">years</mtext></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Store B</mtext><mspace width="1ex"/><mfrac><mrow><mo stretchy='false'>(</mo><mn>20.5</mn><mo>&#x00D7;</mo><mn>4</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>30.5</mn><mo>&#x00D7;</mo><mn>12</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>40.5</mn><mo>&#x00D7;</mo><mn>10</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>50.5</mn><mo>&#x00D7;</mo><mn>28</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>60.5</mn><mo>&#x00D7;</mo><mn>25</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>70.5</mn><mo>&#x00D7;</mo><mn>13</mn><mo stretchy='false'>)</mo></mrow><mrow><mn>92</mn></mrow></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mrow><mn>4696</mn></mrow><mrow><mn>92</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">51</mn><mspace width="1ex"/><mtext fontweight="bold">years</mtext></mrow></math></p>
+<p><b>Store B employs older workers but not by a great margin.</b></p>
+</Solution>
+</QuestionData><QuestionData number="5">
+<Question>
+<p>The speeds of vehicles passing a checkpoint were measured over a period of one hour, to the nearest mph. The data collected is shown in the grouped frequency table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b>Speed (mph)</b></td><td align="center">21&#x2013;30</td><td align="center">31&#x2013;40</td><td align="center">41&#x2013;50</td><td align="center">51&#x2013;60</td><td align="center">61&#x2013;65</td><td align="center">66&#x2013;70</td><td align="center">71&#x2013;75</td></tr>
+<tr><td align="left"><b>No. of vehicles (<i>f</i>)</b></td><td align="center">4</td><td align="center">7</td><td align="center">38</td><td align="center">42</td><td align="center">5</td><td align="center">3</td><td align="center">1</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Write down the modal class.</p>
+<p><b>b</b> Calculate the difference, to two decimal places, between the median and the mean estimated speeds.</p>
+<p><b>c</b> The speed limit on the road is 60 mph. Work out an estimate for the percentage of cars that exceeded the speed limit.</p>
+</Question>
+<Solution>
+<p><b>a 51 &#x2212; 60</b></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>mean</mtext><mo>=</mo><mfrac><mrow><mo stretchy='false'>(</mo><mn>25.5</mn><mo>&#x00D7;</mo><mn>4</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>35.5</mn><mo>&#x00D7;</mo><mn>7</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>45.5</mn><mo>&#x00D7;</mo><mn>38</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>55.5</mn><mo>&#x00D7;</mo><mn>42</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>63</mn><mo>&#x00D7;</mo><mn>5</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>68</mn><mo>&#x00D7;</mo><mn>3</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>73</mn><mo>&#x00D7;</mo><mn>1</mn><mo stretchy='false'>)</mo></mrow><mrow><mn>100</mn></mrow></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mrow><mn>5002.5</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>=</mo><mn>50.025</mn><mspace width="1ex"/><mtext>mph</mtext></mrow></math></p>
+<p>median = 50<sup>th</sup> value. This is in the 51 to 60 class</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mi>m</mi><mo>&#x2212;</mo><mn>50.5</mn></mrow><mrow><mn>60.5</mn><mo>&#x2212;</mo><mn>50.5</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>50</mn><mo>&#x2212;</mo><mn>49</mn></mrow><mrow><mn>91</mn><mo>&#x2212;</mo><mn>49</mn></mrow></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mi>m</mi><mo>&#x2212;</mo><mn>50.5</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>42</mn></mrow></mfrac></mrow></math></p>
+<p>42<i>m</i> = 10 + (49.5 &#x00D7; 42)</p>
+<p>median = 50.738 mph</p>
+<p>Difference is 50.738 &#x2212; 50.025</p>
+<p><b>Answer 0.713 mph</b></p>
+<p><b>c</b> Approximately 9% out of the 100 exceeded 60 mph</p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="E"><p><b>Exercise 2E</b></p>
+<QuestionData number="1">
+<Question>
+<p>Calculate the mean of the following data set (<i>x</i>) using the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mi>x</mi><mrow><mn>10</mn></mrow></mfrac></mrow></math>.</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>110</td><td>90</td><td>50</td><td>80</td><td>30</td><td>70</td><td>60</td></tr>
+</tbody>
+</table></p>
+</Question>
+<Solution>
+<p>11 + 9 + 5 + 8 + 3 + 7 + 6 = 49</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>49</mn></mrow><mn>7</mn></mfrac><mo>=</mo><mn>7</mn></mrow></math></p>
+<p><b>mean</b> = <b>70</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Find the mean of the following data set (<i>x</i>) using the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>3</mn></mrow><mn>7</mn></mfrac></mrow></math>.</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>52</td><td>73</td><td>31</td><td>73</td><td>38</td><td>80</td><td>17</td><td>24</td></tr>
+</tbody>
+</table></p>
+</Question><Solution>
+<p>7 + 10 + 4 + 10 + 5 + 11 + 2 + 3 = 52</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>52</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn>6.5</mn></mrow></math></p>
+<p>Mean is (6.5 &#x00D7; 7) + 3 = <b>48.5</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p><b>a</b> Calculate the mean of 1, 2, 3, 4, 5 and 6.</p>
+<p>Using your answer to <b>a</b>:</p>
+<p><b>b</b> Write down the mean of:</p>
+<p><b>i</b> 2, 4, 6, 8, 10 and 12,</p>
+<p><b>ii</b> 10, 20, 30, 40, 50 and 60,</p>
+<p><b>iii</b> 12, 22, 32, 42, 52 and 62.</p>
+</Question>
+<Solution>
+<p><b>a</b> 1 + 2 + 3 + 4 + 5 + 6 = 21 Mean <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mrow><mn>21</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn fontweight="bold">3.5</mn></mrow></math></p>
+<p><b>b</b> i) 7, coding is &#x00D7; 2</p>
+<p>ii) 35, coding is &#x00D7; 10</p>
+<p>iii) 37, coding is &#x00D7; 10 and add 2</p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The coded mean price of televisions in a shop was worked out. Using the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>65</mn></mrow><mrow><mn>200</mn></mrow></mfrac></mrow></math> the mean price was 1.5. Find the true mean price of the televisions.</p>
+</Question>
+<Solution>
+<p>(1.5 &#x00D7; 200) +65 = <b>365</b></p>
+</Solution>
+</QuestionData><QuestionData number="5">
+<Question>
+<p>The grouped frequency table shows the age (<i>a</i> years) at which a sample of 100 women had their first child.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<tr><td align="center"><b>Age of Women (<i>a</i> years)</b></td><td align="center"><b>Frequency (<i>f</i>)</b></td><td align="center"><b>Mid-point (<i>x</i>)</b></td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>14</mn></mrow><mn>2</mn></mfrac></mrow></math></td></tr>
+<tr><td align="center">11&#x2013;21</td><td align="center">11</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">21&#x2013;27</td><td align="center">24</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">27&#x2013;31</td><td align="center">27</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">31&#x2013;37</td><td align="center">26</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">37&#x2013;43</td><td align="center">12</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+</table></p>
+<p><b>a</b> Copy and complete the table</p>
+<p><b>b</b> Use the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>14</mn></mrow><mn>2</mn></mfrac></mrow></math> to calculate an estimate of the mean age at which women have their first child.</p>
+</Question><Solution>
+<p><b>a</b>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center">Age of Women (<i>a</i>)</td><td align="center">Frequency (<i>f</i>)</td><td align="center">Mid Point (<i>x</i>)</td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>y</mtext><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>14</mn></mrow><mn>2</mn></mfrac></mrow></math></td></tr>
+<tr><td align="center">11 &#x2013; 21</td><td align="center">11</td><td align="center"><b>16</b></td><td align="center"><b>1</b></td></tr>
+<tr><td align="center">21 &#x2013; 27</td><td align="center">24</td><td align="center"><b>24</b></td><td align="center"><b>5</b></td></tr>
+<tr><td align="center">27 &#x2013; 31</td><td align="center">27</td><td align="center"><b>29</b></td><td align="center"><b>7.5</b></td></tr>
+<tr><td align="center">31 &#x2013; 37</td><td align="center">26</td><td align="center"><b>34</b></td><td align="center"><b>10</b></td></tr>
+<tr><td align="center">37 &#x2013; 43</td><td align="center">12</td><td align="center"><b>40</b></td><td align="center"><b>13</b></td></tr>
+</tbody></table></p>
+<p><b>b</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Coded mean</mtext><mo>=</mo><mfrac><mrow><mo stretchy='false'>(</mo><mn>11</mn><mo>&#x00D7;</mo><mn>1</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>24</mn><mo>&#x00D7;</mo><mn>5</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>27</mn><mo>&#x00D7;</mo><mn>7.5</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>26</mn><mo>&#x00D7;</mo><mn>10</mn><mo stretchy='false'>)</mo><mo>+</mo><mo stretchy='false'>(</mo><mn>12</mn><mo>&#x00D7;</mo><mn>13</mn><mo stretchy='false'>)</mo></mrow><mrow><mn>100</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>749.5</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>=</mo><mn>7.495</mn></mrow></math></p>
+<p>Actual Mean = (7.495 &#x00D7; 2) + 14 = <b>28.99</b> = <b>29 years</b> to nearest year</p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="F"><p><b>Mixed exercise 2F</b></p>
+<QuestionData number="1">
+<Question>
+<p>The following figures give the number of children injured on English roads each month for a certain period of seven months.</p>
+<p><table width="50%">
+<tbody>
+<tr><td>55</td><td>72</td><td>50</td><td>66</td><td>50</td><td>47</td><td>38</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Write down the modal number of injuries.</p>
+<p><b>b</b> Find the median number of injuries.</p>
+<p><b>c</b> Calculate the mean number of injuries.</p>
+</Question>
+<Solution>
+<p><b>a 50</b></p>
+<p><b>b 50</b></p>
+<p><b>c 54</b></p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>The mean Science mark for one group of eight students is 65. The mean mark for a second group of 12 students is 72. Calculate the mean mark for the combined group of 20 students.</p>
+</Question><Solution>
+<p>(8 &#x00D7; 65) + (12 &#x00D7; 72) = 1384</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>1384</mn></mrow><mrow><mn>20</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">69.2</mn><mspace width="1ex"/><mtext fontweight="bold">marks</mtext></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>A computer operator transfers an hourly wage list from a paper copy to her computer. The data transferred is given below:
+<table width="80%">
+<tbody>
+<tr><td>&#x00A3;5.50</td><td>&#x00A3;6.10</td><td>&#x00A3;7.80</td><td>&#x00A3;6.10</td><td>&#x00A3;9.20</td><td>&#x00A3;91.00</td><td>&#x00A3;11.30</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Find the mean, mode and median of these data.</p>
+<p>The office manager looks at the figures and decides that something must be wrong.</p>
+<p><b>b</b> Write down, with a reason, the mistake that has probably been made.</p>
+</Question><Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>137</mn></mrow><mn>7</mn></mfrac><mo>=</mo><mn>19.57</mn></mrow></math></p>
+<p>Mode = &#x00A3;6.10</p>
+<p>Median = &#x00A3;7.80</p>
+<p>b A transfer error. Probably the value &#x00A3;91.00 is wrong</p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>A piece of data was collected from each of nine people. The data was found to have a mean value of 35.5. One of the nine people had given a value of 42 instead of a value of 32.</p>
+<p><b>a</b> Write down the effect this will have had on the mean value.</p>
+<p>The correct data value of 32 is substituted for the incorrect value of 42.</p>
+<p><b>b</b> Calculate the new mean value.</p>
+</Question><Solution>
+<p>a The mean is higher than it should be.</p>
+<p>b The mean will be (9 &#x00D7; 35.5 &#x2212; 10) &#x002F; 9</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>309.5</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mn fontweight="bold">34.39</mn></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>On a particular day in the year 2007, the prices (<i>x</i>) of six shares were as follows:</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>807</td><td>967</td><td>727</td><td>167</td><td>207</td><td>767</td></tr>
+</tbody>
+</table></p>
+<p>Use the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>7</mn></mrow><mrow><mn>80</mn></mrow></mfrac></mrow></math> to work out the mean value of the shares.</p>
+</Question><Solution>
+<p>Coded values are: 10 12 9 2 2.5 9.5</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>10</mn><mo>+</mo><mn>12</mn><mo>+</mo><mn>9</mn><mo>+</mo><mn>2</mn><mo>+</mo><mn>2.5</mn><mo>+</mo><mn>9.5</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>7.5</mn></mrow></math></p>
+<p>Uncoded this is 7.5 &#x00D7; 80 + 7 = 607</p>
+</Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The coded mean of employee&#x2019;s annual earnings (&#x00A3;<i>x</i>) for a store is 18. The code used was <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>720</mn></mrow><mrow><mn>1000</mn></mrow></mfrac></mrow></math>. Work out the uncoded mean earnings.</p>
+</Question><Solution>
+<p>18 &#x00D7; 1000 + 720 = <b>&#x00A3;18720</b></p></Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>Different teachers using different methods taught two groups of students. Both groups of students sat the same examination at the end of the course. The students&#x2019; marks are shown in the grouped frequency table.</p>
+<p><b>a</b> Work out an estimate of the mean mark for Group <i>A</i> and an estimate of the mean mark for Group <i>B</i>.</p>
+<p><b>b</b> Write down whether or not the answer to <b>a</b> suggests that one method of teaching is better than the other. Give a reason for your answer.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Exam Mark</b></td><td align="center"><b>Frequency Group <i>A</i></b></td><td align="center"><b>Frequency Group <i>B</i></b></td></tr>
+<tr><td align="center">20&#x2013;29</td><td align="center">1</td><td align="center">1</td></tr>
+<tr><td align="center">30&#x2013;39</td><td align="center">3</td><td align="center">2</td></tr>
+<tr><td align="center">40&#x2013;49</td><td align="center">6</td><td align="center">4</td></tr>
+<tr><td align="center">50&#x2013;59</td><td align="center">6</td><td align="center">13</td></tr>
+<tr><td align="center">60&#x2013;69</td><td align="center">11</td><td align="center">15</td></tr>
+<tr><td align="center">70&#x2013;79</td><td align="center">10</td><td align="center">6</td></tr>
+<tr><td align="center">80&#x2013;89</td><td align="center">8</td><td align="center">3</td></tr>
+</tbody>
+</table></p>
+</Question>
+<Solution>
+<p>a Group <i>A</i>:</p>
+<p>(1 &#x00D7; 24.5) + (3 &#x00D7; 34.5) + (6 &#x00D7; 44.5) + (6 &#x00D7; 54.5) + (11 &#x00D7; 64.5) + (10 &#x00D7; 74.5) + (8 &#x00D7; 84.5)</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean</mtext><mspace width="1ex"/><mfrac><mrow><mn>2852.5</mn></mrow><mrow><mn>45</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">63.39</mn><mspace width="1ex"/><mtext fontweight="bold">marks</mtext></mrow></math></p>
+<p>Group <i>B</i>:</p>
+<p>(1 &#x00D7; 24.5) + (2 &#x00D7; 34.5) + (4 &#x00D7; 44.5) + (13 &#x00D7; 54.5) + (15 &#x00D7; 64.5) + (6 &#x00D7; 74.5) + (3 &#x00D7; 84.5)</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>2648</mn></mrow><mrow><mn>44</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">60.18</mn><mspace width="1ex"/><mtext fontweight="bold">marks</mtext></mrow></math></p>
+<p>b The method used to teach group A is best as the mean mark is higher.</p>
+</Solution></QuestionData>
+<QuestionData number="8">
+<Question>
+<p>The table summarises the distances travelled by 150 students to college each day.</p>
+<p><b>a</b> Use interpolation to calculate the median distance for these data.</p>
+<p>The mid-point is <i>x</i> and the corresponding frequency is <i>f</i>. Calculations give the following values
+&#x03A3;f<i>x</i> = 1056</p>
+<p><b>b</b> Calculate an estimate of the mean distance for these data.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Distance (nearest km)</b></td><td align="center"><b>Number of students</b></td></tr>
+<tr><td align="center">0&#x2013;2</td><td align="center">14</td></tr>
+<tr><td align="center">3&#x2013;5</td><td align="center">24</td></tr>
+<tr><td align="center">6&#x2013;8</td><td align="center">70</td></tr>
+<tr><td align="center">9&#x2013;11</td><td align="center">32</td></tr>
+<tr><td align="center">12&#x2013;14</td><td align="center">8</td></tr>
+<tr><td align="center">15&#x2013;17</td><td align="center">2</td></tr>
+</tbody>
+</table></p>
+</Question>
+<Solution>
+<p>a We need the 75<sup>th</sup> student</p>
+<p>This is in the 6 &#x2013; 8 class.</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mi>m</mi><mo>&#x2212;</mo><mn>5.5</mn></mrow><mrow><mn>8.5</mn><mo>&#x2212;</mo><mn>5.5</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>75</mn><mo>&#x2212;</mo><mn>38</mn></mrow><mrow><mn>108</mn><mo>&#x2212;</mo><mn>38</mn></mrow></mfrac></mrow></math></p>
+<p>70m = 111 + 385 = 496</p>
+<p>median = <b>7.09</b></p>
+<p>b<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>1056</mn></mrow><mrow><mn>150</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">7.04</mn></mrow></math></p></Solution></QuestionData>
+<QuestionData number="9">
+<Question>
+<p>Chloe enjoys playing computer games.</p>
+<p>Her parents think that she spends too much time playing games. Chloe decides to keep a record of the amount of time she plays computer games each day for 50 days. She draws up a grouped frequency table to show these data.</p>
+<p>The mid-point of each class is represented by <i>x</i> and its corresponding frequency is <i>f</i>.
+(You may assume &#x03A3;<i>fx</i> = 1275)</p>
+<p><b>a</b> Calculate an estimate of the mean time Chloe spends on playing computer games each day.
+Chloe&#x2019;s parents thought that the mean was too high and suggested that she try to reduce the time spent on computer games. Chloe monitored the amount of time she spent on computer games. Chloe monitored the amount of time spent on games for another 40 days and found that at the end of 90 days her overall mean time was 26 minutes.</p>
+<p><b>b</b> Find an estimate for the mean amount of time Chloe spent on games for the 40 days.</p>
+<p><b>c</b> Comment on the two mean values.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Time to the nearest minute</b></td><td align="center"><b>Frequency</b></td></tr>
+<tr><td align="center">10&#x2013;14</td><td align="center">1</td></tr>
+<tr><td align="center">15&#x2013;19</td><td align="center">5</td></tr>
+<tr><td align="center">20&#x2013;24</td><td align="center">18</td></tr>
+<tr><td align="center">25&#x2013;29</td><td align="center">15</td></tr>
+<tr><td align="center">30&#x2013;34</td><td align="center">7</td></tr>
+<tr><td align="center">35&#x2013;39</td><td align="center">3</td></tr>
+<tr><td align="center">40&#x2013;44</td><td align="center">1</td></tr>
+</tbody>
+</table></p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>1275</mn></mrow><mrow><mn>50</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">25.5</mn><mspace width="1ex"/><mtext fontweight="bold">minutes</mtext></mrow></math></p>
+<p><b>b</b></p>
+<p>Minutes for 90 days = 90 &#x00D7; 26 = 2340 minutes</p>
+<p>Minutes for first 50 days = 1275 minutes</p>
+<p>Minutes for last 40 days = 2340 &#x2212; 1275 = 1065</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean for last 40 days</mtext><mo>=</mo><mfrac><mrow><mn>1065</mn></mrow><mrow><mn>40</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">26.63</mn><mspace width="1ex"/><mtext fontweight="bold">minutes</mtext></mrow></math></p>
+<p><b>c</b> Chloe did not reduce the number of minutes spent playing computer games each day. She increased the time. Chloe spent over a minute more on games in the last 40 days.</p>
+</Solution></QuestionData>
+<QuestionData number="10">
+<Question>
+<p>The lifetimes of 80 batteries, to the nearest hour, is shown in the table below.</p>
+<p><b>a</b> Write down the modal class for the lifetime of the batteries.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Lifetime (hours)</b></td><td align="center"><b>Number of batteries</b></td></tr>
+<tr><td align="center">6&#x2013;10</td><td align="center">2</td></tr>
+<tr><td align="center">11&#x2013;15</td><td align="center">10</td></tr>
+<tr><td align="center">16&#x2013;20</td><td align="center">18</td></tr>
+<tr><td align="center">21&#x2013;25</td><td align="center">45</td></tr>
+<tr><td align="center">26&#x2013;30</td><td align="center">5</td></tr>
+</tbody>
+</table></p>
+<p><b>b</b> Use interpolation to find the median lifetime of the batteries.</p>
+<p>The mid-point of each class is represented by <i>x</i> and its corresponding frequency by <i>f</i>, giving &#x03A3;<i>fx</i> = 1645.</p>
+<p><b>c</b> Calculate an estimate of the mean lifetime of the batteries.</p>
+<p>Another batch of 12 batteries is found to have an estimated mean lifetime of 22.3 hours.</p>
+<p><b>d</b> Find the mean lifetime for all 92 batteries.</p>
+</Question>
+<Solution>
+<p>a Modal Class is <b>21 &#x2013; 25</b> hours</p>
+<p>b We need the 40<sup>th</sup> value. This is in the 21 &#x2013; 25 class.</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mi>m</mi><mo>&#x2212;</mo><mn>20.5</mn></mrow><mrow><mn>25.5</mn><mo>&#x2212;</mo><mn>20.5</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>40</mn><mo>&#x2212;</mo><mn>30</mn></mrow><mrow><mn>75</mn><mo>&#x2212;</mo><mn>30</mn></mrow></mfrac></mrow></math></p>
+<p>45m = 50 + 922.5 = 972.5</p>
+<p>median = <b>21.6 hours</b></p>
+<p>c</p>
+<p>mean = <b>20.6 hours</b></p>
+<p><b>d</b> 12 &#x00D7; 22.3 = 267.6 hours</p>
+<p>Total hours for all 92 batteries is 267.6 + 1645 = 1912.6</p>
+<p><b>Mean life for 92 batteries is 20.8 hours</b></p>
+</Solution>
+</QuestionData>
+</Exercise>
+</Chapter>
+</Section>
+</Unit>
+</SubjectArea>
+</ProductTitle>
+</ExamBoard>
+</Level>
+</Subject>
+</Harcourt>

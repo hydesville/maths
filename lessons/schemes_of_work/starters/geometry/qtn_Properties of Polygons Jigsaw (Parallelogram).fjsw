@@ -1,0 +1,388 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='standard parallelogram jigsaw 18' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='output'/>
+    <active-option view-id='input' option-id='input.paired.18'/>
+    <active-option view-id='output' option-id='output.normal size'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+  </gui-settings>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>8 equal sides</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Regular octagon</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>4 equal sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>4 right</mtext>
+        <mo>&minus;</mo>
+        <mtext>angles</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Square</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>2 pairs of equal sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>2 pairs of equal angles</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>No right angles</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Parallelogram</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>5 sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>2 pairs of equal sides</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Pentagon with one line of symmetry</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>7 equal sides</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Regular heptagon</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>3 sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Different lengths</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>1 right</mtext>
+        <mo>&minus;</mo>
+        <mtext>angle</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Right</mtext>
+    <mo>&minus;</mo>
+    <mtext>angled, scalene triangle</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>9 sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>No equal sides</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Irregular nonagon</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>10 equal sides</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Regular decagon</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>Irregular shape</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Infinite number of sides</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Ellipse</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>4 unequal sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>1 pair of parallel sides</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Scalene trapezium</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>2 pairs of equal sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>No parallel sides</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Kite</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>3 sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>2 equal sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>1 right angle</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Right</mtext>
+    <mo>&minus;</mo>
+    <mtext>angled isosceles triangle</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>4 equal sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>No right</mtext>
+        <mo>&minus;</mo>
+        <mtext>angles</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Rhombus</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>2 pairs of equal sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>4 right</mtext>
+        <mo>&minus;</mo>
+        <mtext>angles</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Rectangle</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>8 unequal sides</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Irregular octagon</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtext>6 equal sides</mtext>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Regular hexagon</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>1 pair of equal sides</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>1 pair of parallel sides</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Isosceles trapezium</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <mtext>Regular shape</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Infinite number of sides</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mtext>Circle</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+</eqnpairs>

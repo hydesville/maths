@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+<Subject type="Mathematics">
+<Level age="">
+<ExamBoard title="AandAS">
+<ProductTitle name="Solutionbank">
+<SubjectArea name="Statistics" abbrev="S">
+<Unit number="1">
+<Section>
+<Chapter number="7" title="Regression"><p><b>Chapter 7</b></p>
+<Exercise letter="A"><p><b>Exercise 7A</b></p>
+<QuestionData number="1">
+<Question>
+<p>An NHS trust has the following data on operations.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>Number of operating theatres</b></td><td align="center">5</td><td align="center">6</td><td align="center">7</td><td align="center">8</td></tr>
+<tr><td><b>Number of operations carried out per day</b></td><td align="center">25</td><td align="center">30</td><td align="center">35</td><td align="center">40</td></tr></tbody>
+</table></p>
+<p>Which is the independent and which is the dependent variable?</p>
+</Question><Solution>
+<p>number of operating theatres &#x2013; independent variable</p>
+<p>number of operations &#x2013; dependent variable</p></Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>A park ranger collects data on the number of species of bats in a particular area.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>Number of suitable habitats</b></td><td align="center">10</td><td align="center">24</td><td align="center">28</td></tr>
+<tr><td><b>Number of species</b></td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr></tbody>
+</table></p>
+<p>Which is the independent and which is the dependent variable?</p>
+</Question><Solution>
+<p>number of suitable habitats &#x2013; independent variable</p>
+<p>number of species &#x2013; dependent variable</p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>The equation of a regression line in the form <i>y</i> = <i>a</i> + <i>bx</i> is to be found. Given that <i>S</i><sub><i>xx</i></sub> = 15, <i>S</i><sub><i>xy</i></sub> = 90, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>3</mn></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>15</mn></mrow></math> work out the values of <i>a</i> and <i>b</i>.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>90</mn></mrow><mrow><mn>15</mn></mrow></mfrac><mo>=</mo><munder accentunder='true'><mn fontweight="bold">6</mn><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></p>
+<p><i>a</i> = 15 &#x2013; (6 &#x00D7; 3) = <b><u>&#x2212;3</u></b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>Given <i>S</i><sub><i>xx</i></sub> = 30, <i>S</i><sub><i>xy</i></sub> = 165, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>4</mn></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>8</mn></mrow></math> find the equation of the regression line of <i>y</i> on <i>x</i>.</p>
+</Question><Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>165</mn></mrow><mrow><mn>30</mn></mrow></mfrac><mo>=</mo><mn>5.5</mn></mrow></math></p>
+<p><i>a</i> = 8 &#x2013; (5.5 &#x00D7; 4) = 8 &#x2013; 22 = &#x2212;14</p>
+<p>Equation is: <b><u><i>y</i> = &#x2212;14 + 5.5<i>x</i></u></b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The equation of a regression line is to be found. The following summary data is given.</p>
+<p><table width="60%"><col align="left" valign="top"/><tbody><tr><td><i>S</i><sub><i>xx</i></sub> = 40,</td><td><i>S</i><sub><i>xy</i></sub> = 80,</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>6</mn></mrow></math>,</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>12</mn></mrow></math>.</td></tr></tbody></table></p>
+<p>Find the equation of the regression line in the form <i>y</i> = <i>a</i> + <i>bx</i>.</p>
+</Question><Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>80</mn></mrow><mrow><mn>40</mn></mrow></mfrac><mo>=</mo><mn>2</mn></mrow></math></p>
+<p><i>a</i> = 12 &#x2013; (2 &#x00D7; 6) = 0</p>
+<p>Equation is: <b><u><i>y</i> = 2<i>x</i> or <i>y</i> = 0 + 2<i>x</i></u></b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>Data is collected and summarised as follows.</p>
+<p><table width="70%"><col align="left" valign="top"/><tbody><tr><td>&#x03A3;<i>x</i> = 10</td><td>&#x03A3;<i>x</i><sup>2</sup> = 30</td><td>&#x03A3;<i>y</i> = 48</td><td>&#x03A3;<i>xy</i> = 140</td><td><i>n</i> = 4.</td></tr></tbody></table></p>
+<p><b>a</b> Work out <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mn>,</mn><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover></mrow></math>, <i>S</i><sub><i>xx</i></sub> and <i>S</i><sub><i>xy</i></sub>.</p>
+<p><b>b</b> Find the equation of the regression line of <i>y</i> on <i>x</i> in the form <i>y</i> = <i>a</i> + <i>bx</i>.</p>
+</Question><Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>2.5</mn></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mfrac><mrow><mn>48</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>12</mn></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>S</mtext><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mo>&#x03A3;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>x</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mi>n</mi></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>S</mtext><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>30</mn><mo>&#x2212;</mo><mfrac><mrow><mn>10</mn><mo>&#x00D7;</mo><mn>10</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>30</mn><mo>&#x2013;</mo><mn>25</mn><mo>=</mo><munder accentunder='true'><mn fontweight="bold">5</mn><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>S</mtext><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mo>&#x03A3;</mo><mi>x</mi><mi>y</mi><mo>&#x2212;</mo><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>x</mi><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>y</mi></mrow><mi>n</mi></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>S</mtext><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>140</mn><mo>&#x2212;</mo><mfrac><mrow><mn>10</mn><mo>&#x00D7;</mo><mn>48</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>140</mn><mo>&#x2013;</mo><mn>120</mn><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">20</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></p>
+<p><b>b</b><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>20</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>4</mn></mrow></math></p>
+<p><i>a</i> = 12 &#x2013; (4 &#x00D7; 2.5) = 12 &#x2212; 10 = 2</p>
+<p>Equation is: <b><u><i>y</i> = 2 + 4<i>x</i></u></b></p></Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>For the data in the table:</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center">2</td><td align="center">4</td><td align="center">5</td><td align="center">8</td><td>10</td></tr>
+<tr><td><b><i>y</i></b></td><td align="center">3</td><td align="center">7</td><td align="center">8</td><td align="center">13</td><td align="center">17</td></tr></tbody>
+</table></p>
+<p><b>a</b> calculate <i>S</i><sub><i>xx</i></sub> and <i>S</i><sub><i>xy</i></sub>,</p>
+<p><b>b</b> find the equation of the regression line of <i>y</i> on <i>x</i> in the form <i>y</i> = <i>a</i> + <i>bx</i>.</p>
+</Question><Solution>
+<p><table width="70%"><col align="left" valign="top"/><tbody><tr><td><b>a</b> &#x03A3;<i>x</i> =29</td><td>&#x03A3;<i>x</i><sup>2</sup> = 209</td><td>&#x03A3;<i>y</i> = 48</td><td>&#x03A3;<i>xy</i> = 348</td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>x</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mn>5.8</mn><mtext>&#x2003;</mtext><mover accent='true'><mi>y</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mn>9.6</mn><mtext>&#x2003;</mtext><mi>n</mi><mo>=</mo><mn>5</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>S</mtext><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mo>&#x03A3;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>x</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mi>n</mi></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>S</mtext><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>209</mn><mo>&#x2212;</mo><mfrac><mrow><mn>29</mn><mo>&#x00D7;</mo><mn>29</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>209</mn><mo>&#x2013;</mo><mn>168.2</mn><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">40.8</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>S</mtext><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mo>&#x03A3;</mo><mi>x</mi><mi>y</mi><mo>&#x2212;</mo><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>x</mi><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>y</mi></mrow><mi>n</mi></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>S</mtext><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>348</mn><mo>&#x2212;</mo><mfrac><mrow><mn>29</mn><mo>&#x00D7;</mo><mn>48</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>348</mn><mo>&#x2013;</mo><mn>278.4</mn><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">69.6</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>x</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mfrac><mrow><mn>29</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>5.8</mn><mtext>&#x2003;</mtext><mover accent='true'><mi>y</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mfrac><mrow><mn>48</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>9.6</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>69.6</mn></mrow><mrow><mn>40.8</mn></mrow></mfrac><mo>=</mo><mn>1.70</mn><mo stretchy="false">(</mo><mn>58823</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>a</mi><mo>=</mo><mover accent='true'><mi>y</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>&#x2212;</mo><mi>b</mi><mover accent='true'><mi>x</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mn>9.6</mn><mo>&#x2013;</mo><mo stretchy="false">(</mo><mn>1.7058823</mn><mo>&#x00D7;</mo><mn>5.8</mn><mo stretchy="false">)</mo><mo>=</mo><mo>&#x2212;</mo><mn>0.29</mn><mo stretchy="false">(</mo><mn>41173</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p>Equation is: <b><u><i>y</i> = &#x2212;0.294 + 1.71<i>x</i></u></b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="8">
+<Question>
+<p>A field was divided into 12 plots of equal area. Each plot was fertilised with a different amount of fertilizer (<i>h</i>). The yield of grain (<i>g</i>) was measured for each plot. Find the equation of the regression line of <i>g</i> on <i>h</i> in the form <i>g</i> = <i>a</i> + <i>bh</i> given the following summary data.</p>
+<p><table width="80%"><tbody><tr><td>&#x03A3;<i>h</i> = 22.09</td><td>&#x03A3;<i>g</i> = 49.7</td><td>&#x03A3;<i>h</i><sup>2</sup> = 45.04</td><td>&#x03A3;<i>g</i><sup>2</sup> = 244.83</td><td>&#x03A3;<i>hg</i> = 97.778</td><td><i>n</i> = 12</td></tr></tbody></table></p>
+</Question><Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>h</mi><mi>h</mi></mrow></msub><mo>=</mo><mn>45.04</mn><mo>&#x2212;</mo><mfrac><mrow><mn>22.09</mn><mo>&#x00D7;</mo><mn>22.09</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>45.04</mn><mo>&#x2013;</mo><mn>40.66</mn><mo stretchy="false">(</mo><mn>4008</mn><mo stretchy="false">)</mo><mo>=</mo><mn>4.37</mn><mo stretchy="false">(</mo><mn>5992</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>h</mi><mi>g</mi></mrow></msub><mo>=</mo><mn>97.778</mn><mo>&#x2212;</mo><mfrac><mrow><mn>22.09</mn><mo>&#x00D7;</mo><mn>49.7</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>97.778</mn><mo>&#x2013;</mo><mn>91.48</mn><mo stretchy="false">(</mo><mn>9416</mn><mo stretchy="false">)</mo><mo>=</mo><mn>6.28</mn><mo stretchy="false">(</mo><mn>8583</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>h</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mfrac><mrow><mn>22.09</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>1.84</mn><mo stretchy="false">(</mo><mn>08333</mn><mo stretchy="false">)</mo><mtext>&#x2003;</mtext><mover accent='true'><mi>g</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mfrac><mrow><mn>49.7</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>4.14</mn><mo stretchy="false">(</mo><mn>16666</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>6.288583</mn></mrow><mrow><mn>4.375992</mn></mrow></mfrac><mo>=</mo><mn>1.43</mn><mo stretchy="false">(</mo><mn>70647</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><i>a</i> = 4.1416666 &#x2013; (1.4370647 &#x00D7; 1.8408333) = 1.49(627)</p>
+<p><b>Equation is: <u><i>g</i> = 1.50 + 1.44<i>h</i></u></b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="9">
+<Question>
+<p>An accountant monitors the number of items produced per month by a company (<i>n</i>) together with the total production costs (<i>p</i>). The table shows these data.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>Number of items, <i>n</i>, (1000s)</b></td><td align="center">21</td><td align="center">39</td><td align="center">48</td><td align="center">24</td><td align="center">72</td><td align="center">75</td><td align="center">15</td><td align="center">35</td><td align="center">62</td><td align="center">81</td><td align="center">12</td><td align="center">56</td></tr>
+<tr><td><b>Production costs, <i>p</i>, (&#x00A3;1000s)</b></td><td align="center">40</td><td align="center">58</td><td align="center">67</td><td align="center">45</td><td align="center">89</td><td align="center">96</td><td align="center">37</td><td align="center">53</td><td align="center">83</td><td align="center">102</td><td align="center">35</td><td align="center">75</td></tr></tbody>
+</table></p>
+<p><table width="90%"><col align="left" valign="top"/><tbody><tr><td>(You may use &#x03A3;<i>n</i> = 540</td><td>&#x03A3;<i>n</i><sup>2</sup> = 30 786</td><td>&#x03A3;<i>p</i> = 780</td><td>&#x03A3;<i>p</i><sup>2</sup> = 56 936</td><td>&#x03A3;<i>np</i> = 41 444)</td></tr></tbody></table></p>
+<p><b>a</b> Calculate <i>S</i><sub><i>nn</i></sub> and <i>S</i><sub><i>np</i></sub>.</p>
+<p><b>b</b> Find the equation of the regression line of <i>p</i> on <i>n</i> in the form <i>p</i> = <i>a</i> + <i>bn</i>.</p>
+</Question>
+<Solution>
+<p><b>a)</b> &#x03A3;<i>n</i> = 540 &#x03A3;<i>n</i><sup>2</sup> = 30786 &#x03A3;<i>p</i> = 780 &#x03A3;<i>np</i> = 41444</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>n</mi><mi>n</mi></mrow></msub><mo>=</mo><mn>30786</mn><mo>&#x2212;</mo><mfrac><mrow><mn>540</mn><mo>&#x00D7;</mo><mn>540</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>30786</mn><mo>&#x2212;</mo><mn>24300</mn><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">6486</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>n</mi><mi>p</mi></mrow></msub><mo>=</mo><mn>41444</mn><mo>&#x2212;</mo><mfrac><mrow><mn>540</mn><mo>&#x00D7;</mo><mn>780</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>41444</mn><mo>&#x2212;</mo><mn>35100</mn><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">6344</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></p>
+<p><b>b)</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mover accent='true'><mi>n</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mn>45</mn><mtext>&#x2003;</mtext><mover accent='true'><mi>p</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mn>65</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>6344</mn></mrow><mrow><mn>6486</mn></mrow></mfrac><mo>=</mo><mn>0.97</mn><mo stretchy="false">(</mo><mn>81066</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><i>a</i> = 65 &#x2212; (0.9781066 &#x00D7; 45) = 65 &#x2212; 44.0148 = 20.98(52)</p>
+<p><b>Equation is: <u><i>y</i> = 20.98 + 0.978<i>x</i></u></b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="10">
+<Question>
+<p>The relationship between the number of coats of paint applied to a boat and the resulting weather resistance was tested in a laboratory. The data collected are shown in the table.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>Coats of paint (<i>x</i>)</b></td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td><td align="center">5</td></tr>
+<tr><td><b>Protection (years) (<i>y</i>)</b></td><td align="center">1.4</td><td align="center">2.9</td><td align="center">4.1</td><td align="center">5.8</td><td align="center">7.2</td></tr></tbody>
+</table></p>
+<p><b>a</b> Calculate <i>S</i><sub><i>xx</i></sub> and <i>S</i><sub><i>xy</i></sub>.</p>
+<p><b>b</b> Find the equation of the regression line of <i>y</i> on <i>x</i> in the form <i>y</i> = <i>a</i> + <i>bx</i>.</p>
+</Question><Solution>
+<p><b>a)</b> &#x03A3;<i>x</i> = 15 &#x03A3;<i>x</i><sup>2</sup> = 55 &#x03A3;<i>y</i> = 21.4 &#x03A3;<i>xy</i> = 78.7 n = 5</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mo>&#x03A3;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;</mo><mfrac><mrow><msup><mrow><mo stretchy="false">(</mo><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>x</mi><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mrow><mi>n</mi></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>55</mn><mo>&#x2212;</mo><mfrac><mrow><mn>15</mn><mo>&#x00D7;</mo><mn>15</mn></mrow><mn>5</mn></mfrac><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">10</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mo>&#x03A3;</mo><mi>x</mi><mi>y</mi><mo>&#x2212;</mo><mfrac><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>x</mi><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>y</mi></mrow><mi>n</mi></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>78.7</mn><mo>&#x2212;</mo><mfrac><mrow><mn>15</mn><mo>&#x00D7;</mo><mn>21.4</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>78.7</mn><mo>&#x2013;</mo><mn>64.2</mn><mo>=</mo><munder accentunder='true'><mrow><mn fontweight="bold">14.5</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></p>
+<p><b>b</b><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>x</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mn>3</mn><mtext>&#x2003;</mtext><mover accent='true'><mi>y</mi><mo stretchy='true'>&#x00AF;</mo></mover><mo>=</mo><mn>4.28</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>14.5</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn>1.45</mn></mrow></math></p>
+<p><i>a</i> = 4.28 &#x2212; (1.45 &#x00D7; 3) = 4.28 &#x2212; 4.35 = &#x2212;0.07</p>
+<p>Equation is: <b><u><i>y</i> = &#x2212; 0.07 + 1.45<i>x</i></u></b></p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="B"><p><b>Exercise 7B</b></p>
+<QuestionData number="1">
+<Question>
+<p>Given that the coding <i>p</i> = <i>x</i> + 2 and <i>q</i> = <i>y</i> &#x2212; 3 has been used to get the regression equation <i>p</i> + <i>q</i> = 5 find the equation of the regression line of <i>y</i> on <i>x</i> in the form <i>y</i> = <i>a</i> + <i>bx</i>.</p>
+</Question>
+<Solution>
+<p>(<i>x</i> + 2) + (<i>y</i> &#x2212; 3) = 5</p>
+<p><i>x</i> + <i>y</i> &#x2212; 1 = 5</p>
+<p><b><i>y</i> = 6 &#x2212; <i>x</i></b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Given the coding <i>x</i> = <i>p</i> &#x2212; 10 and <i>y</i> = <i>s</i> &#x2212; 100 and the regression equation <i>x</i> = <i>y</i> + 2 work out the equation of the regression line of <i>s</i> on <i>p</i>.</p>
+</Question>
+<Solution>
+<p><i>p</i> &#x2212; 10 = <i>s</i> &#x2212; 100 + 2</p>
+<p><b><i>s</i> = <i>p</i> + 88</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>Given that the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>g</mi><mo>=</mo><mfrac><mi>x</mi><mn>3</mn></mfrac></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>h</mi><mo>=</mo><mfrac><mi>y</mi><mn>4</mn></mfrac><mo>&#x2212;</mo><mn>2</mn></mrow></math> has been used to get the regression equation <i>h</i> = 6 &#x2212; 4<i>g</i> find the equation of the regression line of <i>y</i> on <i>x</i>.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mi>y</mi><mn>4</mn></mfrac><mo>&#x2212;</mo><mn>2</mn><mo>=</mo><mn>6</mn><mo>&#x2013;</mo><mn>4</mn><mrow><mo>(</mo><mrow><mfrac><mi>x</mi><mn>3</mn></mfrac></mrow><mo>)</mo></mrow></mrow></math></p>
+<p>3<i>y</i> &#x2212; 24 = 72 &#x2013; 16<i>x</i> (multiply through by 12)</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn fontweight="bold">3</mn><mi fontweight="bold">y</mi><mo fontweight="bold">=</mo><mn fontweight="bold">96 &#x2013; 16</mn><mi fontweight="bold">x</mi></mrow></math>&#x00A0;<b>so</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi fontweight="bold">y</mi><mo>=</mo><mn fontweight="bold">32</mn><mo fontweight="bold">&#x2212;</mo><mfrac><mrow><mn>16</mn></mrow><mn>3</mn></mfrac><mi fontweight="bold">x</mi></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The regression line of <i>t</i> on <i>s</i> is found by using the coding <i>x</i> = <i>s</i> &#x2212; 5 and <i>y</i> = <i>t</i> &#x2212; 10.</p>
+<p>The regression equation of <i>y</i> on <i>x</i> is <i>y</i> = 14 + 3<i>x</i>.</p>
+<p>Work out the regression line of <i>t</i> on <i>s</i>.</p>
+</Question>
+<Solution>
+<p><i>t</i> &#x2212; 10 = 14 + 3(s &#x2013; 5)</p>
+<p><i>t</i> = 24 + 3<i>s</i> &#x2013; 15</p>
+<p><b><i>t</i> = 9 + 3<i>s</i></b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>A regression line of <i>c</i> on <i>d</i> is worked out using the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>x</mi><mo>=</mo><mfrac><mi>c</mi><mn>2</mn></mfrac></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mi>d</mi><mrow><mn>10</mn></mrow></mfrac></mrow></math>.</p>
+<p><b>a</b> Given <i>S</i><sub><i>xy</i></sub> = 120, <i>S</i><sub><i>xx</i></sub> = 240, the mean of <i>x</i> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo stretchy="false">(</mo><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo stretchy="false">)</mo></mrow></math> is 5 and the mean of <i>y</i> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo stretchy="false">(</mo><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo stretchy="false">)</mo></mrow></math> is 6, calculate the regression line of <i>y</i> on <i>x</i>.</p>
+<p><b>b</b> Find the regression line of <i>d</i> on <i>c</i>.</p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>120</mn></mrow><mrow><mn>240</mn></mrow></mfrac><mo>=</mo><mn>0.5</mn></mrow></math></p>
+<p><i>a</i> = 6 &#x2013; 0.5 &#x00D7; 5 = 3.5</p>
+<p><b><i>y</i> = 3.5 + 0.5<i>x</i></b></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mi>d</mi><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn>3.5</mn><mo>+</mo><mn>0.5</mn><mo>&#x00D7;</mo><mfrac><mi>c</mi><mn>2</mn></mfrac></mrow></math> (multiply by 10)</p>
+<p><b><i>d</i> = 35 + 2.5<i>c</i></b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>Some data on heights (<i>h</i>) and weights (<i>w</i>) were collected. The results were coded such that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>x</mi><mo>=</mo><mfrac><mrow><mi>h</mi><mo>&#x2212;</mo><mn>8</mn></mrow><mn>2</mn></mfrac></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mi>w</mi><mn>5</mn></mfrac></mrow></math>. The coded results are shown in the table.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>1</td><td>5</td><td>10</td><td>16</td><td>17</td></tr>
+<tr><td><i>y</i></td><td>9</td><td>12</td><td>16</td><td>21</td><td>23</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Calculate <i>S</i><sub><i>xy</i></sub> and <i>S</i><sub><i>xx</i></sub> and use them to find the equation of the regression line of <i>y</i> on <i>x</i>.</p>
+<p><b>b</b> Find the equation of the regression line of <i>w</i> on <i>h</i>.</p>
+</Question>
+<Solution>
+<p><b>a</b> &#x03A3;<i>x</i> = 49 &#x03A3;<i>x</i><sup>2</sup> = 671 &#x03A3;<i>y</i> = 81 &#x03A3;<i>xy</i> = 956</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>956</mn><mo>&#x2212;</mo><mfrac><mrow><mn>49</mn><mo>&#x00D7;</mo><mn>81</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>956</mn><mo>&#x2013;</mo><mn>793.8</mn><mo>=</mo><mn fontweight="bold">162.2</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>671</mn><mo>&#x2212;</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>x</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>5</mn></mfrac><mo>=</mo><mn>671</mn><mo>&#x2212;</mo><mfrac><mrow><mn>2401</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>671</mn><mo>&#x2013;</mo><mn>480.2</mn><mo>=</mo><mn fontweight="bold">190.8</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>16.2</mn><mtext>&#x2003;</mtext><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>9.8</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>162.2</mn></mrow><mrow><mn>190.8</mn></mrow></mfrac><mo>=</mo><mn>0.85</mn><mo>&#x2026;</mo><mo>&#x2026;</mo><mn>..</mn></mrow></math></p>
+<p><i>a</i> = 16.2 &#x2212; (0.85 &#x00D7; 9.8) = 16.2 &#x2013; 8.33 &#x2026;.. = 7.87</p>
+<p>Equation of <i>y</i> on <i>x</i> is: <b><i>y</i> = 7.87 + 0.85<i>x</i></b></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mi>w</mi><mn>5</mn></mfrac><mo>=</mo><mn>7.87</mn><mo>+</mo><mn>0.85</mn><mrow><mo>(</mo><mrow><mfrac><mrow><mi>h</mi><mo>&#x2212;</mo><mn>8</mn></mrow><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mtext>&#x2009;</mtext><mo stretchy="false">(</mo><mtext>multiply</mtext><mtext>&#x2009;</mtext><mtext>by</mtext><mtext>&#x2009;</mtext><mn>5</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><i>w</i> = 39.35 + 2.125(<i>h</i> &#x2212; 8)</p>
+<p><i>w</i> = 39.35 + 2.125<i>h</i> &#x2212; 17</p>
+<p><b><i>w</i> = 22.35 + 2.125<i>h</i></b></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="C"><p><b>Exercise 7C</b></p>
+<QuestionData number="1">
+<Question>
+<p>Given the regression line <i>y</i> = 24 &#x2212; 3<i>x</i> find the value of <i>y</i> when <i>x</i> is 6.</p>
+</Question>
+<Solution>
+<p><i>y</i> = 24 &#x2212; (3 &#x00D7; 6) = 6</p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>The regression line for the weight (<i>w</i>) in grams on the volume (<i>v</i>) in cm<sup>3</sup> for a sample of small marbles is <i>w</i> = 300 + 12<i>v</i>.</p>
+<p>Calculate the weight when the volume is 7 cm<sup>3</sup>.</p>
+</Question>
+<Solution>
+<p><i>w</i> = 300 + (12 &#x00D7; 7) = 384</p>
+<p>Weight is <b>384</b> grams</p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p><b>a</b> State what is meant by extrapolation.</p>
+<p><b>b</b> State what is meant by interpolation.</p>
+</Question>
+<Solution>
+<p><b>a</b> Extrapolation means using the regression line to estimate outside the range of the data collected. It can be unreliable.</p>
+<p><b>b</b> Interpolation means using the regression line to estimate within the range of the data collected. It is usually reasonably reliable.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>12 children between the ages (<i>x</i>) of five and 11 years were asked how much pocket money (<i>y</i>) they were given each week. The equation for the regression line of <i>y</i> on <i>x</i> was found to be <i>y</i> = 2<i>x</i> &#x2212; 8.</p>
+<p><b>a</b> Use the equation to estimate the amount of money a seven year old would get. State, with a reason, whether or not this is a reliable estimate.</p>
+<p><b>b</b> One of the children suggested that this equation must be wrong since it showed that a three year old would get a negative amount of pocket money. Explain why this has happened.</p>
+</Question>
+<Solution>
+<p><b>a</b>&#x00A0;<i>y</i> = (2 &#x00D7; 7) &#x2212; 8 = 6</p>
+<p>A 7 year old would get <b>&#x00A3;6.00</b>. This is a reasonable estimate as 7 years is within the range of ages asked. It is interpolation.</p>
+<p><b>b</b> This would involve extrapolation, which may not be reliable. Three years old is outside the range of ages asked. A three year old is probably not given pocket money.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The pulse rates (<i>y</i>) of 10 people were measured after doing different amounts of exercise (<i>x</i>) for between two and 10 minutes. The regression equation <i>y</i> = 0.75<i>x</i> + 72 refers to these data. The equation seems to suggest that someone doing 30 minutes of exercise would have a pulse rate of 94.5. State whether or not this is sensible. Give a reason for your answer.</p>
+</Question>
+<Solution>
+<p>This is not a sensible estimate since the data collected only covers 2 to 10 minutes. The answer 94.5 involves extrapolation. In fact the pulse rate can not keep rising. 30 minutes is a long way outside the limits of the data.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>Over a period of time the sales, (<i>y</i>) in thousands, of 10 similar text books and the amount, (<i>x</i>) in &#x00A3; thousands, spent on advertising each book were recorded. The greatest amount spent on advertising was &#x00A3;4.4 thousand, and the least amount was &#x00A3;0.75 thousand.</p>
+<p>An equation of the regression line for <i>y</i> on <i>x</i> was worked out for the data.</p>
+<p>The equation was <i>y</i> = 0.93 + 1.1<i>x</i>.</p>
+<p><b>a</b> Use the equation to estimate the sales of a text book if the amount spent on advertising is to be set at &#x00A3;2.65 thousand. State, with a reason, whether or not this is a reliable estimate.</p>
+<p><b>b</b> Use the equation to estimate the sales of the book if the amount to be spent on advertising is &#x00A3;8000. State, with a reason, whether or not this is a reliable estimate.</p>
+<p><b>c</b> Explain what the value 1.1 tells you about the relationship between the sales of books and the amount spent on advertising.</p>
+<p><b>d</b> Interpret the meaning of the figure 0.93.</p>
+</Question>
+<Solution>
+<p><b>a</b>&#x00A0;<i>y</i> = 0.93 + (1.1 &#x00D7; 2.65) = <b>3.845</b> thousands. This is reasonably reliable since &#x00A3;2.65 thousand is within the range of the collected data. It involves interpolation.</p>
+<p><b>b</b>&#x00A0;<i>y</i> = 0.93 + (1.1 &#x00D7; 8) = 9.73 thousands. This may be unreliable since &#x00A3;8 thousand is outside the range of the data collected. It involves extrapolation.</p>
+<p><b>c</b> 1.1 thousand is the number of extra books sold for each &#x00A3;1 thousand spent on advertising.</p>
+<p><b>d</b> 0.93 thousand is the number of books likely to be sold if there is no money spent on advertising. This is only just outside the range of values so it is a reasonably reliable estimate.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>Research was done to see if there is a relationship between finger dexterity and the ability to do work on a production line. The data is shown in the table.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>Dexterity Score (<i>x</i>)</b></td><td>2.5</td><td>3</td><td>3.5</td><td>4</td><td>5</td><td>5</td><td>5.5</td><td>6.5</td><td>7</td><td>8</td></tr>
+<tr><td><b>Productivity (<i>y</i>)</b></td><td>80</td><td>130</td><td>100</td><td>220</td><td>190</td><td>210</td><td>270</td><td>290</td><td>350</td><td>400</td></tr>
+</tbody>
+</table></p>
+<p>The equation of the regression line for these data is <i>y</i> = &#x2212;59 + 57<i>x</i></p>
+<p><b>a</b> Use the equation to estimate the productivity of someone with a dexterity of 6.</p>
+<p><b>b</b> State the contextual meaning of the figure 57.</p>
+<p><b>c</b> State, giving in each case a reason, whether or not it would be reasonable to use this equation to work out the productivity of someone with dexterity of:
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>i</b>2</td><td><b>ii</b> 14.</td>
+</tr>
+</tbody></table></p>
+</Question>
+<Solution>
+<p><b>a</b>&#x00A0;<i>y</i> = &#x2212;59 + (57 &#x00D7; 6) = 283</p>
+<p><b>b</b> 57 is the gradient. For every one rise in the dexterity production rises by 57.</p>
+<p><b>c i)</b> 2 may be a little unreliable since it lies just outside the values in the table. It would involve extrapolation.</p>
+<p><b>ii)</b> 14 could be very unreliable as it lies well outside the range of the values in the table. It would involve extrapolation.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="8">
+<Question>
+<p>A regression line of <i>y</i> = 5 + 3<i>x</i> is found using 10 data sets. Another piece of data is recorded which when put on a scatter diagram with the original data proves to be well above the regression line for all the other data. Write down whether or not the regression equation would change if this piece of data were included in the calculation.</p>
+</Question>
+<Solution>
+<p>The equation of the regression line would change. The line is likely to tilt.</p>
+</Solution>
+</QuestionData>
+</Exercise>
+ <Exercise letter="D"><p><b>Mixed exercise 7D</b></p>
+<QuestionData number="1">
+<Question>
+<p>A metal rod was found to increase in length as it was heated. The temperature (<i>t</i>) and the increase in length (<i>l</i> mm) were measured at intervals between 30&#x00B0;C and 400&#x00B0;C degrees. The regression line of <i>l</i> on <i>t</i> was found to be <i>l</i> = 0.009<i>t</i> &#x2212; 0.25.</p>
+<p><b>a</b> Find the increase in length for a temperature of 300&#x00B0;C.</p>
+<p><b>b</b> Find the increase in length for a temperature of 530&#x00B0;C.</p>
+<p><b>c</b> Write down, with reasons, why the answer to <b>a</b> might be reliable and the answer <b>b</b> unreliable.</p>
+</Question>
+<Solution>
+ <p><b>a</b>&#x00A0;<i>l</i> = (0.009 &#x00D7; 300) &#x2212; 0.25. = <b>2.45mm</b></p>
+<p><b>b</b>&#x00A0;<i>l</i> = (0.009 &#x00D7; 530) &#x2212; 0.25. = <b>4.52mm</b></p>
+<p><b>c</b> a is likely to be a reasonable estimate since it involves interpolation. 300&#x00B0;C is within the range of the data covered.</p>
+<p>b involves extrapolation so is likely to be unreliable. 530&#x00B0;C is outside the range of the data used. The metal might well melt before this temperature is reached.</p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Two variables <i>s</i> and <i>t</i> are thought to be connected by a law of the form <i>t</i> = <i>a</i> + <i>bs</i>, where <i>a</i> and <i>b</i> are constants.</p>
+<p><b>a</b> Use the summary data:</p>
+<p>
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>s</i> = 553</td><td>&#x03A3;<i>t</i> = 549</td><td>&#x03A3;<i>st</i> = 31 185</td><td><i>n</i> = 12</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>s</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>46.0833</mn></mrow></math></td></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>t</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>45.75</mn></mrow></math></td><td>S<sub><i>ss</i></sub> = 6193</td><td/><td/><td/></tr></tbody></table></p>
+<p>to work out the regression line of <i>t</i> on <i>s</i>.</p>
+<p><b>b</b> Find the value of <i>t</i> when <i>s</i> is 50</p>
+</Question>
+<Solution>
+<p><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi mathvariant="normal">S</mi><mrow><mi>s</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>31185</mn><mo>&#x2212;</mo><mfrac><mrow><mn>553</mn><mo>&#x00D7;</mo><mn>549</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>31185</mn><mo>&#x2212;</mo><mn>25299.75</mn><mo>=</mo><mn>5885.25</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>5885.25</mn></mrow><mrow><mn>6193</mn></mrow></mfrac><mo>=</mo><mn>0.959</mn><mo stretchy="false">(</mo><mn>3067</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><i>a</i> = 45.75 &#x2212; (0.950&#x2026; &#x00D7; 46.083)</p>
+<p><i>a</i> = 45.75 &#x2212; 43.792(988)</p>
+<p><i>a</i> = 1.957</p>
+<p><i>t</i> = 1.96 + 0.95<i>s</i></p>
+<p><b>b</b>&#x00A0;<i>t</i> = 1.96 + (0.95 &#x00D7; 50)</p>
+<p>&#x00A0;&#x00A0;&#x00A0;<i>t</i> = 49.46</p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>A biologist recorded the breadth (<i>x</i> cm) and the length (<i>y</i> cm) of 12 beech leaves. The data collected can be summarised as follows.</p>
+<p>
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>x</i><sup>2</sup> = 97.73</td><td>&#x03A3;<i>x</i> = 33.1</td><td>&#x03A3;<i>y</i> = 66.8</td><td>&#x03A3;<i>xy</i> = 195.94</td></tr></tbody></table></p>
+<p><b>a</b> Calculate <i>S</i><sub><i>xx</i></sub> and <i>S</i><sub><i>xy</i></sub>.</p>
+<p><b>b</b> Find the equation of the regression line of <i>y</i> on <i>x</i> in the form <i>y</i> = <i>a</i> + <i>bx</i>.</p>
+<p><b>c</b> Predict the length of a beech leaf that has a breadth of 3.0 cm.</p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>97.73</mn><mo>&#x2212;</mo><mfrac><mrow><mn>33.1</mn><mo>&#x00D7;</mo><mn>33.1</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>97.73</mn><mo>&#x2212;</mo><mn>91.30</mn><mo>=</mo><mn fontweight="bold">6.43</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>195.94</mn><mo>&#x2212;</mo><mfrac><mrow><mn>33.1</mn><mo>&#x00D7;</mo><mn>66.8</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>195.94</mn><mo>&#x2212;</mo><mn>184.26</mn><mo>=</mo><mn fontweight="bold">11.68</mn></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mfrac><mrow><mn>33.1</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>2.76</mn><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mfrac><mrow><mn>66.8</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>5.57</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>11.68</mn></mrow><mrow><mn>6.43</mn></mrow></mfrac><mo>=</mo><mn>1.82</mn></mrow></math></p>
+<p><i>a</i> = 5.57 &#x2212; (1.82 &#x00D7; 2.76) = 5.57 &#x2212; 5.02 = 0.55</p>
+<p>Equation is: <b><i>y</i> = 0.55 + 1.82<i>x</i></b></p>
+<p><b>c</b> length = 0.55 + (1.82 &#x00D7; 3) = <b>6.01</b> cm</p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>Energy consumption is claimed to be a good predictor of Gross National Product. An economist recorded the energy consumption (<i>x</i>) and the Gross National Product (<i>y</i>) for eight countries. The data are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<tr><td align="left"><b>Energy Consumption <i>x</i></b></td><td align="center">3.4</td><td align="center">7.7</td><td align="center">12.0</td><td align="center">75</td><td align="center">58</td><td align="center">67</td><td align="center">113</td><td align="center">131</td></tr>
+<tr><td align="left"><b>Gross National Product <i>y</i></b></td><td align="center">55</td><td align="center">240</td><td align="center">390</td><td align="center">1100</td><td align="center">1390</td><td align="center">1330</td><td align="center">1400</td><td align="center">1900</td></tr>
+</table></p>
+<p><b>a</b> Calculate <i>S</i><sub><i>xy</i></sub> and <i>S</i><sub><i>xx</i></sub>.</p>
+<p><b>b</b> Find the equation of the regression line of <i>y</i> on <i>x</i> in the form <i>y</i> = <i>a</i> + <i>bx</i>.</p>
+<p><b>c</b> Estimate the Gross National Product of a country that has an energy consumption of 100.</p>
+<p><b>d</b> Estimate the energy consumption of a country that has a Gross National Product of 3500.</p>
+<p><b>e</b> Comment on the reliability of your answer to <b>d</b>.</p>
+</Question>
+<Solution>
+<p><b>a</b> <table width="90%"><col align="left" valign="top"/><tbody><tr><td>&#x03A3;<i>x</i><sup>2</sup> = 43622.85</td><td>&#x03A3;<i>x</i> = 467.1</td><td>&#x03A3;<i>y</i> = 7805</td><td>&#x03A3;<i>xy</i> = 666045</td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>43622.85</mn><mo>&#x2212;</mo><mfrac><mrow><mn>467.1</mn><mo>&#x00D7;</mo><mn>467.1</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn>43622.85</mn><mo>&#x2212;</mo><mn>27272.80</mn><mo>&#x2026;.</mo><mo>=</mo><mn fontweight="bold">16350.048&#x2026;</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>666045</mn><mo>&#x2212;</mo><mfrac><mrow><mn>467.1</mn><mo>&#x00D7;</mo><mn>7805</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn>666045</mn><mo>&#x2212;</mo><mn>455714.43</mn><mo>=</mo><mn fontweight="bold">210330.56&#x2026;</mn></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>58.3875</mn><mtext>&#x2003;</mtext><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>975.625</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>210330.56</mn><mo>&#x2026;</mo></mrow><mrow><mn>16350.04</mn><mo>&#x2026;</mo></mrow></mfrac><mo>=</mo><mn>12.864</mn><mo>&#x2026;</mo><mo>&#x2026;</mo></mrow></math></p>
+<p><i>a</i> = 975.625 &#x2212; (12.86&#x2026; &#x00D7; 58.3875) = 975.625 &#x2212; 751.10939 = 224.515&#x2026; &#x2026;</p>
+<p>Equation is: <b><i>y</i> = 224.52 + 12.86<i>x</i></b></p>
+<p><b>c</b> Gross National product = 224.515.. + (12.86&#x2026; &#x00D7; 100) = <b>1510.5</b></p>
+<p><b>d</b> 3500 = 224.515&#x2026; + 12.864..<i>x</i></p>
+<p>12.864..<i>x</i> = 3500 &#x2212; 224.515&#x2026;</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>x</mi><mo>=</mo><mfrac><mrow><mn>3275.48..</mn></mrow><mrow><mn>12.864..</mn></mrow></mfrac><mo>=</mo><mn>254.6</mn></mrow></math></p>
+<p>Energy consumption = <b>254.6</b></p>
+<p><b>e</b> This answer is likely to be unreliable as it involves extrapolation. 3500 is well outside the limits of the data set used.</p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>In an environmental survey on the survival of mammals the tail length <i>t</i> (cm) and body length <i>m</i> (cm) of a random sample of six small mammals of the same species were measured.</p>
+<p>These data are coded such that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>x</mi><mo>=</mo><mfrac><mi>m</mi><mn>2</mn></mfrac></mrow></math> and <i>y</i> = <i>t</i> &#x2212; 2.</p>
+<p>The data from the coded records are summarised below.</p>
+<p>
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>y</i> = 13.5</td><td>&#x03A3;<i>x</i> = 25.5</td><td>&#x03A3;<i>xy</i> = 84.25</td><td><i>S</i><sub><i>xx</i></sub> = 59.88</td></tr></tbody></table></p>
+<p><b>a</b> Find the equation of the regression line of <i>y</i> on <i>x</i> in the form <i>y</i> = <i>ax</i> + <i>b</i>.</p>
+<p><b>b</b> Hence find the equation of the regression line of <i>t</i> on <i>m</i>.</p>
+<p><b>c</b> Predict the tail length of a mammal that has a body length of 10 cm.</p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>84.25</mn><mo>&#x2212;</mo><mfrac><mrow><mn>25.5</mn><mo>&#x00D7;</mo><mn>13.5</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>84.25</mn><mo>&#x2212;</mo><mn>57.375</mn><mo>=</mo><mn>26.875</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>4.25</mn><mtext>&#x2003;</mtext><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>2.25</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>26.875</mn></mrow><mrow><mn>59.88</mn></mrow></mfrac><mo>=</mo><mn>0.4488</mn><mo>&#x2026;</mo><mn>..</mn></mrow></math></p>
+<p><i>a</i> = 2.25 &#x2212; (0.4488&#x2026; &#x00D7; 4.25) = 2.25 &#x2212; 1.9074 = 0.3425&#x2026;</p>
+<p>Equation is <b><i>y</i> = 0.343 + 0.449<i>x</i></b></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi>t</mi><mo>&#x2212;</mo><mn>2</mn><mo>=</mo><mn>0.343..</mn><mo>+</mo><mn>0.448..</mn><mo>(</mo><mfrac><mi>m</mi><mn>2</mn></mfrac><mo>)</mo></mrow></math></p>
+<p><b><i>t</i> = 2.343 + 0.224<i>m</i></b></p>
+<p><b>c</b> tail length = 2.343 + (0.224 &#x00D7; 10) = <b>4.58 cm</b></p>
+</Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>A health clinic counted the number of breaths per minute (<i>r</i>) and the number of pulse beats (<i>p</i>) per minute for 10 people doing various activities. The data are shown in the table.</p>
+<p>The data are coded such that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>x</mi><mo>=</mo><mfrac><mrow><mi>r</mi><mo>&#x2212;</mo><mn>10</mn></mrow><mn>2</mn></mfrac></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>p</mi><mo>&#x2212;</mo><mn>50</mn></mrow><mn>2</mn></mfrac></mrow></math>.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<tr><td align="left"><b><i>x</i></b></td><td align="center">3</td><td align="center">5</td><td align="center">5</td><td align="center">7</td><td align="center">8</td><td align="center">9</td><td align="center">9</td><td align="center">10</td><td align="center">12</td><td align="center">13</td></tr>
+<tr><td align="left"><b><i>y</i></b></td><td align="center">4</td><td align="center">9</td><td align="center">10</td><td align="center">11</td><td align="center">17</td><td align="center">15</td><td align="center">17</td><td align="center">19</td><td align="center">22</td><td align="center">27</td></tr>
+</table></p>
+<p>(You may use &#x03A3;<i>x</i> = 81 &#x03A3;<i>x</i><sup>2</sup> = 747 &#x03A3;<i>y</i> = 151 &#x03A3;<i>y</i><sup>2</sup> = 2695 &#x03A3;<i>xy</i> = 1413.)</p>
+<p><b>a</b> Calculate <i>S</i><sub><i>xy</i></sub> and <i>S</i><sub><i>xx</i></sub>.</p>
+<p><b>b</b> Find the equation of the regression line of <i>y</i> on <i>x</i> in the form <i>y</i> = <i>a</i> + <i>bx</i>.</p>
+<p><b>c</b> Find the equation of the regression line for <i>p</i> on <i>r</i>.</p>
+<p><b>d</b> Estimate the number of pulse beats per minute for someone who is taking 22 breaths per minute.</p>
+<p><b>e</b> Comment on the reliability of your answer to <b>e</b>.</p>
+</Question>
+<Solution>
+<p><b>a</b> <table width="90%"><col align="left" valign="top"/><tbody><tr><td>&#x03A3;<i>x</i> = 81</td><td>&#x03A3;<i>y</i> = 151</td><td>&#x03A3;<i>x</i><sup>2</sup> = 747</td><td>&#x03A3;<i>xy</i> = 1413</td><td>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>8.1</mn></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>15.1</mn></mrow></math></td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>747</mn><mo>-</mo><mfrac><mrow><mn>81</mn><mo>&#x00D7;</mo><mn>81</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn>747</mn><mo>&#x2212;</mo><mn>656.1</mn><mo>=</mo><mn fontweight="bold">90.9</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>1413</mn><mo>-</mo><mfrac><mrow><mn>81</mn><mo>&#x00D7;</mo><mn>151</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn>1413</mn><mo>&#x2212;</mo><mn>1223.1</mn><mo>=</mo><mn fontweight="bold">189.9</mn></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>189.9</mn></mrow><mrow><mn>90.9</mn></mrow></mfrac><mo>=</mo><mn>2.089</mn><mo>&#x2026;..</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>8.1</mn><mtext>&#x2003;</mtext><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>15.1</mn></mrow></math></p>
+<p><b><i>a</i></b> = 15.1 &#x2212; (2.089&#x2026; &#x00D7; 8.1) = 15.1 &#x2212; 16.9217&#x2026;. = &#x2212;1.82&#x2026;</p>
+<p>Equation is: <b><i>y</i> = &#x2212;1.82 + 2.09<i>x</i></b></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mi>p</mi><mo>&#x2212;</mo><mn>50</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mo>&#x2212;</mo><mn>1.82</mn><mo>+</mo><mn>2.09</mn><mo>(</mo><mfrac><mrow><mi>r</mi><mo>&#x2212;</mo><mn>10</mn></mrow><mn>2</mn></mfrac><mo>)</mo><mspace width="1ex"/><mtext>(multiply by 2)</mtext></mrow></math></p>
+<p><i>p</i> &#x2212; 50 = &#x2212;3.64 + 2.09<i>r</i> &#x2212; 20.9</p>
+<p><b><i>p</i> = 25.46 + 2.09<i>r</i></b></p>
+<p><b>d</b> Pulse Beats = 25.46 + (2.09 &#x00D7; 22) = <b>71.44</b></p>
+<p><b>e</b> The answer to d is reasonably reliable since it involves interpolation. 22 is within the range of the data set used.</p>
+</Solution></QuestionData>
+<QuestionData number="7">
+<Question>
+<p>A farm food supplier monitors the number of hens kept (<i>x</i>) against the weekly consumption of hen food (<i>y</i> kg) for a sample of 10 small holders. He records the data and works out the regression line for <i>y</i> on <i>x</i> to be <i>y</i> = 0.16 + 0.79<i>x</i>.</p>
+<p><b>a</b> Write down a practical interpretation of the figure 0.79.</p>
+<p><b>b</b> Estimate the amount of food that is likely to be needed by a small holder who has 30 hens.</p>
+<p><b>c</b> If food costs &#x00A3;12 for a 10 kg bag estimate the weekly cost of feeding 50 hens.</p>
+</Question>
+<Solution>
+<p><b>a 0.79 kg is the average amount of food consumed in 1 week by 1 hen.</b></p>
+<p><b>b</b>&#x00A0;<i>y</i> = 0.16 + 0.79 &#x00D7; 30 = <b>23.86 kg</b></p>
+<p><b>c</b> Cost = (0.16 + 0.79 &#x00D7; 50)&#x00A3;12 = &#x00A3;475.92</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mn>475.92</mn></mrow><mn>10</mn></mfrac></mrow></math> <mo> = </mo><mn><b>&#x00A3;47.59</b></mn></p>
+
+
+
+</Solution></QuestionData>
+<QuestionData number="8">
+<Question>
+<p>Water voles are becoming very rare; they are often confused with water rats. A naturalist society decided to record details of the water voles in their area. The members measured the weight (<i>y</i>) to the nearest 10 grams, and the body length (<i>x</i>) to the nearest millimetre, of eight active healthy water voles. The data they collected are in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<tr><td align="left"><b>Body Length (<i>x</i>) mm</b></td><td align="center">140</td><td align="center">150</td><td align="center">170</td><td align="center">180</td><td align="center">180</td><td align="center">200</td><td align="center">220</td><td align="center">220</td></tr>
+<tr><td align="left"><b>Weight (<i>y</i>) grams</b></td><td align="center">150</td><td align="center">180</td><td align="center">190</td><td align="center">220</td><td align="center">240</td><td align="center">290</td><td align="center">300</td><td align="center">310</td></tr>
+</table></p>
+<p><b>a</b> Draw a scatter diagram of these data.</p>
+<p><b>b</b> Give a reason to support the calculation of a regression line for these data.</p>
+<p><b>c</b> Use the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>l</mi><mo>=</mo><mfrac><mi>x</mi><mrow><mn>10</mn></mrow></mfrac></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>w</mi><mo>=</mo><mfrac><mi>y</mi><mrow><mn>10</mn></mrow></mfrac></mrow></math> to work out the regression line of <i>w</i> on <i>l</i>.</p>
+<p><b>d</b> Find the equation of the regression line for <i>y</i> on <i>x</i>.</p>
+<p><b>e</b> Draw the regression line on the scatter diagram.</p>
+<p><b>f</b> Use your regression line to calculate an estimate for the weight of a water vole that has a body length of 210 mm. Write down, with a reason, whether or not this is a reliable estimate.</p>
+<p>The members of the society remove any water voles that seem unhealthy from the river and take them into care until they are fit to be returned.</p>
+<p>They find three water voles on one stretch of river which have the following measurements.</p>
+<p>A: Weight 235 gm and body length 180 mm</p>
+<p>B: Weight 180 gm and body length 200 mm</p>
+<p>C: Weight 195 gm and body length 220 mm</p>
+<p><b>g</b> Write down, with a reason, which of these water voles were removed from the river.</p>
+</Question>
+<Solution>
+<p><b>a &#x0026; e</b> <img src="images\S1F066.jpg"/></p>
+<p><b>b There appears to be a linear relationship between body length and body weight.</b></p>
+<p><b>c</b>
+<table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody> <tr><td><i>l</i></td><td>14</td><td>15</td><td>17</td><td>18</td><td>18</td><td>20</td><td>22</td><td>22</td></tr> <tr><td><i>w</i></td><td>15</td><td>18</td><td>19</td><td>22</td><td>24</td><td>29</td><td>30</td><td>31</td></tr></tbody></table></p>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>l</i><sup>2</sup> = 2726</td><td>&#x03A3;<i>l</i> = 146</td><td>&#x03A3;<i>w</i> = 188</td><td>&#x03A3;<i>lw</i> = 3553</td></tr><tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>l</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>18.25</mn></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mover accent='true'><mi>w</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>23.5</mn></mrow></math></td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>l</mi><mi>l</mi></mrow></msub><mo>=</mo><mn>2726</mn><mo>-</mo><mfrac><mrow><mn>146</mn><mo>&#x00D7;</mo><mn>146</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn>2726</mn><mo>&#x2212;</mo><mn>2664.5</mn><mo>=</mo><mn>61.5</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>l</mi><mi>w</mi></mrow></msub><mo>=</mo><mn>3553</mn><mo>-</mo><mfrac><mrow><mn>146</mn><mo>&#x00D7;</mo><mn>188</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn>3553</mn><mo>&#x2212;</mo><mn>3431</mn><mo>=</mo><mn>122</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>122</mn></mrow><mrow><mn>61.5</mn></mrow></mfrac><mo>=</mo><mn>1.9837</mn><mo>&#x2026;</mo><mo>&#x2026;</mo></mrow></math></p>
+<p><i>a</i> = 23.5 &#x2212; (1.9837 &#x2026; &#x00D7; 18.25) = 23.5 &#x2212; 36.2032&#x2026;.. = &#x2212; 12.70&#x2026;</p>
+<p>Equation is: <b><i>w</i> = &#x2212;12.7 + 1.98<i>l</i></b></p>
+<p><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mi>y</mi><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mo>&#x2212;</mo><mn>12.7</mn><mo>+</mo><mo>(</mo><mn>1.98</mn><mo>&#x00D7;</mo><mfrac><mi>x</mi><mrow><mn>10</mn></mrow></mfrac><mo>)</mo><mspace width="1ex"/><mtext>(multiply through by 10)</mtext></mrow></math></p>
+<p><b><i>y</i> = &#x2212; 127 + 1.98<i>x</i></b></p>
+<p><b>e</b>&#x00A0;<b><i>See diagram</i></b></p>
+<p><b>f</b> Tail length = &#x2212; 127 + 1.98 &#x00D7; 210 = <b>288.8mm</b></p>
+<p>This is a reliable estimate since it involves interpolation. 210 is within the range of the data.</p>
+<p><b>g</b> B and C are both underweight so were probably removed from the river. A is slightly overweight so was probably left in the river.</p>
+</Solution></QuestionData>
+<QuestionData number="9">
+<Question>
+<p>A mail order company pays for postage of its goods partly by destination and partly by total weight sent out on a particular day. The number of items sent out and the total weights were recorded over a seven day period. The data are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<tr><td align="left"><b>Number of items (<i>n</i>)</b></td><td align="center">10</td><td align="center">13</td><td align="center">22</td><td align="center">15</td><td align="center">24</td><td align="center">16</td><td align="center">19</td></tr>
+<tr><td align="left"><b>Weight in kg (<i>w</i>)</b></td><td align="center">2800</td><td align="center">3600</td><td align="center">6000</td><td align="center">3600</td><td align="center">5200</td><td align="center">4400</td><td align="center">5200</td></tr>
+</table></p>
+<p><b>a</b> Use the coding <i>x</i> = <i>n</i> &#x2212; 10 and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mi>w</mi><mrow><mn>400</mn></mrow></mfrac></mrow></math> to work out <i>S</i><sub><i>xy</i></sub> and <i>S</i><sub><i>xx</i></sub>.</p>
+<p><b>b</b> Work out the equation of the regression line for <i>y</i> on <i>x</i>.</p>
+<p><b>c</b> Work out the equation of the regression line for <i>w</i> on <i>n</i>.</p>
+<p><b>d</b> Use your regression equation to estimate the weight of 20 items.</p>
+<p><b>e</b> State why it would be unwise to use the regression equation to estimate the weight of 100 items.</p>
+</Question>
+<Solution>
+<p><b>a</b>
+<table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>Coded number <i>x</i></td><td>0</td><td>3</td><td>12</td><td>5</td><td>14</td><td>6</td><td>9</td></tr> <tr><td>Coded weight <i>y</i></td><td>7</td><td>9</td><td>15</td><td>9</td><td>13</td><td>11</td><td>13</td></tr></tbody></table></p>
+<p><table width="80%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>x</i> = 49</td><td>&#x03A3;<i>x</i><sup>2</sup> = 491</td><td>&#x03A3;<i>y</i> = 77</td><td>&#x03A3;<i>xy</i> = 617</td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>617</mn><mo>&#x2212;</mo><mfrac><mrow><mn>49</mn><mo>&#x00D7;</mo><mn>77</mn></mrow><mn>7</mn></mfrac><mo>=</mo><mn>617</mn><mo>&#x2212;</mo><mn>539</mn><mo>=</mo><mn fontweight="bold">78</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>491</mn><mo>&#x2212;</mo><mfrac><mrow><msup><mrow><mn>49</mn></mrow><mn>2</mn></msup></mrow><mn>7</mn></mfrac><mo>=</mo><mn>491</mn><mo>&#x2212;</mo><mn>343</mn><mo>=</mo><mn fontweight="bold">148</mn></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mover accent='true'><mi>y</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>11</mn><mtext>&#x2003;</mtext><mover accent='true'><mi>x</mi><mo>&#x00AF;</mo></mover><mo>=</mo><mn>7</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mrow><mn>78</mn></mrow><mrow><mn>148</mn></mrow></mfrac><mo>=</mo><mn>0.5270</mn><mo>&#x2026;</mo><mo>&#x2026;..</mo></mrow></math></p>
+<p><i>a</i> = 11 &#x2212; (0.5270&#x2026;. &#x00D7; 7) = 11 &#x2212; 3.6891&#x2026;&#x2026;. = 7.3108&#x2026;..</p>
+<p>Equation is: <b><i>y</i> = 7.31 + 0.53 <i>x</i></b> (to two decimal places)</p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mi>w</mi><mrow><mn>400</mn></mrow></mfrac><mo>=</mo><mn>7.31</mn><mo>+</mo><mn>0.527</mn><mo stretchy="false">(</mo><mi>n</mi><mo>&#x2212;</mo><mn>10</mn><mo stretchy="false">)</mo><mspace width="1ex"/><mtext>(multiply by 400)</mtext></mrow></math></p>
+<p><i>w</i> = 2924 + 210.8(<i>n</i> &#x2212; 10)</p>
+<p><i>w</i> = 2924 + 210.8 <i>n</i> &#x2212; 2108</p>
+<p><b>Equation is: <i>w</i> = 816 + 211<i>n</i></b></p>
+<p><b>d</b>&#x00A0;<i>w</i> = 816 + 211 &#x00D7; 20 = <b>5036</b></p>
+<p><b>e This is far outside the range of values. This is extrapolation.</b></p>
+</Solution>
+</QuestionData>
+</Exercise>
+</Chapter>
+</Section>
+</Unit>
+</SubjectArea>
+</ProductTitle>
+</ExamBoard>
+</Level>
+</Subject>
+</Harcourt>

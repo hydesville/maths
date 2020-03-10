@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+<Subject type="Mathematics">
+<Level age="">
+<ExamBoard title="AandAS">
+<ProductTitle name="Solutionbank">
+<SubjectArea name="Statistics" abbrev="S">
+<Unit number="1">
+<Section>
+<Chapter number="3" title="Representation and summary of data &#x2013; measures of dispersion"><p><b>Chapter 3</b></p>
+<Exercise letter="A"><p><b>Exercise 3A</b></p>
+<QuestionData number="1">
+<Question>
+<p>15 students do a mathematics test. Their marks are shown opposite.</p>
+<p>
+<table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="right">7</td><td align="right">4</td><td align="right">9</td><td align="right">7</td><td align="right">6</td></tr>
+<tr><td align="right">10</td><td align="right">12</td><td align="right">11</td><td align="right">3</td><td align="right">8</td></tr>
+<tr><td align="right">5</td><td align="right">9</td><td align="right">8</td><td align="right">7</td><td align="right">3</td></tr>
+</tbody></table></p>
+<p><b>a</b> Find the value of the median.</p>
+<p><b>b</b> Find <i>Q</i><sub>1</sub> and <i>Q</i><sub>3</sub>.</p>
+<p><b>c</b> Work out the interquartile range.</p>
+</Question>
+<Solution>
+<p><b>a 3,3,4,5,6,7,7,7,8,8,9,9,10,11,12</b></p>
+<p>Median: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>15</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>7.5</mn></mrow></math> therefore 8<sup>th</sup> value is needed. Median = <b>7</b></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>:</mo><mfrac><mrow><mn>15</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>3.75</mn></mrow></math> therefore the 4<sup>th</sup> value is needed <i>Q</i><sub>1</sub> = <b>5</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>:</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>15</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>11.25</mn></mrow></math> therefore the 12<sup>th</sup> value is needed <i>Q</i><sub>3</sub> = <b>9</b></p>
+<p><b>c</b> IQR = 9 &#x2212; 5 = <b>4</b></p>
+</Solution>
+</QuestionData><QuestionData number="2">
+<Question>
+<p>A group of workers were asked to write down their weekly wage. The wages were:</p>
+<p>
+<table width="80%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x00A3;550</td><td>&#x00A3;400</td><td>&#x00A3;260</td><td>&#x00A3;320</td><td>&#x00A3;500</td><td>&#x00A3;450</td><td>&#x00A3;460</td><td>&#x00A3;480</td><td>&#x00A3;510</td><td>&#x00A3;490</td><td>&#x00A3;505</td></tr>
+</tbody></table></p>
+<p><b>a</b> Work out the range for these wages.</p>
+<p><b>b</b> Find Q<sub>1</sub> and Q<sub>3</sub>.</p>
+<p><b>c</b> Work out the interquartile range.</p>
+</Question>
+<Solution>
+<p><b>a</b>
+Range = &#x00A3;550 &#x2212; &#x00A3;260 = <b>&#x00A3;290</b></p>
+<p><b>b</b> 
+<table width="80%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>260</td><td>320</td><td>400</td><td>450</td><td>460</td><td>480</td><td>490</td><td>500</td><td>505</td><td>510</td><td>550</td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>:</mo><mfrac><mrow><mn>11</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>2.75</mn></mrow></math> therefore the 3<sup>rd</sup> value is needed <i>Q</i><sub>1</sub> = <b>400</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>:</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>11</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>8.25</mn></mrow></math> therefore the 9<sup>th</sup> value is needed <i>Q</i><sub>3</sub> = <b>505</b></p>
+<p><b>c</b> IQR = 505 &#x2212; 400 = <b>105</b></p>
+</Solution>
+</QuestionData><QuestionData number="3">
+<Question>
+<p>A superstore records the number of hours overtime worked by their employees in one particular week. The results are shown in the table.</p>
+<p><b>a</b> Fill in the cumulative frequency column and work out how many employees the superstore had in that week.</p>
+<p><b>b</b> Find Q<sub>1</sub> and Q<sub>3</sub>.</p>
+<p><b>c</b> Work out the interquartile range.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Number of hours</b></td><td align="center"><b>Frequency</b></td><td align="center"><b>Cumulative frequency</b></td></tr>
+<tr><td align="center">0</td><td align="center">25</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">1</td><td align="center">10</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">2</td><td align="center">20</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">3</td><td align="center">10</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">4</td><td align="center">25</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">5</td><td align="center">10</td><td align="center">&#x00A0;</td></tr>
+</tbody></table></p>
+</Question>
+<Solution>
+<p><b>a</b>
+<table>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>CF = 25</td><td>35</td><td>55</td><td>65</td><td>90</td><td>100</td></tr></tbody></table></p>
+<p>Superstore had 100 employees</p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>:</mo><mfrac><mrow><mn>100</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>25</mn></mrow></math> therefore the average of the 25<sup>th</sup> and 26<sup>th</sup> values is <i>Q</i><sub>1</sub> = <b>0.5</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>:</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>100</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>75</mn></mrow></math> therefore the average of the 75<sup>th</sup> and 76<sup>th</sup> values is <i>Q</i><sub>3</sub> = <b>4</b></p>
+<p><b>c</b> IQR = 4 &#x2212; 0.5 = <b>3.5</b></p>
+</Solution>
+</QuestionData><QuestionData number="4">
+<Question>
+<p>A moth trap was set every night for five weeks. The number of moths caught in the trap was recorded. The results are shown in the table.</p>
+<p><table cellpadding="3" border="1" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Number of moths</b></td><td align="center"><b>Frequency</b></td></tr>
+<tr><td align="center">7</td><td align="center">2</td></tr>
+<tr><td align="center">8</td><td align="center">5</td></tr>
+<tr><td align="center">9</td><td align="center">9</td></tr>
+<tr><td align="center">10</td><td align="center">14</td></tr>
+<tr><td align="center">11</td><td align="center">5</td></tr>
+</tbody></table></p>
+<p>Find the interquartile range.</p>
+</Question>
+<Solution>
+<p>
+<table>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>CF = 2</td><td>7</td><td>16</td><td>30</td><td>35</td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>:</mo><mfrac><mrow><mn>35</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>8.75</mn></mrow></math> therefore the 9<sup>th</sup> value is needed <i>Q</i><sub>1</sub> = 9</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>:</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>35</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>26.25</mn></mrow></math> therefore the 27<sup>th</sup> value is needed <i>Q</i><sub>3</sub> = 10</p>
+<p>IQR = 10 &#x2212; 9 = <b>1</b></p>
+</Solution>
+</QuestionData><QuestionData number="5">
+<Question>
+<p>The weights of 31 Jersey cows were recorded to the nearest kilogram. The weights are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<tr><td align="center"><b>Weight of cattle (kg)</b></td><td align="center"><b>Frequency</b></td><td align="center"><b>Cumulative frequency</b></td></tr>
+<tr><td align="center">300&#x2013;349</td><td align="center">3</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">350&#x2013;399</td><td align="center">6</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">400&#x2013;449</td><td align="center">10</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">450&#x2013;499</td><td align="center">7</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">500&#x2013;549</td><td align="center">5</td><td align="center">&#x00A0;</td></tr>
+</table></p>
+<p><b>a</b> Complete the cumulative frequency column in the table.</p>
+<p><b>b</b> Find the lower quartile, Q<sub>1</sub>.</p>
+<p><b>c</b> Find the upper quartile, Q<sub>3</sub>.</p>
+<p><b>d</b> Find the interquartile range.</p>
+</Question>
+<Solution>
+<p><b>a</b>
+<table>
+<col align="left" valign="top"/>
+<tbody><tr>
+<td><b>CF = 3</b></td><td><b>9</b></td><td><b>19</b></td><td><b>26</b></td><td><b>31</b></td></tr></tbody></table></p>
+<p><b>b</b> Data is continuous so:</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>Q</mtext><mn>1</mn></msub><mo>:</mo><mfrac><mrow><mn>31</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>7.75</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so Q<sub>1</sub> is in class 350 &#x2212; 399</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mtext>Q</mtext><mn>1</mn></msub><mo>&#x2212;</mo><mn>349.5</mn></mrow><mrow><mn>399.5</mn><mo>&#x2212;</mo><mn>349.5</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>7.75</mn><mo>&#x2212;</mo><mn>3</mn></mrow><mrow><mn>9</mn><mo>&#x2212;</mo><mn>3</mn></mrow></mfrac></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mtext>Q</mtext><mn>1</mn></msub><mo>&#x2212;</mo><mn>349.5</mn></mrow><mrow><mn>50</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>4.75</mn></mrow><mn>6</mn></mfrac></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mtext>Q</mtext><mn>1</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>39.58</mn><mo>+</mo><mn>349.5</mn></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mtext>Q</mtext><mn>1</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn fontweight="bold">389.1</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+<p><b>c</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mtext>Q</mtext><mn>3</mn></msub><mo>:</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>31</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>23.25</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so Q<sub>3</sub> is in class 450 &#x2212; 499</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mtext>Q</mtext><mn>3</mn></msub><mo>&#x2212;</mo><mn>449.5</mn></mrow><mrow><mn>499.5</mn><mo>&#x2212;</mo><mn>449.5</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>23.25</mn><mo>&#x2212;</mo><mn>19</mn></mrow><mrow><mn>26</mn><mo>&#x2212;</mo><mn>19</mn></mrow></mfrac></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mtext>Q</mtext><mn>3</mn></msub><mo>&#x2212;</mo><mn>449.5</mn></mrow><mrow><mn>50</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>4.25</mn></mrow><mn>7</mn></mfrac></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mtext>Q</mtext><mn>3</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>30.36</mn><mo>+</mo><mn>449.5</mn></mrow></mtd></mtr>
+<mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn fontweight="bold">479.9</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+<p><b>d</b> IQR = 479.86 &#x2212; 389.08 = <b>90.8</b></p>
+</Solution>
+</QuestionData><QuestionData number="6">
+<Question>
+<p>The number of visitors to a hospital in a week was recorded. The results are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Number of visitors</b></td><td align="center"><b>Frequency</b></td></tr>
+<tr><td align="center">500&#x2013;1000</td><td align="center">10</td></tr>
+<tr><td align="center">1000&#x2013;1500</td><td align="center">25</td></tr>
+<tr><td align="center">1500&#x2013;2000</td><td align="center">15</td></tr>
+<tr><td align="center">2000&#x2013;2500</td><td align="center">5</td></tr>
+<tr><td align="center">2500&#x2013;3000</td><td align="center">5</td></tr>
+</tbody></table></p>
+<p>Giving your answers to the nearest whole number find:</p>
+<p><b>a</b> the lower quartile Q<sub>1</sub>, <b>b</b> the upper quartile Q<sub>3</sub>, <b>c</b> the interquartile range.</p>
+</Question>
+<Solution>
+<p>Data is continuous so</p>
+<p><b>a</b>
+<table>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>CF = 10</td><td>35</td><td>50</td><td>55</td><td>60</td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>Q</mtext><mn>1</mn></msub><mo>:</mo><mfrac><mrow><mn>60</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>15</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so Q<sub>1</sub> is in class 1000 &#x2212; 1500</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mtext>Q</mtext><mn>1</mn></msub><mo>&#x2212;</mo><mn>1000</mn></mrow><mrow><mn>1500</mn><mo>&#x2212;</mo><mn>1000</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>15</mn><mo>&#x2212;</mo><mn>10</mn></mrow><mrow><mn>35</mn><mo>&#x2212;</mo><mn>10</mn></mrow></mfrac></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mtext>Q</mtext><mn>1</mn></msub><mo>&#x2212;</mo><mn>1000</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>100</mn></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mtext>Q</mtext><mn>1</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn fontweight="bold">1100</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mtext>Q</mtext><mn>3</mn></msub><mo>:</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>60</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>45</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so Q<sub>3</sub> is in class 1500 &#x2212; 2000</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mtext>Q</mtext><mn>3</mn></msub><mo>&#x2212;</mo><mn>1500</mn></mrow><mrow><mn>2000</mn><mo>&#x2212;</mo><mn>1500</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>45</mn><mo>&#x2212;</mo><mn>35</mn></mrow><mrow><mn>50</mn><mo>&#x2212;</mo><mn>35</mn></mrow></mfrac></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mtext>Q</mtext><mn>3</mn></msub><mo>&#x2212;</mo><mn>1500</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>333.33</mn></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mtext>Q</mtext><mn>3</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn fontweight="bold">1833</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+<p><b>c</b> IQR = 1833 &#x2212; 1100 = <b>733</b></p>
+</Solution>
+</QuestionData><QuestionData number="7">
+<Question>
+<p>The lengths of a number of slow worms were measured, to the nearest mm. The results are shown in the table.</p>
+<p><b>a</b> Work out how many slow worms were measured.</p>
+<p><b>b</b> Find the interquartile range for the lengths of the slow worms.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Lengths of slow worms</b> (<b>mm</b>)</td><td align="center"><b>Frequency</b></td></tr>
+<tr><td align="center">125&#x2013;139</td><td align="center">4</td></tr>
+<tr><td align="center">140&#x2013;154</td><td align="center">4</td></tr>
+<tr><td align="center">155&#x2013;169</td><td align="center">2</td></tr>
+<tr><td align="center">170&#x2013;184</td><td align="center">7</td></tr>
+<tr><td align="center">185&#x2013;199</td><td align="center">20</td></tr>
+<tr><td align="center">200&#x2013;214</td><td align="center">24</td></tr>
+<tr><td align="center">215&#x2013;229</td><td align="center">10</td></tr>
+</tbody></table></p>
+</Question>
+<Solution>
+<p>Data is continuous</p>
+<p><b>a</b>
+<table>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>CF = 4</td><td>8</td><td>10</td><td>17</td><td>37</td><td>61</td><td>71</td></tr></tbody></table></p>
+<p><b>71</b> slow worms</p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>:</mo><mfrac><mrow><mn>71</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>17.75</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so <i>Q</i><sub>1</sub> is in class 185 &#x2212; 199</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>&#x2212;</mo><mn>184.5</mn></mrow><mrow><mn>199.5</mn><mo>&#x2212;</mo><mn>184.5</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>17.75</mn><mo>&#x2212;</mo><mn>17</mn></mrow><mrow><mn>37</mn><mo>&#x2212;</mo><mn>17</mn></mrow></mfrac></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>&#x2212;</mo><mn>184.5</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.5625</mn></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>1</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>185.0625</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>:</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>71</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>53.25</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so <i>Q</i><sub>3</sub> is in class 200&#x2212;214</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>&#x2212;</mo><mn>199.5</mn></mrow><mrow><mn>214.5</mn><mo>&#x2212;</mo><mn>199.5</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>53.25</mn><mo>&#x2212;</mo><mn>37</mn></mrow><mrow><mn>61</mn><mo>&#x2212;</mo><mn>37</mn></mrow></mfrac></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>&#x2212;</mo><mn>199.5</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>243.75&#x002F;24</mn></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>3</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>209.656</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+<p>IQR = 209.656 &#x2212; 185.0625 = <b>24.6 to 3SF</b></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="B"><p><b>Exercise 3B</b></p>
+<QuestionData number="1">
+<Question>
+<p>A gardener counted the peas in a number of pea pods. The results are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<tr><td align="center"><b>Number of peas</b></td><td align="center"><b>Frequency</b></td><td align="center"><b>Cumulative frequency</b></td></tr>
+<tr><td align="center">6</td><td align="center">8</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">7</td><td align="center">12</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">8</td><td align="center">36</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">9</td><td align="center">18</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">10</td><td align="center">15</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">11</td><td align="center">10</td><td align="center">&#x00A0;</td></tr>
+</table></p>
+<p><b>a</b> Complete the cumulative frequency column.</p>
+<p><b>b</b> Calculate the 80th percentile.</p>
+<p><b>c</b> Calculate the 40th percentile</p>
+<p><b>d</b> Calculate the 65th percentile.</p>
+</Question>
+<Solution>
+<p><b>a CF 8, 20, 56, 74, 89, 99</b></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msup><mrow><mn>80</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mo>:</mo><mfrac><mrow><mn>80</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>99</mn><mo>=</mo><mn>79.2</mn></mrow></math> therefore 80<sup>th</sup> term needed P<sub>80</sub> = <b>10</b></p>
+<p><b>c</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msup><mrow><mn>40</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mo>:</mo><mfrac><mrow><mn>40</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>99</mn><mo>=</mo><mn>39.6</mn></mrow></math> therefore 40<sup>th</sup> term needed P<sub>40</sub> = <b>8</b>
+</p>
+<p><b>d</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msup><mrow><mn>65</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mo>:</mo><mfrac><mrow><mn>65</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>99</mn><mo>=</mo><mn>64.35</mn></mrow></math> therefore 65<sup>th</sup> term needed P<sub>65</sub> = <b>9</b></p>
+</Solution>
+</QuestionData><QuestionData number="2">
+<Question>
+<p>A shopkeeper goes to a clothes fair. He records the costs of jeans. The costs are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Cost of jeans (&#x00A3;&#x2019;s)</b></td><td align="center"><b>Frequency</b></td><td align="center"><b>Cumulative frequency</b></td></tr>
+<tr><td align="center">10&#x2013;15</td><td align="center">11</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">16&#x2013;20</td><td align="center">35</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">21&#x2013;25</td><td align="center">34</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">26&#x2013;30</td><td align="center">16</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">31&#x2013;35</td><td align="center">10</td><td align="center">&#x00A0;</td></tr>
+<tr><td align="center">36&#x2013;40</td><td align="center">5</td><td align="center">&#x00A0;</td></tr>
+</tbody></table></p>
+<p><b>a</b> Complete the cumulative frequency table.</p>
+<p><b>b</b> Calculate <i>P</i><sub>20</sub>.</p>
+<p><b>c</b> Calculate <i>P</i><sub>80</sub>.</p>
+<p><b>d</b> Calculate the 20% to 80% interpercentile range.</p>
+</Question>
+<Solution>
+<p><b>a CF 11, 46, 80, 96, 106, 111</b></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><msup><mrow><mn>20</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mo>:</mo><mfrac><mrow><mn>20</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>111</mn></mtd><mtd columnalign="left"><mo>=</mo><mn>22.2</mn></mtd></mtr>
+<mtr><mtd columnalign="right"><mfrac><mrow><msub><mi>P</mi><mrow><mn>20</mn></mrow></msub><mo>&#x2212;</mo><mn>15.5</mn></mrow><mrow><mn>20.5</mn><mo>&#x2212;</mo><mn>15.5</mn></mrow></mfrac></mtd><mtd columnalign="left"><mo>=</mo><mfrac><mrow><mn>22.2</mn><mo>&#x2212;</mo><mn>11</mn></mrow><mrow><mn>46</mn><mo>&#x2212;</mo><mn>11</mn></mrow></mfrac></mtd></mtr>
+<mtr><mtd columnalign="right"><msub><mi>P</mi><mrow><mn>20</mn></mrow></msub></mtd><mtd columnalign="left"><mn>=</mn><mn fontweight="bold">17.1</mn></mtd></mtr></mtable></mrow></math></p>
+<p><b>c</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><msup><mrow><mn>80</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mo>:</mo><mfrac><mrow><mn>80</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>111</mn></mtd><mtd columnalign="left"><mo>=</mo><mn>88.8</mn></mtd></mtr>
+<mtr><mtd columnalign="right"><mfrac><mrow><msub><mi>P</mi><mrow><mn>80</mn></mrow></msub><mo>&#x2212;</mo><mn>25.5</mn></mrow><mrow><mn>30.5</mn><mo>&#x2212;</mo><mn>25.5</mn></mrow></mfrac></mtd><mtd columnalign="left"><mo>=</mo><mfrac><mrow><mn>88.8</mn><mo>&#x2212;</mo><mn>80</mn></mrow><mrow><mn>96</mn><mo>&#x2212;</mo><mn>80</mn></mrow></mfrac></mtd></mtr>
+<mtr><mtd columnalign="right"><msub><mi>P</mi><mrow><mn>80</mn></mrow></msub></mtd><mtd columnalign="left"><mo>=</mo><mn fontweight="bold">28.25</mn></mtd></mtr></mtable></mrow></math></p>
+<p><b>d</b> 20% to 80% interpercentile = 28.25 &#x2212; 17.1 = <b>11.15</b></p>
+</Solution>
+</QuestionData><QuestionData number="3">
+<Question>
+<p>The table shows the monthly income for a number of workers in a factory.</p>
+<p>Calculate the 34% to 66% interpercentile range.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Monthly income (&#x00A3;&#x2019;s)</b></td><td align="center"><b>Frequency</b></td></tr>
+<tr><td align="center">900&#x2013;1000</td><td align="center">3</td></tr>
+<tr><td align="center">1000&#x2013;1100</td><td align="center">24</td></tr>
+<tr><td align="center">1100&#x2013;1200</td><td align="center">28</td></tr>
+<tr><td align="center">1200&#x2013;1300</td><td align="center">15</td></tr>
+</tbody></table></p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><msup><mrow><mn>34</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mo>:</mo><mfrac><mrow><mn>34</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>70</mn></mtd><mtd columnalign="left"><mo>=</mo><mn>23.8</mn></mtd></mtr>
+<mtr><mtd columnalign="right"><mfrac><mrow><msub><mi>P</mi><mrow><mn>34</mn></mrow></msub><mo>&#x2212;</mo><mn>1000</mn></mrow><mrow><mn>1100</mn><mo>&#x2212;</mo><mn>1000</mn></mrow></mfrac></mtd><mtd columnalign="left"><mo>=</mo><mfrac><mrow><mn>23.8</mn><mo>&#x2212;</mo><mn>3</mn></mrow><mrow><mn>27</mn><mo>&#x2212;</mo><mn>3</mn></mrow></mfrac></mtd></mtr>
+<mtr><mtd columnalign="right"><msub><mi>P</mi><mrow><mn>34</mn></mrow></msub></mtd><mtd columnalign="left"><mo>=</mo><mn>1086.7</mn></mtd></mtr></mtable></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><msup><mrow><mn>66</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mo>:</mo><mfrac><mrow><mn>66</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>70</mn></mtd><mtd columnalign="left"><mo>=</mo><mn>46.2</mn></mtd></mtr>
+<mtr><mtd columnalign="right"><mfrac><mrow><msub><mi>P</mi><mrow><mn>66</mn></mrow></msub><mo>&#x2212;</mo><mn>1100</mn></mrow><mrow><mn>1200</mn><mo>&#x2212;</mo><mn>1100</mn></mrow></mfrac></mtd><mtd columnalign="left"><mo>=</mo><mfrac><mrow><mn>46.2</mn><mo>&#x2212;</mo><mn>27</mn></mrow><mrow><mn>55</mn><mo>&#x2212;</mo><mn>27</mn></mrow></mfrac></mtd></mtr>
+<mtr><mtd columnalign="right"><msub><mi>P</mi><mrow><mn>66</mn></mrow></msub></mtd><mtd columnalign="left"><mo>=</mo><mn>1168.57</mn></mtd></mtr></mtable></mrow></math></p>
+<p>34% to 66% interpercentile = 1168.57 &#x2212; 1086.7 = <b>81.9</b></p>
+</Solution>
+</QuestionData><QuestionData number="4">
+<Question>
+<p>A train travelled from Lancaster to Preston. The times, to the nearest minute, it took for the journey were recorded over a certain period. The times are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b>Time for journey (minutes)</b></td><td align="center">15&#x2013;16</td><td align="center">17&#x2013;18</td><td align="center">19&#x2013;20</td><td align="center">21&#x2013;22</td></tr>
+<tr><td align="left"><b>Frequency</b></td><td align="center">5</td><td align="center">10</td><td align="center">35</td><td align="center">10</td></tr>
+</tbody></table></p>
+<p>Calculate the 5% to 95% interpercentile range.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><msup><mn>5</mn><mrow><mtext>th</mtext></mrow></msup><mo>:</mo><mfrac><mn>5</mn><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>60</mn></mtd><mtd columnalign="left"><mo>=</mo><mn>3</mn></mtd></mtr>
+<mtr><mtd columnalign="right"><mfrac><mrow><msub><mi>P</mi><mn>5</mn></msub><mo>&#x2212;</mo><mn>14.5</mn></mrow><mrow><mn>16.5</mn><mo>&#x2212;</mo><mn>14.5</mn></mrow></mfrac></mtd><mtd columnalign="left"><mo>=</mo><mfrac><mrow><mn>3</mn><mo>&#x2212;</mo><mn>0</mn></mrow><mrow><mn>5</mn><mo>&#x2212;</mo><mn>0</mn></mrow></mfrac></mtd></mtr>
+<mtr><mtd columnalign="right"><msub><mi>P</mi><mrow><mn>5</mn></mrow></msub></mtd><mtd columnalign="left"><mo>=</mo><mn>15.7</mn></mtd></mtr></mtable></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><msup><mrow><mn>95</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mo>:</mo><mfrac><mrow><mn>95</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>60</mn></mtd><mtd columnalign="left"><mo>=</mo><mn>57</mn></mtd></mtr>
+<mtr><mtd columnalign="right"><mfrac><mrow><msub><mi>P</mi><mrow><mn>95</mn></mrow></msub><mo>&#x2212;</mo><mn>20.5</mn></mrow><mrow><mn>22.5</mn><mo>&#x2212;</mo><mn>20.5</mn></mrow></mfrac></mtd><mtd columnalign="left"><mo>=</mo><mfrac><mrow><mn>57</mn><mo>&#x2212;</mo><mn>50</mn></mrow><mrow><mn>60</mn><mo>&#x2212;</mo><mn>50</mn></mrow></mfrac></mtd></mtr>
+<mtr><mtd columnalign="right"><msub><mi>P</mi><mrow><mn>95</mn></mrow></msub></mtd><mtd columnalign="left"><mo>=</mo><mn>21.9</mn></mtd></mtr></mtable></mrow></math></p>
+<p>5% to 95% interpercentile = 21.9 &#x2212; 15.7 = <b>6.2</b></p>
+</Solution>
+</QuestionData><QuestionData number="5">
+<Question>
+<p>A roadside assistance firm kept a record over a week of the amount of time, in minutes, people were kept waiting for assistance in a particular part of the country. The time taken was from the time the phone call was received to the arrival of the breakdown mechanic. The times are shown below.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b>Time Waiting (minutes)</b></td><td align="center">20&#x2013;30</td><td align="center">30&#x2013;40</td><td align="center">40&#x2013;50</td><td align="center">50&#x2013;60</td><td align="center">60&#x2013;70</td></tr>
+<tr><td align="left"><b>Frequency</b></td><td align="center">6</td><td align="center">10</td><td align="center">18</td><td align="center">13</td><td align="center">2</td></tr>
+</tbody></table></p>
+<p><b>a</b> Work out the number of people who called for assistance.</p>
+<p><b>b</b> Calculate the 30th percentile.</p>
+<p><b>c</b> Calculate the 65th percentile.</p>
+</Question>
+<Solution>
+<p><b>a CF 6</b>, <b>16</b>, <b>34</b>, <b
+>47</b>, 49</p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><msup><mrow><mn>30</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mo>:</mo><mfrac><mrow><mn>30</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>49</mn></mtd><mtd columnalign="left"><mo>=</mo><mn>14.7</mn></mtd></mtr>
+<mtr><mtd columnalign="right"><mfrac><mrow><msub><mi>P</mi><mrow><mn>30</mn></mrow></msub><mo>&#x2212;</mo><mn>30</mn></mrow><mrow><mn>40</mn><mo>&#x2212;</mo><mn>30</mn></mrow></mfrac></mtd><mtd columnalign="left"><mo>=</mo><mfrac><mrow><mn>14.7</mn><mo>&#x2212;</mo><mn>6</mn></mrow><mrow><mn>16</mn><mo>&#x2212;</mo><mn>6</mn></mrow></mfrac></mtd></mtr>
+<mtr><mtd columnalign="right"><msub><mi>P</mi><mrow><mn>30</mn></mrow></msub></mtd><mtd columnalign="left"><mo>=</mo><mn fontweight="bold">38.7</mn></mtd></mtr></mtable></mrow></math></p>
+<p><b>c</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><msup><mrow><mn>65</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mo>:</mo><mfrac><mrow><mn>65</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>49</mn></mtd><mtd columnalign="left"><mo>=</mo><mn>31.85</mn></mtd></mtr>
+<mtr><mtd columnalign="right"><mfrac><mrow><msub><mi>P</mi><mrow><mn>80</mn></mrow></msub><mo>&#x2212;</mo><mn>40</mn></mrow><mrow><mn>50</mn><mo>&#x2212;</mo><mn>40</mn></mrow></mfrac></mtd><mtd columnalign="left"><mo>=</mo><mfrac><mrow><mn>31.85</mn><mo>&#x2212;</mo><mn>16</mn></mrow><mrow><mn>34</mn><mo>&#x2212;</mo><mn>16</mn></mrow></mfrac></mtd></mtr>
+<mtr><mtd columnalign="right"><msub><mi>P</mi><mrow><mn>65</mn></mrow></msub></mtd><mtd columnalign="left"><mo>=</mo><mn fontweight="bold">48.8</mn></mtd></mtr></mtable></mrow></math></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="C"><p><b>Exercise 3C</b></p>
+<QuestionData number="1">
+<Question>
+<p>Given that for a variable <i>x</i>:</p>
+<p>&#x03A3;<i>x</i> = 24 &#x03A3;<i>x</i><sup>2</sup> = 78 <i>n</i> = 8</p>
+<p>Find:</p>
+<p><b>a</b> The mean. <b>b</b> The variance &#x03C3;<sup>2</sup>. <b>c</b> The standard deviation &#x03C3;.</p>
+</Question>
+<Solution>
+<p><b>a</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean </mtext><mspace width="1ex"/><mo>=</mo><mfrac><mrow><mn>24</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">3</mn></mrow></math></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Variance</mtext><mspace width="1ex"/><mo>=</mo><mfrac><mrow><mn>78</mn></mrow><mn>8</mn></mfrac><mo>&#x2212;</mo><msup><mn>3</mn><mn>2</mn></msup><mo>=</mo><mn fontweight="bold">0.75</mn></mrow></math></p>
+<p><b>c</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Standard deviation</mtext><mspace width="1ex"/><mo>=</mo><msqrt><mrow><mn>0.75</mn></mrow></msqrt><mo>=</mo><mn fontweight="bold">0.866</mn></mrow></math></p>
+</Solution>
+</QuestionData><QuestionData number="2">
+<Question>
+<p>Ten collie dogs are weighed (<i>w</i> kg). The following summary data for the weights are shown below:</p>
+<p>&#x03A3;<i>w</i> = 241 &#x03A3;<i>w</i><sup>2</sup> = 5905</p>
+<p>Use this summary data to find the standard deviation of the collies&#x2019; weights.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard deviation</mtext><mspace width="1ex"/><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>5905</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>241</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn fontweight="bold">3.11</mn></mrow></math></p>
+</Solution>
+</QuestionData><QuestionData number="3">
+<Question>
+<p>Eight students&#x2019; heights (<i>h</i> cm) are measured. They are as follows:</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>165</td><td>170</td><td>190</td><td>180</td><td>175</td><td>185</td><td>176</td><td>184</td></tr>
+</tbody></table></p>
+<p><b>a</b> Work out the mean height of the students.</p>
+<p><b>b</b> Given &#x03A3;<i>h</i><sup>2</sup> = 254 307 work out the variance. Show all your working.</p>
+<p><b>c</b> Work out the standard deviation.</p>
+</Question>
+<Solution>
+<p><b>a</b> &#x03A3;<i>h</i> = 165 + 170 + 190 + 180 + 175 + 185 + 176 + 184 = 1425</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>1425</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">178.125</mn><mo fontweight="bold">=</mo><mn fontweight="bold">178</mn></mrow></math></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Variance</mtext><mo>=</mo><mfrac><mrow><mn>254307</mn></mrow><mn>8</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mn>178.125</mn></mrow><mn>2</mn></msup><mo>=</mo><mn fontweight="bold">59.9</mn></mrow></math></p>
+<p><b>c</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mn>59.9</mn></mrow></msqrt><mo>=</mo><mn fontweight="bold">7.74</mn></mrow></math></p>
+</Solution>
+</QuestionData><QuestionData number="4">
+<Question>
+<p>For a set of 10 numbers:</p>
+<p>&#x03A3;<i>x</i> = 50 &#x03A3;<i>x</i><sup>2</sup> = 310</p>
+<p>For a set of 15 numbers:</p>
+<p>&#x03A3;<i>x</i> = 86 &#x03A3;<i>x</i><sup>2</sup> = 568</p>
+<p>Find the mean and the standard deviation of the combined set of 25 numbers.</p>
+</Question>
+<Solution>
+<p>&#x03A3;<i>x</i> = 50 + 86 = 136</p>
+<p>&#x03A3;<i>x</i><sup>2</sup> = 310 + 568 = 878</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean </mtext><mo>=</mo><mfrac><mrow><mn>136</mn></mrow><mrow><mn>25</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">5.44</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>878</mn></mrow><mrow><mn>25</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>136</mn></mrow><mrow><mn>25</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn fontweight="bold">2.35</mn></mrow></math></p>
+</Solution>
+</QuestionData><QuestionData number="5">
+<Question>
+<p>The number of members (<i>m</i>) in six scout groups was recorded. The summary statistics for these data are:</p>
+<p>&#x03A3;<i>m</i> = 150 &#x03A3;<i>m</i><sup>2</sup> = 3846</p>
+<p><b>a</b> Work out the mean number of members in a scout group.</p>
+<p><b>b</b> Work out the standard deviation of the number of members in the scout groups.</p>
+</Question>
+<Solution>
+<p><b>a</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>150</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn fontweight="bold">25</mn></mrow></math></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>3846</mn></mrow><mn>6</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>150</mn></mrow><mn>6</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn fontweight="bold">4</mn></mrow></math></p>
+</Solution>
+</QuestionData><QuestionData number="6">
+<Question>
+<p>There are two routes for a worker to get to his office. Both the routes involve hold ups due to traffic lights. He records the time it takes over a series of six journeys for each route. The results are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0"> 
+<tr><td><b>Route 1</b></td><td>15</td><td>15</td><td>11</td><td>17</td><td>14</td><td>12</td></tr>
+<tr><td><b>Route 2</b></td><td>11</td><td>14</td><td>17</td><td>15</td><td>16</td><td>11</td></tr>
+</table></p>
+<p><b>a</b> Work out the mean time taken for each route.</p>
+<p><b>b</b> Calculate the variance and the standard deviation of each of the two routes.</p>
+<p><b>c</b> Using your answers to <b>a</b> and <b>b</b> suggest which route you would recommend. State your reason clearly.</p>
+</Question>
+<Solution>
+<p><b>a</b> Route 1: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>84</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn fontweight="bold">14</mn></mrow></math></p>
+<p>Route 2: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean </mtext><mo>=</mo><mfrac><mrow><mn>84</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn fontweight="bold">14</mn></mrow></math></p>
+<p><b>b</b> Route 1: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>1200</mn></mrow><mn>6</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>84</mn></mrow><mn>6</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn fontweight="bold">2</mn></mrow></math></p>
+<p>Route 2: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>1208</mn></mrow><mn>6</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>84</mn></mrow><mn>6</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn fontweight="bold">2.31</mn></mrow></math></p>
+<p><b>c Route 1</b> as although the means are the same the standard deviation is less meaning the times are more consistent and the journey is less likely to take longer than expected.</p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="D"><p><b>Exercise 3D</b></p>
+<QuestionData number="1">
+<Question>
+<p>For a certain set of data:</p>
+<p>&#x03A3;<i>fx</i> = 1975 &#x03A3;<i>fx</i><sup>2</sup> = 52 325 <i>n</i> = 100</p>
+<p>Work out the variance for these data.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Variance</mtext><mo>=</mo><mfrac><mrow><mn>52325</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>1975</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn fontweight="bold">133.2</mn><mo fontweight="bold">=</mo><mn fontweight="bold">133</mn></mrow></math></p>
+</Solution>
+</QuestionData><QuestionData number="2">
+<Question>
+<p>For a certain set of data</p>
+<p>&#x03A3;<i>fx</i> = 264 &#x03A3;<i>fx</i><sup>2</sup> = 6456 <i>n</i> = 12</p>
+<p>Work out the standard deviation for these data.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>6456</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>264</mn></mrow><mrow><mn>12</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn fontweight="bold">7.35</mn></mrow></math></p>
+</Solution>
+</QuestionData><QuestionData number="3">
+<Question>
+<p>Nahab asks the students in his year group how much pocket money they get per week. The results, rounded to the nearest pound, are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Number of &#x00A3;&#x2019;s (<i>x</i>)</b></td><td align="center"><b>Number of students <i>f</i></b></td><td align="center"><b><i>fx</i></b></td><td align="center"><b><i>fx</i></b><sup>2</sup></td></tr>
+<tr><td align="center">8</td><td align="center">14</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">9</td><td align="center">8</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">10</td><td align="center">28</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">11</td><td align="center">15</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">12</td><td align="center">20</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">Totals</td><td>&#x00A0;</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+</tbody></table></p>
+<p><b>a</b> Complete the table.</p>
+<p><b>b</b> Using the formula <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mi>&#x03A3;</mi><mi>f</mi><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mi>&#x03A3;</mi><mi>f</mi></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mi>&#x03A3;</mi><mi>f</mi><mi>x</mi></mrow><mrow><mi>&#x03A3;</mi><mi>f</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></math> work out the variance for these data.</p>
+<p><b>c</b> Work out the standard deviation for these data.</p>
+
+</Question>
+<Solution>
+<p><b>a <i>fx</i>: 112, 72, 280, 165, 240, total 869</b></p>
+<p><b><i>fx</i></b><sup>2</sup> <b>: 896, 648, 2800, 1815, 2880, total 9039</b></p>
+<p><b>total <i>f</i>: 85</b></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Variance</mtext><mo>=</mo><mfrac><mrow><mn>9039</mn></mrow><mrow><mn>85</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>869</mn></mrow><mrow><mn>85</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn fontweight="bold">1.82</mn></mrow></math></p>
+<p><b>c</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mn>1.82</mn></mrow></msqrt><mo>=</mo><mn fontweight="bold">1.35</mn></mrow></math></p>
+</Solution>
+</QuestionData><QuestionData number="4">
+<Question>
+<p>In a student group, a record was kept of the number of days absence each student had over one particular term. The results are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Number days absent (<i>x</i>)</b></td><td align="center"><b>Number of students <i>f</i></b></td><td align="center"><b><i>fx</i></b></td><td align="center"><b><i>fx</i></b><sup>2</sup></td></tr>
+<tr><td align="center">0</td><td align="center">12</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">1</td><td align="center">20</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">2</td><td align="center">10</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">3</td><td align="center">7</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">4</td><td align="center">5</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+</tbody></table></p>
+<p><b>a</b> Complete the table.</p><p><b>b</b> Calculate the variance for these data.</p>
+<p><b>c</b> Work out the standard deviation for these data.</p>
+</Question>
+<Solution>
+<p><b>a <i>fx</i>: 0, 20, 20, 21, 20</b></p>
+<p><b><i>fx</i></b><sup>2</sup><b>: 0, 20, 40, 63, 80</b></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Variance</mtext><mo>=</mo><mfrac><mrow><mn>203</mn></mrow><mrow><mn>54</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>81</mn></mrow><mrow><mn>54</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn fontweight="bold">1.51</mn></mrow></math></p>
+<p><b>c</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mn>1.51</mn></mrow></msqrt><mo>=</mo><mn fontweight="bold">1.23</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>A certain type of machine contained a part that tended to wear out after different amounts of time. The time it took for 50 of the parts to wear out was recorded. The results are shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Lifetime in hours</b></td><td align="center"><b>Number of parts</b></td><td align="center"><b>Mid-point <i>x</i></b></td><td align="center"><b><i>fx</i></b></td><td align="center"><b><i>fx</i></b><sup>2</sup></td></tr>
+<tr><td align="center">5 &#x003C; <i>h</i> &#x2264; 10</td><td align="center">5</td><td>&#x00A0;</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">10 &#x003C; <i>h</i> &#x2264; 15</td><td align="center">14</td><td>&#x00A0;</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">15 &#x003C; <i>h</i> &#x2264; 20</td><td align="center">23</td><td>&#x00A0;</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">20 &#x003C; <i>h</i> &#x2264; 25</td><td align="center">6</td><td>&#x00A0;</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+<tr><td align="center">25 &#x003C; <i>h</i> &#x2264; 30</td><td align="center">2</td><td>&#x00A0;</td><td>&#x00A0;</td><td>&#x00A0;</td></tr>
+</tbody></table></p>
+<p><b>a</b> Complete the table.</p>
+<p><b>b</b> Calculate an estimate for the variance and the standard deviation for these data.</p>
+</Question>
+<Solution>
+<p><b>a midpoint: 7.5, 12.5, 17.5, 22.5, 27.5</b></p>
+<p><b><i>fx</i>: 37.5, 175, 402.5, 135, 55</b></p>
+<p><b><i>fx</i></b><sup>2</sup> <b>: 281.25, 2187.5, 7043.75, 3037.5, 1512.5</b></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Variance</mtext><mo>=</mo><mfrac><mrow><mn>14062.5</mn></mrow><mrow><mn>50</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>805</mn></mrow><mrow><mn>50</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn fontweight="bold">22.0</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mn>22.04</mn></mrow></msqrt><mo>=</mo><mn fontweight="bold">4.69</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The heights (<i>x</i> cm) of a group of 100 women were recorded.</p>
+<p>The summary data is as follows:</p>
+<p>&#x03A3;<i>fx</i> = 17 100 &#x03A3;<i>fx</i><sup>2</sup> = 2 926 225</p>
+<p>Work out the variance and the standard deviation.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Variance</mtext><mo>=</mo><mfrac><mrow><mn>2926225</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>17100</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn fontweight="bold">21.25</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mn>21.25</mn></mrow></msqrt><mo>=</mo><mn fontweight="bold">4.61</mn></mrow></math></p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="E"><p><b>Exercise 3E</b></p>
+<QuestionData number="1">
+<Question>
+<p><b>a</b> Work out the standard deviation of the following data.</p>
+<p><table width="40%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>11</td><td>13</td><td>15</td><td>20</td><td>25</td></tr>
+</tbody></table></p>
+<p><b>b</b> Use the following coding to find the standard deviation of the data. Show all the working.</p>
+<p><b>i</b>&#x00A0; <i>x</i> &#x2212; 10 <b>ii</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mi>x</mi><mrow><mn>10</mn></mrow></mfrac></mrow></math>&#x00A0;<b>iii</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>3</mn></mrow><mn>2</mn></mfrac></mrow></math></p>
+</Question>
+<Solution>
+<p><b>a</b> Standard deviation <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mn></mn><msqrt><mrow><mfrac><mrow><mn>1540</mn></mrow><mn>5</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>84</mn></mrow><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn></mn><mn fontweight="bold">5.08</mn></mrow></math></p>
+<p><b>b i</b> coded data 1, 3, 5, 10, 15</p>
+<p>Standard deviation of coded data<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mn></mn><msqrt><mrow><mfrac><mrow><mn>360</mn></mrow><mn>5</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>34</mn></mrow><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn>5.08</mn></mrow></math></p>
+<p>Standard deviation = <b>5.08</b></p>
+<p><b>ii</b> coded data 1.1, 1.3, 1.5, 2.0, 2.5</p>
+<p>Standard deviation of coded data<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mn></mn><msqrt><mrow><mfrac><mrow><mn>15.4</mn></mrow><mn>5</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>8.4</mn></mrow><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn></mn><mn>0</mn><mo>.</mo><mn fontweight="bold">508</mn></mrow></math></p>
+<p>Standard deviation = 0.508 &#x00D7; 10 = <b>5.08</b></p>
+<p><b>iii</b> coded data 4, 5, 6, 8.5, 11</p>
+<p>Standard deviation of coded data <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mn></mn><msqrt><mrow><mfrac><mrow><mn>270.25</mn></mrow><mn>5</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>34.5</mn></mrow><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn>2.5377</mn></mrow></math></p>
+<p>Standard deviation = 2.5377 &#x00D7; 2 = <b>5.08</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Use the following codings to find the standard deviation of the following weights, <i>w</i>.</p>
+<p><table width="40%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>w</i></td><td>210</td><td>260</td><td>310</td><td>360</td><td>410</td></tr>
+</tbody></table></p>
+<p><b>i</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mi>w</mi><mrow><mn>10</mn></mrow></mfrac></mrow></math></p>
+<p><b>ii</b>&#x00A0;<i>w</i> &#x2212; 200</p>
+<p><b>iii</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><mi>w</mi><mo>&#x2212;</mo><mn>10</mn></mrow><mrow><mn>200</mn></mrow></mfrac></mrow></math></p>
+
+</Question>
+<Solution>
+<p><b>i</b> coded data 21, 26, 31, 36, 41</p>
+<p>Standard deviation of coded data <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mn></mn><msqrt><mrow><mfrac><mrow><mn>5055</mn></mrow><mn>5</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>155</mn></mrow><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn>7.07</mn></mrow></math></p>
+<p>Standard deviation = 7.07 &#x00D7; 10 = <b>70.7</b></p>
+<p><b>ii</b> coded data 10, 60, 110, 160, 210</p>
+<p>Standard deviation of coded data <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mn></mn><msqrt><mrow><mfrac><mrow><mn>85500</mn></mrow><mn>5</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>550</mn></mrow><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn>70.7</mn></mrow></math></p>
+<p>Standard deviation = <b>70.7</b></p>
+<p><b>iii</b> coded data 1, 1.25, 1.5, 1.75, 2</p>
+<p>Standard deviation of coded data <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mn></mn><msqrt><mrow><mfrac><mrow><mn>11.875</mn></mrow><mn>5</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>7.5</mn></mrow><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn>0.354</mn></mrow></math></p>
+<p>Standard deviation = 0.354 &#x00D7; 200 = <b>70.7</b></p>
+</Solution>
+</QuestionData><QuestionData number="3">
+<Question>
+<p><b>a</b> The coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>50</mn></mrow><mrow><mn>28</mn></mrow></mfrac></mrow></math> gives a standard deviation of 0.01 for <i>y</i>. Work out the standard deviation for <i>x</i>.</p>
+<p><b>b</b> The coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mi>h</mi><mrow><mn>15</mn></mrow></mfrac></mrow></math> produced a standard deviation for <i>y</i> of 0.045. What is the standard deviation of <i>h</i>?</p>
+<p><b>c</b> The coding <i>y</i> = <i>x</i> &#x2212; 14 produced a standard deviation for <i>y</i> of 2.37. What is the standard deviation of <i>x</i>?</p>
+<p><b>d</b> The coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>s</mi><mo>&#x2212;</mo><mn>5</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow></math> produced a standard deviation for <i>y</i> of 0.65. What is the standard deviation of <i>s</i>?</p>
+</Question>
+<Solution>
+<p><b>a</b> Standard deviation = 0.01 &#x00D7; 28 = <b>0.28</b></p>
+<p><b>b</b> Standard deviation = 0.045 &#x00D7; 15 = <b>0.675</b></p>
+<p><b>c</b> Standard deviation = <b>2.37</b></p>
+<p><b>d</b> Standard deviation = 0.65 &#x00D7; 10 = <b>6.5</b></p>
+</Solution>
+</QuestionData><QuestionData number="4">
+<Question>
+<p>The coding <i>y</i> = <i>x</i> &#x2212; 40 gives a standard deviation for <i>y</i> of 2.34. Write down the standard deviation of <i>x</i>.</p>
+</Question>
+<Solution>
+<p>Standard deviation = <b>2.34</b></p>
+</Solution>
+</QuestionData><QuestionData number="5">
+<Question>
+<p>The lifetime, <i>x</i>, in hours, of 70 light bulbs is shown in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Lifetime in hours</b></td><td align="center"><b>Number of light bulbs</b></td></tr>
+<tr><td align="center">20&#x2013;22</td><td align="center">3</td></tr>
+<tr><td align="center">22&#x2013;24</td><td align="center">12</td></tr>
+<tr><td align="center">24&#x2013;26</td><td align="center">40</td></tr>
+<tr><td align="center">26&#x2013;28</td><td align="center">10</td></tr>
+<tr><td align="center">28&#x2013;30</td><td align="center">5</td></tr>
+<tr><td align="center">total</td><td align="center">70</td></tr>
+</tbody></table></p>
+<p>Using the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>1</mn></mrow><mrow><mn>20</mn></mrow></mfrac></mrow></math> estimate the standard deviation of the actual lifetime in hours of a light bulb.</p>
+
+</Question>
+<Solution>
+<p>
+<table cellpadding="3" cellspacing="0" border="1">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center">Lifetime in hours</td><td align="center">Number of lightbulbs</td><td align="center">Midpoint</td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mn></mn><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>1</mn></mrow><mrow><mn>20</mn></mrow></mfrac></mrow></math></td><td align="center"><i>fy</i></td><td align="center"><i>fy</i><sup>2</sup></td></tr>
+<tr><td align="center">20 &#x2013; 22</td><td align="center">3</td><td align="center">21</td><td align="center">1</td><td align="center">3</td><td align="center">3</td></tr>
+<tr><td align="center">22 &#x2013; 24</td><td align="center">12</td><td align="center">23</td><td align="center">1.1</td><td align="center">13.2</td><td align="center">14.52</td></tr>
+<tr><td align="center">24 &#x2013; 26</td><td align="center">40</td><td align="center">25</td><td align="center">1.2</td><td align="center">48</td><td align="center">57.6</td></tr>
+<tr><td align="center">26 &#x2013; 28</td><td align="center">10</td><td align="center">27</td><td align="center">1.3</td><td align="center">13</td><td align="center">16.9</td></tr>
+<tr><td align="center">28 &#x2013; 30</td><td align="center">5</td><td align="center">29</td><td align="center">1.4</td><td align="center">7</td><td align="center">9.8</td></tr>
+<tr><td align="center">total</td><td align="center">70</td><td align="center">&#x00A0;</td><td align="center">&#x00A0;</td><td align="center">84.2</td><td align="center">101.82</td></tr></tbody></table></p>
+<p>Standard deviation of coded data <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mn></mn><msqrt><mrow><mfrac><mrow><mn>101.82</mn></mrow><mrow><mn>70</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>84.2</mn></mrow><mrow><mn>70</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn>0.0878</mn></mrow></math></p>
+<p>Standard deviation = 0.0878 &#x00D7; 20 = <b>1.76</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The weekly income, <i>i</i>, of 100 women workers was recorded.</p>
+<p>The data were coded using <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>i</mi><mo>&#x2212;</mo><mn>90</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow></math> and the following summations were obtained.</p>
+<p>&#x03A3;<i>y</i> = 131, &#x03A3;<i>y</i><sup>2</sup> = 176.84</p>
+<p>Work out an estimate for the standard deviation of the actual women workers&#x2019; weekly income.</p>
+</Question>
+<Solution>
+<p>Standard deviation of coded data <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mrow><msqrt><mrow><mfrac><mrow><mn>176.84</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow><mrow><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>131</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt></mrow><mo>=</mo><mn>0.229</mn></mrow></math></p>
+<p>Standard deviation = 0.229 &#x00D7; 100 = <b>22.9</b></p>
+</Solution>
+</QuestionData><QuestionData number="7">
+<Question>
+<p>A meteorologist collected data on the annual rainfall, <i>x</i> mm, at six randomly selected places. The data were coded using <i>s</i> = 0.01<i>x</i> &#x2212; 10 and the following summations were obtained.</p>
+<p>&#x03A3;<i>s</i> = 16.1, &#x03A3;<i>s</i><sup>2</sup> = 147.03</p>
+<p>Work out an estimate for the standard deviation of the actual annual rainfall.</p>
+</Question>
+<Solution>
+<p>Standard deviation of coded data <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mn></mn><msqrt><mrow><mfrac><mrow><mn>147.03</mn></mrow><mn>6</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>16.1</mn></mrow><mn>6</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn>4.16</mn></mrow></math></p>
+<p>Standard deviation = 4.16 &#x00F7; 0.01 = <b>416</b></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="F"><p><b>Mixed exercise 3F</b></p>
+<QuestionData number="1">
+<Question>
+<p>For the set of numbers:</p>
+<p><table width="60%">
+<col align="left" valign="top"/> 
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/> 
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/> 
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>2</td><td>5</td><td>3</td><td>8</td><td>9</td><td>10</td><td>3</td><td>2</td><td>15</td><td>10</td><td>5</td><td>7</td><td>6</td><td>7</td><td>5</td></tr>
+</tbody></table></p>
+<p><b>a</b> work out the median,</p>
+<p><b>b</b> work out the lower quartile,</p>
+<p><b>c</b> work out the upper quartile,</p>
+<p><b>d</b> work out the interquartile range.</p>
+</Question>
+<Solution>
+<p>2, 2, 3, 3, 5, 5, 5, 6, 7, 7, 8, 9, 10, 10, 15</p>
+<p><b>a</b> Median: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>15</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>7.5</mn></mrow></math> therefore 8<sup>th</sup> value needed = <b>6</b></p>
+<p><b>b</b> &#x00A0;<i>Q</i><sub>1</sub>: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>15</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>3.75</mn></mrow></math> therefore 4<sup>th</sup> value needed = <b>3</b></p>
+<p><b>c</b> &#x00A0;<i>Q</i><sub>3</sub>: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>15</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>11.25</mn></mrow></math> therefore 12<sup>th</sup> value needed = <b>9</b></p>
+<p><b>d</b> IQR = 9 &#x2212; 3 = <b>6</b></p>
+</Solution>
+</QuestionData><QuestionData number="2">
+<Question>
+<p>A frequency distribution is shown below</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="let"><b>Class interval</b></td><td align="center">1&#x2013;20</td><td align="center">21&#x2013;40</td><td align="center">41&#x2013;60</td><td align="center">61&#x2013;80</td><td align="center">81&#x2013;100</td></tr>
+<tr><td align="left"><b>Frequency (<i>f</i>)</b></td><td align="center">5</td><td align="center">10</td><td align="center">15</td><td align="center">12</td><td align="center">8</td></tr>
+</tbody></table></p>
+<p>Work out the interquartile range.</p>
+</Question>
+<Solution>
+<p><b>CF = 5 15 30 42 50</b></p>
+<p>Data is continuous so:</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>:</mo><mfrac><mrow><mn>50</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>12.5</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so <i>Q</i><sub>1</sub> is in class 21 &#x2013; 40</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>&#x2212;</mo><mn>20.5</mn></mrow><mrow><mn>40.5</mn><mo>&#x2212;</mo><mn>20.5</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>12.5</mn><mo>&#x2212;</mo><mn>5</mn></mrow><mrow><mn>15</mn><mo>&#x2212;</mo><mn>5</mn></mrow></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1.3ex"/><mrow><mfrac><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>&#x2212;</mo><mn>20.5</mn></mrow><mrow><mn>20</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>7.5</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="6.4ex"/><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>= </mo><mn>35.5</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>:</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>50</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>37.5</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so <i>Q</i><sub>3</sub> is in class 61 &#x2013; 80</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>&#x2212;</mo><mn>60.5</mn></mrow><mrow><mn>80.5</mn><mo>&#x2212;</mo><mn>60.5</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>37.5</mn><mo>&#x2212;</mo><mn>30</mn></mrow><mrow><mn>42</mn><mo>&#x2212;</mo><mn>30</mn></mrow></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="7ex"/><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>=</mo><mn>73</mn></mrow></math></p>
+<p>IQR = 73 &#x2212; 35.5 = <b>37.5</b></p>
+</Solution>
+</QuestionData><QuestionData number="3">
+<Question>
+<p>A frequency distribution is shown below.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/> 
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b>Class interval</b></td><td align="center">1&#x2013;10</td><td align="center">11&#x2013;20</td><td align="center">21&#x2013;30</td><td align="center">31&#x2013;40</td><td align="center">41&#x2013;50</td></tr>
+<tr><td align="left"><b>Frequency (<i>f</i>)</b></td><td align="center">10</td><td align="center">20</td><td align="center">30</td><td align="center">24</td><td align="center">16</td></tr>
+</tbody></table></p>
+<p><b>a</b> Work out the value of the 30th percentile.</p>
+<p><b>b</b> Work out the value of the 70th percentile.</p>
+<p><b>c</b> Calculate the 30% to 70% interpercentile range.</p>
+</Question>
+<Solution>
+<p><b>a</b> 30<sup>th</sup> : <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>30</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>100</mn><mo>=</mo><mn>30</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="4ex"/><mrow><msub><mi>P</mi><mn>30</mn></msub><mo>=</mo><mn fontweight="bold">20.5</mn></mrow></math></p>
+<p><b>b</b> 70<sup>th</sup> : <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>70</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>100</mn><mo>=</mo><mn>70</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><msub><mi>P</mi><mrow><mn>70</mn></mrow></msub><mo>&#x2212;</mo><mn>30.5</mn></mrow><mrow><mn>40.5</mn><mo>&#x2212;</mo><mn>30.5</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>70</mn><mo>&#x2212;</mo><mn>60</mn></mrow><mrow><mn>84</mn><mo>&#x2212;</mo><mn>60</mn></mrow></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="5.5ex"/><mrow><msub><mi>P</mi><mn>66</mn></msub><mo>=</mo><mn fontweight="bold">34.7</mn></mrow></math></p>
+<p><b>c</b> 30% to 70% interpercentile = 34.7 &#x2212; 20.5 = <b>14.2</b></p>
+</Solution>
+</QuestionData><QuestionData number="4">
+<Question>
+<p>The heights (<i>h</i>) of 10 mountains were recorded to the nearest 10 m and are shown in the table below.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/> 
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/> 
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>h</i></b></td><td>1010</td><td>1030</td><td>1050</td><td>1000</td><td>1020</td><td>1030</td><td>1030</td><td>1040</td><td>1020</td><td>1000</td></tr>
+</tbody></table></p>
+<p>Use the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mi>h</mi><mo>&#x2212;</mo><mn>1000</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow></math> to find the standard deviation of the heights.</p>
+</Question>
+<Solution>
+<p>coded data 10, 10.2, 10.4, 9.9 10.1, 10.2, 10.2, 10.3, 10.1, 9.9</p>
+<p>Standard deviation of coded data <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>1026.41</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>101.3</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn>0.155</mn></mrow></math></p>
+<p>Standard deviation = 0.155 &#x00D7; 100 = <b>15.5</b></p>
+</Solution>
+</QuestionData><QuestionData number="5">
+<Question>
+<p>The times it took a random sample of runners to complete a race are summarised in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/> 
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Time taken (<i>t</i> minutes)</b></td><td align="center"><b>Frequency</b></td></tr>
+<tr><td align="center">20&#x2013;29</td><td align="center">5</td></tr>
+<tr><td align="center">30&#x2013;39</td><td align="center">10</td></tr>
+<tr><td align="center">40&#x2013;49</td><td align="center">36</td></tr>
+<tr><td align="center">50&#x2013;59</td><td align="center">20</td></tr>
+<tr><td align="center">60&#x2013;69</td><td align="center">9</td></tr>
+</tbody></table></p>
+<p><b>a</b> Work out the lower quartile.</p>
+<p><b>b</b> Work out the upper quartile.</p>
+<p><b>c</b> Work out the interquartile range.</p>
+<p>The mid-point of each class was represented by <i>x</i> and its corresponding frequency by <i>f</i> giving:</p>
+<p>&#x03A3;<i>fx</i> = 3740 &#x03A3;<i>fx</i><sup>2</sup> = 183 040</p>
+<p><b>d</b> Estimate the variance and standard deviation for these data.</p>
+</Question>
+<Solution>
+<p>
+<table>
+<col align="left" valign="top"/>
+<tbody>
+<tr>
+<td><b>CF = 5</b></td><td><b>15</b></td><td><b>51</b></td><td><b>71</b></td><td><b>80</b></td></tr></tbody></table></p>
+<p><b>a</b> Data is continuous so:
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>:</mo><mfrac><mrow><mn>80</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>20</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so <i>Q</i><sub>1</sub> is in class 40 &#x2013; 49</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>&#x2212;</mo><mn>39.5</mn></mrow><mrow><mn>49.5</mn><mo>&#x2212;</mo><mn>39.5</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>20</mn><mo>&#x2212;</mo><mn>15</mn></mrow><mrow><mn>51</mn><mo>&#x2212;</mo><mn>15</mn></mrow></mfrac></mrow></mtd></mtr>
+
+<mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>1</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>40.9</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>:</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>80</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>60</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so <i>Q</i><sub>3</sub> is in class 50 &#x2013; 59</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>&#x2212;</mo><mn>49.5</mn></mrow><mrow><mn>59.5</mn><mo>&#x2212;</mo><mn>49.5</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>60</mn><mo>&#x2212;</mo><mn>51</mn></mrow><mrow><mn>71</mn><mo>&#x2212;</mo><mn>51</mn></mrow></mfrac></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>3</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>54</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+
+<p><b>c</b> IQR = 54 &#x2212; 40.9 = <b>13.1</b></p>
+<p><b>d</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Variance</mtext><mo>=</mo><mfrac><mrow><mn>183040</mn></mrow><mrow><mn>80</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>3740</mn></mrow><mrow><mn>80</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn fontweight="bold">102.4375</mn><mo fontweight="bold">=</mo><mn fontweight="bold">102</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mn>102.4375</mn></mrow></msqrt><mo>=</mo><mn fontweight="bold">10.1</mn></mrow></math></p>
+</Solution>
+</QuestionData><QuestionData number="6">
+<Question>
+<p>20 birds were caught for ringing.</p>
+<p>Their wing spans (<i>x</i>) were measured to the nearest centimetre.</p>
+<p>The following summary data was worked out:</p>
+<p>&#x03A3;<i>x</i> = 316 &#x03A3;<i>x</i><sup>2</sup> = 5078</p>
+<p><b>a</b> Work out the mean and the standard deviation of the wing spans of the 20 birds. One more bird was caught. It had a wing span of 13 centimetres</p>
+<p><b>b</b> Without doing any further working say how you think this extra wing span will affect the mean wing span.</p>
+</Question>
+<Solution>
+<p><b>a</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mn>316</mn></mrow><mrow><mn>20</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">15.8</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>5078</mn></mrow><mrow><mn>20</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>316</mn></mrow><mrow><mn>20</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn fontweight="bold">2.06</mn></mrow></math></p>
+<p><b>b</b> It will decrease the mean wing span since 13 &#x003C; 15.8</p>
+</Solution>
+</QuestionData><QuestionData number="7">
+<Question>
+<p>The heights of 50 clover flowers are summarised in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/> 
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Heights in mm (<i>h</i>)</b></td><td align="center"><b>Frequency</b></td></tr>
+<tr><td align="center">90&#x2013;95</td><td align="center">5</td></tr>
+<tr><td align="center">95&#x2013;100</td><td align="center">10</td></tr>
+<tr><td align="center">100&#x2013;105</td><td align="center">26</td></tr>
+<tr><td align="center">105&#x2013;110</td><td align="center">8</td></tr>
+<tr><td align="center">110&#x2013;115</td><td align="center">1</td></tr>
+</tbody></table></p>
+<p><b>a</b> Find Q<sub>1</sub>.</p>
+<p><b>b</b> Find Q<sub>2</sub>.</p>
+<p><b>c</b> Find the interquartile range.</p>
+<p><b>d</b> Use &#x03A3;<i>fx</i> = 5075 and &#x03A3;<i>fx</i><sup>2</sup> = 516 112.5 to find the standard deviation.</p>
+</Question>
+<Solution>
+<p>
+<table>
+<col align="left" valign="top"/>
+<tbody>
+<tr>
+<td><b>CF = 5</b></td><td><b>15</b></td><td><b>41</b></td><td><b>49</b></td><td><b>50</b></td></tr></tbody></table></p>
+<p><b>a</b> Data is continuous so:</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>Q</mtext><mn>1</mn></msub><mo>:</mo><mfrac><mrow><mn>50</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>12.5</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so Q<sub>1</sub> is in class 95 &#x2013; 100</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mtext>Q</mtext><mn>1</mn></msub><mo>&#x2212;</mo><mn>95</mn></mrow><mrow><mn>100</mn><mo>&#x2212;</mo><mn>95</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>12.5</mn><mo>&#x2212;</mo><mn>5</mn></mrow><mrow><mn>15</mn><mo>&#x2212;</mo><mn>5</mn></mrow></mfrac></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mtext>Q</mtext><mn>1</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn fontweight="bold">98.75</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mtext>Q</mtext><mn>3</mn></msub><mo>:</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>50</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>37.5</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so Q<sub>3</sub> is in class 100 &#x2013; 105</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mtext>Q</mtext><mn>3</mn></msub><mo>&#x2212;</mo><mn>100</mn></mrow><mrow><mn>105</mn><mo>&#x2212;</mo><mn>100</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>37.5</mn><mo>&#x2212;</mo><mn>15</mn></mrow><mrow><mn>41</mn><mo>&#x2212;</mo><mn>15</mn></mrow></mfrac></mrow></mtd></mtr>
+<mtr><mtd columnalign="right"><mrow><msub><mtext>Q</mtext><mn>3</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn fontweight="bold">104.33</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+<p><b>c</b> IQR = 104.33 &#x2212; 98.75 = <b>5.58</b></p>
+<p><b>d</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>516112.5</mn></mrow><mrow><mn>50</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>5075</mn></mrow><mrow><mn>50</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mn fontweight="bold">4.47</mn></mrow></math></p></Solution>
+</QuestionData></Exercise>
+</Chapter>
+</Section>
+</Unit>
+</SubjectArea>
+</ProductTitle>
+</ExamBoard>
+</Level>
+</Subject>
+</Harcourt>

@@ -1,0 +1,664 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='standard hexagonal jigsaw 30' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='solution'/>
+    <active-option view-id='input' option-id='input.paired.20'/>
+    <active-option view-id='output' option-id='output.normal size'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>42</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+    <mo>?</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>40</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>436</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>400</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>372</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>370</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>564</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>600</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>564</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>560</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>2734</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>1000</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3000</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>6136</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>thousand</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>6000</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>5126</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>5100</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>2478</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2480</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>6352</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>6400</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>3007</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>1000</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3000</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>4005</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>4010</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>1925</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1930</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>1925</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1900</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>653</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>700</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>342</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>340</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>325</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>330</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>3364</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3400</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>5126</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>5130</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>23</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>754</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>000</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>20</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>000</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>18</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>597</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>1000</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>19</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>000</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>89</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>315</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>89</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>300</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>12</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>964</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>000</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>10</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>000</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>190</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>283</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>190</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>300</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>1075</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>100</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1100</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>25</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>765</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>1000</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>26</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>000</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>4219</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>4220</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>335</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>007</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>335</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>010</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>25</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>984</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>000</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>30</mn>
+    <mtext>&nbsp;</mtext>
+    <mn>000</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>55</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>to</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>the</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nearest</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>60</mn>
+  </mrow>
+</math>
+  </eqnpair>
+</eqnpairs>

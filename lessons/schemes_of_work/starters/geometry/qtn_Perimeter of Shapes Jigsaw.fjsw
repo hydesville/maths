@@ -1,0 +1,453 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='standard triangular jigsaw 18' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='table'/>
+    <active-option view-id='input' option-id='input.paired.18'/>
+    <active-option view-id='output' option-id='output.normal size'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This</mtext>
+            <mtext>&nbsp;</mtext>
+            <mtext>is</mtext>
+            <mtext>&nbsp;</mtext>
+            <mtext>a</mtext>
+            <mtext>&nbsp;</mtext>
+            <mtext>regular</mtext>
+            <mtext>&nbsp;</mtext>
+            <mtext>pentagon.</mtext>
+            <mtext>&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>Each</mtext>
+            <mtext>&nbsp;</mtext>
+            <mtext>side</mtext>
+            <mtext>&nbsp;</mtext>
+            <mtext>is</mtext>
+            <mtext>&nbsp;</mtext>
+            <mtext>4cm</mtext>
+            <mtext>&nbsp;</mtext>
+            <mtext>long.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>The perimeter is 20cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is a rectangle.&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>Its dimensions are 3cm by 6cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>Its perimeter is 18cm long.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is a rectangle that&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>measures 8cm by 5cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>The distance all the way&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>around this shape is 26cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This a regular hexagon.&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>Each side is 5cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>Its perimeter is 30cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>Each length of this shape&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>is 10cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is an octagon with&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>a perimeter of 80cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is a square.&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>Its length is 5cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>Its perimeter is 20cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is a square.</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>Its</mtext>
+            <mtext>&nbsp;</mtext>
+            <mi mathvariant="italic">area</mi>
+            <mtext>&nbsp;</mtext>
+            <mtext>is</mtext>
+            <mtext>&nbsp;</mtext>
+            <msup>
+              <mtext>36cm</mtext>
+              <mtext>2</mtext>
+            </msup>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>Its perimeter is 24cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is a 2cm by 3cm</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>&nbsp;rectangle.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>Its perimeter is 10cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is a square with&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>side lengths of 10cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>The perimeter is 40cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is a regular pentagon.&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>Each side is 3cm long.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>Its perimeter is 15cm</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is an equilateral triangle.&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>Each side is 5cm long.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>Its perimeter is 15cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is a rectangle. Its width</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>is 7cm and its length is 4cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>The perimeter is 22cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is a</mtext>
+            <mtext>&nbsp;</mtext>
+            <mtext>rectangle.&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>It measures 4.5cm by 7cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>Its perimeter is 23cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is an octagon.&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>Each side is 6cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>Its perimeter is 48cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is an equilateral triangle.&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>Each side is 12cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>Its perimeter is 36cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is a regular hexagon.&nbsp;</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>Each side is 7cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>Its perimeter is 42cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>This is a heptagon. Each</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>side measures 5cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext>The perimeter measures 35cm.</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mtext>In this shape each side measures 7cm.</mtext>
+      </mrow>
+    </math>
+    <math display="block">
+      <mtable columnalign="left" linebreak="true">
+        <mtr>
+          <mtd>
+            <mtext>Its an equilateral triangle</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>and its perimeter is 21cm.</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>
+  </eqnpair>
+</eqnpairs>

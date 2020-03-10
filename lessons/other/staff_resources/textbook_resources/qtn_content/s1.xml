@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+	<Subject type="Mathematics">
+		<Level age="AandAS">
+			<ExamBoard title="">
+				<ProductTitle name="Solutionbank">
+					<SubjectArea name="Statistics 1" abbrev="S">
+						<Unit number="1" colour="#FFFFFF" bgcolour="#00755E">
+							<Chapter number="1" title="Mathematical models in probability and statistics" file="s1_ch1.xml"/>
+							<Chapter number="2" title="Representation and summary of data-location" file="s1_ch2.xml"/>
+							<Chapter number="3" title="Measures of dispersion" file="s1_ch3.xml"/>
+							<Chapter number="4" title="Representation of data" file="s1_ch4.xml"/>
+							<Chapter number="5" title="Probability" file="s1_ch5.xml"/>
+							<Chapter number="" title="Review exercise 1" file="s1_rev1.xml"/>
+							<Chapter number="6" title="Correlation" file="s1_ch6.xml"/>
+							<Chapter number="7" title="Regression" file="s1_ch7.xml"/>
+							<Chapter number="8" title="Discrete Random Variables" file="s1_ch8.xml"/>
+							<Chapter number="9" title="Normal distribution" file="s1_ch9.xml"/>
+							<Chapter number="" title="Review Exercise 2" file="s1_rev2.xml"/>
+							<Chapter number="" title="Exam Paper" file="s1_mex1.xml"/>
+							
+							
+						</Unit>
+					</SubjectArea>
+				</ProductTitle>
+			</ExamBoard>
+		</Level>
+	</Subject>
+	<Copyright>&#169; Pearson Education Ltd 2008</Copyright>
+	<Help>
+		<img src="images/trans.gif" class="helpnotshown" onload="if (document.getElementsByTagName('link')[0].getAttribute('href')=='styles/header.css') {document.getElementsByTagName('link')[0].setAttribute('href','s1/styles/header.css');} else if (document.getElementsByTagName('link')[0].getAttribute('href')=='styles/body.css') {document.getElementsByTagName('link')[0].setAttribute('href','s1/styles/body.css');}"/>
+	
+		<h5>Welcome to Solutionbank for Statistics 1</h5>
+
+		<h6>About Solutionbank</h6>
+	
+		<p>The Statistics 1 Solutionbank provides you with a complete set of solutions to the questions in the Statistics 1 textbook. Showing you exactly how to lay out your answers, Solutionbank is an ideal tool for revising topics and checking your answers.</p>
+
+		<p>On your Statistics 1 Solutionbank you will find:</p>
+
+		<p><strong>- Complete solutions to exercises in the Statistics 1 textbook</strong> showing you exactly how to write out a perfect exam answer</p>
+
+		<p><strong>- Complete solutions for the practice paper</strong></p>
+
+		<p><strong>- Hints to many questions</strong> give you the first step, helping you work towards a solution yourself</p>
+
+		<p><strong>-  A straightforward interface</strong> allows you to displays the questions and answers you need quickly and easily, and to print out hints and solutions</p>
+
+		<h6>Exam questions</h6>
+
+		<p>On this CD, questions are carefully graded so that they increase in difficulty and gradually bring you up to exam standard:</p>
+		<p><strong>- Past exam questions</strong> are marked with an <strong>[E]</strong>.</p>
+
+		<p><strong>- Practice paper</strong> - this is designed to help you prepare for the exam itself.</p>
+
+		<p>Note: model answers to the examination style paper can be found in the Exam Café.</p>
+
+
+		<h6>Running Solutionbank</h6>
+
+		<p>The Solutionbank is accessed via links from the LiveText software.</p>
+
+		<p>The Solutionbank will open on a particular question, dependent on which link you accessed the product from in the LiveText software.</p>
+
+		<p>Once the Solutionbank is open you can access the solution to any question from any chapter. To do this, select the relevant chapter from the Chapters drop-down menu in the centre of the screen.</p>
+
+		<p>Once you have selected a chapter, the Exercise drop-down menu will appear. This contains all the exercises available within your selected chapter.</p>
+
+		<p>On selecting an exercise, a list of available questions will appear. Click on a question number to display it.</p>
+
+		<h6>Viewing Hints and Solutions</h6>
+
+		<p>Once a question is displayed on-screen, you can choose to view the hint (if available) or solution associated with that question by clicking on the relevant button at the bottom of the screen. If there is no hint available, the Hint button will be greyed out.</p>
+
+		<p>You can close individual hints or solutions by clicking on the red cross at the top right-hand side of the hint/solution box; display them again by clicking on the relevant button.</p>
+
+		<p>You can jump directly between questions, hints and solutions by clicking on the appropriate button.</p>
+
+		<h6>Printing Questions, Hints and Solutions</h6>
+
+		<p>You can print out individual questions, hints and/or solutions. Clicking on the Print button will print the information currently displayed on-screen.</p>
+
+		<p><strong>Note:</strong> Some mathematical symbols and graphs may not print through laser printers; this limitation does not apply to ink-jet printers.</p>
+
+		<h6>Displaying equations</h6>
+
+		<p>Certain characters and complex equations within Solutionbank are displayed using a MathML renderer, such as MathPlayer or TechExplorer.</p> 
+
+		<h6>Quitting Solutionbank</h6>
+
+		<p>To exit Solutionbank, simply click the 'close' button at the top-right of your browser window.</p>
+
+
+</Help>
+	
+</Harcourt>

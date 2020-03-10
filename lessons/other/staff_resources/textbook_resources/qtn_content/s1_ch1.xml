@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+<Subject type="Mathematics">
+<Level age="">
+<ExamBoard title="AandAS">
+<ProductTitle name="Solutionbank">
+<SubjectArea name="Statistics" abbrev="S">
+<Unit number="1">
+<Section>
+<Chapter number="1" title="Mathematical models in probability and statistics"><p><b>Chapter 1</b></p>
+<Exercise letter="A"><p><b>Exercise 1A</b></p>
+<QuestionData number="1">
+<Question>
+<p>Give one advantage and one disadvantage of using a mathematical model.</p>
+</Question><Solution><p>Mathematical models are quicker and cheaper to produce.
+</p><p>But the model is only a simplification and does not include all aspects of the real problem.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Describe briefly the process of refining a mathematical model.</p>
+</Question><Solution><p>Predictions based on the model are compared with observed data.
+</p><p>In the light of this comparison the model may be adjusted (refined).</p>
+<p>The process of collecting observed data and comparing with revised prediction from the model is repeated.</p>
+</Solution>
+</QuestionData>
+</Exercise>
+</Chapter>
+</Section>
+</Unit>
+</SubjectArea>
+</ProductTitle>
+</ExamBoard>
+</Level>
+</Subject>
+</Harcourt>

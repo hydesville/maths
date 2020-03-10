@@ -1,0 +1,563 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='standard hexagonal jigsaw 30' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='input'/>
+    <active-option view-id='input' option-id='input.paired.30'/>
+    <active-option view-id='output' option-id='output.normal size'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>4</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>feet</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>48</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>inches</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>feet</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>8</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>inches</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>32</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>inches</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>4</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>yards</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>12</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>feet</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>10</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>yards</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>30</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>feet</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>miles</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3520</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>yards</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>lbs</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>32</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>oz</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>1</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>lb</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>4</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>oz</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>20</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>oz</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>5</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>stone</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>70</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>lbs</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>stone</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>10</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>lb</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>38</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>lb</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>5</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>gallons</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>40</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>pints</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>gallons</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>28</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>pints</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>4</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>yards</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>feet</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>14</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>feet</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>miles</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>4400</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>yards</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>yards</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>1</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>foot</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>84</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>inches</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>24</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>inches</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>feet</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>40</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>inches</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>feet</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>4</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>inches</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>15</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>feet</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>5</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>yards</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>20</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>feet</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>6</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>yards</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>feet</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>48</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>oz</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>lb</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>8</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>oz</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mi mathvariant = 'italic'>lb</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>35</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>oz</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>lb</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>3</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>oz</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>56</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>lb</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>4</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>stone</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>40</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>lb</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>stone</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>12</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>lb</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>16</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>pints</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>gallons</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>25</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>pints</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>gallons</mi>
+    <mtext>&nbsp;</mtext>
+    <mn>1</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>pint</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>ton</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>7840</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>lb</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>6</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>foot</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>72</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>inches</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>7</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>miles</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>12320</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>yards</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>8</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>pints</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>gallon</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn>14</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>pounds</mi>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1</mn>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>stone</mi>
+  </mrow>
+</math>
+  </eqnpair>
+</eqnpairs>

@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+<Subject type="Mathematics">
+<Level age="">
+<ExamBoard title="AandAS">
+<ProductTitle name="Solutionbank">
+<SubjectArea name="Statistics" abbrev="S">
+<Unit number="1">
+<Section>
+<Chapter number="4" title="Representation of data"><p><b>Chapter 4</b></p>
+<Exercise letter="A"><p><b>Exercise 4A</b></p>
+<QuestionData number="1">
+<Question><p>A group of thirty college students was asked how many DVDs they had in their collection. The results are as follows.</p>
+<p><table width="80%">
+<tr><td>12</td><td>25</td><td>34</td><td>17</td><td>12</td><td>18</td><td>29</td><td>34</td><td>45</td><td>6</td></tr>
+<tr><td>15</td><td>9</td><td>25</td><td>23</td><td>29</td><td>22</td><td>20</td><td>32</td><td>15</td><td>15</td></tr>
+<tr><td>19</td><td>12</td><td>26</td><td>27</td><td>27</td><td>32</td><td>35</td><td>42</td><td>26</td><td>25</td></tr>
+</table></p>
+<p>Draw a stem and leaf diagram to represent these data.</p>
+<p><b>a</b> Find the median.</p>
+<p><b>b</b> Find the lower quartile.</p>
+<p><b>c</b> Find the upper quartile.</p>
+</Question>
+<Solution>
+<p>Unordered
+<table cellpadding="0" cellspacing="0">
+<col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/>
+<tbody>
+<tr><td colspan="13" align="right">key 1|2 means 12</td></tr>
+<tr><td style="border-right:1px solid black">0</td><td>6</td><td>9</td><td colspan="10"/></tr>
+<tr><td style="border-right:1px solid black">1</td><td>2</td><td>7</td><td>2</td><td>8</td><td>5</td><td>5</td><td>5</td><td>9</td><td>2</td><td colspan="3"/></tr>
+<tr><td style="border-right:1px solid black">2</td><td>5</td><td>9</td><td>5</td><td>3</td><td>9</td><td>2</td><td>0</td><td>6</td><td>7</td><td>7</td><td>6</td><td>5</td></tr>
+<tr><td style="border-right:1px solid black">3</td><td>4</td><td>4</td><td>2</td><td>2</td><td>5</td><td colspan="7"/></tr>
+<tr><td style="border-right:1px solid black">4</td><td>5</td><td>2</td><td colspan="10"/></tr>
+</tbody>
+</table></p>
+<p>Ordered
+<table cellpadding="0" cellspacing="0">
+<col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/>
+<tbody>
+<tr><td colspan="13" align="right">key 1|2 means 12</td></tr>
+<tr><td style="border-right:1px solid black">0</td><td>6</td><td>9</td><td colspan="10"/></tr>
+<tr><td style="border-right:1px solid black">1</td><td>2</td><td>2</td><td>2</td><td>5</td><td>5</td><td>5</td><td>7</td><td>8</td><td>9</td><td colspan="3"/></tr>
+<tr><td style="border-right:1px solid black">2</td><td>0</td><td>2</td><td>3</td><td>5</td><td>5</td><td>5</td><td>6</td><td>6</td><td>7</td><td>7</td><td>9</td><td>9</td></tr>
+<tr><td style="border-right:1px solid black">3</td><td>2</td><td>2</td><td>4</td><td>4</td><td>5</td><td colspan="7"/></tr>
+<tr><td style="border-right:1px solid black">4</td><td>2</td><td>5</td><td colspan="10"/></tr></tbody>
+</table></p>
+<p>(a) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>30</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>15</mn></mrow></math> therefore 15.5<sup>th</sup> term = 25</p>
+<p>(b) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>30</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>7.5</mn></mrow></math> therefore 8<sup>th</sup> term = 15</p>
+<p>(c) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy='false'>(</mo><mn>30</mn><mo stretchy='false'>)</mo></mrow><mn>4</mn></mfrac><mo>=</mo><mn>22.5</mn></mrow></math> therefore 23<sup>rd</sup> term = 29</p>
+</Solution>
+</QuestionData><QuestionData number="2">
+<Question>
+<p>The following stem and leaf diagram shows some information about the marks gained by a group of students in a statistics test.</p>
+<p><table cellpadding="0" cellspacing="0">
+<col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="right"/><tbody>
+<tr><td style="border-bottom:1px solid black;border-right:1px solid black">stem</td><td style="border-bottom:1px solid black">leaf</td><td style="border-bottom:1px solid black" colspan="4">&#x00A0;</td><td colspan="5" style="border-bottom:1px solid black">Key: 2|3 means 23 marks</td></tr>
+<tr><td style="border-right:1px solid black">0</td><td>8</td><td>9</td><td colspan="7"/><td>(2)</td></tr>
+<tr><td style="border-right:1px solid black">1</td><td>2</td><td>5</td><td>5</td><td>9</td><td colspan="5"></td><td>(4)</td></tr>
+<tr><td style="border-right:1px solid black">2</td><td>3</td><td>6</td><td>6</td><td>6</td><td>7</td><td colspan="4"></td><td>(5)</td></tr>
+<tr><td style="border-right:1px solid black">3</td><td>4</td><td>4</td><td>5</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>9</td><td>(9)</td></tr>
+<tr><td style="border-right:1px solid black">4</td><td>5</td><td>8</td><td>8</td><td>9</td><td colspan="5"></td><td>(4)</td></tr></tbody>
+</table></p>
+<p><b>a</b> Work out how many students there were in the group.</p>
+<p><b>b</b> Write down the highest mark.</p>
+<p><b>c</b> Write down the lowest mark.</p>
+<p><b>d</b> Write down how many students got 26 marks.</p>
+<p><b>e</b> Write down the modal mark.</p>
+<p><b>f</b> Find the median mark.</p>
+<p><b>g</b> Find the lower quartile.</p>
+<p><b>h</b> Find the upper quartile.</p>
+</Question><Solution>
+<p>(a) 24 (b) 49 (c) 8 (d) 3 (e) 37</p>
+<p>(f) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>24</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>12</mn></mrow></math> therefore 12.5<sup>th</sup> term = 34</p>
+<p>(g) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>24</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>6</mn></mrow></math> therefore 6.5<sup>th</sup><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>term</mtext><mo>=</mo><mfrac><mrow><mn>19</mn><mo>+</mo><mn>23</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>21</mn></mrow></math></p>
+<p>(h) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy='false'>(</mo><mn>24</mn><mo stretchy='false'>)</mo></mrow><mn>4</mn></mfrac><mo>=</mo><mn>18</mn></mrow></math> therefore 18.5<sup>th</sup> term = 37</p>
+</Solution>
+</QuestionData><QuestionData number="3">
+<Question>
+<p><b>3</b> The number of laptops sold by a store was recorded each month for a period of 26 months. The results are shown in the stem and leaf diagram.
+<table cellpadding="0" cellspacing="0">
+<col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="center"/><col width="40px" align="right"/>
+<tbody>
+<tr><td style="border-bottom:1px solid black;border-right:1px solid black;">stem</td><td style="border-bottom:1px solid black">leaf</td><td style="border-bottom:1px solid black" colspan="4">&#x00A0;</td><td style="border-bottom:1px solid black" colspan="5">Key: 1|8 means 18 laptops</td></tr>
+<tr><td style="border-right:1px solid black">1</td><td>8</td><td colspan="8"/><td>(1)</td></tr>
+<tr><td style="border-right:1px solid black">2</td><td>3</td><td>6</td><td>7</td><td>9</td><td>9</td><td colspan="4"/><td>(5)</td></tr>
+<tr><td style="border-right:1px solid black">3</td><td>2</td><td>6</td><td>6</td><td>6</td><td>7</td><td>8</td><td>8</td><td colspan="2"/><td>(7)</td></tr>
+<tr><td style="border-right:1px solid black">4</td><td>4</td><td>5</td><td>5</td><td>5</td><td>7</td><td>7</td><td>7</td><td>7</td><td>9</td><td>(9)</td></tr>
+<tr><td style="border-right:1px solid black">5</td><td>2</td><td>7</td><td>7</td><td>9</td><td colspan="5"/><td>(4)</td></tr></tbody></table>
+</p>
+<p><b>a</b> Find the median.</p>
+<p><b>b</b> Find the lower quartile.</p>
+<p><b>c</b> Find the upper quartile.</p>
+<p><b>d</b> Work out the interquartile range.</p>
+<p><b>e</b> Write down the modal number of laptops sold.</p></Question><Solution>
+<p>(a) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>26</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>13</mn></mrow></math> therefore 13.5<sup>th</sup><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>term</mtext><mo>=</mo><mfrac><mrow><mn>38</mn><mo>+</mo><mn>44</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>41</mn></mrow></math></p>
+<p>(b) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>26</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>6.5</mn><mo>=</mo><mn>7</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>term</mtext><mo>=</mo><mn>32</mn></mrow></math></p>
+<p>(c) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy='false'>(</mo><mn>26</mn><mo stretchy='false'>)</mo></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>19.5</mn><mo>=</mo><mn>20</mn></mrow><mrow><mtext>st</mtext></mrow></msup><mspace width="1ex"/><mtext>term</mtext><mo>=</mo><mn>47</mn></mrow></math></p>
+<p>(d) IQR = 47 &#x2212; 32 = 15</p>
+<p>(e) 47</p>
+</Solution>
+</QuestionData><QuestionData number="4">
+<Question>
+<p>A class of 16 boys and 13 girls did a Physics test. The test was marked out of 60. Their marks are shown below.
+<table width="75%">
+<tr><td colspan="4" align="center"><b>Boys</b></td><td/><td colspan="4" align="center"><b>Girls</b></td></tr>
+<tr><td>45</td><td>54</td><td>32</td><td>60</td><td/><td>26</td><td>54</td><td>47</td><td>32</td></tr>
+<tr><td>28</td><td>34</td><td>54</td><td>56</td><td/><td>34</td><td>34</td><td>45</td><td>46</td></tr>
+<tr><td>32</td><td>29</td><td>47</td><td>48</td><td/><td>39</td><td>52</td><td>24</td><td>28</td></tr>
+<tr><td>44</td><td>45</td><td>56</td><td>57</td><td/><td>33</td></tr>
+</table></p>
+<p><b>a</b> Draw a back-to-back stem and leaf diagram to represent these data.</p>
+<p><b>b</b> Comment on your results.</p>
+</Question><Solution>
+<p>(a) Unordered
+<table cellpadding="0" cellspacing="0">
+<col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/>
+<tbody>
+<tr><td align="center" style="border-bottom:1px solid black" colspan="5"><b>Boys</b></td><td style="border-bottom:1px solid black">&#x00A0;</td><td align="right" style="border-bottom:1px solid black" colspan="5"><b>Girls</b> Key 2|6 means 26</td></tr>
+<tr><td colspan="3"/><td>9</td><td style="border-right:1px solid black">8</td><td style="border-right:1px solid black">2</td><td>6</td><td>4</td><td>8</td><td colspan="2"/></tr>
+<tr><td colspan="2"/><td>2</td><td>4</td><td style="border-right:1px solid black">2</td><td style="border-right:1px solid black">3</td><td>2</td><td>4</td><td>4</td><td>9</td><td>3</td></tr>
+<tr><td>5</td><td>4</td><td>8</td><td>7</td><td style="border-right:1px solid black">5</td><td style="border-right:1px solid black">4</td><td>7</td><td>5</td><td>6</td><td colspan="2"/></tr>
+<tr><td>7</td><td>6</td><td>6</td><td>4</td><td style="border-right:1px solid black">4</td><td style="border-right:1px solid black">5</td><td>4</td><td>2</td><td colspan="3"/></tr>
+<tr><td colspan="4"/><td style="border-right:1px solid black">0</td><td style="border-right:1px solid black">6</td><td colspan="4"></td></tr></tbody>
+</table></p>
+<p>Ordered
+<table cellpadding="0" cellspacing="0">
+<col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/>
+<tbody>
+<tr><td align="center" style="border-bottom:1px solid black" colspan="5"><b>Boys</b></td><td style="border-bottom:1px solid black">&#x00A0;</td><td colspan="5" style="border-bottom:1px solid black" align="right"><b>Girls</b> Key 2|6 means 26</td></tr>
+<tr><td colspan="3"/><td>9</td><td style="border-right:1px solid black">8</td><td style="border-right:1px solid black">2</td><td>4</td><td>6</td><td>8</td><td colspan="2"></td></tr>
+<tr><td colspan="2"/><td>4</td><td>2</td><td style="border-right:1px solid black">2</td><td style="border-right:1px solid black">3</td><td>2</td><td>3</td><td>4</td><td>4</td><td>9</td></tr>
+<tr><td>8</td><td>7</td><td>5</td><td>5</td><td style="border-right:1px solid black">4</td><td style="border-right:1px solid black">4</td><td>5</td><td>6</td><td>7</td><td colspan="2"></td></tr>
+<tr><td>7</td><td>6</td><td>6</td><td>4</td><td style="border-right:1px solid black">4</td><td style="border-right:1px solid black">5</td><td>2</td><td>4</td><td colspan="3"></td></tr>
+<tr><td colspan="4"/><td style="border-right:1px solid black">0</td><td style="border-right:1px solid black">6</td><td colspan="4"></td></tr></tbody>
+</table></p>
+<p><b>(b)</b> Girls gain lower marks than boys</p>
+</Solution>
+</QuestionData><QuestionData number="5">
+<Question>
+<p>The following stem and leaf diagram shows the weekend earnings of a group of college students.
+<table cellpadding="0" cellspacing="0">
+<col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="200px" align="left"/>
+<tbody>
+<tr><td colspan="5" style="border-bottom:1px solid black">&#x00A0;</td><td style="border-bottom:1px solid black;border-right:1px solid black;" align="right">Males</td><td style="border-bottom:1px solid black;border-right:1px solid black;">&#x00A0;</td><td style="border-bottom:1px solid black" colspan="6" align="left">Females</td><td rowspan="2">Key: 5|1|0 means &#x00A3;15 for males and &#x00A3;10 for females</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td style="border-right:1px solid black">8</td><td style="border-right:1px solid black">0</td><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>7</td><td>6</td><td style="border-right:1px solid black">5</td><td style="border-right:1px solid black">1</td><td>0</td><td>5</td><td>5</td><td>5</td><td>8</td><td>8</td><td></td></tr>
+<tr><td>9</td><td>9</td><td>9</td><td>8</td><td>6</td><td style="border-right:1px solid black">6</td><td style="border-right:1px solid black">2</td><td>5</td><td>5</td><td>8</td><td>8</td><td>9</td><td></td><td></td></tr>
+<tr><td></td><td>8</td><td>8</td><td>5</td><td>5</td><td style="border-right:1px solid black">5</td><td style="border-right:1px solid black">3</td><td>5</td><td>5</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td>8</td><td style="border-right:1px solid black">5</td><td style="border-right:1px solid black">4</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody>
+</table></p>
+<p><b>a</b> Write down the number of male students and the number of female students.</p>
+<p><b>b</b> Write down the largest amount of money earned by the males.</p>
+<p><b>c</b> Comment on whether males or females earned the most in general.</p>
+</Question><Solution>
+<p>(a) 17 males and 15 females</p>
+<p>(b) &#x00A3;48</p>
+<p>(c) Males earned the most in general.</p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="B"><p><b>Exercise 4B</b></p>
+<QuestionData number="1">
+<Question>
+<p>Some data are collected. The lower quartile is 46 and the upper quartile is 68.</p>
+<p>An outlier is an observation that falls either 1.5 &#x00D7; (interquartile range) above the upper quartile or 1.5 &#x00D7; (interquartile range) below the lower quartile.</p>
+<p>Work out whether the following are outliers using this rule.</p>
+<p><b>a</b> 7</p>
+<p><b>b</b> 88</p>
+<p><b>c</b> 105</p></Question><Solution>
+<p>IQR = 68&#x2212;46 = 22</p>
+<p>46 &#x2212; 1&#x00BD; &#x00D7; 22 = 13</p>
+<p>68 + 1&#x00BD; &#x00D7; 22 = 101</p>
+<p>(a) 7 is an outlier (b) 88 is not an outlier (c) 105 is an outlier.</p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Male and female turtles were weighed in grams. For males, the lower quartile was 400 g and the upper quartile was 580 g. For females, the lower quartile was 260 g and the upper quartile was 340 g.</p>
+<p>An outlier is an observation that falls either 1 &#x00D7; (interquartile range) above the upper quartile or 1 &#x00D7; (interquartile range) below the lower quartile.</p>
+<p><b>a</b> Which of these male turtle weights would be outliers?</p>
+<p><table width="50%">
+<tr><td>400 g</td><td></td><td></td><td>260 g</td><td></td><td></td><td>550 g</td><td></td><td></td><td>640 g</td></tr></table></p>
+<p><b>b</b> Which of these female turtle weights would be outliers?</p>
+<p><table width="50%">
+<tr><td>170 g</td><td></td><td></td><td>300 g</td><td></td><td></td><td>340 g</td><td></td><td></td><td>440 g</td></tr></table></p>
+<p><b>c</b> What is the largest size a male turtle can be without being an outlier?</p></Question><Solution>
+<p>a) no outliers</p>
+<p>b) 170 g and 440 g are outliers</p>
+<p>c) 760 g</p>
+</Solution></QuestionData>
+</Exercise>
+<Exercise letter="C"><p><b>Exercise 4C</b></p>
+<QuestionData number="1">
+<Question>
+<p>A group of students did a test. The summary data is shown in the table below.</p>
+<p><table border="1" cellpadding="3" cellspacing="0" width="90%">
+<tr><td align="center"><b>Lowest value</b></td><td align="center"><b>Lower quartile</b></td><td align="center"><b>Median</b></td><td align="center"><b>Upper quartile</b></td><td align="center"><b>Highest value</b></td></tr>
+<tr><td align="center">5</td><td align="center">21</td><td align="center">28</td><td align="center">36</td><td align="center">58</td></tr>
+</table></p>
+<p>Given that there were no outliers draw a box plot to illustrate these data.</p></Question><Solution>
+<p>&#x00A0;<img src="images/S1F001.jpg"/></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Here is a box plot of marks in an examination.</p>
+<p><img src="images\S1QF01.jpg"/></p>
+<p><b>a</b> Write down the upper and lower quartiles.</p>
+<p><b>b</b> Write down the median.</p>
+<p><b>c</b> Work out the interquartile range.</p>
+<p><b>d</b> Work out the range.</p>
+</Question><Solution>
+<p>(a) 47 and 32 (b) 38 (c) IQR = 47 &#x2212; 32 = 15 (d) Range = 76 &#x2212; 12 = 64</p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="D"><p><b>Exercise 4D</b></p>
+<QuestionData number="1">
+<Question>
+<p><table>
+<col align="left" valign="top" width="350"/>
+<col align="left" valign="top"/>
+<tr><td>A group of students took a statistics test. The summary data for the percentage mark gained by boys and by girls is shown in the box plots opposite.</td><td><img src="images\S1QF01a.jpg"/></td></tr>
+</table></p>
+<p><b>a</b> Write down the percentage mark which 75% of the girls scored more than.</p>
+<p><b>b</b> State the name given to this value.</p>
+<p><b>c</b> Compare and contrast the results of the boys and the girls.</p>
+</Question><Solution>
+<p>(a) 45</p>
+<p>(b) Lower quartile</p>
+<p>(c) Boys have a lower median and bigger IQR/range (or girls have a higher median and lower IQR/range)</p>
+<p>The person with the highest mark was a boy. The person with the lowest mark was a boy.</p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p><table>
+<col align="left" valign="top" width="350"/>
+<col align="left" valign="top"/>
+<tr><td>Male and female turtles were weighed in grams. Their weights are summarised in the box plots opposite.</td><td><img src="images\S1QF02.jpg"/></td></tr></table></p>
+<p><b>a</b> Compare and contrast the weights of the male and female turtles.</p>
+<p><b>b</b> A turtle was found to be 330 grams in weight. State whether it is likely to be a male or a female. Give a reason for your answer.</p>
+<p><b>c</b> Write down the size of the largest female turtle.</p>
+</Question><Solution>
+<p><b>(a)</b> Male turtles have a higher median weight (or Females have a lower).</p><p>Males have a bigger range (or IQR) (females have a lower range IQR).</p>
+<p>(b) It is more likely to be a female. Hardly any male turtles would weigh this little, but more than a quarter of female turtles would weigh more than this.</p>
+<p>(c) 500 g</p>
+</Solution>
+</QuestionData></Exercise>
+<Exercise letter="E"><p><b>Exercise 4E</b></p>
+<QuestionData number="1">
+<Question>
+<p>The heights of a year group of children were measured. The data are summarised in the group frequency table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0" width="80%">
+<tr><td align="center" valign="bottom"><b>Height (cm)</b></td><td align="center" valign="bottom"><b>Frequency</b></td><td align="center" valign="bottom"><b>Class width</b></td><td align="center" valign="bottom"><b>Frequency density</b></td></tr>
+<tr><td align="center" valign="top">135&#x2013;144</td><td align="center" valign="top">40</td><td align="center" valign="top">10</td><td align="center" valign="top">&#x00A0;</td></tr>
+<tr><td align="center" valign="top">145&#x2013;149</td><td align="center" valign="top">40</td><td align="center" valign="top">5</td><td align="center" valign="top">&#x00A0;</td></tr>
+<tr><td align="center" valign="top">150&#x2013;154</td><td align="center" valign="top">75</td><td align="center" valign="top">&#x00A0;</td><td align="center" valign="top">&#x00A0;</td></tr>
+<tr><td align="center" valign="top">155&#x2013;159</td><td align="center" valign="top">65</td><td align="center" valign="top">&#x00A0;</td><td align="center" valign="top">&#x00A0;</td></tr>
+<tr><td align="center" valign="top">160&#x2013;174</td><td align="center" valign="top">60</td><td align="center" valign="top">&#x00A0;</td><td align="center" valign="top">&#x00A0;</td></tr>
+</table></p>
+
+<p><b>a</b> Copy and complete the table.</p>
+<p><b>b</b> Draw a histogram for these data.</p>
+</Question><Solution>
+<p>a 5, 5, 15; 4, 8, 15, 13, 4</p>
+<p><b>b</b><br/> <img src="images\S1F002.jpg"/></p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Some students take part in an obstacle race. The time it took each student to complete the race was noted. The results are shown in the histogram.</p>
+<p><img src="images\S1QF03.jpg"/></p>
+<p><b>a</b> Give a reason to justify the use of a histogram to represent these data.</p>
+<p>The number of students who took between 60 and 70 seconds is 90.</p>
+<p><b>b</b> Find the number of students who took between 40 and 60 seconds.</p>
+<p><b>c</b> Find the number of students who took 80 seconds or less.</p>
+<p><b>d</b> Calculate the total number of students who took part in the race.</p>
+</Question><Solution>
+<p><b>a</b> Time is continuous data</p>
+<p><b>b</b> Area of 60 &#x2212; 70 seconds bar is 10 &#x00D7; 6 = 60 units squared</p>
+<p>1 unit squared = 90/60 = 1.5 students</p>
+<p>Area of 40 &#x2212; 60 seconds bar is 20 &#x00D7; 5 = 100 units squared</p>
+<p>Number of students = 100 &#x00D7; 1.5 = <b>150</b></p>
+<p><b>c</b> Area for 80 seconds or less = 20 &#x00D7; 5 + 10 &#x00D7; 6 + 10 &#x00D7; 8.6 = 246 units squared.</p>
+<p>Number of students = 246 &#x00D7; 1.5 = <b>369</b></p>
+<p><b>d</b> Total Area = 246 + 5 &#x00D7; 14 + 5 &#x00D7; 12 + 30 &#x00D7; 3 = 466 units squared.</p>
+<p>Number of employees = 466 &#x00D7; 1.5 = <b>699</b></p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>The time taken for each employee in a company to travel to work was recorded. The results are shown in the histogram.</p>
+<p><img src="images\S1QF04.jpg"/></p>
+<p>The number of employees who took less than 10 minutes to travel to work is 48.</p>
+<p><b>a</b> Find how many employees took less than 15 minutes to travel to work.</p>
+<p><b>b</b> Estimate how many employees took between 20 and 30 minutes to travel to work.</p>
+<p><b>c</b> Estimate how many employees took more than 30 minutes to travel to work.</p>
+</Question><Solution>
+<p><b>a</b> Area less than 10 minutes is 10 &#x00D7; 4 = 40 units squared</p>
+<p>1 unit squared = 48 &#x00F7; 40 = 1.2 students</p>
+<p>Area less than 15 minutes is 40 + 5 &#x00D7; 11 = 95 units squared</p>
+<p>Number of employees = 95 &#x00D7; 1.2 = <b>114</b></p>
+<p><b>b</b> Area of 20 &#x2212; 30 minutes bars is 5 &#x00D7; 13 + 5 &#x00D7; 2 = 75 units squared</p>
+<p>Number of employees = 75 &#x00D7; 1.2 = <b>90</b></p>
+<p><b>c</b> Area for more than 30 minutes seconds bars is 10 &#x00D7; 2 = 20 units squared</p>
+<p>Number of employees = 20 &#x00D7; 1.2 = <b>24</b></p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>A Fun Day committee at a local sports centre organised a throwing the cricket ball competition. The distance thrown by every competitor was recorded. The data were collected and are shown in the histogram. The number of competitors who threw less than 10 m was 40.</p>
+<p><img src="images\S1QF05.jpg"/></p>
+<p><b>a</b> Why is a histogram a suitable diagram to represent these data?</p>
+<p><b>b</b> How many people entered the competition?</p>
+<p><b>c</b> Estimate how many people threw between 30 and 40 metres.</p>
+<p><b>d</b> How many people threw between 45 and 65 metres?</p>
+<p><b>e</b> Estimate how many people threw less than 25 metres.</p>
+</Question><Solution>
+<p><b>a</b> Distance is continuous data.</p>
+<p><b>b</b> Area for less than 10m is 10 &#x00D7; 2 = 20 units squared</p>
+<p>1 unit squared = 40 &#x00F7; 20 = 2 people</p>
+<p>Total Area 10 &#x00D7; 2 + 10 &#x00D7; 2 + 15 &#x00D7; 5 + 10 &#x00D7; 10 + 15 &#x00D7; 6 + 5 &#x00D7; 1 = 310 units squared</p>
+<p>Number of people = 310 &#x00D7; 2 = <b>620</b></p>
+<p><b>c</b> Area for 30 &#x2212; 40 m is 5 &#x00D7; 5 + 5 &#x00D7; 10 = 75 units squared.</p>
+<p>Number of people = 75 &#x00D7; 2 = <b>150</b></p>
+<p><b>d</b> Area for 45 &#x2212; 65 m is 15 &#x00D7; 6 + 5 &#x00D7; 1 = 95 units squared.</p>
+<p>Number of people = 95 &#x00D7; 2 = <b>190</b></p>
+<p><b>e</b> Area for less than 25 m is 10 &#x00D7; 2 + 10 &#x00D7; 2 + 5 &#x00D7; 5 = 65 units squared.</p>
+<p>Number of people = 65 &#x00D7; 2 = <b>130</b></p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>A farmer weighed a random sample of pigs. The weights were summarised in a grouped frequency table and represented by a histogram.</p>
+<p><img src="images\S1QF06.jpg"/></p>
+<p>One of the classes in the grouped frequency distribution was 28&#x2013;32 and its associated frequency was 32. On the histogram the height of the rectangle representing that class was 2 cm and the width was 2 cm.</p>
+<p><b>a</b> Give a reason to justify the use of a histogram to represent these data.</p>
+<p><b>b</b> Write down the underlying feature associated with each of the bars in a histogram.</p>
+<p><b>c</b> Show that on this histogram each pig was represented by 0.125 cm<sup>2</sup>.</p>
+<p><b>d</b> How many pigs did the farmer weigh altogether?</p>
+<p><b>e</b> Estimate the number of pigs that weighed between 25 and 29 kg.</p>
+</Question><Solution>
+<p><b>a</b> Weight is continuous data.</p>
+<p><b>b</b> The area of the bar is proportional to the frequency.</p>
+<p><b>c</b> Area for 28 &#x2013; 32 kg is 2 &#x00D7; 2 = 4 units squared</p>
+<p>Area for 1 pig is 4 &#x00F7; 32 = 0.125</p>
+<p><b>d</b> Total area in cm<sup>2</sup> is 2 &#x00D7; 2 + 1 &#x00D7; 4 + 1 &#x00D7; 8 + 2 &#x00D7; 2 + 1 &#x00D7; 1 = 21 units squared.</p>
+<p>Number of pigs = 21 &#x00F7; 0.125 = <b>168</b></p>
+<p><b>e</b> Area for 25 &#x2212; 29 m is &#x00BD; &#x00D7; 4 + 1 &#x00D7; 8 + &#x00BD; &#x00D7; 2 = 11 units squared.</p>
+<p>Number of pigs = 11 &#x00F7; 0.125 = <b>88</b></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="F"><p><b>Exercise 4F</b></p>
+<QuestionData number="1">
+<Question>
+<p>In a survey of the earnings of some sixth form students who did Saturday jobs the median wage was &#x00A3;36.50. The 75th percentile was &#x00A3;45.75 and the interquartile range was &#x00A3;30.50.</p>
+<p>Use the quartiles to describe the skewness of the distribution.</p>
+</Question><Solution>
+<p><b>1.</b> Q<sub>1</sub> = 45.75 &#x2212; 30.5 = 15.25</p>
+<p>Q<sub>3</sub> &#x2212; Q<sub>2</sub> = 45.75 &#x2212; 36.5 = 9.25</p>
+<p>Q<sub>2</sub> &#x2212; Q<sub>1</sub> = 36.5 &#x2212; 15.25 = 21.25</p>
+<p>Q<sub>2</sub> &#x2212; Q<sub>1</sub> &#x003E; Q<sub>3</sub> &#x2212; Q<sub>2</sub> therefore it is negatively skewed</p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>A group of estate agents recorded the time spent on the first meeting with a random sample of 120 of their clients. The times, to the nearest minute, are summarised in the table.</p>
+<p><table border="1" cellpadding="3" cellspacing="0" width="50%">
+<tr><td align="center" valign="bottom"><b>Time</b></td><td align="center" valign="bottom"><b>Number of clients</b></td></tr>
+<tr><td align="center" valign="top">10&#x2013;15</td><td align="center" valign="top">2</td></tr>
+<tr><td align="center" valign="top">15&#x2013;20</td><td align="center" valign="top">5</td></tr>
+<tr><td align="center" valign="top">20&#x2013;25</td><td align="center" valign="top">17</td></tr>
+<tr><td align="center" valign="top">25&#x2013;30</td><td align="center" valign="top">38</td></tr>
+<tr><td align="center" valign="top">30&#x2013;35</td><td align="center" valign="top">29</td></tr>
+<tr><td align="center" valign="top">35&#x2013;45</td><td align="center" valign="top">25</td></tr>
+<tr><td align="center" valign="top">45&#x2013;80</td><td align="center" valign="top">4</td></tr>
+<tr><td align="center" valign="top">Total</td><td align="center" valign="top">120</td></tr>
+</table></p>
+<p><b>a</b> Calculate estimates of the mean and variance of the times.</p>
+<p><b>b</b> By interpolation obtain estimates of the median and quartiles of the times spent with customers.</p>
+<p>One measure of skewness is found using <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy='false'>(</mo><mtext>mean</mtext><mo>&#x2212;</mo><mtext>median</mtext><mo stretchy='false'>)</mo></mrow><mrow><mtext>standard deviation</mtext></mrow></mfrac></mrow></math>.</p>
+<p><b>c</b> Evaluate this measure and describe the skewness of these data.</p>
+<p>The estate agents are undecided whether to use the median and quartiles, or the mean and standard deviation to summarise these data.</p>
+<p><b>d</b> State, giving a reason, which you would recommend them to use.</p>
+</Question>
+<Solution>
+<p>(a) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mo>&#x2211;</mo> <mi>f</mi><mi>x</mi></mrow><mi>n</mi></mfrac><mo>=</mo><mfrac><mrow><mn>12.5</mn><mo>&#x00D7;</mo><mn>2</mn><mo>+</mo><mn>17.5</mn><mo>&#x00D7;</mo><mn>5</mn><mo>+</mo><mn>22.5</mn><mo>&#x00D7;</mo><mn>17</mn><mo>+</mo><mn>27.5</mn><mo>&#x00D7;</mo><mn>38</mn><mo>+</mo><mn>32.5</mn><mo>&#x00D7;</mo><mn>29</mn><mo>+</mo><mn>40</mn><mo>&#x00D7;</mo><mn>25</mn><mo>+</mo><mn>62.5</mn><mo>&#x00D7;</mo><mn>4</mn></mrow><mrow><mn>120</mn></mrow></mfrac></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="4ex"/><mrow><mo>=</mo><mn>31.104166</mn><mo>=</mo><mn>31.1</mn><mspace width="1ex"/><mtext>minutes</mtext></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Variance</mtext><mo>=</mo><mfrac><mrow><mo>&#x2211;</mo> <mi>f</mi><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mo>&#x2211;</mo> <mi>f</mi></mrow></mfrac><mo>&#x2212;</mo><msup><mi>&#x03BC;</mi><mn>2</mn></msup><mo>=</mo><mfrac><mrow><msup><mrow><mn>12.5</mn></mrow><mn>2</mn></msup><mo>&#x00D7;</mo><mn>2</mn><mo>+</mo><msup><mrow><mn>17.5</mn></mrow><mn>2</mn></msup><mo>&#x00D7;</mo><mn>5</mn><mo>+</mo><msup><mrow><mn>22.5</mn></mrow><mn>2</mn></msup><mo>&#x00D7;</mo><mn>17</mn><mo>+</mo><msup><mrow><mn>27.5</mn></mrow><mn>2</mn></msup><mo>&#x00D7;</mo><mn>38</mn><mo>+</mo><msup><mrow><mn>32.5</mn></mrow><mn>2</mn></msup><mo>&#x00D7;</mo><mn>29</mn><mo>+</mo><msup><mrow><mn>40</mn></mrow><mn>2</mn></msup><mo>&#x00D7;</mo><mn>25</mn><mo>+</mo><msup><mrow><mn>62.5</mn></mrow><mn>2</mn></msup><mo>&#x00D7;</mo><mn>4</mn></mrow><mrow><mn>120</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mn>31.1</mn></mrow><mn>2</mn></msup></mrow></math><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="4ex"/><mrow><mo>=</mo><mn>1045.36</mn><mo>&#x2212;</mo><mn>967.31</mn><mo>=</mo><mn>78.05</mn></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Standard deviation</mtext><mo>=</mo><msqrt><mrow><mn>78.05</mn></mrow></msqrt><mo>=</mo><mn>8.835</mn></mrow></math></p>
+<p>(b) Median is the <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>120</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>60</mn></mrow></math> th value so <i>Q</i><sub>2</sub> is in class 25 &#x2212; 30</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>2</mn></msub><mo>&#x2212;</mo><mn>25</mn></mrow><mrow><mn>30</mn><mo>&#x2212;</mo><mn>25</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mn>60</mn><mo>&#x2212;</mo><mn>24</mn></mrow><mrow><mn>62</mn><mo>&#x2212;</mo><mn>24</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>2</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn fontweight="bold">29.7</mn><mspace width="1ex"/><mtext fontweight="bold">minutes</mtext></mrow></mtd></mtr></mtable></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>:</mo><mfrac><mrow><mn>120</mn></mrow><mn>4</mn></mfrac><mo>=</mo><msup><mrow><mn>30</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so Q<sub>1</sub> is in class 25 &#x2212; 30</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>1</mn></msub><mo>&#x2212;</mo><mn>25</mn></mrow><mrow><mn>30</mn><mo>&#x2212;</mo><mn>25</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>30</mn><mo>&#x2212;</mo><mn>24</mn></mrow><mrow><mn>62</mn><mo>&#x2212;</mo><mn>24</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>1</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn fontweight="bold">25.8</mn><mspace width="1ex"/><mtext fontweight="bold">minutes</mtext></mrow></mtd></mtr></mtable></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>:</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>120</mn></mrow><mn>4</mn></mfrac><mo>=</mo><msup><mrow><mn>90</mn></mrow><mrow><mtext>th</mtext></mrow></msup></mrow></math> value so <i>Q</i><sub>3</sub> is in class 30&#x2212;35</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mfrac><mrow><msub><mi>Q</mi><mn>3</mn></msub><mo>&#x2212;</mo><mn>30</mn></mrow><mrow><mn>35</mn><mo>&#x2212;</mo><mn>30</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>90</mn><mo>&#x2212;</mo><mn>62</mn></mrow><mrow><mn>91</mn><mo>&#x2212;</mo><mn>62</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><msub><mi>Q</mi><mn>3</mn></msub></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn fontweight="bold">34.8</mn><mspace width="1ex"/><mtext fontweight="bold">minutes</mtext></mrow></mtd></mtr></mtable></mrow></math></p>
+<p>(c) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Skew</mtext><mo>=</mo><mfrac><mrow><mn>3</mn><mo>(</mo><mn>31.10</mn><mo>&#x2212;</mo><mn>29.74</mn><mo>)</mo></mrow><mrow><mn>8.835</mn></mrow></mfrac><mo>=</mo><mn>0.46</mn></mrow></math></p>
+<p>Positive skew.</p>
+<p>(d) Median and quartiles because of the skew.</p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>The following stem and leaf diagram summarises the wing length, to the nearest mm, of a random sample of 67 owl moths.</p>
+<p><table cellpadding="0" cellspacing="0">
+<col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="25px" align="center"/><col width="120px" align="right"/>
+<tbody>
+<tr><td style="border-bottom:1px solid black;border-right:1px solid black;">&#x00A0;</td><td colspan="4" align="left" style="border-bottom:1px solid black">Wing length</td><td style="border-bottom:1px solid black" colspan="7">&#x00A0;</td><td style="border-bottom:1px solid black" colspan="2" align="right">Key:5|0 means 50</td></tr>
+<tr><td style="border-right:1px solid black">5</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>3</td><td>3</td><td>4</td><td>4</td><td align="right">(12)</td></tr>
+<tr><td style="border-right:1px solid black">5</td><td>5</td><td>5</td><td>6</td><td>6</td><td>6</td><td>7</td><td>8</td><td>8</td><td>9</td><td>9</td><td></td><td></td><td align="right">(10)</td></tr>
+<tr><td style="border-right:1px solid black">6</td><td>0</td><td>1</td><td>1</td><td>1</td><td>3</td><td>3</td><td>4</td><td>4</td><td>4</td><td>4</td><td></td><td></td><td align="right">(10)</td></tr>
+<tr><td style="border-right:1px solid black">6</td><td>5</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>9</td><td></td><td></td><td></td><td></td><td></td><td align="right">(7)</td></tr>
+<tr><td style="border-right:1px solid black">7</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td align="right">(6)</td></tr>
+<tr><td style="border-right:1px solid black">7</td><td>5</td><td>7</td><td>9</td><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td align="right">(4)</td></tr>
+<tr><td style="border-right:1px solid black">8</td><td>1</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>3</td><td>4</td><td></td><td></td><td></td><td></td><td align="right">(8)</td></tr>
+<tr><td style="border-right:1px solid black">8</td><td>7</td><td>8</td><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td align="right">(3)</td></tr>
+<tr><td style="border-right:1px solid black">9</td><td>0</td><td>1</td><td>1</td><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td align="right">(4)</td></tr>
+<tr><td style="border-right:1px solid black">9</td><td>5</td><td>7</td><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td align="right">(3)</td></tr></tbody>
+</table></p>
+<p><b>a</b> Write down the mode of these data.</p>
+<p><b>b</b> Find the median and quartiles of these data.</p>
+<p><b>c</b> On graph paper, construct a box plot to represent these data.</p>
+<p><b>d</b> Comment on the skewness of the distribution.</p>
+<p><b>e</b> Calculate the mean and standard deviation of these data.</p>
+<p><b>f</b> Use a further method to show that these data are skewed.</p>
+<p><b>g</b> State, giving a reason, which of <b>b</b> or <b>e</b> you would recommend using to summarise the data in the table.</p>
+</Question><Solution>
+<p>(a) 64</p>
+<p>(b) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>Q</mtext><mn>2</mn></msub><mo>=</mo><mfrac><mrow><mn>67</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>33.5</mn></mrow></math> therefore 34<sup>th</sup>&#x00A0;term = 65</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>Q</mtext><mn>1</mn></msub><mo>=</mo><mfrac><mrow><mn>67</mn></mrow><mn>4</mn></mfrac><msup><mrow><mo>=</mo><mn>16.75</mn><mo>=</mo><mn>17</mn></mrow><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>term</mtext><mo>=</mo><mn>56</mn></mrow></math></p>
+<p>Q<sub>3</sub> = 16.75 &#x00D7; 3 = 50.25 = 51<sup>st</sup> term = 81</p>
+<p>(c)<br/> <img src="images\S1F003.jpg"/></p>
+<p>(d) Positive skew</p>
+<p>(e) mean 68.72 sd 13.73</p>
+<p>(f) Q<sub>2</sub> &#x2212; Q<sub>1</sub> = 65 &#x2212; 56 = 9 and Q<sub>3</sub> &#x2212; Q<sub>2</sub> = 81 &#x2212; 65 = 16</p>
+<p>Q<sub>2</sub> &#x2212; Q<sub>1</sub> &#x003C; Q<sub>3</sub> &#x2212; Q<sub>2</sub> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mo> &#x21D2;</mo><mtext>Positive skew</mtext></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy='false'>(</mo><msub><mtext>Q</mtext><mn>3</mn></msub><mo>&#x2212;</mo><msub><mtext>Q</mtext><mn>1</mn></msub><mo stretchy='false'>)</mo></mrow><mrow><msub><mtext>Q</mtext><mn>2</mn></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mo stretchy='false'>(</mo><mn>81</mn><mo>&#x2212;</mo><mn>56</mn><mo stretchy='false'>)</mo></mrow><mrow><mn>65</mn></mrow></mfrac><mo>=</mo><mn>1.15</mn><mo>&#x21D2;</mo><mtext>Positive skew</mtext></mrow></math></p>
+<p>(g) (b) because of the skew.</p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>A TV company wishes to appeal to a wider range of viewers. They decide to purchase a programme from another channel. They have the option of buying one of two programmes. The company collects information from a sample of viewers for each programme. The results are summarised in the table. State which programme the company should buy to increase the range of their viewers. Give a reason for your answer.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<tr><td style="border-left:3px solid white;border-top:3px solid white;">&#x00A0;</td><td align="center" valign="middle"><b>Mean age</b></td><td align="center" valign="middle"><b>Standard deviation of age</b></td></tr>
+<tr><td align="center" valign="top"><b>Programme 1</b></td><td align="center" valign="top">50</td><td align="center" valign="top">5</td></tr>
+<tr><td align="center" valign="top"><b>Programme 2</b></td><td align="center" valign="top">50</td><td align="center" valign="top">10</td></tr>
+</table></p>
+</Question><Solution>
+<p>Program 2 because it has a bigger standard deviation and hence bigger range in the age groups watching it.</p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="G"><p><b>Mixed exercise 4G</b></p>
+<QuestionData number="1">
+<Question>
+<p>Jason and Perdita decided to go for a touring holiday on the continent for the whole of July. They recorded the number of kilometres they travelled each day. The data are summarised in the stem and leaf diagram below.</p>
+<p><table cellpadding="0" cellspacing="0">
+<col width="40px" align="center"/>
+<col width="40px" align="center"/>
+<col width="40px" align="center"/>
+<col width="40px" align="center"/>
+<col width="40px" align="center"/>
+<col width="40px" align="center"/>
+<col width="40px" align="center"/>
+<col width="40px" align="center"/>
+<col width="40px" align="center"/>
+<col width="40px" align="center"/>
+<tbody>
+<tr><td style="border-bottom:1px solid black;border-right:1px solid black">stem</td><td style="border-bottom:1px solid black">leaf</td><td style="border-bottom:1px solid black">&#x00A0;</td><td style="border-bottom:1px solid black">&#x00A0;</td><td colspan="6" style="border-bottom:1px solid black">Key: 15|5 means 155 kilometres</td></tr>
+<tr><td style="border-right:1px solid black">15</td><td>5</td><td/><td/><td/><td/><td/><td/><td/><td/></tr>
+<tr><td style="border-right:1px solid black">16</td><td>4</td><td>8</td><td>9</td><td/><td/><td/><td/><td/><td/></tr>
+<tr><td style="border-right:1px solid black">17</td><td>3</td><td>5</td><td>7</td><td>8</td><td>8</td><td>8</td><td>9</td><td>9</td><td>9</td></tr>
+<tr><td style="border-right:1px solid black">18</td><td>4</td><td>4</td><td>5</td><td>5</td><td>8</td><td/><td/><td/><td/></tr>
+<tr><td style="border-right:1px solid black">19</td><td>2</td><td>3</td><td>4</td><td>5</td><td>5</td><td>6</td><td/><td/><td/></tr>
+<tr><td style="border-right:1px solid black">20</td><td>4</td><td>7</td><td>8</td><td>9</td><td/><td/><td/><td/><td/></tr>
+<tr><td style="border-right:1px solid black">21</td><td>1</td><td>2</td><td/><td/><td/><td/><td/><td/><td/></tr>
+<tr><td style="border-right:1px solid black">22</td><td>6</td><td/><td/><td/><td/><td/><td/><td/><td/></tr>
+</tbody></table></p>
+<p><b>a</b> Find Q<sub>1</sub>, Q<sub>2</sub>, and Q<sub>3</sub></p>
+<p>Outliers are values that lie outside Q<sub>1</sub> &#x2212; 1.5(Q<sub>3</sub> &#x2212; Q<sub>1</sub>) and Q<sub>3</sub> + 1.5(Q<sub>3</sub> &#x2212; Q<sub>1</sub>).</p>
+<p><b>b</b> Find any outliers.</p>
+<p><b>c</b> Draw a box plot of these data.</p>
+<p><b>d</b> Comment on the skewness of the distribution.</p></Question>
+<Solution>
+<p>(a) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>Q</mtext><mn>2</mn></msub><mo>=</mo><mfrac><mrow><mn>32</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>16</mn></mrow></math> therefore 16.5<sup>th</sup>&#x00A0;term = 185</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>Q</mtext><mn>1</mn></msub><mo>=</mo><mfrac><mrow><mn>31</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>7</mn><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>&#x21D2;</mo><msup><mn>8</mn><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>term</mtext><mo>=</mo><mn>178</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>Q</mtext><mn>3</mn></msub><mo>=</mo><mfrac><mrow><mn>3</mn><mo stretchy='false'>(</mo><mn>31</mn><mo stretchy='false'>)</mo></mrow><mn>4</mn></mfrac><mo>=</mo><mn>23</mn><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#x21D2;</mo><msup><mn>24</mn><mtext>th</mtext></msup><mspace width="1ex"/><mtext>term</mtext><mo>=</mo><mn>196</mn></mrow></math></p>
+<p>(b) Q<sub>1</sub> &#x2212; 1.5(Q<sub>3</sub> &#x2212; Q<sub>1</sub>) = 178 &#x2212; 1.5(196 &#x2212; 178) = 151</p>
+<p>Q<sub>3</sub> + 1.5(Q<sub>3</sub> &#x2212; Q<sub>1</sub>) = 196 + 1.5(196 &#x2212; 178) = 223
+Outliers are 226.</p>
+<p>(c)<br/> <img src="images\S1F004.jpg"/></p>
+<p>(d) Positive skew</p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Sophie and Jack do a survey every day for three weeks. Sophie counts the number of pedal cycles using Market Street. Jack counts the number of pedal cycles using Strand Road. The data they collected are summarised in the back-to-back stem and leaf diagram.</p>
+<p><table cellpadding="0" cellspacing="0">
+<col width="20px" align="center"/><col width="20px" align="center"/>
+<col width="20px" align="center"/><col width="20px" align="center"/>
+<col width="20px" align="center"/><col width="20px" align="center"/>
+<col width="20px" align="center"/><col width="20px" align="center"/>
+<col width="20px" align="center"/><col width="20px" align="center"/>
+<col width="20px" align="center"/><col width="20px" align="center"/>
+<col width="20px" align="center"/><col width="20px" align="center"/>
+<col width="20px" align="center"/><col width="20px" align="center"/>
+<col width="20px" align="center"/><col width="20px" align="center"/>
+<col width="20px" align="center"/><col width="20px" align="center"/><col width="200px" align="left" valign="top"/>
+<tbody>
+<tr><td colspan="7" style="border-bottom:1px solid black">&#x00A0;</td><td colspan="3" style="border-bottom:1px solid black;border-right:1px solid black">Sophie</td><td style="border-bottom:1px solid black;border-right:1px solid black">Stem</td><td colspan="2" style="border-bottom:1px solid black">Jack</td><td colspan="7" style="border-bottom:1px solid black">&#x00A0;</td><td rowspan="6">Key: 5|0|6 means Sophie counts 5 cycles and Jack counts 6 cycles</td></tr>
+<tr><td/><td/><td/><td/><td/><td/><td>9</td><td>9</td><td>7</td><td style="border-right:1px solid black">5</td><td style="border-right:1px solid black">0</td><td>6</td><td>6</td><td/><td/><td/><td/><td/><td/><td/></tr>
+<tr><td>7</td><td>6</td><td>5</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>1</td><td style="border-right:1px solid black">1</td><td style="border-right:1px solid black">1</td><td>1</td><td>1</td><td>5</td><td/><td/><td/><td/><td/><td/></tr>
+<tr><td/><td/><td/><td/><td/><td>5</td><td>3</td><td>3</td><td>2</td><td style="border-right:1px solid black">2</td><td style="border-right:1px solid black">2</td><td>1</td><td>2</td><td>2</td><td>2</td><td>3</td><td>7</td><td>7</td><td>8</td><td>9</td></tr>
+<tr><td/><td/><td/><td/><td/><td/><td/><td/><td>2</td><td style="border-right:1px solid black">1</td><td style="border-right:1px solid black">3</td><td>2</td><td>3</td><td>4</td><td>7</td><td>7</td><td>8</td><td/><td/><td/></tr>
+<tr><td/><td/><td/><td/><td/><td/><td/><td/><td/><td style="border-right:1px solid black">&#x00A0;</td><td style="border-right:1px solid black">4</td><td>2</td><td/><td/><td/><td/><td/><td/><td/><td/></tr>
+</tbody></table></p>
+<p></p>
+<p><b>a</b> Write down the modal number of pedal cycles using Strand Road.</p>
+<p>The quartiles for these data are summarised in the table below.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td/><td align="center"><b>Sophie</b></td><td align="center"><b>Jack</b></td></tr>
+<tr><td><b>Lower quartile</b></td><td align="center"><i>X</i></td><td align="center">21</td></tr>
+<tr><td><b>Median</b></td><td align="center">13</td><td align="center"><i>Y</i></td></tr>
+<tr><td><b>Upper quartile</b></td><td align="center"><i>Z</i></td><td align="center">33</td></tr>
+</tbody></table></p>
+<p><b>b</b> Find the values for <i>X</i>, <i>Y</i> and <i>Z</i>.</p>
+<p><b>c</b> Write down the road you think has the most pedal cycles travelling along it overall. Give a reason for your answer.</p></Question>
+<Solution>
+<p>(a) 22</p>
+<p>(b) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>X</mi><mo>=</mo><mfrac><mrow><mn>21</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>5</mn><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#x21D2;</mo><msup><mn>6</mn><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>item</mtext><mo>=</mo><mn>11</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mn>3(21)</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>=</mo><mn>15</mn><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mn>&#x21D2;</mn><msup><mn>16</mn><mtext>th</mtext></msup><mspace width="1ex"/><mtext>item</mtext><mo>=</mo><mn>22</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>Y</mi><mo>=</mo><mfrac><mrow><mn>21</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>10.5</mn></mrow></math> therefore 11<sup>th</sup> item = 27</p>
+<p>(c) Strand road has the highest median.</p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>Shop A and Shop B both sell mobile phones.</p>
+<p>They recorded how many they sold each day over a long period of time. The data they collected are represented in the box plots.</p>
+<p><img src="images\S1QF013.jpg"/></p>
+<p><b>a</b> Shop B says that for 50% of the days they sold 60 or more phones a day. State whether or not this is a true statement. Give a reason for your answer.</p>
+<p><b>b</b> Shop A says that for 75% of the days they sold 40 or more phones a day. State whether or not this is a true statement. Give a reason for your answer.</p>
+<p><b>c</b> Compare and contrast the two box plots.</p>
+<p><b>d</b> Write down the shop you think had the most consistent sales per day. Explain the reason for your choice.</p></Question>
+<Solution>
+<p>(a) This is a true statement. The median is 60 phones a day so for half the days they sold 60 or more.</p>
+<p>(b) True. The lower quartile is 40.</p>
+<p>(c) Shop A has a lower median and a bigger IQR/range. Overall shop A sells less phones but the daily quantity sold is more variable. Shop A had both the highest and the lowest number of phones sold in a day.</p>
+<p>(d) Shop B as the interquartile range smaller.</p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p><b>4</b> Fell runners from the Esk Club and the Irt Club were keen to see which club had the fastest runners overall. They decided that all the members from both clubs would take part in a fell run. The time each runner took to complete the run was recorded.</p>
+<p>The results are summarised in the box plot.</p>
+<p><img src="images\S1QF014.jpg"/></p>
+<p><b>a</b> Write down the time by which 50% of the Esk Club runners had completed the run.</p>
+<p><b>b</b> Write down the time by which 75% of the Irt Club runners had completed the run.</p>
+<p><b>c</b> Explain what is meant by the cross (&#x00D7;) on the Esk Club box plot.</p>
+<p><b>d</b> Compare and contrast these two box plots.</p>
+<p><b>e</b> Comment on the skewness of the two box plots.</p>
+<p><b>f</b> What conclusions can you draw from this information about which club has the fastest runners?</p></Question>
+<Solution>
+<p>(a) 45 minutes</p>
+<p>(b) 60 minutes</p>
+<p>(c) This is an outlier that does not fit the pattern.</p>
+<p>(d) The Irt club had the highest median so overall they had the slowest runners.</p>
+<p>The IQR ranges were about the same.</p>
+<p>(e) Esk club times are positively skewed. Irt club times are symmetric.</p>
+<p>(f) Esk had the fastest runners because they had the lower times.</p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The histogram shows the time taken by a group of 58 girls to run a measured distance.</p>
+<p><b>a</b> Work out the number of girls who took longer than 56 seconds.</p>
+<p><b>b</b> Estimate the number of girls who took between 52 and 55 seconds.</p>
+<p><img src="images\S1QF015.jpg"/></p></Question>
+<Solution>
+<p>(a) Area = frequency</p>
+<p>2k(1 + 1.5 + 5.5 + 4.5) + 4k(1) = 58</p>
+<p>29k = 58 so k = 2</p>
+<p>Number of girls who took longer than 56 seconds = 2 {(4.5 &#x00D7; 2) + (1 &#x00D7; 4)} = 26 girls</p>
+<p>(b) Number of girls between 52 and 55 seconds = 2{(1.5 &#x00D7; 2) + (1 &#x00D7; 5.5)} = 17 girls</p>
+</Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The table gives the distances travelled to school, in km, of the population of children in a particular region of the United Kingdom.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b>Distance, km</b></td><td align="center">0&#x2013;1</td><td align="center">1&#x2013;2</td><td align="center">2&#x2013;3</td><td align="center">3&#x2013;5</td><td align="center">5&#x2013;10</td><td align="center">10 and over</td></tr>
+<tr><td align="left"><b>Number</b></td><td align="center">2565</td><td align="center">1784</td><td align="center">1170</td><td align="center">756</td><td align="center">630</td><td align="center">135</td></tr>
+</tbody></table></p>
+<p>A histogram of this data was drawn with distance along the horizontal axis. A bar of horizontal width 1.5 cm and height 5.7 cm represented the 0&#x2013;1 km group.</p>
+<p>Find the widths and heights, in cm to one decimal place, of the bars representing the following groups:</p>
+<p><b>a</b> 2&#x2013;3,</p>
+<p><b>b</b> 5&#x2013;10.</p></Question>
+<Solution>
+<p>1.5 &#x00D7; 5.7 &#x00D7; k = 2565, so k = 300</p>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>width</mtext><mo>=</mo><mn>1.5</mn><mspace width="1ex"/><mtext>cm height</mtext><mo>=</mo><mfrac><mrow><mn>1170</mn></mrow><mrow><mn>2565</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>5.7</mn><mo>=</mo><mn>2.6</mn><mspace width="1ex"/><mtext>cm</mtext></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>width</mtext><mo>=</mo><mn>5</mn><mo>&#x00D7;</mo><mn>1.5</mn><mo>=</mo><mn>7.5</mn><mspace width="1ex"/><mtext>cm height</mtext><mo>=</mo><mfrac><mrow><mn>630</mn></mrow><mrow><mn>300</mn><mo>&#x00D7;</mo><mn>7.5</mn></mrow></mfrac><mo>=</mo><mn>0.28</mn><mspace width="1ex"/><mtext>cm</mtext></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="7">
+<Question>
+<p>The labelling on bags of garden compost indicates that the bags weigh 20 kg.</p>
+<p>The weights of a random sample of 50 bags are summarised in the table opposite.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b>Weight in kg</b></td><td align="center"><b>Frequency</b></td></tr>
+<tr><td align="center">14.6&#x2013;14.8</td><td align="center">1</td></tr>
+<tr><td align="center">14.8&#x2013;18.0</td><td align="center">0</td></tr>
+<tr><td align="center">18.0&#x2013;18.5</td><td align="center">5</td></tr>
+<tr><td align="center">18.5&#x2013;20.0</td><td align="center">6</td></tr>
+<tr><td align="center">20.0&#x2013;20.2</td><td align="center">22</td></tr>
+<tr><td align="center">20.2&#x2013;20.4</td><td align="center">15</td></tr>
+<tr><td align="center">20.4&#x2013;21.0</td><td align="center">1</td></tr>
+</tbody></table></p>
+<p><b>a</b> On graph paper, draw a histogram of these data.</p>
+<p><b>b</b> Estimate the mean and standard deviation of the weight of a bag of compost.</p>
+<p>[You may use &#x03A3;<i>fy</i> = 988.85, &#x03A3;<i>fy</i><sup>2</sup> = 19 602.84]</p>
+<p><b>c</b> Using linear interpolation, estimate the median.</p>
+<p>One coefficient of skewness is given by<br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy='false'>(</mo><mtext>mean</mtext><mo>-</mo><mtext>median</mtext><mo stretchy='false'>)</mo></mrow><mrow><mtext>standard deviation</mtext></mrow></mfrac><mo>.</mo></mrow></math></p>
+<p><b>d</b> Evaluate this coefficient for the above data.</p>
+<p><b>e</b> Comment on the skewness of the distribution of the weights of bags of compost.</p>
+</Question>
+<Solution>
+<p><img src="images\S1F005.jpg"/></p>
+<p>(b) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Mean</mtext><mo>=</mo><mfrac><mrow><mo>&#x2211;</mo> <mi>f</mi><mi>y</mi></mrow><mi>n</mi></mfrac><mo>=</mo><mfrac><mrow><mn>988.85</mn></mrow><mrow><mn>50</mn></mrow></mfrac><mo>=</mo><mn>19.777</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>sd</mtext><mo>=</mo><msqrt><mrow><mfrac><mrow><mo>&#x2211;</mo> <mi>f</mi><msup><mi>y</mi><mn>2</mn></msup></mrow><mi>n</mi></mfrac><mo>&#x2212;</mo><msup><mi>&#x03BC;</mi><mn>2</mn></msup></mrow></msqrt><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>19602.84</mn></mrow><mrow><mn>50</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mn>19.777</mn></mrow><mn>2</mn></msup></mrow></msqrt><mo>=</mo><msqrt><mrow><mn>0.927</mn></mrow></msqrt><mo>=</mo><msqrt><mrow><mn>0.927</mn></mrow></msqrt><mo>=</mo><mn>0.963</mn></mrow></math></p>
+<p>(c) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>median</mtext></mrow><mrow><mo>=</mo><mn>20</mn><mo>+</mo><mfrac><mrow><mn>13</mn></mrow><mrow><mn>22</mn></mrow></mfrac><mo>&#x00D7;</mo><mn>0.2</mn><mo>=</mo><mn>20.118181818</mn><mo>=</mo><mn>20.118</mn></mrow></math></p>
+<p>(d) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>3</mn><mo stretchy='false'>(</mo><mn>19.777</mn><mo>&#x2212;</mo><mn>20.118</mn><mo stretchy='false'>)</mo></mrow><mrow><mn>0.963</mn></mrow></mfrac><mo>=</mo><mo>&#x2212;</mo><mn>1.0623</mn><mo>=</mo><mo>&#x2212;</mo><mn>1.06</mn></mrow></math></p>
+<p>(e) The distribution of the weights of bags of compost is negatively skewed.</p>
+</Solution></QuestionData>
+<QuestionData number="8">
+<Question>
+<p>The number of bags of potato crisps sold per day in a bar was recorded over a two-week period. The results are shown below.</p>
+<p><table width="70%">
+<tr><td>20</td><td>15</td><td>10</td><td>30</td><td>33</td><td>40</td><td>5</td><td>11</td><td>13</td><td>20</td><td>25</td><td>42</td><td>31</td><td>17</td></tr>
+</table></p>
+<p><b>a</b> Calculate the mean of these data.</p>
+<p><b>b</b> Draw a stem and leaf diagram to represent these data.</p>
+<p><b>c</b> Find the median and the quartiles of these data.</p>
+<p>An outlier is an observation that falls either 1.5 &#x00D7; (interquartile range) above the upper quartile or 1.5 &#x00D7; (interquartile range) below the lower quartile.</p>
+<p><b>d</b> Determine whether or not any items of data are outliers.</p>
+<p><b>e</b> On graph paper draw a box plot to represent these data. Show your scale clearly.</p>
+<p><b>f</b> Comment on the skewness of the distribution of bags of crisps sold per day. Justify your answer.</p>
+</Question>
+<Solution>
+<p>(a) 22.285714 bags</p>
+<p>(b)
+<table cellpadding="0" cellspacing="0">
+<col width="30px" align="center"/>
+<col width="30px" align="center"/>
+<col width="30px" align="center"/>
+<col width="30px" align="center"/>
+<col width="30px" align="center"/>
+<col width="30px" align="center"/>
+<col width="30px" align="center"/>
+<col width="100px" align="left"/>
+<tbody>
+<tr><td align="left" colspan="6">Number of bags</td><td/><td/></tr>
+<tr><td style="border-top:1px solid black;border-right:1px solid black;">0</td><td style="border-top:1px solid black;">5</td><td colspan="4" style="border-top:1px solid black;">&#x00A0;</td><td/><td></td></tr>
+<tr><td style="border-right:1px solid black;">1</td><td>0</td><td>1</td><td>3</td><td>5</td><td>7</td><td/><td>key 1|1 = 11 bags</td></tr>
+<tr><td style="border-right:1px solid black;">2</td><td>0</td><td>0</td><td>5</td><td/><td/><td/><td/></tr>
+<tr><td style="border-right:1px solid black;">3</td><td>0</td><td>1</td><td>3</td><td/><td/><td/><td/></tr>
+<tr><td style="border-right:1px solid black;">4</td><td>0</td><td>2</td><td/><td/><td/><td/><td/></tr>
+</tbody></table></p>
+<p>(c) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Median</mtext><mo>=</mo><mfrac><mrow><mn>15</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>7.5</mn></mrow></math> therefore 8<sup>th</sup> item = 20</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>Q</mtext><mn>1</mn></msub><mo>=</mo><mfrac><mrow><mn>14</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>3.5</mn><mo>&#x21D2;</mo><msup><mn>4</mn><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>item</mtext><mo>=</mo><mn>13</mn></mrow></math></p>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>Q</mtext><mn>3</mn></msub><mo>=</mo><mfrac><mrow><mn>3(14)</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>10.5</mn><mo>&#x21D2;</mo><msup><mn>11</mn><mrow><mtext>th</mtext></mrow></msup><mspace width="1ex"/><mtext>item</mtext><mo>=</mo><mn>31</mn></mrow></math>
+<p>(d) IQR = 31 &#x2212; 13 = 18 so 1.5 &#x00D7; IQR = 27</p>
+<p>13 &#x2212; 27 = &#x2212;14</p>
+<p>31 + 27 = 58</p>
+<p>There are no outliers</p>
+<p>(e)<br/> <img src="images\S1F006.jpg"/></p>
+<p>(f) Positive skew. Q<sub>2</sub> &#x2212; Q<sub>1</sub> &#x003C; Q<sub>3</sub> &#x2212; Q<sub>2</sub></p></Solution>
+</QuestionData>
+</Exercise>
+</Chapter>
+</Section>
+</Unit>
+</SubjectArea>
+</ProductTitle>
+</ExamBoard>
+</Level>
+</Subject>
+</Harcourt>

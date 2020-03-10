@@ -1,0 +1,340 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='standard rectangular jigsaw 17' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='solution'/>
+    <active-option view-id='input' option-id='input.paired.24'/>
+    <active-option view-id='output' option-id='output.normal size'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>7</mn>
+      <mn>3</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>3</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>5</mn>
+      <mn>4</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>4</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>10</mn>
+      <mn>3</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>3</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>9</mn>
+      <mn>4</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>4</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>7</mn>
+      <mn>5</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1</mn>
+    <mfrac>
+      <mn>2</mn>
+      <mn>5</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>16</mn>
+      <mn>5</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>5</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>6</mn>
+      <mn>5</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>5</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>15</mn>
+      <mn>4</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mfrac>
+      <mn>3</mn>
+      <mn>4</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>11</mn>
+      <mn>3</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mfrac>
+      <mn>2</mn>
+      <mn>3</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>4</mn>
+      <mn>2</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>11</mn>
+      <mn>2</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>5</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>8</mn>
+      <mn>7</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>7</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>15</mn>
+      <mn>7</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mfrac>
+      <mn>1</mn>
+      <mn>7</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>37</mn>
+      <mn>10</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mfrac>
+      <mn>7</mn>
+      <mn>10</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>33</mn>
+      <mn>10</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mfrac>
+      <mn>3</mn>
+      <mn>10</mn>
+    </mfrac>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>6</mn>
+      <mn>3</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>5</mn>
+      <mn>5</mn>
+    </mfrac>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>1</mn>
+  </mrow>
+</math>
+  </eqnpair>
+</eqnpairs>

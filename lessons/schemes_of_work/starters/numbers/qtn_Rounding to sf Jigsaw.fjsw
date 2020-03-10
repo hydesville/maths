@@ -1,0 +1,437 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='standard hexagonal jigsaw 30' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='output'/>
+    <active-option view-id='input' option-id='input.paired.30'/>
+    <active-option view-id='output' option-id='output.simplified version'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">15.62</mo>
+        <mo lspace="0px" rspace="0px">3</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo lspace="0px" rspace="0px">[1dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">15.6</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">0.09&nbsp;</mo>
+        <mo lspace="0px" rspace="0px">&nbsp;&nbsp;</mo>
+        <mo lspace="0px" rspace="0px">[1dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">0.01</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">18.64 &nbsp; [1dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">18.6</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">125.345&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo lspace="0px" rspace="0px">&nbsp;[2d</mo>
+        <mo lspace="0px" rspace="0px">p</mo>
+        <mo fence="false" stretchy="false" form="infix">]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">125.35</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">125.361 &nbsp; [1dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">125.4</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">1.732 &nbsp; [1dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">1.7</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">14.732 &nbsp; [2dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">14.73</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">1.97543 &nbsp; &nbsp;[3dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">1.975</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">0.01766 &nbsp; [3dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">0.018</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">143.675 &nbsp; [2dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">143.68</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">12.475 &nbsp; [2sf]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">12</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">34.956 &nbsp; [3sf]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">35.0</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">1259 &nbsp; &nbsp;[2sf]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">1300</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">56.732 &nbsp; &nbsp;[1sf]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">60</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">78.919 &nbsp; &nbsp;[3sf]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">78.9</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">943.213 &nbsp; &nbsp; [4sf]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">943.2</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">943.213 &nbsp; &nbsp; [2dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">943.21</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">400.3</mo>
+        <mo lspace="0px" rspace="0px">5</mo>
+        <mo lspace="0px" rspace="0px">5&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo lspace="0px" rspace="0px">[1dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">400.</mo>
+        <mo lspace="0px" rspace="0px">4</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">400.3</mo>
+        <mo lspace="0px" rspace="0px">5</mo>
+        <mo lspace="0px" rspace="0px">5&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo lspace="0px" rspace="0px">&nbsp;[2dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">400.3</mo>
+        <mo lspace="0px" rspace="0px">6</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">18.64 &nbsp; &nbsp;[2sf]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">19</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">1.732&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo fence="false" stretchy="false">[</mo>
+        <mo lspace="0px" rspace="0px">3</mo>
+        <mo lspace="0px" rspace="0px">sf]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">1.7</mo>
+        <mo lspace="0px" rspace="0px">3</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">0.01766 &nbsp; &nbsp; &nbsp;[2sf]
+</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">0.0</mo>
+        <mo lspace="0px" rspace="0px">18</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">1.97543 &nbsp; &nbsp; [2sf]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">2.0</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">12.475 &nbsp; &nbsp;[3sf]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">12.5</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">34.956 &nbsp; &nbsp;[1dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">35.0</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">943.213 &nbsp; &nbsp; [1dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">943.2</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">56.732 &nbsp; &nbsp; [2dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">56.73</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">15.623 &nbsp; &nbsp;[2sf]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">16</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">34.9</mo>
+        <mo lspace="0px" rspace="0px">5</mo>
+        <mo lspace="0px" rspace="0px">6&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo lspace="0px" rspace="0px">[2dp]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">34.</mo>
+        <mo lspace="0px" rspace="0px">96</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">78.919&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo>&nbsp;</mo>
+        <mo fence="false" stretchy="false">[</mo>
+        <mo lspace="0px" rspace="0px">2dp</mo>
+        <mo fence="false" stretchy="false" form="infix">]</mo>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo lspace="0px" rspace="0px">78.9</mo>
+        <mo lspace="0px" rspace="0px">1</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+</eqnpairs>

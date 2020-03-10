@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+<Subject type="Mathematics">
+<Level age="">
+<ExamBoard title="AandAS">
+<ProductTitle name="Solutionbank">
+<SubjectArea name="Statistics" abbrev="S">
+<Unit number="1">
+<Section>
+<Chapter number="5" title="Probability"><p><b>Chapter 5</b></p>
+<Exercise letter="A"><p>Exercise 5A</p>
+<QuestionData number="1">
+<Question><p>For each of the following experiments, identify the sample space and find the probability of the event specified.</p>
+<p>Throwing a six sided die once and recording if the number face up is odd or even. Find the probability of an even number landing face up.</p>
+</Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images\S1F009.jpg"/></td><td>O = odd, E = Even Score on die</td></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Even</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>3</mn><mn>6</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mrow></math></td><td/></tr>
+</tbody></table>
+</p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>For the following experiment, identify the sample space and find the probability of the event specified.</p>
+<p>Tossing two coins. Find the probability of the same outcome on each coin.</p>
+</Question><Solution>
+<p><img src="images\S1F010.jpg"/></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Same outcome</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>2</mn><mn>4</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></p></Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>For the following experiment, identify the sample space and find the probability of the event specified.</p>
+<p>A card is drawn from a pack of 52 playing cards. Find the probability that the card is a heart.</p>
+</Question><Solution>
+<p>S = {Spades, Clubs, Diamonds, Hearts}</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Heart</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></p></Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>For the following experiment, identify the sample space and find the probability of the event specified.</p>
+<p>A card is drawn from a pack of 52 playing cards, its suit is recorded then it is replaced and another card is drawn. Find the probability of drawing a spade and a club in any order.</p>
+</Question><Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody><tr><td><img src="images\S1F011.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow></mrow></mtd><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Spade</mtext><mspace width="1ex"/><mi>A</mi><mi>N</mi><mi>D</mi><mspace width="1ex"/><mtext>Club</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>2</mn><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></mtd></mtr></mtable></math></td></tr>
+</tbody></table>
+</p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>For the following experiment, identify the sample space and find the probability of the event specified.</p>
+<p>Throwing a die and tossing a coin. Find the probability of a head and a 6.</p>
+</Question><Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody><tr><td><img src="images\S1F012.jpg"/></td>
+<td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>H and</mtext><mspace width="1ex"/><mn>6</mn><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac></mrow></math></td></tr>
+</tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>For each of the following experiments, identify the sample space and find the probability of the event specified.</p>
+<p>Throwing two six-sided dice and recording the product of the values on the two sides that are uppermost.</p>
+<p>Find the probability of the answer being greater than or equal to 24.</p>
+</Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody><tr><td><img src="images\S1F013.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow></mrow></mtd><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Product</mtext><mo>&#x2265;</mo><mn>24</mn><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>6</mn><mrow><mn>36</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mn>.</mn></mrow></mtd></mtr></mtable></math></td></tr>
+</tbody></table>
+</p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="B"><p>Exercise 5B</p>
+<QuestionData number="1">
+<Question><p>A card is chosen at random from a pack of 52 playing cards. <i>C</i> is the event &#x2018;the card chosen is a club&#x2019; and <i>K</i> is the event &#x2018;the card chosen is a King&#x2019;. Find these.</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>K</mi><mo stretchy='false'>)</mo></mrow></math></td><td><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo stretchy='false'>)</mo></mrow></math></td><td><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo>&#x2229;</mo><mi>K</mi><mo stretchy='false'>)</mo></mrow></math></td></tr>
+<tr><td><b>d</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo>&#x222A;</mo><mi>K</mi><mo stretchy='false'>)</mo></mrow></math></td><td><b>e</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>C</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math></td><td><b>f</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>K</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><mi>C</mi><mo stretchy='false'>)</mo></mrow></math></td></tr></tbody></table></p></Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>K</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>4</mn><mrow><mn>52</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>13</mn></mrow></mfrac></mrow></math>
+</td><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td></tr>
+<tr><td>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo>&#x2229;</mo><mi>K</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mrow><mn>52</mn></mrow></mfrac></mrow></math></td>
+<td>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo>&#x222A;</mo><mi>K</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>16</mn></mrow><mrow><mn>52</mn></mrow></mfrac><mo>=</mo><mfrac><mn>4</mn><mrow><mn>13</mn></mrow></mfrac></mrow></math></td></tr><tr><td>e. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>C</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></math></td><td>f. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>K</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><mi>C</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>12</mn></mrow><mrow><mn>52</mn></mrow></mfrac><mo>=</mo><mfrac><mn>3</mn><mrow><mn>13</mn></mrow></mfrac></mrow></math></td></tr></tbody></table></p></Solution></QuestionData>
+<QuestionData number="2">
+<Question><p>There are 25 students in a certain tutor group at Philips College. There are 16 students in the tutor group studying German, 14 studying French and six students studying both French and German.</p><p>Find the probability that a randomly chosen student in the tutor group</p>
+<p><b>a</b> studies French,</p>
+<p><b>b</b> studies French and German,</p>
+<p><b>c</b> studies French but not German,</p>
+<p><b>d</b> does not study French or German.</p></Question>
+<Solution>
+<p>
+<table width="95%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F014.jpg"/></td><td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>F</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>25</mn></mrow></mfrac></mrow></math><br/>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>F</mtext><mo>&#x2229;</mo><mtext>G</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>6</mn><mrow><mn>25</mn></mrow></mfrac></mrow></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>French but not German</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>8</mn><mrow><mn>25</mn></mrow></mfrac></mrow></math><br/>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>N of French or German</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mrow><mn>25</mn></mrow></mfrac></mrow></math></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>On a firing range, a rifleman has two attempts to hit a target. The probability of hitting the target with the first shot is 0.2 and the probability of hitting with the second shot is 0.3. The probability of hitting the target with both shots is 0.1.</p>
+<p>Find the probability of</p>
+<p><b>a</b> missing the target with both shots,</p>
+<p><b>b</b> hitting with the first shot and missing with the second.</p>
+</Question>
+<Solution>
+<p><table width="95%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F015.jpg"/></td><td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Missing with both</mtext><mo stretchy='false'>)</mo><mo>=</mo><mn>0.6</mn></mrow></math><br/>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Hitting then Missing</mtext><mo stretchy='false'>)</mo><mo>=</mo><mn>0.1</mn></mrow></math></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question><p>Of all the households in the UK, 40% have a plasma TV and 50% have a laptop computer. There are 25% of households that have both a plasma TV and a laptop. Find the probability that a household chosen at random has either a plasma TV or a laptop computer but not both.</p>
+</Question>
+<Solution>
+<p><table width="95%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F016.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>P or L but not both</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mrow><mfrac><mrow><mn>15</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow><mo>+</mo><mfrac><mrow><mn>25</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>0.4</mn></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>There are 125 diners in a restaurant who were surveyed to find out if they had ordered garlic bread, beer or cheesecake.
+<ul style="none"><li>15 diners had ordered all three items</li>
+<li>43 diners had ordered garlic bread</li>
+<li>40 diners had ordered beer</li>
+<li>44 diners had ordered cheesecake</li>
+<li>20 had ordered beer and cheesecake</li>
+<li>26 had ordered garlic bread and cheesecake</li>
+<li>25 had ordered garlic bread and beer.</li></ul></p>
+<p>A diner is chosen at random. Find the probability that the diner ordered</p>
+<p><b>a</b> all three items,</p>
+<p><b>b</b> beer but not cheesecake and not garlic bread,</p>
+<p><b>c</b> garlic bread and beer but not cheesecake,</p>
+<p><b>d</b> none of these items.</p>
+</Question>
+<Solution>
+<p>
+<table width="95%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F017.jpg"/></td><td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>all there</mtext><mo stretchy='false'>)</mo><mo>=</mo></mrow><mrow><mfrac><mrow><mn>15</mn></mrow><mrow><mn>125</mn></mrow></mfrac><mo>=</mo><mfrac><mn>3</mn><mrow><mn>25</mn></mrow></mfrac></mrow></math><br/>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Beer but not cheesemake and not garlic bread</mtext><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>125</mn></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mrow><mn>25</mn></mrow></mfrac></mrow></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Garlic bread and beer but not cheesemake</mtext><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>125</mn></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mrow><mn>25</mn></mrow></mfrac></mrow></math><br/>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mtext>None</mtext><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mfrac><mrow><mn>54</mn></mrow><mrow><mn>125</mn></mrow></mfrac></mrow></math></td></tr></tbody></table></p></Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>A group of 275 people at a music festival were asked if they play guitar, piano or drums.
+<ul style="none"><li>one person plays all three instruments</li>
+<li>65 people play guitar and piano</li>
+<li>10 people play piano and drums</li>
+<li>30 people play guitar and drums</li>
+<li>15 people play piano only</li>
+<li>20 people play guitar only</li>
+<li>35 people play drums only</li></ul></p>
+<p><b>a</b> Draw a Venn diagram to represent this information.</p>
+<p>A festival goer is chosen at random from the group.</p>
+<p>Find the probability that the person chosen</p>
+<p><b>b</b> plays piano</p>
+<p><b>c</b> plays at least two of guitar, piano or drums</p>
+<p><b>d</b> plays exactly one of the instruments</p>
+<p><b>e</b> plays none of the instruments.</p>
+</Question>
+<Solution>
+<p>
+<table width="95%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>a.<br/><img src="images/S1F018.jpg"/></td></tr><tr><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Plays piano</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>89</mn></mrow><mrow><mn>275</mn></mrow></mfrac></mrow></math>
+</td><td>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>At least</mtext><mspace width="1ex"/><mn>2</mn><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>103</mn></mrow><mrow><mn>275</mn></mrow></mfrac></mrow></math></td></tr><tr><td>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Plays one</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>70</mn></mrow><mrow><mn>275</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>55</mn></mrow></mfrac></mrow></math></td>
+<td>e. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Plays none</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>102</mn></mrow><mrow><mn>275</mn></mrow></mfrac></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="C"><p>Exercise 5C</p>
+<QuestionData number="1">
+<Question><p><i>A</i> and <i>B</i> are two events and P(<i>A</i>) = 0.5, P(<i>B</i>) = 0.2 and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi mathvariant="normal">P</mi><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math> = 0.1.</p>
+<p>Find</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>,</td></tr>
+<tr><td><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>d</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>.</td></tr></tbody></table></p></Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F019.jpg"/></td><td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.6</mn></mrow></math><br/>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.8</mn></mrow></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.4</mn></mrow></math><br/>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.9</mn></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question><p><i>A</i> and <i>C</i> are two events and P(<i>A</i>) = 0.4, P(<i>B</i>) = 0.5 and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi mathvariant="normal">P</mi><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math> = 0.6.</p>
+<p>Find</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>,</td></tr>
+<tr><td><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>d</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math>.</td></tr></tbody></table></p></Question>
+<Solution>
+<p>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.4</mn><mo>+</mo><mn>0.5</mn><mo>&#x2212;</mo><mn>0.6</mn><mo>=</mo><mn>0.3</mn></mrow></math></p>
+<p><img src="images/S1F020.jpg"/></p>
+<p>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.6</mn><mspace width="5ex"/></mrow></math>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.8</mn></mrow><mspace width="5ex"/></math>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.9</mn></mrow><mspace width="5ex"/></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question><p><i>C</i> and <i>D</i> are two events and P(<i>D</i>) = 0.4, P(<i>C</i> &#x2229; <i>D</i>) = 0.15 and P(<i>C</i>&#x2032; &#x2229; <i>D</i>&#x2032;) = 0.1.</p>
+<p>Find</p>
+<p>
+<table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>C</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><mi>D</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo>&#x2229;</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>,</td></tr>
+<tr><td><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>d</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>C</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>.</td></tr></tbody></table></p></Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F021.jpg"/></td><td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>C</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><mi>D</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.25</mn></math><br/>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo>&#x2229;</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.5</mn></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.65</mn></math><br/>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>C</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.1</mn></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question><p>There are two events <i>T</i> and <i>Q</i> where P(<i>T</i>) = P(<i>Q</i>) = <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>3</mn><mi mathvariant="normal">P</mi><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x2229;</mo><mi>Q</mi><mo stretchy='false'>)</mo></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi mathvariant="normal">P</mi><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x222A;</mo><mi>Q</mi><mo stretchy='false'>)</mo></mrow></math> = 0.75.</p>
+<p>Find</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x222A;</mo><mi>Q</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>c</b> &#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>Q</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>,</td></tr>
+<tr><td><b>d</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>T</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>Q</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo>
+</mrow></math>,</td><td><b>e</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x2229;</mo><msup><mi>Q</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>.</td><td/></tr></tbody></table></p></Question>
+<Solution>
+<p>a.<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x222A;</mo><mi>Q</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo stretchy='false'>)</mo><mo>+</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Q</mi><mo stretchy='false'>)</mo><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x2229;</mo><mi>Q</mi><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>0.75</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>3</mn><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x2229;</mo><mi>Q</mi><mo stretchy='false'>)</mo><mo>+</mo><mn>3</mn><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x2229;</mo><mi>Q</mi><mo stretchy='false'>)</mo><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x2229;</mo><mi>Q</mi><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>5</mn><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x2229;</mo><mi>Q</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo></mrow><mrow><mn>0.75</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x2229;</mo><mi>Q</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.15</mn></mrow></mtd></mtr></mtable></math></p>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F022.jpg"/></td><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.45</mn></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>Q</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.55</mn></math><br/>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>T</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>Q</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.25</mn></math><br/>e. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><mi>T</mi><mo>&#x2229;</mo><msup><mi>Q</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.3</mn></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question><p>A survey of all the households in the town of Bury was carried out. The survey showed that 70% have a freezer and 20% have a dishwasher and 80% have either a dishwasher or a freezer or both appliances. Find the probability that a randomly chosen household in Bury has both appliances.</p></Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>F</mtext><mo>&#x2229;</mo><mtext>D</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>F</mtext><mo stretchy='false'>)</mo><mo>+</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>D</mtext><mo stretchy='false'>)</mo><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>F</mtext><mo>&#x222A;</mo><mtext>D</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd></mtd></mtr><mtr><mtd></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.7</mn><mo>+</mo><mn>0.2</mn><mo>&#x2212;</mo><mn>0.8</mn></mrow></mtd><mtd></mtd></mtr><mtr><mtd></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.1</mn></mrow></mtd><mtd></mtd></mtr></mtable></math>
+</p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question><p>The probability that a child in a school has blue eyes is 0.27 and the probability they have blonde hair is 0.35. The probability that the child will have blonde hair or blue eyes or both is 0.45. A child is chosen at random from the school. Find the probability that the child has</p><p><b>a</b> blonde hair and blue eyes,</p>
+<p><b>b</b> blonde hair but not blue eyes,</p>
+<p><b>c</b> neither feature.</p></Question>
+<Solution>
+<p>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>E</mtext><mo>&#x2229;</mo><mtext>H</mtext><mo stretchy='false'>)</mo><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>E</mtext><mo stretchy='false'>)</mo><mo>+</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>H</mtext><mo stretchy='false'>)</mo><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>E</mtext><mo>&#x222A;</mo><mtext>H</mtext><mo stretchy='false'>)</mo></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="10.5ex"/><mrow><mo>=</mo><mn>0.27</mn><mo>+</mo><mn>0.35</mn><mo>&#x2212;</mo><mn>0.45</mn></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="10.5ex"/><mrow><mo>=</mo><mn>0.17</mn></mrow></math></p>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F023.jpg"/></td><td>b. P(Blonde hair but not Blue eyes) = 0.18<br/>c. P(Neither) = 0.55</td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question><p>A patient going in to a doctor&#x2019;s waiting room reads <i>Hiya</i> Magazine with probability 0.6 and <i>Dakor</i> Magazine with probability 0.4. The probability that the patient reads either one or both of the magazines is 0.7. Find the probability that the patient reads</p><p><b>a</b> both magazines,</p>
+<p><b>b</b>&#x00A0;<i>Hiya</i> Magazine only.</p></Question>
+<Solution>
+<p>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>H</mtext><mo>&#x2229;</mo><mtext>D</mtext><mo stretchy='false'>)</mo><mo>=</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>H</mtext><mo stretchy='false'>)</mo><mo>+</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>D</mtext><mo stretchy='false'>)</mo><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>H</mtext><mo>&#x222A;</mo><mtext>D</mtext><mo stretchy='false'>)</mo></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="10.5ex"/><mrow><mo>=</mo></mrow><mrow><mn>0.6</mn><mo>+</mo><mn>0.4</mn><mo>&#x2212;</mo><mn>0.7</mn></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="10.5ex"/><mrow><mo>=</mo></mrow><mrow><mn>0.3</mn></mrow></math></p>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F024.jpg"/></td><td>b. P(Hiya only) = 0.3</td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="D"><p><b>Exercise 5D</b></p>
+<QuestionData number="1">
+<Question><p>A card is drawn at random from a pack of 52 playing cards. Given that the card is a diamond, find the probability that the card is an ace.</p></Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/> 
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Ace</mtext><mo stretchy="false">&#x007C;</mo><mtext>Diamond</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>13</mn></mfrac><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Ace</mtext><mo stretchy="false">&#x007C;</mo><mtext>Diamond</mtext><mo stretchy='false'>)</mo><mo>=</mo></mrow><mrow><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Ace of Diamonds</mtext><mo stretchy="false">)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Diamond</mtext><mo stretchy='false'>)</mo></mrow></mfrac></mrow><mrow></mrow><mrow><mo>=</mo><mfrac><mrow><mfrac><mn>1</mn><mrow><mn>52</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>13</mn></mrow><mrow><mn>52</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>13</mn></mrow></mfrac><mn>.</mn></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question><p>Two coins are flipped and the results are recorded. Given that one coin lands on a head, find the probability of</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b> two heads,</td><td><b>b</b> a head and a tail.</td></tr></tbody></table></p></Question>
+<Solution>
+<p>
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F024b.jpg"/></td>
+<td>a.<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>HH</mtext><mo stretchy="false">&#x007C;</mo><mtext>H</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Head and Head</mtext><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Head</mtext><mo stretchy='false'>)</mo></mrow></mfrac></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mn>.</mn></mrow></mtd></mtr></mtable></math></td></tr>
+
+<tr><td/><td>b.<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Head and Tail</mtext><mo stretchy="false">&#x007C;</mo><mtext>Head</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Head and Tail</mtext><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Head</mtext><mo stretchy='false'>)</mo></mrow></mfrac></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mfrac><mn>2</mn><mn>4</mn></mfrac></mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question><p>Two fair dice are thrown and the product of the numbers on the dice is recorded. Given that one die lands on 2, find the probability that the product on the dice is</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b> exactly 6,</td><td><b>b</b> more than 5.</td></tr></tbody></table></p></Question>
+<Solution>
+<p>
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F025.jpg"/></td>
+<td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Exactly</mtext><mspace width="1ex"/><mn>6</mn><mo stretchy="false">&#x007C;</mo><mn>2</mn><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Product of</mtext><mspace width="1ex"/><mn>6</mn><mspace width="1ex"/><mtext>and</mtext><mspace width="1ex"/><mn>2</mn><mspace width="1ex"/><mtext>on the die</mtext><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mn>2</mn><mspace width="1ex"/><mtext>on one die</mtext><mo stretchy='false'>)</mo></mrow></mfrac></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="16.5ex"/><mrow><mo>=</mo><mfrac><mrow><mfrac><mn>2</mn><mrow><mn>36</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>11</mn></mrow><mrow><mn>36</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mrow><mn>11</mn></mrow></mfrac></mrow></math></td></tr>
+
+<tr><td/><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>More than</mtext><mspace width="1ex"/><mn>5</mn><mo stretchy="false">&#x007C;</mo><mn>2</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd><mrow><mo>=</mo><mfrac><mrow><mfrac><mn>8</mn><mrow><mn>36</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>11</mn></mrow><mrow><mn>36</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mfrac><mn>8</mn><mrow><mn>11</mn></mrow></mfrac></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question><p><i>A</i> and <i>B</i> are two events such that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mn>0.6</mn><mo>,</mo><mtext>P</mtext><mo>(</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>0.5</mn><mspace width="1ex"/><mtext>and</mtext><mspace width="1ex"/><mtext>P</mtext><mo>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>0.4</mn></mrow></math>, find</p>
+<p>
+<table width="70%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy="false">&#x007C;</mo><mi>A</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy="false">&#x007C;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>d</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy="false">&#x007C;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>.</td></tr></tbody></table></p></Question>
+<Solution>
+<p>
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.6</mn><mo>+</mo><mn>0.5</mn><mo>&#x2212;</mo><mn>0.4</mn></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="11.3ex"/><mrow><mo>=</mo><mn>0.7</mn></mrow></math></td>
+<td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy="false">&#x007C;</mo><mi>A</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd><mrow><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo>&#x2229;</mo><mi>A</mi><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy='false'>)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>0.4</mn></mrow><mrow><mn>0.6</mn></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mtd></mtr></mtable></math></td></tr>
+<tr><td>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy="false">&#x007C;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd><mrow><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>0.4</mn></mrow><mrow><mn>0.5</mn></mrow></mfrac><mo>=</mo><mn>0.8</mn></mrow></mtd></mtr></mtable></math></td>
+<td>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy="false">&#x007C;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>0.2</mn></mrow><mrow><mn>0.5</mn></mrow></mfrac></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="10.8ex"/><mrow><mo>=</mo><mn>0.4.</mn></mrow></math></td></tr>
+<tr><td><img src="images/S1F026.jpg"/></td><td/></tr>
+</tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question><p><i>A</i> and <i>B</i> are two events such that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mn>0.4</mn><mo>,</mo><mtext>P</mtext><mo>(</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>0.5</mn><mspace width="1ex"/><mtext>and</mtext><mspace width="1ex"/><mtext>P</mtext><mo>(</mo><mi>A</mi><mo>&#x2223;</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>0.4</mn></mrow></math>, find</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy="false">&#x007C;</mo><mi>A</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math>.</td></tr></tbody></table></p></Question>
+<Solution>
+<p>
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr>
+<td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy="false">&#x007C;</mo><mi>B</mi><mo stretchy='false'>)</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>0.4</mn><mo>&#x00D7;</mo><mn>0.5</mn><mo>=</mo><mn>0.2</mn></mrow></mtd></mtr></mtable></math></td><td/></tr>
+<tr><td><img src="images/S1F027.jpg"/></td>
+<td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy="false">&#x007C;</mo><mi>A</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd><mrow><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo>&#x2229;</mo><mi>A</mi><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy='false'>)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>0.2</mn></mrow><mrow><mn>0.4</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mtd></mtr></mtable></math><br/>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.3</mn></mrow></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.3</mn></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question><p>Let <i>A</i> and <i>B</i> be events such that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math>, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></math>.</p>
+<p>Find</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy="false">&#x007C;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>.</td></tr></tbody></table></p></Question>
+<Solution>
+<p>
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x2212;</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mrow><mn>20</mn></mrow></mfrac></mrow></math></td><td/></tr>
+<tr><td><img src="images/S1F028.jpg"/></td>
+<td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy="false">&#x007C;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mfrac><mn>3</mn><mrow><mn>20</mn></mrow></mfrac></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfrac><mo>=</mo><mfrac><mn>3</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math><br/>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>7</mn><mrow><mn>20</mn></mrow></mfrac></mrow></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question><p><i>C</i> and <i>D</i> are two events and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo stretchy="false">&#x007C;</mo><mi>D</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math>, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo stretchy="false">&#x007C;</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>D</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math>, find</p>
+<p><table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo>&#x2229;</mo><mi>D</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo>&#x2229;</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo stretchy='false'>)</mo></mrow></math>,</td></tr>
+<tr><td><b>d</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>D</mi><mo>&#x2223;</mo><mi>C</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>e</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy="false">&#x007C;</mo><mi>C</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>f</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>C</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>.</td></tr></tbody></table></p></Question>
+<Solution>
+<p>
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr>
+<td>a.<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo>&#x2229;</mo><mi>D</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo stretchy="false">&#x007C;</mo><mtext>P</mtext><mo stretchy='false'>)</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>D</mi><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac><mn>.</mn></mrow></mtd></mtr></mtable></math></td>
+<td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo>&#x2229;</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo>&#x2223;</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="12.2ex"/><mrow><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mrow><mn>20</mn></mrow></mfrac></mrow></math></td></tr>
+<tr><td><img src="images/S1F029.jpg"/></td>
+<td>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>3</mn><mrow><mn>20</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mfrac><mn>7</mn><mrow><mn>30</mn></mrow></mfrac></mrow></math><br/>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>D</mi><mo>&#x2223;</mo><mi>C</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd><mrow><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>D</mi><mo>&#x2229;</mo><mi>C</mi><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>C</mi><mo stretchy='false'>)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac></mrow><mrow><mfrac><mn>7</mn><mrow><mn>30</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mfrac><mn>5</mn><mrow><mn>14</mn></mrow></mfrac></mrow></mtd></mtr></mtable></math></td></tr></tbody></table>
+e. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy="false">&#x007C;</mo><mi>C</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mfrac><mn>5</mn><mrow><mn>14</mn></mrow></mfrac><mo>=</mo><mfrac><mn>9</mn><mrow><mn>14</mn></mrow></mfrac></mrow></mtd></mtr></mtable></math><br/>
+f. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>C</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo></mrow><mi>C</mi><mo stretchy='false'>)</mo><mrow><mo>=</mo><mfrac><mn>7</mn><mrow><mn>30</mn></mrow></mfrac><mo>=</mo><mfrac><mn>23</mn><mrow><mn>30</mn></mrow></mfrac></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="3ex"/><mrow><mo>&#x2234;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy="false">&#x007C;</mo><msup><mi>C</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>C</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>D</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>&#x002F;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>C</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="3ex"/><mrow><mo>=</mo><mrow><mfrac><mrow><mrow><mo>(</mo><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>23</mn></mrow><mrow><mn>30</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mfrac></mrow><mo>=</mo><mrow><mfrac><mn>18</mn><mrow><mn>23</mn></mrow></mfrac></mrow><mo stretchy='true'>&#x00AF;</mo></mrow></math></p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="E"><p><b>Exercise 5E</b></p>
+<QuestionData number="1">
+<Question><p>A bag contains five red and four blue tokens. A token is chosen at random, the colour recorded and the token is not replaced. A second token is chosen and the colour recorded. Find the probability that</p>
+<p><b>a</b> the second token is red given the first token is blue,</p>
+<p><b>b</b> the second token is blue given the first token is red,</p>
+<p><b>c</b> both tokens chosen are blue,</p>
+<p><b>d</b> one red token and one blue token are chosen.</p>
+</Question>
+<Solution>
+<p><img src="images/S1F030.jpg"/></p>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Second Red</mtext><mo stretchy="false">&#x007C;</mo><mtext>First Blue</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow></math></td>
+<td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Second Blue</mtext><mo stretchy="false">&#x007C;</mo><mtext>First Red</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></td></tr>
+<tr><td>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Both Blue</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>4</mn><mn>9</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td>
+<td>d. P(One Red and One Blue)<br/>= P(Red Blue) + P(Blue Red)<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mn>5</mn><mn>9</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mn>9</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>9</mn></mfrac></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question><p>A box of 24 chocolates contains 10 dark and 14 milk chocolates. Linda chooses a chocolate at random and eats it, followed by another one. Find the probability that Linda eats</p>
+<p><b>a</b> two dark chocolates,</p>
+<p><b>b</b> one dark and one milk chocolate.</p>
+</Question>
+<Solution>
+<p><img src="images/S1F031.jpg"/></p>
+<p>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Dark Dark</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>24</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>9</mn><mrow><mn>27</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>15</mn></mrow><mrow><mn>92</mn></mrow></mfrac></mrow></math></p>
+<p>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>One Dark One Milk</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>24</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>23</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>24</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>23</mn></mrow></mfrac></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="22ex"/><mo>=</mo><mfrac><mrow><mn>35</mn></mrow><mrow><mn>69</mn></mrow></mfrac></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question><p>Jean always goes to work by bus or takes a taxi. If one day she goes to work by bus, the probability she goes to work by taxi the next day is 0.4. If one day she goes to work by taxi, the probability she goes to work by bus the next day is 0.7.</p>
+<p>Given that Jean takes the bus to work on Monday, find the probability that she takes a taxi to work on Wednesday.</p>
+</Question>
+<Solution>
+<p><img src="images/S1F032.jpg"/></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Taxi on Weds</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.4</mn><mo>&#x00D7;</mo><mn>0.3</mn><mo>+</mo><mn>0.6</mn><mo>&#x00D7;</mo><mn>0.4</mn></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.36</mn></mrow></mtd><mtd><mrow></mrow></mtd></mtr></mtable></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question><p>Sue has two coins. One is fair, with a head on one side and a tail on the other.</p>
+<p>The second is a trick coin and has a tail on both sides. Sue picks up one of the coins at random and flips it.</p>
+<p><b>a</b> Find the probability that it lands heads up.</p>
+<p><b>b</b> Given that it lands tails up, find the probability that she picked up the fair coin.</p></Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F033.jpg"/></td><td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Head</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math><br/>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Fair</mtext><mo stretchy="false">&#x007C;</mo><mtext>Tail</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Fair and Tail</mtext><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Tail</mtext><mo stretchy='false'>)</mo></mrow></mfrac></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="14.5ex"/><mo>=</mo><mfrac><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question><p>A contestant on a quiz show is asked to choose one of three doors. Behind one of the doors is the star prize of a sports car, but behind each of the other two doors there is a toy car.</p>
+<p>The contestant chooses one of the three doors.</p>
+<p>The host then opens one of the remaining two doors and reveals a toy car. The host then asks the contestant if they want to stick with their first choice or switch to the other unopened door.</p>
+<p>State what you would recommend the contestant to do in order to have the greatest probability of winning the sports car. Show your working clearly.</p></Question>
+<Solution>
+<p><img src="images/S1F034.jpg"/></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Winning if Contestant Sticks</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Winning if Contestant Swaps</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mtd><mtd><mrow></mrow></mtd></mtr></mtable></math></p>
+<p>Contestant should <i>Swap</i> doors.</p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="F"><p><b>Exercise 5F</b></p>
+<QuestionData number="1">
+<Question><p>Event <i>A</i> and event <i>B</i> are mutually exclusive and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mn>0.2</mn><mo>,</mo><mtext>P</mtext><mo>(</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>0.5</mn></mrow></math>.</p>
+<p><b>a</b> Draw a Venn diagram to represent these two events.</p>
+<p><b>b</b> Find <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math>.</p>
+<p><b>c</b> Find <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>.</p></Question>
+<Solution>
+<p>
+<table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>a.<br/><img src="images/S1F035.jpg"/></td><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.7</mn></mrow></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.3</mn></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question><p>Two events <i>A</i> and <i>B</i> are independent and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math>.</p>
+<p>Find</p>
+<p><table width="70%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>,</td><td><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>.</td></tr></tbody></table></p></Question>
+<Solution>
+<p><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>20</mn></mrow></mfrac></mrow></math></td><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#x2212;</mo><mfrac><mn>1</mn><mrow><mn>20</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="8.5ex"/><mrow><mi>o</mi><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>4</mn><mn>5</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td></tr>
+<tr><td>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>A</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mn>.</mn></mrow></math></td><td><img src="images/S1F036.jpg"/></td></tr>
+</tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question><p><i>Q</i> and <i>R</i> are two events such that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo>(</mo><mi>Q</mi><mo>)</mo><mo>=</mo><mn>0.2</mn><mo>,</mo><mtext>P</mtext><mo>(</mo><mi>R</mi><mo>)</mo><mo>=</mo><mn>0.4</mn><mspace width="1ex"/><mtext>and</mtext><mspace width="1ex"/><mtext>P</mtext><mo>(</mo><mi>Q</mi><mo>&#x2032;</mo><mo>&#x2229;</mo><mi>R</mi><mo>)</mo><mo>=</mo><mn>0.4</mn></mrow></math>.</p> 
+<p>Find</p>
+<p><b>a</b> the relationship between <i>Q</i> and <i>R</i>,</p>
+<p><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Q</mi><mo>&#x222A;</mo><mi>R</mi><mo stretchy='false'>)</mo></mrow></math>,</p>
+<p><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>Q</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>R</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>.</p></Question>
+<Solution>
+<p><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>a.<br/><img src="images/S1F037.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Q</mi><mo>&#x2229;</mo><mi>R</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0</mn><mspace width="1ex"/></mrow></math> so <i>Q</i> and <i>R</i> are mutually exclusive.</td></tr>
+<tr><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Q</mi><mo>&#x222A;</mo><mi>R</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.4</mn><mo>+</mo><mn>0.2</mn><mo>=</mo><mn>0.6</mn></mrow></math></td><td>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>Q</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>R</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mn>0.4</mn></mrow></math></td></tr>
+</tbody></table>
+</p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question><p>Two fair dice are rolled and the result on each die is recorded. Show that the event &#x2018;the sum of the scores on the dice is 4&#x2032; and &#x2018;both dice land on the same number&#x2019; are <i>not</i> mutually exclusive.</p></Question>
+<Solution>
+<p><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>P(Sum of 4) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mn>3</mn><mrow><mn>36</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac></mrow></math></td></tr>
+<tr><td>P(Same number) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mn>6</mn><mrow><mn>36</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>6</mn></mrow></mfrac></mrow></math></td></tr>
+<tr><td>P(Sum of 4) + P(Same number) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mn>1</mn><mrow><mn>6</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>4</mn></mrow></mfrac></mrow></math></td></tr>
+<tr><td>P(Sum of 4 or same number) <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mn>8</mn><mrow><mn>36</mn></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mrow><mn>9</mn></mrow></mfrac></mrow></math></td></tr>
+<tr><td>P(Sum of 4) + P(Same number) &#x2260; P(Sum of 4 or same number), so the events are not mutually exclusive</td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question><p>A bag contains three red beads and five blue beads. A bead is chosen at random from the bag, the colour is recorded and the bead is replaced. A second bead is chosen and the colour recorded.</p>
+<p><b>a</b> Find the probability that both beads are blue.</p>
+<p><b>b</b> Find the probability that the second bead is blue.</p></Question>
+<Solution>
+<p><img src="images/S1F039.jpg"/></p>
+<p><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Blue Blue</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>=</mo><mfrac><mrow><mn>25</mn></mrow><mrow><mn>64</mn></mrow></mfrac></mrow></math></td><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Second Blue</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>+</mo><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="17ex"/><mrow><mo>=</mo><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow></math></td></tr>
+</tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question><p>A box contains 24 electrical components of which four are known to be defective. Two items are taken at random from the box. Find the probability of selecting</p>
+<p><b>a</b> two defective components if the first item is replaced before choosing the second item,</p>
+<p><b>b</b> two defective components if the first item is not replaced,</p>
+<p><b>c</b> one defective component and one fully functioning component if the first item is not replaced.</p></Question>
+<Solution>
+<p><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>a. <i>Replaced</i><br/><img src="images/S1F040.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mn>2</mn><mspace width="1ex"/><mtext>defective</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn>1</mn><mrow><mn>36</mn></mrow></mfrac></mrow></mtd></mtr></mtable></math></td></tr>
+<tr><td>b. Not replaced<br/><img src="images/S1F041.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mn>2</mn><mspace width="1ex"/><mtext>defective</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>3</mn><mrow><mn>23</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn>1</mn><mrow><mn>46</mn></mrow></mfrac></mrow></mtd></mtr></mtable></math></td></tr>
+<tr><td colspan="3">c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>one defective and one not defective</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>&#x00D7;</mo><mfrac><mrow><mn>20</mn></mrow><mrow><mn>23</mn></mrow></mfrac><mo>+</mo><mfrac><mn>5</mn><mn>6</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>4</mn><mrow><mn>23</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>20</mn></mrow><mrow><mn>69</mn></mrow></mfrac></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question><p>A bag contains one red, two blue and three green tokens. One token is chosen at random, the colour is recorded and the token replaced. A second token is then chosen and the colour recorded.</p>
+<p><b>a</b> Draw a tree diagram showing the possible outcomes.</p>
+<p>Find the probability of choosing</p>
+<p><b>b</b> two tokens of the same colour,</p>
+<p><b>c</b> two tokens that are different colours.</p></Question>
+<Solution>
+<p><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td rowspan="2">a.<br/><img src="images/S1F042.jpg"/></td><td>b. P(Same Colour)<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mn>7</mn><mrow><mn>18</mn></mrow></mfrac></mrow></math></td></tr>
+<tr><td>c. P(Different colours)<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mrow><mn>11</mn></mrow><mrow><mn>18</mn></mrow></mfrac><mspace width="2ex"/><mi>o</mi><mi>r</mi><mspace width="2ex"/><mn>1</mn><mo>&#x2212;</mo><mfrac><mn>7</mn><mrow><mn>18</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>11</mn></mrow><mrow><mn>18</mn></mrow></mfrac></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="8">
+<Question><p>Paul and Gill decide to play a board game. The probability that Paul wins the game is 0.25 and the probability that Gill wins is 0.3. They decide to play three games. Given that the results of successive games are independent, find the probability that</p>
+<p>
+<table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b> Paul wins three games in a row,</td><td><b>b</b> all games are drawn,</td></tr>
+<tr><td><b>c</b> Gill wins two games and Paul wins one game,</td><td><b>d</b> each player wins just one game each.</td></tr></tbody></table></p></Question>
+<Solution>
+<p><img src="images/S1F043.jpg"/></p>
+<p>a.<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Paul Wins</mtext><mspace width="1ex"/><mn>3</mn><mspace width="1ex"/><mtext>games</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.25</mn><mo>&#x00D7;</mo><mn>0.25</mn><mo>&#x00D7;</mo><mn>0.25</mn></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.015625</mn></mrow></mtd></mtr></mtable></math></p>
+<p>b. <br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>All games drown</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.45</mn><mo>&#x00D7;</mo><mn>0.45</mn><mo>&#x00D7;</mo><mn>0.45</mn></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.091125</mn></mrow></mtd></mtr></mtable></math></p>
+<p>c. <br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Gill wins</mtext><mspace width="1ex"/><mn>2</mn><mspace width="1ex"/><mtext>and Paul wins</mtext><mspace width="1ex"/><mn>1</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>3</mn><mo>&#x00D7;</mo><mn>0.3</mn><mo>&#x00D7;</mo><mn>0.3</mn><mo>&#x00D7;</mo><mn>0.25</mn></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.0675</mn></mrow></mtd></mtr>
+</mtable></math></p>
+<p>d. <br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Each player wins one game</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>6</mn><mo>&#x00D7;</mo><mn>0.25</mn><mo>&#x00D7;</mo><mn>0.3</mn><mo>&#x00D7;</mo><mn>0.45</mn></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.2025</mn></mrow></mtd></mtr></mtable></math></p>
+ </Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="G"><p><b>Mixed exercise 5G</b></p>
+<QuestionData number="1">
+<Question><p>The events <i>A</i> and <i>B</i> are such that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math>, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x222A;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math>.</p>
+<p><b>a</b> Show that <i>A</i> and <i>B</i> are independent.</p>
+<p><b>b</b> Represent these probabilities in a Venn diagram.</p>
+<p><b>c</b> Find &#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy="false">&#x007C;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></math>.</p>
+</Question><Solution>
+<p>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext> P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#x2212;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mrow><mo>=</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac></mrow><mrow></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="2ex"/><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy='false'>)</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac></mrow></math></p>
+<p>Hence <i>A</i> and <i>B</i> are independent as <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy='false'>)</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac><mo>.</mo></mrow></math></p>
+<p>b.<br/><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F044.jpg"/></td>
+<td>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo stretchy="false">&#x007C;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>A</mi><mo>&#x2229;</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>B</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo></mrow></mfrac></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="10.5ex"/><mrow><mo>=</mo><mfrac><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>A computer game has three levels and one of the objectives of every level is to collect a diamond. The probability of a randomly chosen player collecting a diamond on the first level is <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>4</mn><mn>5</mn></mfrac></mrow></math>, the second level is <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></math> and the third level is <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math>. The events are independent.</p>
+<p><b>a</b> Draw a tree diagram to represent collecting diamonds on the three levels of the game.</p>
+<p>Find the probability that a randomly chosen player</p>
+<p><b>b</b> collects all three diamonds,</p>
+<p><b>c</b> collects only one diamond.</p>
+</Question><Solution>
+<p>a.<br/><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F045.jpg"/></td><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo stretchy='false'>(</mo><msub><mi>D</mi><mn>1</mn></msub><msub><mi>D</mi><mn>2</mn></msub><msub><mi>D</mi><mn>3</mn></msub><mo stretchy='false'>)</mo><mrow><mo>=</mo><mfrac><mn>4</mn><mn>5</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mrow><mo>=</mo><mfrac><mn>4</mn><mrow><mn>15</mn></mrow></mfrac></mrow></math><br/>c. P(only 1 diamond)<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><msub><mi>D</mi><mn>1</mn></msub><msubsup><mi>D</mi><mn>2</mn><mo>&#x0027;</mo></msubsup><msubsup><mi>D</mi><mn>3</mn><mo>&#x0027;</mo></msubsup><mo stretchy='false'>)</mo><mo>+</mo><mtext>P</mtext><mo stretchy='false'>(</mo><msubsup><mi>D</mi><mn>1</mn><mo>&#x0027;</mo></msubsup><msub><mi>D</mi><mn>2</mn></msub><msubsup><mi>D</mi><mn>3</mn><mo>&#x0027;</mo></msubsup><mo stretchy='false'>)</mo><mo>+</mo><mtext>P</mtext><mo stretchy='false'>(</mo><msubsup><mi>D</mi><mn>1</mn><mo>&#x0027;</mo></msubsup><msubsup><mi>D</mi><mn>2</mn><mo>&#x0027;</mo></msubsup><msub><mi>D</mi><mn>3</mn></msub><mo stretchy='false'>)</mo></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>=</mo><mfrac><mn>4</mn><mn>5</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>7</mn><mrow><mn>30</mn></mrow></mfrac></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question><p>An online readers&#x2019; club has 50 members. Glasses are worn by 15 members, 18 are left handed and 21 are female. There are four females who are left handed, three females who wear glasses and five members who wear glasses and are left handed. Only one member wears glasses, is left handed and female.</p>
+<p><b>a</b> Draw a Venn diagram to represent these data.</p>
+<p>A member is selected at random. Find the probability that the member</p>
+<p><b>b</b> is female, does not wear glasses and is not left handed,</p>
+<p><b>c</b> is male, does not wear glasses and is not left handed,</p>
+<p><b>d</b> wears glasses given that she is left handed and female.</p>
+</Question><Solution>
+<p>a.<br/><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F046.jpg"/></td><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>F</mi><mo>&#x2229;</mo><msup><mi>G</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>L</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>15</mn></mrow><mrow><mn>50</mn></mrow></mfrac><mo>=</mo><mfrac><mn>3</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><msup><mi>F</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>G</mi><mo>&#x0027;</mo></msup><mo>&#x2229;</mo><msup><mi>L</mi><mo>&#x0027;</mo></msup><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>7</mn><mrow><mn>50</mn></mrow></mfrac></mrow></math><br/>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>G</mi><mo stretchy="false">&#x007C;</mo><mi>L</mi><mo>&#x2229;</mo><mi>F</mi><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>G</mi><mo>&#x2229;</mo><mi>L</mi><mo>&#x2229;</mo><mi>F</mi><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>L</mi><mo>&#x2229;</mo><mi>F</mi><mo stretchy='false'>)</mo></mrow></mfrac></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="14ex"/><mrow><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>For the events <i>J</i> and <i>K</i>,</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi mathvariant="normal">P</mi><mo stretchy='false'>(</mo><mi>J</mi><mo>&#x222A;</mo><mi>K</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.5</mn><mtext>,</mtext><mi mathvariant="normal">P</mi><mo stretchy='false'>(</mo><mi>J</mi><mo>&#x2032;</mo><mo>&#x2229;</mo><mi>K</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.2</mn><mtext>,</mtext><mi mathvariant="normal">P</mi><mo stretchy='false'>(</mo><mi>J</mi><mo>&#x2229;</mo><mi>K</mi><mo>&#x2032;</mo><mo stretchy='false'>)</mo><mo>=</mo><mn>0.25</mn><mtext>.</mtext></mrow></math></p>
+<p><b>a</b> Draw a Venn diagram to represent the events <i>J</i> and <i>K</i> and the sample space <i>S</i>.</p>
+<p>Find</p>
+<p><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>J</mi><mo stretchy='false'>)</mo></mrow></math>,</p>
+<p><b>c</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>K</mi><mo stretchy='false'>)</mo></mrow></math>,</p>
+<p><b>d</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>J</mi><mo stretchy="false">&#x007C;</mo><mi>K</mi><mo stretchy='false'>)</mo></mrow></math>.</p>
+<p><b>e</b> Determine whether or not <i>J</i> and <i>K</i> are independent.</p>
+</Question><Solution>
+<p>a.<br/><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F047.jpg"/></td><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>J</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.3</mn></mrow></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>K</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.25</mn></mrow></math><br/>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>J</mi><mo stretchy="false">&#x007C;</mo><mi>K</mi><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>J</mi><mo>&#x2229;</mo><mi>K</mi><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>K</mi><mo stretchy='false'>)</mo></mrow></mfrac></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="9.6ex"/><mrow><mo>=</mo><mfrac><mrow><mn>0.05</mn></mrow><mrow><mn>0.25</mn></mrow></mfrac><mo>=</mo><mn>0.2</mn></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question><p>There are 15 coloured beads in a bag; seven beads are red, three are blue and five are green. Three beads are selected at random from the bag and not replaced. Find the probability that</p>
+<p><b>a</b> the first and second beads chosen are red and the third bead is blue or green,</p>
+<p><b>b</b> one red, one blue and one green bead are chosen.</p>
+</Question><Solution>
+<p>a. P(2 red and third blue) + P(2 red and third green)<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="2ex"/><mtr><mtd><mrow><mo>=</mo><mfrac><mn>7</mn><mrow><mn>15</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>6</mn><mrow><mn>14</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>3</mn><mrow><mn>13</mn></mrow></mfrac><mo>+</mo><mfrac><mn>7</mn><mrow><mn>15</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>6</mn><mrow><mn>14</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>5</mn><mrow><mn>13</mn></mrow></mfrac><mo>=</mo><mfrac><mn>8</mn><mrow><mn>65</mn></mrow></mfrac></mrow></mtd></mtr></math></p>
+
+<p>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>one red, one blue and one green bead</mtext><mo stretchy='false'>)</mo><mo>=</mo><mn>6</mn><mo>&#x00D7;</mo><mfrac><mn>7</mn><mrow><mn>15</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>3</mn><mrow><mn>14</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>5</mn><mrow><mn>13</mn></mrow></mfrac><mo>=</mo><mfrac><mn>3</mn><mrow><mn>13</mn></mrow></mfrac></mrow></mtd></mtr></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>A survey of a group of students revealed that 85% have a mobile phone, 60% have an MP3 player and 5% have neither phone nor MP3 player.</p>
+<p><b>a</b> Find the proportion of students who have both gadgets.</p>
+<p><b>b</b> Draw a Venn diagram to represent this information.</p>
+<p>Given that a randomly selected student has a phone or an MP3 player,</p>
+<p><b>c</b> find the probability that the student has a mobile phone.</p>
+</Question><Solution>
+<p>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Phone and MP</mtext><mn>3</mn><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mn>0.85</mn><mo>+</mo><mn>0.6</mn><mo>&#x2212;</mo><mn>0.95</mn></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="19ex"/><mrow><mo>=</mo><mn>0.5</mn></mrow></math></p>
+<p>b.<br/><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F048.jpg"/></td><td>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>P</mi><mo stretchy="false">&#x007C;</mo><mi>P</mi><mo>&#x222A;</mo><mi>M</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>0.85</mn></mrow><mrow><mn>0.95</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>17</mn></mrow><mrow><mn>19</mn></mrow></mfrac></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>In a factory, machines <i>A</i>, <i>B</i> and <i>C</i> produce electronic components. Machine <i>A</i> produces 16% of the components, machine <i>B</i> produces 50% of the components and machine <i>C</i> produces the rest. Some of the components are defective. Machine <i>A</i> produces 4%, machine <i>B</i> 3% and machine <i>C</i> 7% defective components.</p>
+<p><b>a</b> Draw a tree diagram to represent this information.</p>
+<p>Find the probability that a randomly selected component is</p>
+<p><b>b</b> produced by machine <i>B</i> and is defective,</p>
+<p><b>c</b> defective.</p>
+<p>Given that a randomly selected component is defective,</p>
+<p><b>d</b> find the probability that it was produced by machine <i>B</i>.</p>
+</Question><Solution>
+<p>a.<br/><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F006b.jpg"/></td><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mspace width=".5ex"/><mtext>and Defective</mtext><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mn>0.5</mn><mo>&#x00D7;</mo><mn>0.03</mn></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="20ex"/><mrow><mo>=</mo><mn>0.015</mn></mrow></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Defective</mtext><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mn>0.16</mn><mo>&#x00D7;</mo><mn>0.04</mn></mrow><mrow><mo>+</mo><mn>0.5</mn><mo>&#x00D7;</mo><mn>0.03</mn><mo>+</mo><mn>0.34</mn><mo>&#x00D7;</mo><mn>0.07</mn></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="20ex"/><mrow><mo>=</mo><mn>0.0452</mn></mrow></math><br/>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>B</mi><mo stretchy="false">&#x007C;</mo><mtext>Defective</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>0.015</mn></mrow><mrow><mn>0.0452</mn></mrow></mfrac><mo>=</mo><mn>0.332</mn></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="8">
+<Question><p>A garage sells three types of fuel; U95, U98 and diesel. In a survey of 200 motorists buying fuel at the garage, 80 are female and the rest are male. Of the 90 motorists buying &#x2018;U95&#x2019; fuel, 50 were female and of the 70 motorists buying diesel, 60 were male. A motorist does not buy more than one type of fuel.</p>
+<p>Find the probability that a randomly chosen motorist</p>
+<p><b>a</b> buys U98 fuel,</p>
+<p><b>b</b> is male, given that the motorist buys U98 fuel.</p>
+<p>Garage records indicate that 10% of the motorists buying U95 fuel, 30% of the motorists buying U98 fuel and 40% of the motorists buying diesel have their car serviced by the garage.</p>
+<p>A motorist is chosen at random.</p>
+<p><b>c</b> Find the probability that this motorist has his or her car serviced by the garage.</p>
+<p><b>d</b> Given the motorist has his or her car serviced by the garage, find the probability that the motorist buys diesel fuel.</p>
+</Question><Solution>
+<p>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>U</mtext><mn>98</mn><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>200</mn><mo>&#x2212;</mo><mn>90</mn><mo>&#x2212;</mo><mn>70</mn></mrow><mrow><mn>200</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></p>
+<p>b.
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Male</mtext><mo stretchy="false">&#x007C;</mo><mtext>U</mtext><mn>98</mn><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Male and buys U</mtext><mn>98</mn><mo stretchy='false'>)</mo></mrow><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>U</mtext><mn>98</mn><mo stretchy='false'>)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>20</mn></mrow><mrow><mn>40</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></p>
+<p>c.
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Serviced</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>9</mn><mrow><mn>20</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>3</mn><mrow><mn>10</mn></mrow></mfrac><mo>+</mo><mfrac><mn>7</mn><mrow><mn>20</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>4</mn><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>49</mn></mrow><mrow><mn>200</mn></mrow></mfrac></mrow></math></p>
+<p>d.
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Diesel</mtext><mo stretchy="false">&#x007C;</mo><mtext>Serviced</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mfrac><mn>7</mn><mrow><mn>20</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mn>4</mn><mrow><mn>10</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>49</mn></mrow><mrow><mn>200</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mfrac><mn>4</mn><mn>7.</mn></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="9">
+<Question>
+<p>A study was made of a group of 150 children to determine which of three cartoons they watch on television. The following results were obtained:
+<ul style="none">
+<li>35 watch Toontime</li>
+<li>54 watch Porky</li>
+<li>62 watch Skellingtons</li>
+<li>9 watch Toontime and Porky</li>
+<li>14 watch Porky and Skellingtons</li>
+<li>12 watch Toontime and Skellingtons</li>
+<li>4 watch Toontime, Porky and Skellingtons</li>
+</ul></p>
+<p><b>a</b> Draw a Venn diagram to represent these data.</p>
+<p>Find the probability that a randomly selected child from the study watches</p>
+<p><b>b</b> none of the three cartoons,</p>
+<p><b>c</b> no more than one of the cartoons.</p>
+<p>A child selected at random from the study only watches one of the cartoons.</p>
+<p><b>d</b> Find the probability that it was Skellingtons.</p>
+<p>Two different children are selected at random from the study.</p>
+<p><b>e</b> Find the probability that they both watch Skellingtons.</p>
+</Question><Solution>
+<p>a.<br/><table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F007.jpg"/></td><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>None</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>30</mn></mrow><mrow><mn>150</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>No more than one</mtext><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mrow><mfrac><mrow><mn>30</mn><mo>+</mo><mn>40</mn><mo>+</mo><mn>18</mn><mo>+</mo><mn>35</mn></mrow><mrow><mn>150</mn></mrow></mfrac></mrow></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="21.5ex"/><mrow><mo>=</mo><mrow><mfrac><mrow><mn>41</mn></mrow><mrow><mn>50</mn></mrow></mfrac></mrow></mrow></math><br/>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>S</mtext><mo stretchy="false">&#x007C;</mo><mtext>only one</mtext><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mfrac><mrow><mn>40</mn></mrow><mrow><mn>93</mn></mrow></mfrac></mrow></math></td></tr></tbody></table></p>
+<p>e.
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Both watch K</mtext><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mrow><mn>62</mn></mrow><mrow><mn>150</mn></mrow></mfrac><mo>&#x00D7;</mo><mfrac><mrow><mn>61</mn></mrow><mrow><mn>149</mn></mrow></mfrac><mo>=</mo><mn>0.169</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="10">
+<Question>
+<p>The members of a wine tasting club are married couples. For any married couple in the club, the probability that the husband is retired is 0.7 and the probability that the wife is retired 0.4. Given that the wife is retired, the probability that the husband is retired is 0.8.</p>
+<p>For a randomly chosen married couple who are members of the club, find the probability that</p>
+<p><b>a</b> both of them are retired,</p>
+<p><b>b</b> only one of them is retired,</p>
+<p><b>c</b> neither of them is retired.</p>
+<p>Two married couples are chosen at random.</p>
+<p><b>d</b> Find the probability that only one of the two husbands and only one of the two wives is retired.</p>
+</Question><Solution>
+<p>a. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Both retired</mtext><mo stretchy='false'>)</mo><mo>=</mo><mn>0.8</mn><mo>&#x00D7;</mo><mn>0.4</mn><mo>=</mo><mn>0.32</mn></mrow></math></p>
+<p>
+<table width="100%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F008.jpg"/></td><td>b. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Only one</mtext><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mn>0.38</mn><mo>+</mo><mn>0.08</mn></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="13.5ex"/><mrow><mo>=</mo><mn>0.46</mn></mrow></math><br/>c. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>Neither</mtext><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mn>0.22</mn></mrow></math></td></tr></tbody></table></p>
+<p>d. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>only one husband and only one wife</mtext><mo stretchy='false'>)</mo></mrow><mrow><mo>=</mo><mo stretchy='false'>(</mo><mn>0.38</mn><mo>&#x00D7;</mo><mn>0.08</mn><mo>+</mo><mn>0.32</mn><mo>&#x00D7;</mo><mn>0.22</mn><mo stretchy='false'>)</mo><mo>&#x00D7;</mo><mn>2</mn></mrow><mrow><mo>=</mo><mn>0.2016</mn></mrow></math></p></Solution>
+</QuestionData>
+</Exercise>
+</Chapter>
+</Section>
+</Unit>
+</SubjectArea>
+</ProductTitle>
+</ExamBoard>
+</Level>
+</Subject>
+</Harcourt>

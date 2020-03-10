@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+<Subject type="Mathematics">
+	<Level age="">
+	<ExamBoard title="AandAS">
+	<ProductTitle name="Solutionbank">
+	<SubjectArea name="Statistics" abbrev="S">
+	<Unit number="1">
+	<Section>
+	<Chapter number="8" title="Discrete random variables"><p><b>Chapter 8</b></p>
+	<Exercise letter="A"><p><b>Answers 8A</b></p>
+<QuestionData number="1">
+<Question>
+<p>Write down whether or not each of the following is a discrete random variable.</p>
+<p>Give a reason for your answer.</p>
+<p><b>a</b> The average lifetime of a battery.</p>
+<p><b>b</b> The number of days in a week.</p>
+<p><b>c</b> The number of moves it takes to complete a game of chess.</p>
+</Question><Solution>
+<p>i) This <b>is not</b> a discrete random variable. Time is a continuous variable.</p>
+<p>ii) This <b>is not</b> a discrete random variable. It is always 7, so does not vary</p>
+<p>iii) This <b>is</b> a discrete random variable. It is always a whole number but it does vary.</p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>A fair die is thrown four times and the number of times it falls with a 6 on the top, <i>Y</i>, is noted. Write down all the possible values of <i>y</i>.</p>
+</Question>
+<Solution>
+<p><b><i>y</i>: 0 1 2 3 4</b></p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>A bag contains two discs with the number 2 on them and two discs with the number 3 on them. A disc is drawn at random from the bag and the number noted. The disc is returned to the bag. A second disc is then drawn from the bag and the number noted.</p>
+<p><b>a</b> Write down the sample space.</p>
+<p>The discrete random variable <i>X</i> is the sum of the two numbers.</p>
+<p><b>b</b> Write down the probability distribution for <i>X</i>.</p>
+<p><b>c</b> Write down the probability function for <i>X</i>.</p>
+</Question>
+<Solution>
+<p>a S = (2,2), (2,3), (3,2), (3,3)</p>
+<p>b
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td align="center">4</td><td align="center">5</td><td align="center">6</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+<p>c<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>{</mo><mrow><mtable><mtr><mtd><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mtd><mtd><mrow><mspace width="1ex"/><mi>x</mi><mo>=</mo><mn>4,6,</mn></mrow></mtd></mtr><mtr><mtd><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mtd><mtd><mrow><mi>x</mi><mo>=</mo><mn>5.</mn></mrow></mtd></mtr></mtable></mrow></mrow></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>A discrete random variable <i>X</i> has the following probability distribution:
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math></td><td><i>k</i></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td></tr>
+</tbody>
+</table></p>
+<p>Find the value of <i>k</i>.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mi>k</mi><mo>=</mo><mn>1</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>k</mi><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="2ex"/><mrow><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mfrac><mrow><mn>11</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">12</mn></mfrac></mrow></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The random variable <i>X</i> has a probability function
+<table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>P(<i>X</i> = <i>x</i>) = <i>kx</i></td><td><i>x</i> = 1, 2, 3, 4.</td>
+</tr></tbody></table></p>
+<p>Show that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>k</mi><mo>=</mo><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math>.</p>
+</Question>
+<Solution>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td align="center"><i>k</i></td><td align="center">2<i>k</i></td><td align="center">3<i>k</i></td><td align="center">4<i>k</i></td></tr></tbody>
+</table></p>
+<p><i>k</i> + 2 <i>k</i> + 3<i>k</i> + 4<i>k</i> = 1</p>
+<p>10 <i>k</i> = 1</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi fontweight="bold">k</mi><mo fontweight="bold">=</mo><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">10</mn></mfrac></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The random variable <i>X</i> has the probability function
+<table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#x2212;</mo><mn>1</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><i>x</i> = 1, 2, 3, 4, 5.</td></tr></tbody></table></p>
+<p>Construct a table giving the probability distribution of <i>X</i>.</p>
+</Question><Solution>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center"><b>1</b></td><td align="center"><b>2</b></td><td align="center"><b>3</b></td><td align="center"><b>4</b></td><td align="center"><b>5</b></td></tr> 
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td align="center"><b>0</b></td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">10</mn></mfrac></mrow></math></td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">5</mn></mfrac></mrow></math></td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">3</mn><mn fontweight="bold">10</mn></mfrac></mrow></math></td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">2</mn><mn fontweight="bold">5</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+</Solution></QuestionData>
+<QuestionData number="7">
+<Question>
+<p>The random variable <i>X</i> has a probability function<br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>{</mo> <mrow><mtable><mtr><mtd columnalign="left"><mrow><mi>k</mi><mi>x</mi></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>1,3</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mi>k</mi><mo stretchy="false">(</mo><mi>x</mi><mo>&#x2212;</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>2,4</mn></mrow></mtd></mtr></mtable></mrow></mrow></mrow></math><br/>
+where <i>k</i> is a constant.</p>
+<p><b>a</b> Find the value of <i>k</i>.</p>
+<p><b>b</b> Construct a table giving the probability distribution of <i>X</i>.</p>
+</Question><Solution>
+<p><b>a</b>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td align="center"><i>k</i></td><td align="center"><i>k</i></td><td align="center">3<i>k</i></td><td align="center">3<i>k</i></td></tr></tbody></table></p>
+<p>Using the fact that the probabilities add up to 1:</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>k</mi><mo>+</mo><mi>k</mi><mo>+</mo><mn>3</mn><mi>k</mi><mo>+</mo><mn>3</mn><mi>k</mi></mrow><mo>=</mo><mn>1</mn></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="10.5ex"/><mrow><mn>8</mn><mi>k</mi><mo>=</mo><mn>1</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="11.3ex"/><mrow><mi fontweight="bold">k</mi><mo fontweight="bold">=</mo><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">8</mn></mfrac></mrow></mrow></math></p>
+<p><b>b</b>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center"><b>1</b></td><td align="center"><b>2</b></td><td  align="center"><b>3</b></td><td align="center"><b>4</b></td></tr> 
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">8</mn></mfrac></mrow></math></td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">8</mn></mfrac></mrow></math></td><td align="center"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">3</mn><mn fontweight="bold">8</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">3</mn><mn fontweight="bold">8</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+</Solution></QuestionData>
+<QuestionData number="8">
+<Question>
+<p>The discrete random variable <i>X</i> has a probability function<br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>{</mo> <mrow><mtable><mtr><mtd columnalign="left"><mrow><mn>0.1</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mo>&#x2212;</mo><mn>2,</mn><mo>&#x2212;</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mi>&#x03B2;</mi></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>0,1</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mn>0.2</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></mtd></mtr></mtable></mrow></mrow></mrow></math></p>
+<p><b>a</b> Find the value of <i>&#x03B2;</i>.</p>
+<p><b>b</b> Construct a table giving the probability distribution of <i>X</i>.</p>
+</Question><Solution>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center">&#x2212; <b>2</b></td><td align="center">&#x2212;<b>1</b></td><td align="center"><b>0</b></td><td align="center"><b>1</b></td><td align="center"><b>2</b></td></tr> 
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td align="center"><b>0.1</b></td><td align="center"><b>0.1</b></td><td align="center"><i>&#x03B2;</i></td><td align="center"><i>&#x03B2;</i></td><td align="center"><b>0.2</b></td></tr></tbody></table></p>
+<p>The probabilities add up to 1.</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mrow><mn>0.1</mn><mo>+</mo><mn>0.1</mn><mo>+</mo><mi>&#x03B2;</mi><mo>+</mo><mi>&#x03B2;</mi><mo>+</mo><mn>0.2</mn><mo>=</mo><mn>1</mn></mrow></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="14.5ex"/><mrow><mn>2</mn><mspace width="1ex"/><mi>&#x03B2;</mi><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.4</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="16.5ex"/><mrow><mi>&#x03B2;</mi><mo fontweight="bold">=</mo><mrow><mn fontweight="bold">0.3</mn></mrow></mrow></math></p>
+<p><b>b</b>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center"><b>&#x2212;2</b></td><td align="center"><b>&#x2212;1</b></td><td align="center"><b>0</b></td><td align="center"><b>1</b></td><td align="center"><b>2</b></td></tr> 
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td align="center"><b>0.1</b></td><td align="center"><b>0.1</b></td><td align="center"><b>0.3</b></td><td align="center"><b>0.3</b></td><td align="center"><b>0.2</b></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="9">
+<Question>
+<p>A discrete random variable has the probability distribution shown in the table below.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>0</td><td>1</td><td>2</td></tr>
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#x2212;</mo><mi>a</mi></mrow></math></td><td><i>a</i></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mi>a</mi></mrow></math></td></tr>
+</tbody>
+</table></p>
+<p>Find the value of <i>a</i>.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#x2212;</mo><mi>a</mi><mo>+</mo><mi>a</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mi>a</mi><mo>=</mo><mn>1</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>a</mi><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="B"><p><b>Answers 8B</b></p>
+<QuestionData number="1">
+<Question>
+<p>A discrete random variable <i>X</i> has probability distribution</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td>0.1</td><td>0.1</td><td>0.3</td><td>0.3</td><td>0.1</td><td>0.1</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Find the probability that <i>X</i> &#x003C; 3.</p>
+<p><b>b</b> Find the probability that <i>X</i> &#x003E; 3.</p>
+<p><b>c</b> Find the probability that 1 &#x003C; <i>X</i> &#x003C; 4.</p>
+</Question>
+<Solution>
+<p><b>a</b> P(<i>X</i> &#x003C; 3) = P(0) + P(1) + P(2) = 0.1 + 0.1 + 0.3 = <b>0.5</b></p>
+<p><b>b</b> P(<i>X</i> &#x003E; 3) = P(4) + P(5) = 0.1 + 0.1 = <b>0.2</b></p>
+<p><b>c</b> P(1 &#x003C; <i>X</i> &#x003C; 4) = P(2) + P(3) = 0.3 + 0.3 = <b>0.6</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>A discrete random variable <i>X</i> has probability distribution</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>0</td><td>1</td><td>2</td><td>3</td></tr>
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math></td></tr>
+</tbody>
+</table></p>
+<p>Find
+<table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b> P(1 &#x003C; <i>X</i> &#x2264; 3),</td><td><b>b</b> P(<i>X</i> &#x003C; 2).</td></tr>
+</tbody></table></p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mn>1</mn><mo>&#x003C;</mo><mi>X</mi><mo>&#x2264;</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003C;</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>8</mn></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>A discrete random variable <i>X</i> has a probability distribution</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr>
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td>0.1</td><td>0.1</td><td>0.15</td><td>0.25</td><td>0.3</td><td>0.1</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Draw up a table to show the cumulative distribution function F(<i>x</i>).
+<table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>b</b> Write down F(5).</td><td><b>c</b> Write down F(2.2).</td></tr>
+</tbody></table></p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td><b>1</b></td><td><b>2</b></td><td><b>3</b></td><td><b>4</b></td><td><b>5</b></td><td><b>6</b></td></tr>
+<tr><td><b>F</b>(<b><i>x</i></b><sub><b>0</b></sub>)</td><td><b>0.1</b></td><td><b>0.2</b></td><td><b>0.35</b></td><td><b>0.60</b></td><td><b>0.9</b></td><td><b>1</b></td></tr>
+</tbody></table></p>
+<p><b>b</b> F(5) = <b>0.9</b></p>
+<p><b>c</b> F(2.2) = <b>0.2</b></p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>A discrete random variable has a cumulative distribution function F(<i>x</i>) given in the table.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody><tr><td><b><i>x</i></b></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr>
+<tr><td><b>F(<i>x</i>)</b></td><td>0</td><td>0.1</td><td>0.2</td><td>0.45</td><td>0.5</td><td>0.9</td><td>1</td></tr></tbody>
+</table></p>
+<p><b>a</b> Draw up a table to show the probability distribution <i>X</i>.
+<table width="50%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>b</b> Write down P(<i>X</i> &#x003C; 5).</td><td><b>c</b> Find P(2 &#x2264; <i>X</i> &#x003C; 5).</td></tr></tbody>
+</table></p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td><b>1</b></td><td><b>2</b></td><td><b>3</b></td><td><b>4</b></td><td><b>5</b></td><td><b>6</b></td></tr> 
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td><b>0.1</b></td><td><b>0.1</b></td><td><b>0.25</b></td><td><b>0.05</b></td><td><b>0.4</b></td><td><b>0.1</b></td></tr>
+</tbody></table></p>
+<p><b>b</b> P(<i>X</i> &#x003C; 5) = 0.5</p>
+<p><b>c</b> P(2 &#x2264; <i>X</i> &#x003C; 5) = 0.1 + 0.25 + 0.05 = 0.4</p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p><b>5</b> The random variable <i>X</i> has a probability function<br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>{</mo> <mrow><mtable><mtr><mtd columnalign="left"><mrow><mi>k</mi><mi>x</mi></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>1,3,5</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mi>k</mi><mo stretchy="false">(</mo><mi>x</mi><mo>&#x2212;</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>2,4,6</mn></mrow></mtd></mtr></mtable></mrow></mrow></mrow></math><br/>
+where <i>k</i> is a constant.</p>
+<p><b>a</b> Find the value of <i>k</i>.</p>
+<p><b>b</b> Draw a table giving the probability distribution of <i>X</i>.</p>
+<p><b>c</b> Find P(2 &#x2264; <i>X</i> &#x003C; 5).</p>
+<p><b>d</b> Find F(4).</p>
+<p><b>e</b> Find F(1.6).</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="center" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x00A0;</td><td><b>1</b></td><td><b>2</b></td><td><b>3</b></td><td><b>4</b></td><td><b>5</b></td><td><b>6</b></td></tr> 
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td><b><i>k</i></b></td><td><b><i>k</i></b></td><td><b>3<i>k</i></b></td><td><b>3<i>k</i></b></td><td><b>5<i>k</i></b></td><td><b>5<i>k</i></b></td></tr>
+</tbody></table></p>
+<p><i>k</i> + <i>k</i> + 3 <i>k</i> + 3 <i>k</i> + 5 <i>k</i> + 5<i>k</i> = 1</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="10ex"/><mrow><mtext fontweight="bold">k</mtext><mo fontweight="bold">=</mo><mfrac><mn fontweight="bold">1</mn><mrow><mn fontweight="bold">18</mn></mrow></mfrac></mrow></math></p>
+<p><b>b</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td><b>1</b></td><td><b>2</b></td><td><b>3</b></td><td><b>4</b></td><td><b>5</b></td><td><b>6</b></td></tr> 
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mrow><mn fontweight="bold">18</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mrow><mn fontweight="bold">18</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">5</mn><mrow><mn fontweight="bold">18</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">5</mn><mrow><mn fontweight="bold">18</mn></mrow></mfrac></mrow></math></td></tr>
+</tbody></table></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mn>2</mn><mo>&#x2264;</mo><mi>X</mi><mo>&#x003C;</mo><mn>5</mn><mo stretchy="false">)</mo><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mrow><mn>18</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>=</mo><mfrac><mn fontweight="bold">7</mn><mrow><mn fontweight="bold">18</mn></mrow></mfrac></mrow></math></p>
+<p><b>d</b> Remember F means the cumulative function</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>F</mtext><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mo stretchy="false">(</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>6</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>5</mn><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mrow><mo>(</mo><mrow><mfrac><mn>5</mn><mrow><mn>18</mn></mrow></mfrac><mo>+</mo><mfrac><mn>5</mn><mrow><mn>18</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mn>8</mn><mrow><mn>18</mn></mrow></mfrac><mtext>&#x2009;</mtext><mtext>or</mtext><mtext>&#x2009;</mtext><mfrac><mn fontweight="bold">4</mn><mn fontweight="bold">9</mn></mfrac></mrow></math></p>
+<p>(This could also be done by adding P(1) P(2) P(3) and P(4).)</p>
+<p><b>e</b> 1.6 lies below 2 but above 1. Because this is a <b>discrete</b> random variable F(1.6) is the same as F(1) which is <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mrow><mn fontweight="bold">18</mn></mrow></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The discrete random variable <i>X</i> has the probability function<br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>{</mo> <mrow><mtable><mtr><mtd columnalign="left"><mrow><mn>0.1</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mo>&#x2212;</mo><mn>2,</mn><mo>&#x2212;</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mi>&#x03B1;</mi></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>0,1</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mn>0.3</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></mtd></mtr></mtable></mrow></mrow></mrow></math></p>
+<p><b>a</b> Find the value of &#x03B1;</p>
+<p><b>b</b> Draw a table giving the probability distribution of <i>X</i>.</p>
+<p><b>c</b> Write down the value of F(0.3).</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td><b>&#x2212;2</b></td><td><b>&#x2212;1</b></td><td><b>0</b></td><td><b>1</b></td><td><b>2</b></td></tr> 
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td><b>0.1</b></td><td><b>0.1</b></td><td><b><i>&#x03B1;</i></b></td><td><b><i>&#x03B1;</i></b></td><td><b>0.3</b></td></tr>
+</tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mn>0.1</mn><mo>+</mo><mn>0.1</mn><mo>+</mo><mi>&#x03B1;</mi><mo>+</mo><mi>&#x03B1;</mi><mo>+</mo><mn>0.3</mn></mrow></mtd><mtd columnalign="left"><mrow></mrow><mo>=</mo><mn>1</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>2</mn><mi>&#x03B1;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.5</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>&#x03B1;</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.25</mn></mrow></mtd></mtr></mtable></mrow></math></p>
+<p><b>b</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="right" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td><b>&#x2212;2</b></td><td><b>&#x2212;1</b></td><td><b>0</b></td><td><b>1</b></td><td><b>2</b></td></tr> 
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td><b>0.1</b></td><td><b>0.1</b></td><td><b>0.25</b></td><td><b>0.25</b></td><td><b>0.3</b></td></tr>
+</tbody></table></p>
+<p><b>c</b> F(0.3) = F (0) = 0.1 + 0.1 + 0.25 = 0.45</p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>The discrete random variable <i>X</i> has a cumulative distribution function F(<i>x</i>) defined by<br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>F</mtext><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>{</mo> <mrow><mtable><mtr><mtd columnalign="left"><mn>0</mn></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><mi>x</mi></mrow><mn>6</mn></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>1,2,3,4,5</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mn>1</mn></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>&#x003E;</mo><mn>5</mn></mrow></mtd></mtr></mtable></mrow></mrow></mrow></math></p>
+<p><b>a</b> Find P(<i>X</i> &#x2264; 4).</p>
+<p><b>b</b> Show that P(<i>X</i> = 4) is <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math>.</p>
+<p><b>c</b> Find the probability distribution for <i>X</i>.</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="right" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td><b>1</b></td><td><b>2</b></td><td><b>3</b></td><td><b>4</b></td><td><b>5</b></td></tr> 
+<tr><td><b>F(<i>x</i>)</b></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">2</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">3</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">4</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">5</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></td><td><b>1</b></td></tr>
+</tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x2264;</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext fontweight="bold">P</mtext><mo stretchy="false" fontweight="bold">(</mo><mi fontweight="bold">X</mi><mo fontweight="bold">=</mo><mn fontweight="bold">4</mn><mo stretchy="false" fontweight="bold">)</mo><mo fontweight="bold">=</mo><mfrac><mn>5</mn><mn>6</mn></mfrac><mo>&#x2212;</mo><mfrac><mn>4</mn><mn>6</mn></mfrac><mo>=</mo><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></p>
+<p><b>c</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td><b>1</b></td><td><b>2</b></td><td><b>3</b></td><td><b>4</b></td><td><b>5</b></td></tr> 
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">2</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></td></tr>
+</tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="8">
+<Question>
+<p>The discrete random variable <i>X</i> has a cumulative distribution function F(<i>x</i>) defined by
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>F</mtext><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>{</mo> <mrow><mtable><mtr><mtd columnalign="left"><mn>0</mn></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mfrac><mrow><msup><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>k</mi><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>1,2</mn><mtext>&#x2009;</mtext><mtext>and</mtext><mtext>&#x2009;</mtext><mn>3</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mn>1</mn></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>&#x003E;</mo><mn>3</mn></mrow></mtd></mtr></mtable></mrow></mrow></mrow></math></p>
+<p><b>a</b> Find the value of <i>k</i>.</p>
+<p><b>b</b> Find the probability distribution for <i>X</i>.</p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mrow><msup><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>k</mi><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn></mrow></math>when <i>x</i> = 3</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><msup><mrow><mo stretchy="false">(</mo><mn>3</mn><mo>+</mo><mi>k</mi><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn></mrow></math></p>
+<p>(3 + <i>k</i>)<sup>2</sup> = 16</p>
+<p>3 + <i>k</i> = &#x00B1; 4</p>
+<p><b><i>k</i></b> = <b>1</b> (negative probabilities do not exist)</p>
+<p><b>b</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>1</td><td>2</td><td>3</td></tr> 
+<tr><td>F(<i>x</i>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">4</mn><mrow><mn fontweight="bold">16</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">9</mn><mrow><mn fontweight="bold">16</mn></mrow></mfrac></mrow></math></td><td>1</td></tr>
+</tbody></table></p>
+<p><b>So Probability distribution is</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>1</td><td>2</td><td>3</td></tr> 
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">4</mn><mrow><mn fontweight="bold">16</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">5</mn><mrow><mn fontweight="bold">16</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">7</mn><mrow><mn fontweight="bold">16</mn></mrow></mfrac></mrow></math></td></tr>
+</tbody></table></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="C"><p><b>Answers: 8C</b></p>
+<QuestionData number="1">
+<Question>
+<p>Find E(<i>X</i>) and E(<i>X</i><sup>2</sup>) for the following distributions of <i>x</i>.</p>
+<p><b>a</b>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b><i>x</i></b></td><td align="left">2</td><td align="left">4</td><td align="left">6</td><td align="left">8</td></tr>
+<tr><td align="left"><b>P(<i>X</i> = <i>x</i>)</b></td><td align="left">0.3</td><td align="left">0.3</td><td align="left">0.2</td><td align="left">0.2</td></tr></tbody>
+</table></p>
+<p><b>b</b>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b><i>x</i></b></td><td align="left">1</td><td align="left">2</td><td align="left">3</td><td align="left">4</td></tr>
+<tr><td align="left"><b>P(<i>X</i> = <i>x</i>)</b></td><td align="left">0.1</td><td align="left">0.4</td><td align="left">0.1</td><td align="left">0.4</td></tr></tbody>
+</table></p>
+</Question><Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo></mrow><mo>=</mo><mrow><mo stretchy="false">(</mo><mn>2</mn><mo>&#x00D7;</mo><mn>0.3</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>4</mn><mo>&#x00D7;</mo><mn>0.3</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>6</mn><mo>&#x00D7;</mo><mn>0.2</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>8</mn><mo>&#x00D7;</mo><mn>0.2</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="7ex"/><mrow><mo>=</mo><mn>0.6</mn><mo>+</mo><mn>1.2</mn><mo>+</mo><mn>1.2</mn><mo>+</mo><mn>1.6</mn><mo>=</mo><mn fontweight="bold">4.6</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo></mrow><mo>=</mo><mrow><mo stretchy="false">(</mo><mn>4</mn><mo>&#x00D7;</mo><mn>0.3</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>16</mn><mo>&#x00D7;</mo><mn>0.3</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>36</mn><mo>&#x00D7;</mo><mn>0.2</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>64</mn><mo>&#x00D7;</mo><mn>0.2</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="7ex"/><mrow><mo>=</mo><mn>1.2</mn><mo>+</mo><mn>4.8</mn><mo>+</mo><mn>7.2</mn><mo>+</mo><mn>12.8</mn><mo>=</mo><mn fontweight="bold">26</mn></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo></mrow><mo>=</mo><mrow><mo stretchy="false">(</mo><mn>1</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>2</mn><mo>&#x00D7;</mo><mn>0.4</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>3</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>4</mn><mo>&#x00D7;</mo><mn>0.4</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="7ex"/><mrow><mo>=</mo><mn>0.1</mn><mo>+</mo><mn>0.8</mn><mo>+</mo><mn>0.3</mn><mo>+</mo><mn>1.6</mn><mo>=</mo><mn fontweight="bold">2.8</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo></mrow><mo>=</mo><mrow><mo stretchy="false">(</mo><mn>1</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>4</mn><mo>&#x00D7;</mo><mn>0.4</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>9</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>16</mn><mo>&#x00D7;</mo><mn>0.4</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="7ex"/><mrow><mo>=</mo><mn>0.1</mn><mo>+</mo><mn>1.6</mn><mo>+</mo><mn>0.9</mn><mo>+</mo><mn>6.4</mn><mo>=</mo><mn fontweight="bold">9</mn></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>A biased die has the probability distribution</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/><col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b><i>x</i></b></td><td align="left">1</td><td align="left">2</td><td align="left">3</td><td align="left">4</td><td align="left">5</td><td align="left">6</td></tr>
+<tr><td align="left"><b>P(<i>X</i> = <i>x</i>)</b></td><td align="left">0.1</td><td align="left">0.1</td><td align="left">0.1</td><td align="left">0.2</td><td align="left">0.4</td><td align="left">0.1</td></tr></tbody>
+</table></p>
+<p>Find E(<i>X</i>) and E(<i>X</i><sup>2</sup>).</p>
+</Question><Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo></mrow><mo>=</mo><mrow><mo stretchy="false">(</mo><mn>1</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>2</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>3</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>4</mn><mo>&#x00D7;</mo><mn>0.2</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>5</mn><mo>&#x00D7;</mo><mn>0.4</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>6</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="5ex"/><mrow><mo>=</mo><mn>0.1</mn><mo>+</mo><mn>0.2</mn><mo>+</mo><mn>0.3</mn><mo>+</mo><mn>0.8</mn><mo>+</mo><mn>2.0</mn><mo>+</mo><mn>0.6</mn><mo>=</mo><mn fontweight="bold">4</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mn>1</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>4</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>9</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>16</mn><mo>&#x00D7;</mo><mn>0.2</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>25</mn><mo>&#x00D7;</mo><mn>0.4</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>36</mn><mo>&#x00D7;</mo><mn>0.1</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="6ex"/><mrow><mo>=</mo><mn>0.1</mn><mo>+</mo><mn>0.4</mn><mo>+</mo><mn>0.9</mn><mo>+</mo><mn>3.2</mn><mo>+</mo><mn>10</mn><mo>+</mo><mn>3.6</mn><mo>=</mo><mn fontweight="bold">18.2</mn></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>The random variable <i>X</i> has a probability function</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>{</mo> <mrow><mtable><mtr><mtd><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac></mrow></mtd><mtd><mrow><mi>x</mi><mo>=</mo><mn>2,3,6</mn></mrow></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mrow><mtext>all other values</mtext></mrow></mtd></mtr></mtable></mrow></mrow></mrow></math></p>
+<p><b>a</b> Construct a table giving the probability distribution of <i>X</i>.</p>
+<p><b>b</b> Work out E(<i>X</i>) and E(<i>X</i><sup>2</sup>).</p>
+<p><b>c</b> State with a reason whether or not (E(<i>X</i>))<sup>2</sup> = E(<i>X</i><sup>2</sup>).</p>
+</Question><Solution>
+<p><b>a</b>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>2</td><td>3</td><td>6</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td></tr></tbody></table></p>
+<p><b>b</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo></mrow><mo>=</mo><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>6</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow><mo>)</mo></mrow></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="5ex"/><mrow><mo>=</mo><mn>1</mn><mo>+</mo><mn>1</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn fontweight="bold">3</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo></mrow><mo>=</mo><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>9</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>36</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow><mo>)</mo></mrow></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="6ex"/><mrow><mo>=</mo><mn>2</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>6</mn><mo>=</mo><mn fontweight="bold">11</mn></mrow></math></p>
+<p><b>c</b></p>
+<p>(E(<i>X</i>))<sup>2</sup> = 3 &#x00D7; 3 = 9</p>
+<p>E(<i>X</i><sup>2</sup>) = 11</p>
+<p>Therefore (E(<i>X</i>))<sup>2</sup> does not equal E(<i>X</i><sup>2</sup>)</p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>Two coins are tossed 50 times. The number of heads is noted each time.</p>
+<p><b>a</b> Construct a probability distribution table for the number of heads when the two coins are tossed once, assuming that the two coins are unbiased.</p>
+<p><b>b</b> Work out how many times you would expect to get 0, 1 or 2 heads.</p>
+<p>The following table shows the actual results.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b>Number of heads (<i>h</i>)</b></td><td align="right">0</td><td align="right">1</td><td align="right">2</td></tr>
+<tr><td align="left"><b>Frequency (<i>f</i>)</b></td><td align="right">7</td><td align="right">22</td><td align="right">21</td></tr></tbody>
+</table></p>
+<p><b>c</b> State whether or not the actual frequencies obtained support the statement that the coins are unbiased. Give a reason for your answer.</p>
+</Question><Solution>
+<p><b>a</b>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>Number of heads (<i>h</i>)</td><td>0</td><td>1</td><td>2</td></tr> 
+<tr><td>P(<i>H</i> = <i>h</i>)</td><td>0.25</td><td>0.5</td><td>0.25</td></tr></tbody>
+</table></p>
+<p><b>b</b></p>
+<p>0.25 &#x00D7; 50 = 12.5</p>
+<p>0.5 &#x00D7; 50 = 25</p>
+<p>We would expect to get <b>1 head 25 times</b> and <b>0 or 2 heads 12.5 times each</b>.</p>
+<p><b>c</b> The coins would appear to be biased. There were far too many times when 2 heads appeared and not enough when 0 heads appeared.</p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The random variable <i>X</i> has the following probability distribution.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b><i>x</i></b></td><td align="left">1</td><td align="left">2</td><td align="left">3</td><td align="left">4</td><td align="left">5</td></tr>
+<tr><td align="left"><b>P(<i>X</i> = <i>x</i>)</b></td><td align="left">0.1</td><td align="left"><i>a</i></td><td align="left"><i>b</i></td><td align="left">0.2</td><td align="left">0.1</td></tr></tbody>
+</table></p>
+<p>Given E(<i>X</i>) = 2.9 find the value of <i>a</i> and the value of <i>b</i>.</p>
+</Question><Solution>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td>0.1</td><td><i>a</i></td><td><i>b</i></td><td>0.2</td><td>0.1</td></tr></tbody></table></p>
+<p>The probabilities add up to 1 so</p>
+<p>0.1 + <i>a</i> + <i>b</i> + 0.2 + 0.1 = 1</p>
+<p><i>a</i> + <i>b</i> = 0.6 &#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<b>(1)</b></p>
+<p>and</p>
+<p>2.9 = (1 &#x00D7; 0.1) + (2 &#x00D7; <i>a</i>) + (3 &#x00D7; <i>b</i>) + (4 &#x00D7; 0.2) + (5 &#x00D7; 0.1)</p>
+<p>2.9 = 0.1 + 2 <i>a</i> + 3 <i>b</i> + 0.8 + 0.5</p>
+<p>2 <i>a</i> + 3 <i>b</i> = 1.5 &#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<b>(2)</b></p>
+<p>multiply <b>(1)</b> by <b>(2)</b></p>
+<p>2<i>a</i> + 2<i>b</i> = 1.2 &#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<b>(3)</b></p>
+<p><b>(2)</b> minus <b>(3)</b></p>
+<p><i>b</i> = <b>0.3</b></p>
+<p>so from 3 2<i>a</i> + 0.6 = 1.2</p>
+<p><i>a</i> = <b>0.3</b></p>
+</Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>A fair spinner with equal sections numbered 1 to 5 is thrown 500 times. Work out how many times it can be expected to land on 3.</p>
+</Question><Solution>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.2</td></tr></tbody>
+</table></p>
+<p>0.2 &#x00D7; 500 = 100</p>
+<p>We can expect it to land on 3 100 times.</p>
+</Solution>
+</QuestionData>
+</Exercise>
+	<Exercise letter="D"><p><b>Answers 8D</b></p>
+<QuestionData number="1">
+<Question>
+<p>For the following probability distribution
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>&#x2212;1</td><td>0</td><td>1</td><td>2</td><td>3</td></tr>
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+<p><b>a</b> write down E(<i>X</i>).</p>
+<p><b>b</b> find Var(<i>X</i>).</p>
+</Question>
+<Solution>
+<p><b>a</b> By symmetry E(<i>X</i>) = 1</p>
+<p><b>b</b> Var <i>X</i> = E(<i>X</i><sup>2</sup>) &#x2212; (E(<i>X</i>))<sup>2</sup></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>+</mo><mn>0</mn><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mn>9</mn><mn>5</mn></mfrac><mo>=</mo><mn>3</mn></mrow></math></p>
+<p>(E(<i>X</i>))<sup>2</sup> = 1<sup>2</sup> = 1</p>
+<p>Var <i>X</i> = 3 &#x2212; 1 = <b>2</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Find the expectation and variance of each of the following distributions of <i>X</i>.</p>
+<p><b>a</b> <table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>1</td><td>2</td><td>3</td></tr>
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+<p><b>b</b> <table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>&#x2212;1</td><td>0</td><td>1</td></tr>
+<tr><td><b>P(<i>x</i> = <i>x</i>)</b></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+<p><b>c</b> <table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>&#x2212;2</td><td>&#x2212;1</td><td>1</td><td>2</td></tr>
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p></Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean</mtext><mo>=</mo><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mn fontweight="bold">1</mn><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mn>2</mn><mo>+</mo><mfrac><mn>9</mn><mn>6</mn></mfrac><mo>=</mo><mn>3</mn><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mspace width="1ex"/><mi>X</mi><mo>=</mo><mn>3</mn><mfrac><mn>5</mn><mn>6</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mn fontweight="bold">138</mn></mrow><mrow><mn fontweight="bold">36</mn></mrow></mfrac><mo>&#x2212;</mo><mfrac><mrow><mn fontweight="bold">121</mn></mrow><mrow><mn fontweight="bold">36</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn fontweight="bold">17</mn></mrow><mrow><mn fontweight="bold">36</mn></mrow></mfrac></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean</mtext><mo>=</mo><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mo>&#x2212;</mo><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></math> (or by symmetry = 0)</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mspace width="1ex"/><mi>X</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x2212;</mo><mn>0</mn><mo>=</mo><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">2</mn></mfrac></mrow></math></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Mean</mtext><mo>=</mo><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mo>&#x2212;</mo><mn>2</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mo>&#x2212;</mo><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mo>&#x2212;</mo><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">2</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mn fontweight="bold">2</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">2</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mspace width="1ex"/><mi>X</mi><mo>=</mo><mn>2</mn><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mo>&#x2212;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn fontweight="bold">2</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">4</mn></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>Given that <i>Y</i> is the score when a single unbiased die is rolled, find E(<i>Y</i>) and Var(<i>Y</i>).</p></Question>
+<Solution>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>y</i></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr> 
+<tr><td>P(<i>Y</i> = <i>y</i>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>Y</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>2</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>5</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>6</mn><mn>6</mn></mfrac><mo>=</mo><mn>3</mn><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>9</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mrow><mn>16</mn></mrow><mn>6</mn></mfrac><mo>+</mo><mfrac><mrow><mn>25</mn></mrow><mn>6</mn></mfrac><mo>+</mo><mfrac><mrow><mn>36</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>15</mn><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mspace width="1ex"/><mi>X</mi><mo>=</mo><mn>15</mn><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn fontweight="bold">2</mn><mfrac><mrow><mn fontweight="bold">11</mn></mrow><mrow><mn fontweight="bold">12</mn></mrow></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>Two fair cubical dice are rolled and <i>S</i> is the sum of their scores.</p>
+<p><b>a</b> Find the distribution of <i>S</i>.</p>
+<p><b>b</b> Find E(<i>S</i>).</p>
+<p><b>c</b> Find Var(<i>S</i>).</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>+</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr> 
+<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr> 
+<tr><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr> 
+<tr><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr> 
+<tr><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr> 
+<tr><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr> 
+<tr><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+</tbody>
+</table></p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>s</i></td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr> 
+<tr><td>P(<i>S</i> = <i>s</i>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>36</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>2</mn><mrow><mn>36</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>3</mn><mrow><mn>36</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>4</mn><mrow><mn>36</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>5</mn><mrow><mn>36</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>6</mn><mrow><mn>36</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>5</mn><mrow><mn>36</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>4</mn><mrow><mn>36</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>3</mn><mrow><mn>36</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>2</mn><mrow><mn>36</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>36</mn></mrow></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>S</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>2</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>12</mn><mo>+</mo><mn>20</mn><mo>+</mo><mn>30</mn><mo>+</mo><mn>42</mn><mo>+</mo><mn>40</mn><mo>+</mo><mn>36</mn><mo>+</mo><mn>30</mn><mo>+</mo><mn>22</mn><mo>+</mo><mn>12</mn></mrow><mrow><mn>36</mn></mrow></mfrac><mo>=</mo><mn>7</mn></mrow></math> (or by symmetry = 7)</p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>S</mi><mn>2</mn></msup><mo stretchy="false">)</mo></mrow><mo>=</mo><mrow><mfrac><mrow><mn>4</mn><mo>+</mo><mn>18</mn><mo>+</mo><mn>48</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>180</mn><mo>+</mo><mn>294</mn><mo>+</mo><mn>320</mn><mo>+</mo><mn>324</mn><mo>+</mo><mn>300</mn><mo>+</mo><mn>242</mn><mo>+</mo><mn>144</mn></mrow><mrow><mn>36</mn></mrow></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="7.5ex"/><mrow><mo>=</mo><mn>54</mn><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mtext>&#x2009;</mtext><mi>S</mi><mo>=</mo><mn>54</mn><mfrac><mn>5</mn><mn>6</mn></mfrac><mo>&#x2212;</mo><msup><mn>7</mn><mn>2</mn></msup><mo>=</mo><mn fontweight="bold">5</mn><mfrac><mn fontweight="bold">5</mn><mn fontweight="bold">6</mn></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>Two fair tetrahedral (four-sided) dice are rolled and <i>D</i> is the difference between their scores.</p>
+<p><b>a</b> Find the distribution of <i>D</i> and show that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>D</mi><mo>=</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math>.</p>
+<p><b>b</b> Find E(<i>D</i>).</p>
+<p><b>c</b> Find Var(<i>D</i>).</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>Diff.</td><td>1</td><td>2</td><td>3</td><td>4</td></tr> 
+<tr><td>1</td><td>0</td><td>1</td><td>2</td><td>3</td></tr> 
+<tr><td>2</td><td>1</td><td>0</td><td>1</td><td>2</td></tr> 
+<tr><td>3</td><td>2</td><td>1</td><td>0</td><td>1</td></tr> 
+<tr><td>4</td><td>3</td><td>2</td><td>1</td><td>0</td></tr>
+</tbody>
+</table></p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>d</td><td>0</td><td>1</td><td>2</td><td>3</td></tr> 
+<tr><td>P(<i>D</i> = <i>d</i>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>3</mn><mn>8</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math></td></tr>
+</tbody>
+</table></p>
+<p>From Distribution Table it can be seen that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>D</mi><mo>=</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">8</mn></mfrac></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>D</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mo>+</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">1</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">4</mn></mfrac></mrow></math></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>D</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mo>+</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mo>+</mo><mn>1</mn><mo>+</mo><mn>1</mn><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">2</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">2</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mtext>&#x2009;</mtext><mi>D</mi><mo>=</mo><mn>2</mn><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mn fontweight="bold">15</mn></mrow><mrow><mn fontweight="bold">16</mn></mrow></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>A fair coin is tossed repeatedly until a head appears or three tosses have been made. The random variable <i>T</i> represents the number of tosses of the coin.</p>
+<p><b>a</b> Show that the distribution of <i>T</i> is
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>t</i></b></td><td>1</td><td>2</td><td>3</td></tr>
+<tr><td><b>P(<i>T</i> = <i>t</i>)</b></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td></tr>
+</tbody>
+</table></p>
+<p><b>b</b> Find the expectation and variance of <i>T</i>.</p></Question>
+<Solution>
+<p><b>a</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mtext>H</mtext><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mtext>TH</mtext><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mtext>TTH</mtext><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mtext>TTT</mtext><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>T</mi><mo>=</mo><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>T</mi><mo>=</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>T</mi><mo>=</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></p>
+<p><b>b</b>&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>T</mi><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mn>2</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mn>3</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mn fontweight="bold">1</mn><mfrac><mn fontweight="bold">3</mn><mn fontweight="bold">4</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mi>T</mi><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mn>4</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mn>9</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mn fontweight="bold">11</mn></mrow><mrow><mn fontweight="bold">16</mn></mrow></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>The random variable <i>X</i> has the following distribution:
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>1</td><td>2</td><td>3</td></tr>
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td><i>a</i></td><td><i>b</i></td><td><i>a</i></td></tr>
+</tbody>
+</table><br/>where <i>a</i> and <i>b</i> are constants.</p>
+<p><b>a</b> Write down E(<i>X</i>).</p>
+<p><b>b</b> Given that Var(<i>X</i>) = 0.75, find the values of <i>a</i> and <i>b</i>.</p>
+</Question>
+<Solution>
+<p><b>a</b> E(<i>X</i>) = 2 by symmetry</p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mtext>p</mtext><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mn>1</mn><mspace width="5ex"/><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>&#x2212;</mo><msup><mrow><mo stretchy="false">(</mo><mi>E</mi><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>10</mn><mi>a</mi><mo>+</mo><mn>4</mn><mi>b</mi><mo>&#x2212;</mo><msup><mn>2</mn><mn>2</mn></msup></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>10</mn><mi>a</mi><mo>+</mo><mn>4</mn><mi>b</mi><mo>&#x2212;</mo><mn>4</mn><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mspace width="3ex"/><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable>
+<mtr><mtd><mrow><mn>10</mn><mi>a</mi><mo>+</mo><mn>4</mn><mi>b</mi><mo>=</mo><mn>4</mn><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mtd><mtd><mrow><mtext>from</mtext><mtext>&#x2009;</mtext><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd><mrow><munder accentunder='true'><mrow><mn>8</mn><mi>a</mi><mo>+</mo><mn>4</mn><mi>b</mi><mo>=</mo><mn>4</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd><mtd><mrow><mtext>from</mtext><mtext>&#x2009;</mtext><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo><mo>&#x00D7;</mo><mn>4</mn></mrow></mtd></mtr><mtr><mtd><mrow><mn>2</mn><mi>a</mi><mtext>&#x2003;</mtext><mtext>&#x2003;</mtext><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mtd><mtd><mrow></mrow></mtd><mtd><mrow></mrow></mtd></mtr></mtable></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="4.5ex"/><mrow><mtable><mtr><mtd><mrow><mi>a</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn>3</mn><mn>8</mn></mfrac></mrow></mtd><mtd><mrow></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow><mi>b</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>2</mn><mi>a</mi></mrow></mtd><mtd><mrow></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mtd><mtd><mrow></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">4</mn></mfrac></mrow></mtd><mtd><mrow></mrow></mtd><mtd><mrow></mrow></mtd></mtr></mtable></mrow></math>
+</p>
+</Solution>
+</QuestionData>
+</Exercise>
+	<Exercise letter="E"><p><b>Answers 8E</b></p>
+<QuestionData number="1">
+<Question><p>E(<i>X</i>) = 4, Var(<i>X</i>) = 10</p>
+<p>Find</p>
+<p><b>a</b> E(2<i>X</i>),</p>
+<p><b>b</b> Var (2<i>X</i>).</p></Question>
+<Solution>
+<p>Remember mean is E(<i>X</i>) and variance is Var <i>X</i>.</p>
+<p><b>a</b> E(2<i>X</i>) = 2 E(<i>X</i>) = 2 &#x00D7; 4 = <b>8</b></p>
+<p><b>b</b> Var (2<i>X</i>) = 2<sup>2</sup> Var <i>X</i> = 4 &#x00D7; 10 = <b>40</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>E(<i>X</i>) = 2, Var(<i>X</i>) = 6</p>
+<p>Find</p>
+<p><b>a</b> E(3<i>X</i>),</p>
+<p><b>b</b> E(3<i>X</i> + 1),</p>
+<p><b>c</b> E(<i>X</i> &#x2212; 1),</p>
+<p><b>d</b> E(4 &#x2212; 2<i>X</i>),</p>
+<p><b>e</b> Var (3<i>X</i>),</p>
+<p><b>f</b> Var (3<i>X</i> + 1),</p>
+<p><b>g</b> Var (<i>X</i> &#x2212; 1).</p></Question>
+<Solution>
+<p><b>a</b> E(3<i>X</i>) = 3 E(<i>X</i>) = 3 &#x00D7; 2 = <b>6</b></p>
+<p><b>b</b> E(3<i>X</i> + 1) = 3 E(<i>X</i>) + 1 = (3 &#x00D7; 2) + 1 = <b>7</b></p>
+<p><b>c</b> E(<i>X</i> &#x2212; 1) = E(<i>X</i>) &#x2212; 1 = 2 &#x2212; 1 = <b>1</b></p>
+<p><b>d</b> E(4 &#x2212; 2<i>X</i>) = 4 &#x2212; 2E(<i>X</i>) = 4 &#x2212; 2 &#x00D7; 2 = <b>0</b></p>
+<p><b>e</b> Var (3<i>X</i>) = 3<sup>2</sup> Var <i>X</i> = 9 &#x00D7; 6 = <b>54</b></p>
+<p><b>f</b> Var (3<i>X</i> + 1) = 3<sup>2</sup> Var <i>X</i> = <b>54</b></p>
+<p><b>g</b> Var (<i>X</i> &#x2212; 1) = Var <i>X</i> = <b>6</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>The random variable <i>X</i> has an expectation of 3 and a variance of 9.</p>
+<p>Find</p>
+<p><b>a</b> E(2<i>X</i> + 1),</p>
+<p><b>b</b> E(2 + <i>X</i>),</p>
+<p><b>c</b> Var(2<i>X</i> + 1),</p>
+<p><b>d</b> Var(2 + <i>X</i>).</p></Question>
+<Solution>
+<p><b>a</b> E(2<i>X</i> + 1) = 2 E(<i>X</i>) + 1 = (2 &#x00D7; 3) + 1 = <b>7</b></p>
+<p><b>b</b> E(2 + <i>X</i>) = E(<i>X</i> + 2) = E(<i>X</i>) + 2 = 3 + 2 = <b>5</b></p>
+<p><b>c</b> Var(2<i>X</i> + 1) = 2<sup>2</sup> Var(<i>X</i>) = 4 &#x00D7; 9 = <b>36</b></p>
+<p><b>d</b> Var(2 + <i>X</i>) = Var(<i>X</i> + 2) = Var(<i>X</i>) = <b>9</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The random variable <i>X</i> has a mean &#x03BC; and standard deviation &#x03C3;.</p>
+<p>Find, in terms of &#x03BC; and &#x03C3;</p>
+<p><b>a</b> E(4<i>X</i>),</p>
+<p><b>b</b> E(2<i>X</i> + 2),</p>
+<p><b>c</b> E(2<i>X</i> &#x2212; 2),</p>
+<p><b>d</b> Var(2<i>X</i> + 2),</p>
+<p><b>e</b> Var(2<i>X</i> &#x2212; 2).</p></Question>
+<Solution>
+<p><b>a</b> E(4<i>X</i>) = 4 E(<i>X</i>) = 4&#x03BC;</p>
+<p><b>b</b> E(2<i>X</i> + 2) = 2 E(<i>X</i>) + 2 = <b>2 &#x03BC;</b> + <b>2</b></p>
+<p><b>c</b> E(2<i>X</i> &#x2212; 2) = 2 E(<i>X</i>) &#x2212; 2 = <b>2 &#x03BC;</b> &#x2212; <b>2</b></p>
+<p><b>d</b> Var(2<i>X</i> + 2) = 2<sup>2</sup> Var(<i>X</i>) = <b>4&#x03C3;</b><sup><b>2</b></sup> (Remember Standard deviation is &#x03C3; so variance is &#x03C3;<sup>2</sup>)</p>
+<p><b>e</b> Var(2<i>X</i> &#x2212; 2) = 2<sup>2</sup> Var(<i>X</i>) = <b>4&#x03C3;</b><sup><b>2</b></sup></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The random variable <i>Y</i> has mean 2 and variance 9.</p>
+<p>Find:</p>
+<p><b>a</b> E(3<i>Y</i> + 1),</p>
+<p><b>b</b> E(2 &#x2212; 3<i>Y</i>), </p>
+<p><b>c</b> Var(3<i>Y</i> + 1),</p>
+<p><b>d</b> Var(2 &#x2212; 3<i>Y</i>),</p>
+<p><b>e</b> E(<i>Y</i><sup>2</sup>),</p><p><b>f</b> E[(<i>Y</i> &#x2212; 1)(<i>Y</i> + 1)].</p>
+</Question>
+<Solution>
+<p><b>a</b> E(3<i>Y</i> + 1) = 3E(<i>Y</i>) + 1 = 3 &#x00D7; 2 + 1 = <b>7</b></p>
+<p><b>b</b> E(2 &#x2212; 3<i>Y</i>) = 2 &#x2212; 3E(<i>Y</i>) = 2 &#x2212; 3 &#x00D7; 2 = &#x2212; <b>4</b></p>
+<p><b>c</b> Var(3<i>Y</i> + 1) = 3<sup>2</sup>Var(<i>Y</i>) = 9 &#x00D7; 9 = <b>81</b></p>
+<p><b>d</b> Var(2 &#x2212; 3<i>Y</i>) = (&#x2212;3)<sup>2</sup> Var(<i>Y</i>) = 9 &#x00D7; 9 = <b>81</b></p>
+<p><b>e</b> E(<i>Y</i><sup>2</sup>) = Var(<i>Y</i>) + [E(<i>Y</i>)]<sup>2</sup> = 9 + 2<sup>2</sup> = <b>13</b></p>
+<p><b>f</b> E[(<i>Y</i> &#x2212; 1)(<i>Y</i> + 1)] = E(<i>Y</i><sup>2</sup> &#x2212; 1) = E(<i>Y</i><sup>2</sup>) &#x2212; 1 = 13 &#x2212; 1 = <b>12</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The random variable <i>T</i> has a mean of 20 and a standard deviation of 5.</p>
+<p>It is required to scale <i>T</i> by using the transformation <i>S</i> = 3<i>T</i> + 4.</p>
+<p>Find E(<i>S</i>) and Var(<i>S</i>).</p>
+</Question>
+<Solution>
+<p>E(<i>S</i>) = E(3<i>T</i> + 4) = 3 E(<i>S</i>) + 4 = (3 &#x00D7; 20) + 4 = <b>64</b></p>
+<p>Var(<i>T</i>) = 5 &#x00D7; 5 = 25</p>
+<p>Var (<i>S</i>) = Var(3<i>T</i> + 4) = 3<sup>2</sup>Var T = 9 &#x00D7; 25 = <b>225</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>A fair spinner is made from the disc in the diagram and the random variable <i>X</i> represents the number it lands on after being spun.</p>
+<p><b>a</b> Write down the distribution of <i>X</i>.</p>
+<p><b>b</b> Work out E(<i>X</i>).</p>
+<p><b>c</b> Find Var(<i>X</i>).</p>
+<p><b>d</b> Find E(2<i>X</i> + 1).</p>
+<p><b>e</b> Find Var(3<i>X</i> &#x2212; 1).</p>
+<p><img src="images\S1QF11.jpg"/></p>
+</Question><Solution>
+<p><b>a</b><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tr><td><b><i>x</i></b></td><td><b>1</b></td><td><b>2</b></td><td><b>3</b></td></tr> 
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>3</mn><mn>8</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>3</mn><mn>8</mn></mfrac></mrow></math></td></tr>
+</table></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>&#x00D7;</mo><mfrac><mn>3</mn><mn>8</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>&#x00D7;</mo><mfrac><mn>3</mn><mn>8</mn></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mn fontweight="bold">2</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">8</mn></mfrac></mrow></math></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>&#x00D7;</mo><mfrac><mn>3</mn><mn>8</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>9</mn><mo>&#x00D7;</mo><mfrac><mn>3</mn><mn>8</mn></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mn fontweight="bold">5</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">8</mn></mfrac></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>5</mn><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mn fontweight="bold">39</mn></mrow><mrow><mn fontweight="bold">64</mn></mrow></mfrac></mrow></math></p>
+<p><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mn>2</mn><mi>X</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>+</mo><mn>1</mn><mo>=</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>&#x00D7;</mo><mn>2</mn><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mn>1</mn><mo>=</mo><mn fontweight="bold">5</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">4</mn></mfrac></mrow></math></p>
+<p><b>e</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mn>3</mn><mi>X</mi><mo>&#x2212;</mo><msup><mrow><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mn>3</mn></mrow><mn>2</mn></msup><mtext>&#x2009;</mtext><mtext>Var</mtext><mtext>&#x2009;</mtext><mi>X</mi><mo>=</mo><mn>9</mn><mo>&#x00D7;</mo><mfrac><mrow><mn fontweight="bold">39</mn></mrow><mrow><mn fontweight="bold">64</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">5</mn><mfrac><mrow><mn fontweight="bold">31</mn></mrow><mrow><mn fontweight="bold">64</mn></mrow></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="8">
+<Question>
+<p>The discrete variable <i>X</i> has the probability distribution
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center">&#x2212;1</td><td align="center">0</td><td align="center">1</td><td align="center">2</td></tr>
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td align="center">0.2</td><td align="center">0.5</td><td align="center">0.2</td><td align="center">0.1</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Find E(<i>X</i>),</p>
+<p><b>b</b> Find Var (<i>X</i>), </p>
+<p><b>c</b> Find <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>X</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>,</p>
+<p><b>d</b> Find <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>X</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>.</p>
+</Question><Solution>
+<p><b>a</b> E(<i>X</i>) = &#x2212; 0.2 + 0 + 0.2 + 0.2 = <b>0.2</b></p>
+<p><b>b</b> E(<i>X</i><sup>2</sup>) = 0.2 + 0 + 0.2 + 0.4 = <b>0.8</b></p>
+<p>Var(<i>X</i>) = 0.8 &#x2212; 0.2<sup>2</sup> = 0.8 &#x2212; 0.04 = <b>0.76</b></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>X</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>+</mo><mn>1</mn><mo>=</mo><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#x00D7;</mo><mn>0.2</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>1</mn><mo>=</mo><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mn>1</mn><mo>=</mo><mn fontweight="bold">1</mn><mfrac><mn fontweight="bold">1</mn><mrow><mn fontweight="bold">15</mn></mrow></mfrac><mo stretchy="false">(</mo><mn>1.0</mn><mover accent='true'><mn>6</mn><mo>&#x02D9;</mo></mover><mo stretchy="false">)</mo></mrow></math></p>
+<p><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Var</mtext><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>X</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mtext>Var&#x00A0;</mtext><mi>X</mi><mo>=</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>&#x00D7;</mo><mn>0.76</mn><mo>=</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>&#x00D7;</mo><mfrac><mrow><mn>19</mn></mrow><mrow><mn>25</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn fontweight="bold">19</mn></mrow><mrow><mn fontweight="bold">225</mn></mrow></mfrac><mo stretchy="false">(</mo><mn>0.08</mn><mover accent='true'><mn>4</mn><mo>&#x02D9;</mo></mover><mo stretchy="false">)</mo></mrow></math></p>
+</Solution>
+</QuestionData>
+</Exercise>
+	<Exercise letter="F"><p><b>Answers 8F</b></p>
+<QuestionData number="1">
+<Question>
+<p><i>X</i> is a discrete uniform distribution over the numbers 1, 2, 3, 4 and 5. Work out the expectation and variance of <i>X</i>.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="2ex"/><mrow><mtext>Expectation</mtext><mo>=</mo><mfrac><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mfrac><mrow><mn>5</mn><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn fontweight="bold">3</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Variance</mtext><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>n</mi><mo>&#x2212;</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mn>5</mn><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>5</mn><mo>&#x2212;</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">2</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Seven similar balls are placed in a bag. The balls have the numbers 1 to 7 on them. A ball is drawn out of the bag. The variable <i>X</i> represents the number on the ball.</p>
+<p><b>a</b> Find E(<i>X</i>).</p>
+<p><b>b</b> Work out Var(<i>X</i>).</p>
+</Question>
+<Solution>
+<p><b>a</b>&#x00A0;<i>n</i> = 7</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>4</mn></mrow></math></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>n</mi><mo>&#x2212;</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">4</mn></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>A fair die is thrown once and the random variable <i>X</i> represents the value on the upper face.</p>
+<p><b>a</b> Find the expectation and variance of <i>X</i>.</p>
+<p><b>b</b> Calculate the probability that <i>X</i> is within one standard deviation of the expectation.</p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Expectation</mtext><mo>=</mo><mfrac><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mfrac><mrow><mn>6</mn><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn fontweight="bold">3</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">2</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>n</mi><mo>&#x2212;</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>7</mn><mo>&#x00D7;</mo><mn>5</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">2</mn><mfrac><mrow><mn fontweight="bold">11</mn></mrow><mrow><mn fontweight="bold">12</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">2.91</mn><mover accent='true'><mn fontweight="bold">6</mn><mo fontweight="bold">&#x02D9;</mo></mover></mrow></math></p>
+<p><b>b</b>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>&#x03C3;</mi><mo>=</mo><msqrt><mrow><mn>2.91</mn><mover accent='true'><mn>6</mn><mo>&#x02D9;</mo></mover></mrow></msqrt><mo>=</mo><mn>1.7078</mn></mrow></math></p>
+<p>Therefore we want between 3.5 &#x2212; 1.7078 = 1.7922 and 3.5 + 1.7078 = 5.2078</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mn>1.7922</mn><mo>&#x2264;</mo><mi>X</mi><mo>&#x2264;</mo><mn>5.2078</mn><mo stretchy="false">)</mo><mo>=</mo><mtext>p</mtext><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>p</mtext><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>p</mtext><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>p</mtext><mo stretchy="false">(</mo><mn>5</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn fontweight="bold">2</mn><mn fontweight="bold">3</mn></mfrac></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>A card is selected at random from a pack of cards containing the even numbers 2, 4, 6, &#x2026;, 20. The variable <i>X</i> represents the number on the card.</p>
+<p><b>a</b> Find P(<i>X</i> &#x003E; 15).</p>
+<p><b>b</b> Find the expectation and variance of <i>X</i>.</p>
+</Question>
+<Solution>
+<p><b>a</b> This is a uniform distribution.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>2</td><td>4</td><td>6</td><td>8</td><td>10</td><td>12</td><td>14</td><td>16</td><td>18</td><td>20</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003E;</mo><mn>15</mn><mo stretchy="false">)</mo><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>16</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>18</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>20</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn fontweight="bold">3</mn><mrow><mn fontweight="bold">10</mn></mrow></mfrac></mrow></math></p>
+<p><b>b</b> Let <i>R</i> be a uniform distribution over the numbers 1,2, &#x2026; 10.</p>
+<p>Then <i>X</i> = 2<i>R</i></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>R</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>5.5</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mi>R</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>&#x2212;</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>99</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>8</mn><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mn>8.25</mn></mrow></math></p>
+<p>E(<i>X</i>) = 2E(<i>R</i>) = 2 &#x00D7; 5.5 = <b>11</b></p>
+<p>Var(<i>X</i>) = Var(2<i>R</i>) = 2<sup>2</sup>Var(<i>R</i>) = 4 &#x00D7; 8.25 = <b>33</b></p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>A card is selected at random from a pack of cards containing the odd numbers 1, 3, 5, &#x2026;, 19. The variable <i>X</i> represents the number on the card.</p>
+<p><b>a</b> Find P(<i>X</i> &#x003E; 15).</p>
+<p><b>b</b> Find the expectation and variance of <i>X</i>.</p>
+</Question>
+<Solution>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>y</i></td><td>1</td><td>3</td><td>5</td><td>7</td><td>9</td><td>11</td><td>13</td><td>15</td><td>17</td><td>19</td></tr> 
+<tr><td>P(<i>Y</i> = <i>y</i>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003E;</mo><mn>15</mn><mo stretchy="false">)</mo><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>17</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>19</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">5</mn></mfrac></mrow></math></p>
+<p><b>b</b>&#x00A0;<i>Y</i> = <i>X</i> &#x2212; 1 (<i>X</i> as in previous question)</p>
+<p>E(<i>Y</i>) = E(<i>X</i> &#x2212; 1) = E(<i>X</i>) &#x2212; 1 = 11 &#x2212; 1 = <b>10</b></p>
+<p>Var (<i>Y</i>) = Var(<i>X</i> &#x2212; 1) = Var(<i>X</i>) = <b>33</b></p>
+</Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>A straight line is drawn on a piece of paper. The line is divided into four equal lengths and the segments are marked 1, 2, 3 and 4. In a party game a person is blindfolded and asked to mark a point on the line and the number of the segment is recorded. A discrete uniform distribution over the set (1, 2, 3, 4) is suggested as model for this distribution. Comment on this suggestion.</p>
+</Question><Solution>
+<p>A discrete uniform distribution is not likely to be a good model for this distribution. The game depends on the skill of the player. The points are quite likely to cluster around the middle.</p>
+</Solution></QuestionData>
+<QuestionData number="7">
+<Question>
+<p>In a fairground game the spinner shown is used.</p>
+<p>It cost 5p to have a go on the spinner.</p>
+<p>The spinner is spun and the number of pence shown is returned to the contestant.</p>
+<p><img src="images\S1QF12.jpg"/></p>
+<p>If <i>X</i> is the number which comes up on the next spin,</p>
+<p><b>a</b> name a suitable model for <i>X</i>,</p>
+<p><b>b</b> find E(<i>X</i>),</p>
+<p><b>c</b> find Var(<i>X</i>),</p>
+<p><b>d</b> explain why you should not expect to make money at this game if you have a large number of goes.</p>
+</Question><Solution>
+<p><b>a</b> A discrete uniform distribution</p>
+<p><b>b</b>&#x00A0;<i>n</i> = 8</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn fontweight="bold">4.5</mn></mrow></math></p>
+<p><b>c</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>&#x2212;</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>63</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">5</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">4</mn></mfrac><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mn fontweight="bold">5.25</mn></mrow></math> </p>
+<p><b>d</b> The expected winnings are less than the 5p stake.</p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="G"><p><b>Answers Mixed Exercise Prob Distributions 8G</b></p>
+<QuestionData number="1">
+<Question>
+<p>The random variable <i>X</i> has probability function</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mi>x</mi><mrow><mn>21</mn></mrow></mfrac></mrow></math> <i>x</i> = 1, 2, 3, 4, 5, 6.</p>
+<p><b>a</b> Construct a table giving the probability distribution of <i>X</i>.</p>
+<p>Find</p>
+<p><b>b</b> P(2 &#x003C; <i>X</i> &#x2264; 5),</p>
+<p><b>c</b> E(<i>X</i>),</p>
+<p><b>d</b> Var(<i>X</i>),</p>
+<p><b>e</b> Var(3 &#x2212; 2<i>X</i>).</p>
+</Question>
+<Solution>
+<p><b>a</b> <table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td><b>1</b></td><td><b>2</b></td><td><b>3</b></td><td><b>4</b></td><td><b>5</b></td><td><b>6</b></td></tr> 
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">1</mn><mrow><mn fontweight="bold">21</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">2</mn><mrow><mn fontweight="bold">21</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">3</mn><mrow><mn fontweight="bold">21</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">4</mn><mrow><mn fontweight="bold">21</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">5</mn><mrow><mn fontweight="bold">21</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">6</mn><mrow><mn fontweight="bold">21</mn></mrow></mfrac></mrow></math></td></tr>
+</tbody></table></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>5</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>3</mn><mrow><mn>21</mn></mrow></mfrac><mo>+</mo><mfrac><mn>4</mn><mrow><mn>21</mn></mrow></mfrac><mo>+</mo><mfrac><mn>5</mn><mrow><mn>21</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn fontweight="bold">12</mn></mrow><mrow><mn fontweight="bold">21</mn></mrow></mfrac></mrow></math></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>&#x00D7;</mo><mfrac><mn>2</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>&#x00D7;</mo><mfrac><mn>3</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>&#x00D7;</mo><mfrac><mn>4</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>5</mn><mo>&#x00D7;</mo><mfrac><mn>5</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>6</mn><mo>&#x00D7;</mo><mfrac><mn>6</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="3ex"/><mrow><mo>=</mo><mfrac><mrow><mn>91</mn></mrow><mrow><mn>21</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">4</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">3</mn></mfrac><mo stretchy="false">(</mo><mn>4.</mn><mover accent='true'><mn>3</mn><mo>&#x02D9;</mo></mover><mo stretchy="false">)</mo></mrow></math></p>
+
+<p><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>&#x00D7;</mo><mfrac><mn>2</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>9</mn><mo>&#x00D7;</mo><mfrac><mn>3</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>16</mn><mo>&#x00D7;</mo><mfrac><mn>4</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>25</mn><mo>&#x00D7;</mo><mfrac><mn>5</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>36</mn><mo>&#x00D7;</mo><mfrac><mn>6</mn><mrow><mn>21</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="3ex"/><mrow><mo>=</mo><mfrac><mrow><mn>441</mn></mrow><mrow><mn>21</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">2</mn><mn>1</mn></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>21</mn><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn>21</mn><mo>&#x2212;</mo><mn>18</mn><mfrac><mn>7</mn><mn>9</mn></mfrac><mo>=</mo><mn fontweight="bold">2</mn><mfrac><mn fontweight="bold">2</mn><mn fontweight="bold">9</mn></mfrac></mrow></math></p>
+<p><b>e</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mn>3</mn><mo>&#x2212;</mo><mn>2</mn><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mtext>Var</mtext><mo stretchy="false">(</mo><mo>&#x2212;</mo><mn>2</mn><mi>X</mi><mo>+</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mo>&#x2212;</mo><msup><mrow><mn>2</mn><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><mtext>Var</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>4</mn><mo>&#x00D7;</mo><mn>2</mn><mfrac><mn>2</mn><mn>9</mn></mfrac><mo>=</mo><mn fontweight="bold">8</mn><mfrac><mn fontweight="bold">8</mn><mn fontweight="bold">9</mn></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>The discrete random variable <i>X</i> has the probability distribution shown.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="left"><b><i>x</i></b></td><td align="left">&#x2212;2</td><td align="left">&#x2212;1</td><td align="left">0</td><td align="left">1</td><td align="left">2</td><td align="left">3</td></tr>
+<tr><td align="left"><b>P(<i>X</i> = <i>x</i>)</b></td><td align="left">0.1</td><td align="left">0.2</td><td align="left">0.3</td><td align="left"><i>r</i></td><td align="left">0.1</td><td align="left">0.1</td></tr>
+</tbody></table></p>
+<p>Find</p>
+<p><b>a</b>&#x00A0;<i>r</i>,</p>
+<p><b>b</b> P(&#x2212;1 &#x2264; <i>X</i> &#x003C; 2),</p>
+<p><b>c</b> F(0.6),</p>
+<p><b>d</b> E(2<i>X</i> + 3),</p>
+<p><b>e</b> Var(2<i>X</i> + 3).</p>
+</Question>
+<Solution>
+<p><b>a</b> 0.1 + 0.2 + 0.3 + <i>r</i> + 0.1 + 0.1 = 1</p>
+<p><i>r</i> = 1 &#x2212; 0.8 = <b>0.2</b></p>
+<p><b>b</b> P(&#x2212;1) + P(0) + P(1) = 0.2 + 0.3 + 0.2 = <b>0.7</b></p>
+<p><b>c</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>&#x2212;2</td><td>&#x2212;1</td><td>0</td><td>1</td><td>2</td><td>3</td></tr> 
+<tr><td>F(<i>X</i>)</td><td>0.1</td><td>0.3</td><td>0.6</td><td>0.8</td><td>0.9</td><td>1</td></tr>
+</tbody></table></p>
+<p>F(0.6) = F(0) = <b>0.6</b></p>
+<p><b>d</b> E(<i>X</i>) = (&#x2212;0.2) + (&#x2212;0.2) + 0 + 0.2 + 0.2 + 0.3 = 0.3</p>
+<p>E(2<i>X</i> + 3) = 2E(<i>X</i>) + 3 = (2 &#x00D7; 0.3) + 3 = <b>3.6</b></p>
+<p><b>e</b> E(<i>X</i><sup>2</sup>) = 0.4 + 0.2 + 0 + 0.2 + 0.4 + 0.9 = 2.1</p>
+<p>Var (<i>X</i>) = 2.1 &#x2212; 0.3<sup>2</sup> = 2.01</p>
+<p>Var (2<i>X</i> + 3) = 2<sup>2</sup> Var <i>X</i> = 4 &#x00D7; 2.01 = <b>8.04</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>A discrete random variable <i>X</i> has the probability distribution shown in the table below.</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>0</td><td>1</td><td>2</td></tr>
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td><td><i>b</i></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>+</mo><mi>b</mi></mrow></math></td></tr>
+</tbody></table></p>
+<p><b>a</b> Find the value of <i>b</i>.</p>
+<p><b>b</b> Show that E(<i>X</i>) = 1.3.</p>
+<p><b>c</b> Find the exact value of Var(<i>X</i>).</p>
+<p><b>d</b> Find the exact value of P(<i>X</i> &#x2264; 1.5).</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>0</td><td>1</td><td>2</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td><td><i>b</i></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>+</mo><mi>b</mi><mo>+</mo><mi>b</mi><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>=</mo><mn>1</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>2</mn><mi>b</mi><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>b</mi><mo>=</mo><mfrac><mn>3</mn><mrow><mn>10</mn></mrow></mfrac></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>3</mn><mrow><mn>10</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>&#x00D7;</mo><mfrac><mn>5</mn><mrow><mn>10</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mn>0</mn><mo>+</mo><mfrac><mn>3</mn><mrow><mn>10</mn></mrow></mfrac><mo>+</mo><mn>1</mn><mo>=</mo><mn>1.3</mn></mrow></math></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>&#x00D7;</mo><mfrac><mn>3</mn><mrow><mn>10</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>&#x00D7;</mo><mfrac><mn>5</mn><mrow><mn>10</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mn>0</mn><mo>+</mo><mfrac><mn>3</mn><mrow><mn>10</mn></mrow></mfrac><mo>+</mo><mn>2</mn><mo>=</mo><mn>2.3</mn></mrow></math></p>
+<p>Var (<i>X</i>) = 2.3 &#x2212; 1.3<sup>2</sup> = 0.61</p>
+<p><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn>0.5</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The discrete random variable <i>X</i> has a probability function</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>{</mo> <mrow><mtable><mtr><mtd columnalign="left"><mrow><mi>k</mi><mo stretchy="false">(</mo><mn>1</mn><mo>&#x2212;</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>0,1</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mi>k</mi><mo stretchy="false">(</mo><mi>x</mi><mo>&#x2212;</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>2,3</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mn>0</mn></mtd><mtd columnalign="left"><mrow><mtext>otherwise</mtext></mrow></mtd></mtr></mtable></mrow></mrow></mrow></math></p>
+<p>where <i>k</i> is a constant.</p>
+<p><b>a</b> Show that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>k</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math>.</p>
+<p><b>b</b> Find E(<i>X</i>) and show that E(<i>X</i><sup>2</sup>) = 5.5.</p>
+<p><b>c</b> Find Var(2<i>X</i> &#x2212; 2).</p>
+</Question>
+<Solution>
+<p><b>a</b>&#x00A0;<i>k</i>(1 &#x2212; 0) + <i>k</i>(1 &#x2212; 1) + <i>k</i>(2 &#x2212; 1) + <i>k</i>(3 &#x2212; 1) = 1</p>
+<p><i>k</i> + <i>k</i> + 2<i>k</i> = 1</p>
+<p>4<i>k</i> = 1</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>k</mi><mo>=</mo><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">4</mn></mfrac></mrow></math></p>
+<p><b>b</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>0</td><td>1</td><td>2</td><td>3</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td><td>0</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mo>+</mo><mn>0</mn><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>=</mo><mn>2</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mo stretchy="false">(</mo><mn>1</mn><mo>&#x00D7;</mo><mn>0</mn><mo stretchy="false">)</mo><mo>+</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>9</mn><mo>&#x00D7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mo>=</mo><mn>1</mn><mo>+</mo><mn>4.5</mn><mo>=</mo><mn fontweight="bold">5.5</mn></mrow></math></p>
+<p><b>c</b> Var (<i>X</i>) = 5.5 &#x2212; 4 = 1.5</p>
+<p>Var (2<i>X</i> &#x2212; 2) = 4 &#x00D7; 1.5 = <b>6</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>A discrete random variable <i>X</i> has the probability distribution,</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<col align="center" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>0</td><td>1</td><td>2</td><td>3</td></tr>
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math></td></tr>
+</tbody></table></p>
+<p>Find</p>
+<p><b>a</b> P(1 &#x003C; <i>X</i> &#x2264; 2),</p>
+<p><b>b</b> F(1.5),</p>
+<p><b>c</b> E(<i>X</i>),</p>
+<p><b>d</b> E(3<i>X</i> &#x2212; 1),</p>
+<p><b>e</b> Var(<i>X</i>).</p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mn>1</mn><mo>&#x003C;</mo><mi>X</mi><mo>&#x2264;</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">8</mn></mfrac></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>F</mtext><mo stretchy="false">(</mo><mn>1.5</mn><mo stretchy="false">)</mo><mo>=</mo><mtext>F</mtext><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn fontweight="bold">3</mn><mn fontweight="bold">4</mn></mfrac></mrow></math></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mo>=</mo><mfrac><mn>9</mn><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">1</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">8</mn></mfrac></mrow></math></p>
+<p><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mn>3</mn><mi>X</mi><mo>&#x2212;</mo><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mn>3</mn><mtext>&#x2009;</mtext><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>&#x2212;</mo><mn>1</mn><mo>=</mo><mn>3</mn><mfrac><mn>3</mn><mn>8</mn></mfrac><mo>&#x2212;</mo><mn>1</mn><mo>=</mo><mn fontweight="bold">2</mn><mfrac><mn fontweight="bold">3</mn><mn fontweight="bold">8</mn></mfrac></mrow></math></p>
+<p><b>e</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>9</mn><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">2</mn><mfrac><mn fontweight="bold">1</mn><mn fontweight="bold">8</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mn fontweight="bold">55</mn></mrow><mrow><mn fontweight="bold">64</mn></mrow></mfrac></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>A discrete random variable is such that each of its values is assumed to be equally likely.</p>
+<p><b>a</b> Write the name of the distribution.</p>
+<p><b>b</b> Give an example of such a distribution.</p>
+<p>A discrete random variable <i>X</i> as defined above can take values 0, 1, 2, 3, and 4.</p>
+<p>Find</p>
+<p><b>c</b> E(<i>X</i>),</p><p><b>d</b> Var (<i>X</i>).</p>
+</Question>
+<Solution>
+<p><b>a</b> A discrete uniform distribution</p>
+<p><b>b</b> Any distribution where all the probabilities are the same. An example is throwing a fair die.</p>
+<p><b>c</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math></td></tr></tbody>
+</table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mn>5</mn></mfrac><mo>=</mo><mn fontweight="bold">2</mn><mtext>&#x2009;</mtext><mo stretchy="false">(</mo><mtext>or</mtext><mtext>&#x2009;</mtext><mfrac><mrow><mn>5</mn><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>&#x2212;</mo><mn>1</mn><mo>=</mo><mn>2</mn><mo stretchy="false">)</mo><mspace width="1ex"/><mtext>(OR use symmetry)</mtext></mrow></math></p>
+<p><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><msup><mi>X</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mn>9</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mrow><mn>16</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn fontweight="bold">6</mn><mspace width="1ex"/><mrow><mo>(</mo><mrow><mtext>or</mtext><mtext>&#x2009;</mtext><mtext>Var</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mn>5</mn><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>5</mn><mo>&#x2212;</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></math></p>
+<p>Var (<i>X</i>) = 6 &#x2212; 4 = <b>2</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>The random variable <i>X</i> has a probability distribution</p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+<tr><td><b>P(<i>X</i> = <i>x</i>)</b></td><td>0.1</td><td><i>p</i></td><td><i>q</i></td><td>0.3</td><td>0.1</td></tr>
+</tbody></table></p>
+<p><b>a</b> Given that E(<i>X</i>) = 3.1, write down two equations involving <i>p</i> and <i>q</i>.</p>
+<p>Find</p>
+<p><b>b</b> the value of <i>p</i> and the value of <i>q</i>,</p>
+<p><b>c</b> Var(<i>X</i>),</p>
+<p><b>d</b> Var(2<i>X</i> &#x2212; 3).</p></Question>
+<Solution>
+<p><b>a</b> 0.1 + <i>p</i> + <i>q</i> + 0.3 + 0.1 = 1</p>
+<p><i>p</i> + <i>q</i> = 0.5&#x00A0;&#x00A0;&#x00A0;<b>1</b></p>
+<p>0.1 + 2<i>p</i> + 3<i>q</i> + 1.2 + 0.5 = 3.1</p>
+<p><b>2<i>p</i></b> + <b>3<i>q</i></b> = <b>1.3</b>&#x00A0;&#x00A0;&#x00A0;<b>2</b></p>
+<p><b>b</b> 2<i>p</i> + 3<i>q</i> = 1.3&#x00A0;&#x00A0;&#x00A0;(equation 2)</p>
+<p>2 <i>p</i> + 2<i>q</i> = 1&#x00A0;&#x00A0;&#x00A0;(equation 1 times 2)&#x00A0;&#x00A0;&#x00A0;<b>3</b></p>
+<p><b><i>q</i></b> = <b>0.3</b>&#x00A0;&#x00A0;&#x00A0;(equation 2&#x2013;3)</p>
+<p><b><i>p</i></b> + <b>0.3</b> = 0.5</p>
+<p><b><i>p</i></b> = <b>0.2</b></p>
+<p><b>c</b></p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tr><td><i>x</i></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td>0.1</td><td>0.2</td><td>0.3</td><td>0.3</td><td>0.1</td></tr>
+</table></p>
+<p>E(<i>X</i>) = 0.1 + 0.4 + 0.9 + 1.2 + 0.5 = 3.1</p>
+<p>E(<i>X</i><sup>2</sup>) = 0.1 + 0.8 + 2.7 + 4.8 + 2.5 = 10.9</p>
+<p>Var (<i>X</i>) = 10.9 &#x2212; 3.1<sup>2</sup> = <b>1.29</b></p>
+<p><b>d</b> Var (2<i>X</i> + 3) = 4 Var (<i>X</i>) = 4 &#x00D7; 1.29 = <b>5.16</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="8">
+<Question>
+<p>The random variable <i>X</i> has probability function</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>{</mo> <mrow><mtable><mtr><mtd columnalign="left"><mrow><mi>k</mi><mi>x</mi></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>1,2</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mi>k</mi><mo stretchy="false">(</mo><mi>x</mi><mo>&#x2212;</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>3,4,5</mn></mrow></mtd></mtr></mtable></mrow></mrow></mrow></math></p>
+<p>where <i>k</i> is a constant.</p>
+<p><b>a</b> Find the value of <i>k</i>.</p>
+<p><b>b</b> Find the exact value of E(<i>X</i>).</p>
+<p><b>c</b> Show that, to three significant figures, Var(<i>X</i>) = 2.02.</p>
+<p><b>d</b> Find, to one decimal place, Var(3 &#x2212; 2<i>X</i>).</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><i>x</i></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr> 
+<tr><td>P(<i>X</i> = <i>x</i>)</td><td><i>k</i></td><td>2<i>k</i></td><td><i>k</i></td><td>2<i>k</i></td><td>3<i>k</i></td></tr>
+</tbody></table></p>
+<p><i>k</i> + 2 <i>k</i> + <i>k</i> + 2 <i>k</i> + 3 <i>k</i> = 1</p>
+<p>9 <i>k</i> = 1</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext fontweight="bold">k</mtext><mo>=</mo><mfrac><mn>1</mn><mn>9</mn></mfrac></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>8</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mrow><mn>15</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mfrac><mrow><mn>31</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mn fontweight="bold">3</mn><mfrac><mn>4</mn><mn>9</mn></mfrac></mrow></math></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo>(</mo><msup><mi>X</mi><mn>2</mn></msup><mo>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>8</mn><mn>9</mn></mfrac><mo>+</mo><mn>1</mn><mo>+</mo><mfrac><mrow><mn>32</mn></mrow><mn>9</mn></mfrac><mo>+</mo><mfrac><mrow><mn>75</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mfrac><mrow><mn>125</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mn>13</mn><mfrac><mn>8</mn><mn>9</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mspace width="1ex"/><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>13</mn><mfrac><mn>8</mn><mn>9</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mo>(</mo><mn>3</mn><mfrac><mn>4</mn><mn>9</mn></mfrac><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>13.888</mn><mo>&#x2212;</mo><mn>11.864</mn><mo>=</mo><mn fontweight="bold">2.02</mn></mrow></math>&#x00A0;to 3 sig figs</p>
+<p><b>d</b> Var (3 &#x2212; 2<i>X</i>) = (&#x2212;2)<sup>2</sup> Var (<i>X</i>) = 4 &#x00D7; 2.02 = <b>8.1</b> to 1dp</p>
+</Solution>
+</QuestionData>
+<QuestionData number="9">
+<Question>
+<p>The random variable <i>X</i> has the discrete uniform distribution</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mspace width="1ex"/><mi>x</mi><mo>=</mo><mn>1,2,3,4,5,6.</mn></mrow></math></p>
+<p><b>a</b> Write down E(<i>X</i>) and show that <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>35</mn></mrow><mrow><mn>12</mn></mrow></mfrac></mrow></math>.</p>
+<p><b>b</b> Find E(2<i>X</i> &#x2212; 1).</p>
+<p><b>c</b> Find Var(3 &#x2212; 2<i>X</i>).</p>
+</Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>3.5</mn><mo>=</mo><mn>3</mn><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>E</mtext><mo>(</mo><msup><mi>X</mi><mn>2</mn></msup><mo>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>9</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mrow><mn>16</mn></mrow><mn>6</mn></mfrac><mo>+</mo><mfrac><mrow><mn>25</mn></mrow><mn>6</mn></mfrac><mo>+</mo><mfrac><mrow><mn>36</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mfrac><mrow><mn>91</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>15</mn><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mspace width="1ex"/><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>15</mn><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>&#x2212;</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mn>91</mn></mrow><mn>6</mn></mfrac><mo>&#x2212;</mo><mfrac><mrow><mn>49</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mfrac><mrow><mn fontweight="bold">35</mn></mrow><mrow><mn fontweight="bold">12</mn></mrow></mfrac></mrow></math></p>
+<p><b>b</b> E(2<i>X</i> &#x2212; 1) = 2 E(<i>X</i>) &#x2212; 1 = 7 &#x2212; 1 = <b>6</b></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>Var</mtext><mspace width="1ex"/><mo stretchy="false">(</mo><mn>3</mn><mo>&#x2212;</mo><mn>2</mn><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>4</mn><mspace width="1ex"/><mtext>Var</mtext><mspace width="1ex"/><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>4</mn><mo>&#x00D7;</mo><mfrac><mrow><mn>35</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>35</mn></mrow><mn>3</mn></mfrac><mo>=</mo><mn fontweight="bold">11</mn><mfrac><mn fontweight="bold">2</mn><mn fontweight="bold">3</mn></mfrac></mrow></math>&#x00A0;or <b>11.67</b> to 2 dp</p>
+</Solution>
+</QuestionData>
+<QuestionData number="10">
+<Question>
+<p>The random variable <i>X</i> has probability function</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>p</mtext><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mn>3</mn><mi>x</mi><mo>&#x2212;</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mrow><mn>26</mn></mrow></mfrac><mspace width="1ex"/><mi>x</mi><mo>=</mo><mn>1,2,3,4.</mn></mrow></math></p>
+<p><b>a</b> Construct a table giving the probability distribution of <i>X</i>.</p>
+<p>Find</p>
+<p><b>b</b> P(2 &#x003C; <i>X</i> &#x2264; 4),</p>
+<p><b>c</b> the exact value of E(<i>X</i>).</p>
+<p><b>d</b> Show that Var(<i>X</i>) = 0.92 to two significant figures.</p>
+<p><b>e</b> Find Var(1 &#x2212; 3<i>X</i>).</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td><b>1</b></td><td><b>2</b></td><td><b>3</b></td><td><b>4</b></td></tr> 
+<tr><td><b>P</b>(<b><i>X</i></b> = <b><i>x</i></b>)</td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">2</mn><mrow><mn fontweight="bold">26</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">5</mn><mrow><mn fontweight="bold">26</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mn fontweight="bold">8</mn><mrow><mn fontweight="bold">26</mn></mrow></mfrac></mrow></math></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn fontweight="bold">11</mn></mrow><mrow><mn fontweight="bold">26</mn></mrow></mfrac></mrow></math></td></tr>
+</tbody></table></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mn>2</mn><mo>&#x003C;</mo><mi>X</mi><mo>&#x2264;</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>+</mo><mtext>P</mtext><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn fontweight="bold">19</mn></mrow><mrow><mn fontweight="bold">26</mn></mrow></mfrac></mrow></math></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>2</mn><mrow><mn>26</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>26</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>24</mn></mrow><mrow><mn>26</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>44</mn></mrow><mrow><mn>26</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>80</mn></mrow><mrow><mn>26</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">3</mn><mfrac><mn fontweight="bold">1</mn><mrow><mn fontweight="bold">13</mn></mrow></mfrac></mrow></math></p>
+<p><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>E</mtext><mo>(</mo><msup><mi>X</mi><mn>2</mn></msup><mo>)</mo><mo>=</mo><mfrac><mn>2</mn><mrow><mn>26</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>20</mn></mrow><mrow><mn>26</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>72</mn></mrow><mrow><mn>26</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>176</mn></mrow><mrow><mn>26</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>270</mn></mrow><mrow><mn>26</mn></mrow></mfrac><mo>=</mo><mn>10</mn><mfrac><mrow><mn>10</mn></mrow><mrow><mn>26</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">10</mn><mfrac><mn fontweight="bold">5</mn><mrow><mn fontweight="bold">13</mn></mrow></mfrac></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>Var</mtext><mspace width="1ex"/><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mn>10</mn><mfrac><mn>5</mn><mrow><mn>13</mn></mrow></mfrac><mo>&#x2212;</mo><msup><mrow><mo>(</mo><mrow><mn>3</mn><mfrac><mn>1</mn><mrow><mn>13</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>10.385</mn><mo>&#x2026;</mo><mo>&#x2212;</mo><mn>9.467</mn><mo>&#x2026;</mo><mo>=</mo><mn fontweight="bold">0.92</mn></mrow></math></p>
+<p><b>e</b> Var(1 &#x2212; 3<i>X</i>) = (&#x2212;3)<sup>2</sup> Var (<i>X</i>) = 9 &#x00D7; 0.92 = <b>8.28</b></p>
+</Solution>
+</QuestionData>
+</Exercise>
+</Chapter>
+</Section>
+</Unit>
+</SubjectArea>
+</ProductTitle>
+</ExamBoard>
+</Level>
+</Subject>
+</Harcourt>

@@ -1,0 +1,1368 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='standard triangular jigsaw 18' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='output'/>
+    <active-option view-id='input' option-id='input.paired.15'/>
+    <active-option view-id='output' option-id='output.normal size'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mn>1</mn>
+                    </mtd>
+                    <mtd>
+                      <mn>2</mn>
+                    </mtd>
+                    <mtd>
+                      <mn>3</mn>
+                    </mtd>
+                    <mtd>
+                      <mn>4</mn>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mn>3</mn>
+                    </mtd>
+                    <mtd>
+                      <mn>5</mn>
+                    </mtd>
+                    <mtd>
+                      <mn>7</mn>
+                    </mtd>
+                    <mtd>
+                      <mn>9</mn>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mi>n</mi>
+    <mo>+</mo>
+    <mn>1</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mtable columnalign = 'left' columnalign='left'>
+                              <mtr>
+                                <mtd>
+                                  <mn>1</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>2</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>3</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>4</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>2</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>4</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>6</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>8</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mi>n</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mtable columnalign = 'left' columnalign='left'>
+                              <mtr>
+                                <mtd>
+                                  <mn>1</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>2</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>3</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>4</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>11</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>13</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>15</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>17</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mi>n</mi>
+    <mo>+</mo>
+    <mn>9</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mn>1</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>2</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>3</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>4</mn>
+                          </mtd>
+                        </mtr>
+                        <mtr>
+                          <mtd>
+                            <mn>2</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>6</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>10</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>14</mn>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>4</mn>
+    <mi>n</mi>
+    <mo>&minus;</mo>
+    <mn>2</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mn>1</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>2</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>3</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>4</mn>
+                          </mtd>
+                        </mtr>
+                        <mtr>
+                          <mtd>
+                            <mn>4</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>6</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>8</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>10</mn>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mi>n</mi>
+    <mo>+</mo>
+    <mn>2</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mtable columnalign = 'left' columnalign='left'>
+                              <mtr>
+                                <mtd>
+                                  <mn>1</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>2</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>3</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>4</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>1</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>3</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>5</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>7</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mi>n</mi>
+    <mo>&minus;</mo>
+    <mn>1</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mn>1</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>2</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>3</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>4</mn>
+                          </mtd>
+                        </mtr>
+                        <mtr>
+                          <mtd>
+                            <mn>1</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>5</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>9</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>13</mn>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>4</mn>
+    <mi>n</mi>
+    <mo>&minus;</mo>
+    <mn>3</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mn>1</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>2</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>3</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>4</mn>
+                          </mtd>
+                        </mtr>
+                        <mtr>
+                          <mtd>
+                            <mn>4</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>7</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>10</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>13</mn>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mi>n</mi>
+    <mo>+</mo>
+    <mn>1</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mn>1</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>2</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>3</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>4</mn>
+                          </mtd>
+                        </mtr>
+                        <mtr>
+                          <mtd>
+                            <mn>1</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>6</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>11</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>16</mn>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>5</mn>
+    <mi>n</mi>
+    <mo>&minus;</mo>
+    <mn>4</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mtable columnalign = 'left' columnalign='left'>
+                              <mtr>
+                                <mtd>
+                                  <mtable columnalign = 'left' columnalign='left'>
+                                    <mtr>
+                                      <mtd>
+                                        <mn>1</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>2</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>3</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>4</mn>
+                                      </mtd>
+                                    </mtr>
+                                    <mtr>
+                                      <mtd>
+                                        <mn>1</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>2</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>3</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>4</mn>
+                                      </mtd>
+                                    </mtr>
+                                  </mtable>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mi>n</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mn>1</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>2</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>3</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>4</mn>
+                          </mtd>
+                        </mtr>
+                        <mtr>
+                          <mtd>
+                            <mn>20</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>19</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>18</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>17</mn>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>21</mn>
+    <mo>&minus;</mo>
+    <mi>n</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mn>1</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>2</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>3</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>4</mn>
+                          </mtd>
+                        </mtr>
+                        <mtr>
+                          <mtd>
+                            <mn>40</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>38</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>36</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>34</mn>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>42</mn>
+    <mo>&minus;</mo>
+    <mn>2</mn>
+    <mi>n</mi>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mn>1</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>2</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>3</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>4</mn>
+                          </mtd>
+                        </mtr>
+                        <mtr>
+                          <mtd>
+                            <mn>6</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>7</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>8</mn>
+                          </mtd>
+                          <mtd>
+                            <mn>9</mn>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mi>n</mi>
+    <mo>+</mo>
+    <mn>5</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mtable columnalign = 'left' columnalign='left'>
+                              <mtr>
+                                <mtd>
+                                  <mtable columnalign = 'left' columnalign='left'>
+                                    <mtr>
+                                      <mtd>
+                                        <mn>1</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>2</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>3</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>4</mn>
+                                      </mtd>
+                                    </mtr>
+                                    <mtr>
+                                      <mtd>
+                                        <mn>1</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>4</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>9</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>16</mn>
+                                      </mtd>
+                                    </mtr>
+                                  </mtable>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mi>n</mi>
+    <mtext>²</mtext>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mtable columnalign = 'left' columnalign='left'>
+                              <mtr>
+                                <mtd>
+                                  <mn>1</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>2</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>3</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>4</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>1</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>3</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>6</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>10</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>nth</mi>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mfenced open = '(' close = ')'>
+      <mrow>
+        <mi>n</mi>
+        <mtext>²</mtext>
+        <mo>+</mo>
+        <mi>n</mi>
+      </mrow>
+    </mfenced>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mtable columnalign = 'left' columnalign='left'>
+                              <mtr>
+                                <mtd>
+                                  <mn>1</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>2</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>3</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>4</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>10</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>11</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>12</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>13</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mi>n</mi>
+    <mo>+</mo>
+    <mn>9</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mtable columnalign = 'left' columnalign='left'>
+                              <mtr>
+                                <mtd>
+                                  <mn>1</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>2</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>3</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>4</mn>
+                                </mtd>
+                              </mtr>
+                              <mtr>
+                                <mtd>
+                                  <mn>8</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>10</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>12</mn>
+                                </mtd>
+                                <mtd>
+                                  <mn>14</mn>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>2</mn>
+    <mi>n</mi>
+    <mo>+</mo>
+    <mn>6</mn>
+  </mrow>
+</math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mtable frame='solid'>
+      <mtr>
+        <mtd>
+          <mtable columnalign = 'left' columnalign='center'>
+            <mtr>
+              <mtd>
+                <mtable columnalign = 'left' columnalign='left'>
+                  <mtr>
+                    <mtd>
+                      <mtable columnalign = 'left' columnalign='left'>
+                        <mtr>
+                          <mtd>
+                            <mtable columnalign = 'left' columnalign='left'>
+                              <mtr>
+                                <mtd>
+                                  <mtable columnalign = 'left' columnalign='left'>
+                                    <mtr>
+                                      <mtd>
+                                        <mn>1</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>2</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>3</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>4</mn>
+                                      </mtd>
+                                    </mtr>
+                                    <mtr>
+                                      <mtd>
+                                        <mn>9</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>12</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>15</mn>
+                                      </mtd>
+                                      <mtd>
+                                        <mn>18</mn>
+                                      </mtd>
+                                    </mtr>
+                                  </mtable>
+                                </mtd>
+                              </mtr>
+                            </mtable>
+                          </mtd>
+                        </mtr>
+                      </mtable>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mtd>
+            </mtr>
+          </mtable>
+
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>&nbsp;</mtext>
+    <msup>
+      <mi>n</mi>
+      <mi mathvariant = 'italic'>th</mi>
+    </msup>
+    <mtext>&nbsp;</mtext>
+    <mi mathvariant = 'italic'>term</mi>
+    <mo>=</mo>
+  </mrow>
+</math>
+<math display = 'block'>
+  <mrow>
+    <mn>3</mn>
+    <mi>n</mi>
+    <mo>+</mo>
+    <mn>6</mn>
+  </mrow>
+</math>
+  </eqnpair>
+</eqnpairs>

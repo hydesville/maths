@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+<Subject type="Mathematics">
+<Level age="">
+<ExamBoard title="AandAS">
+<ProductTitle name="Solutionbank">
+<SubjectArea name="Statistics" abbrev="S">
+<Unit number="1">
+<Section>
+<Chapter number="6" title="Correlation"><p><b>Chapter 6</b></p>
+<Exercise letter="A"><p><b>Exercise 6A</b></p>
+<QuestionData number="1">
+<Question>
+<p>The following scatter diagrams were drawn.</p>
+<p><img src="images\S1QF06a.jpg"/></p>
+<p><b>a</b> Describe the type of correlation shown by each scatter diagram.</p>
+<p><b>b</b> Interpret each correlation.</p>
+</Question><Solution>
+<p><b>a</b> i) no correlation &#x2013; points in all four quadrants</p><p>ii) negative correlation &#x2013; most points in second and fourth quadrant</p>
+<p>iii) positive correlation &#x2013; most points in first and third quadrant.</p>
+<p><b>b</b> i) There is no association between height and intelligence</p>
+<p>ii) As age increases price decreases</p>
+<p>iii) As length increases breadth increases</p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Some research was done into the effectiveness of a weight reducing drug. Seven people recorded their weight loss and this was compared with the length of time for which they had been treated. A scatter diagram was drawn to represent these data.</p>
+<p><img src="images\S1QF07.jpg"/></p>
+<p><b>a</b> Describe the type of correlation shown by the scatter diagram.</p>
+<p><b>b</b> Interpret the correlation in context.</p>
+</Question>
+<Solution>
+<p><b>a</b> Positive correlation.</p>
+<p><b>b</b> The longer the treatment the greater the loss of weight.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>Eight metal ingots were chosen at random and measurements were made of their breaking strength (<i>x</i>) and their hardness (<i>y</i>). The results are shown in the table below.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i> (tonne/cm)</b></td><td align="center">5</td><td align="center">7</td><td align="center">7.4</td><td align="center">6.8</td><td align="center">5.4</td><td align="center">7</td><td align="center">6.6</td><td align="center">6.4</td></tr>
+<tr><td><b><i>y</i> (hardness units)</b></td><td align="center">50</td><td align="center">70</td><td align="center">85</td><td align="center">70</td><td align="center">75</td><td align="center">60</td><td align="center">65</td><td align="center">60</td></tr></tbody></table></p>
+<p><b>a</b> Draw a scatter diagram to represent these data.</p>
+<p><b>b</b> Describe and interpret the correlation between the variables &#x2018;hardness&#x2019; and &#x2018;breaking strength&#x2019;.</p>
+</Question><Solution>
+<p><b>a</b><br/><img src="images\S1F058.jpg"/></p>
+<p><b>b</b> There is positive correlation between hardness and breaking strength, but it is not very strong. There is some reason to believe that as breaking strength increases so does hardness.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>For each of the following data sets plot a scatter diagram, and then describe the correlation.</p>
+<p><b>a</b> <table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center">1</td><td align="center">2.4</td><td align="center">3.6</td><td align="center">2.2</td><td align="center">4.3</td><td align="center">3.3</td><td align="center">4.0</td><td align="center">0.6</td></tr>
+<tr><td><b><i>y</i></b></td><td align="center">6.0</td><td align="center">9.0</td><td align="center">15.8</td><td align="center">7.1</td><td align="center">18.6</td><td align="center">12.1</td><td align="center">15.0</td><td align="center">3.7</td></tr></tbody></table></p>
+<p><b>b</b> <table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center">123</td><td align="center">160</td><td align="center">285</td><td align="center">210</td><td align="center">150</td><td align="center">240</td><td align="center">280</td><td align="center">115</td><td align="center">180</td></tr>
+<tr><td><b><i>y</i></b></td><td align="center">75</td><td align="center">70</td><td align="center">50</td><td align="center">65</td><td align="center">70</td><td align="center">55</td><td align="center">50</td><td align="center">80</td><td align="center">70</td></tr></tbody></table></p>
+</Question><Solution>
+<p><b>a</b><br/><img src="images\S1F059.jpg"/></p>
+<p><b>The correlation is positive</b></p>
+<p><b>b</b><br/><img src="images\S1F060.jpg"/></p>
+<p><b>The correlation is negative</b></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The table shows the armspan, in cm, and the height, in cm, of 10 adult men.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>Height <i>x</i> (cm)</b></td><td align="center">155</td><td align="center">160</td><td align="center">173</td><td align="center">192</td><td align="center">181</td><td align="center">178</td><td align="center">199</td><td align="center">166</td><td align="center">158</td><td align="center">173</td></tr>
+<tr><td><b>Armspan <i>y</i> (cm)</b></td><td align="center">147</td><td align="center">159</td><td align="center">168</td><td align="center">180</td><td align="center">170</td><td align="center">173</td><td align="center">186</td><td align="center">162</td><td align="center">153</td><td align="center">168</td></tr></tbody>
+</table></p>
+<p><b>a</b> Draw a scatter diagram to represent these data.</p>
+<p><b>b</b> Describe and interpret the correlation between the two variables &#x2018;height&#x2019; and &#x2018;armspan&#x2019;.</p>
+</Question><Solution>
+<p><b>a</b><br/><img src="images\S1F061.jpg"/></p>
+<p><b>b</b> It is positive correlation.</p>
+<p>As height increases arm-span increases.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>Eight students were asked to estimate the mass of a bag of sweets in grams. First they were asked to estimate the mass without touching the bag and then they were told to pick the bag up and estimate the mass again. The results are shown in the table below.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>Student</b></td><td align="center">A</td><td align="center">B</td><td align="center">C</td><td align="center">D</td><td align="center">E</td><td align="center">F</td><td align="center">G</td><td align="center">H</td></tr>
+<tr><td><b>Estimate of mass not touching bag (g)</b></td><td align="center">25</td><td align="center">18</td><td align="center">32</td><td align="center">27</td><td align="center">21</td><td align="center">35</td><td align="center">28</td><td align="center">30</td></tr>
+<tr><td><b>Estimate of mass holding bag (g)</b></td><td align="center">16</td><td align="center">11</td><td align="center">20</td><td align="center">17</td><td align="center">15</td><td align="center">26</td><td align="center">22</td><td align="center">20</td></tr></tbody></table></p>
+<p><b>a</b> Draw a scatter diagram to represent these data.</p>
+<p><b>b</b> Describe and interpret the correlation between the two variables.</p>
+</Question><Solution>
+<p><img src="images\S1F062.jpg"/></p>
+<p><b>b.</b> It shows positive correlation. As the weight not touching the bag increased so did the weight touching it. OR Students who guessed a heavy weight not touching the bag also did touching it and vice versa.</p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="B"><p><b>Exercise 6B</b></p>
+<QuestionData number="1">
+<Question>
+<p>Given &#x03A3;<i>x</i> = 18.5 &#x03A3;<i>x</i><sup>2</sup> = 36 <i>n</i> = 10 find the value of <i>S</i><sub><i>xx</i></sub>.</p></Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi>[</mrow></msub><mo>=</mo><mn>36</mn><mo>&#x2212;</mo><mfrac><mrow><mn>18.5</mn><mo>&#x00D7;</mo><mn>18.5</mn></mrow><mn>10</mn></mfrac><mo>=</mo><mn>36</mn><mo>&#x2013;</mo><mn>34.225</mn><mo>=</mo><mn>1.775</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Given &#x03A3;<i>y</i> = 25.7 &#x03A3;<i>y</i><sup>2</sup> = 140 <i>n</i> = 5 find the value of <i>S</i><sub><i>yy</i></sub>.</p></Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>y</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>140</mn><mo>&#x2212;</mo><mfrac><mrow><mn>25.7</mn><mo>&#x00D7;</mo><mn>25.7</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>140</mn><mo>&#x2212;</mo><mn>132.098</mn><mo>=</mo><mn fontweight="bold">7.90</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>Given &#x03A3;<i>x</i> = 15 &#x03A3;<i>y</i> = 35 &#x03A3;<i>xy</i> = 91 <i>n</i> = 5 find the value of <i>S</i><sub><i>xy</i></sub>.</p></Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>91</mn><mo>&#x2212;</mo><mfrac><mrow><mn>15</mn><mo>&#x00D7;</mo><mn>35</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>91</mn><mo>&#x2013;</mo><mn>105</mn><mo>=</mo><mn fontweight="bold">&#x2212;14</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>Given that <i>S</i><sub><i>xx</i></sub> = 92, <i>S</i><sub><i>yy</i></sub> = 112 and <i>S</i><sub><i>xy</i></sub> = 100 find the value of the product moment correlation coefficient.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mn>100</mn></mrow><mrow><msqrt><mrow><mn>92</mn><mo>&#x00D7;</mo><mn>112</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>100</mn></mrow><mrow><mn>101.50862</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">0.985</mn><mo>&#x2026;</mo></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>Given the following summary data,
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody><tr><td>&#x03A3;<i>x</i> = 367</td><td>&#x03A3;<i>y</i> = 270</td><td>&#x03A3;<i>x</i><sup>2</sup> = 33 845</td><td>&#x03A3;<i>y</i><sup>2</sup> = 12976</td><td>&#x03A3;<i>xy</i> = 17 135</td><td><i>n</i> = 6</td></tr></tbody></table></p>
+<p>calculate the product moment correlation coefficient (<i>r</i>) using the formula:</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><semantics><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub></mrow><mrow><msqrt><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><msub><mi>S</mi><mrow><mi>y</mi><mi>y</mi></mrow></msub></mrow></msqrt></mrow></mfrac></mrow></semantics></math></p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>33845</mn><mo>&#x2212;</mo><mfrac><mrow><mn>367</mn><mo>&#x00D7;</mo><mn>367</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>33845</mn><mo>&#x2013;</mo><mn>22448.166..</mn><mo>=</mo><mn>11396.833..</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>y</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>12976</mn><mo>&#x2212;</mo><mfrac><mrow><mn>270</mn><mo>&#x00D7;</mo><mn>270</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>12976</mn><mo>&#x2013;</mo><mn>12150</mn><mo>=</mo><mn>826</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>17135</mn><mo>&#x2212;</mo><mfrac><mrow><mn>367</mn><mo>&#x00D7;</mo><mn>270</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>17135</mn><mo>&#x2013;</mo><mn>16515</mn><mo>=</mo><mn>620</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mn>620</mn></mrow><mrow><msqrt><mrow><mn>11396.833</mn><mo>&#x00D7;</mo><mn>826</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>620</mn></mrow><mrow><mn>3068.189</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">0.202</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The ages, <i>a</i> years, and heights, <i>h</i> cm, of seven members of a team were recorded. The data were summarised as follows:
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>a</i> = 115</td><td>&#x03A3;<i>a</i><sup>2</sup> = 1899</td><td><i>S</i><sub><i>hh</i></sub> = 571.4</td><td><i>S</i><sub><i>ah</i></sub> = 72.1</td></tr></tbody></table></p>
+<p><b>a</b> Find <i>S</i><sub><i>aa</i></sub>.</p>
+<p><b>b</b> Find the value of the product moment correlation coefficient between <i>a</i> and <i>h</i>.</p>
+<p><b>c</b> Describe and interpret the correlation between the age and height of these seven people based on these data.</p></Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mi>S</mi><mrow><mi>a</mi><mi>a</mi></mrow></msub><mo>=</mo><mn>1899</mn><mo>&#x2212;</mo><mfrac><mrow><mn>115</mn><mo>&#x00D7;</mo><mn>115</mn></mrow><mn>7</mn></mfrac><mo>=</mo><mn fontweight="bold">9.7142</mn><mo>&#x2026;</mo><mn>..</mn></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mn>72.1</mn></mrow><mrow><msqrt><mrow><mn>9.7142</mn><mo>&#x2026;</mo><mo>&#x00D7;</mo><mn>571.4</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>72.1</mn></mrow><mrow><mn>74.50</mn><mo>&#x2026;</mo></mrow></mfrac><mo>=</mo><mn>0.9677</mn><mo>&#x2026;</mo><mo>=</mo><mn fontweight="bold">0.968</mn></mrow></math></p>
+<p><b>c</b> This is positive correlation. The older the age the taller the person.</p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>In research on the quality of bacon produced by different breeds of pig, data were obtained about the leanness (<i>l</i>) and taste (<i>t</i>) of the bacon. The data is shown in the table.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>Leanness <i>l</i></b></td><td align="center">1.5</td><td align="center">2.6</td><td align="center">3.4</td><td align="center">5.0</td><td align="center">6.1</td><td align="center">8.2</td></tr>
+<tr><td><b>Taste <i>t</i></b></td><td align="center">5.5</td><td align="center">5.0</td><td align="center">7.7</td><td align="center">9.0</td><td align="center">10.0</td><td align="center">10.2</td></tr></tbody>
+</table></p>
+<p><b>a</b> Find <i>S</i><sub><i>ll</i></sub>, <i>S</i><sub><i>tt</i></sub> and <i>S</i><sub><i>lt</i></sub>.</p>
+<p><b>b</b> Calculate the product moment correlation coefficient between <i>l</i> and <i>t</i> using the values found in <b>a.</b> If you have a calculator that will work out <i>r</i> use it to check your answer.</p></Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>l</mi><mo>=</mo><mn>26.8</mn><mtext>&#x2003;</mtext><mstyle displaystyle='true'><munder><mo>&#x2211;</mo><mrow><mtext>n</mtext><mo>=</mo><mn>6</mn></mrow></munder></mstyle><msup><mi>l</mi><mn>2</mn></msup><mo>=</mo><mn>150.02</mn><mtext>&#x2003;</mtext><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>t</mi><mo>=</mo><mn>47.4</mn><mtext>&#x2003;</mtext><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><msup><mi>t</mi><mn>2</mn></msup><mo>=</mo><mn>399.58</mn><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>l</mi><mi>t</mi><mo>=</mo><mn>237.07</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>l</mi><mi>l</mi></mrow></msub><mo>=</mo><mn>150.02</mn><mo>&#x2212;</mo><mfrac><mrow><mn>26.8</mn><mo>&#x00D7;</mo><mn>26.8</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>150.02</mn><mo>&#x2013;</mo><mn>119.7066</mn><mo>&#x2026;</mo><mn>.</mn><mo>=</mo><mn fontweight="bold">30.3133</mn><mo>&#x2026;</mo></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>t</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>399.58</mn><mo>&#x2212;</mo><mfrac><mrow><mn>47.4</mn><mo>&#x00D7;</mo><mn>47.4</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>399.58</mn><mo>&#x2013;</mo><mn>374.46</mn><mo>=</mo><mn fontweight="bold">25.12</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>l</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>237.07</mn><mo>&#x2212;</mo><mfrac><mrow><mn>26.8</mn><mo>&#x00D7;</mo><mn>47.4</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>237.07</mn><mo>&#x2013;</mo><mn>211.72</mn><mo>=</mo><mn fontweight="bold">25.35</mn></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mn>25.35</mn></mrow><mrow><msqrt><mrow><mn>30.3133</mn><mo>&#x00D7;</mo><mn>25.12</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>25.35</mn></mrow><mrow><mn>27.5947</mn><mo>&#x2026;</mo></mrow></mfrac><mo>=</mo><mn>0.9186</mn><mo>&#x2026;</mo><mn>.</mn><mo>=</mo><mn fontweight="bold">0.919</mn></mrow></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="8">
+<Question>
+<p>Eight children had their IQ measured and then took a general knowledge test. Their IQ, (<i>x</i>), and their marks, (<i>y</i>), for the test were summarised as follows:
+<table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>x</i> = 973</td><td>&#x03A3;<i>x</i><sup>2</sup> = 120 123</td><td>&#x03A3;<i>y</i> = 490</td><td>&#x03A3;<i>y</i><sup>2</sup> = 33 000</td><td>&#x03A3;<i>xy</i> = 61 595.</td></tr></tbody></table></p>
+<p><b>a</b> Calculate the product moment correlation coefficient.</p>
+<p><b>b</b> Describe and interpret the correlation coefficient between IQ and general knowledge.</p></Question><Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>120123</mn><mo>&#x2212;</mo><mfrac><mrow><mn>973</mn><mo>&#x00D7;</mo><mn>973</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn>120123</mn><mo>&#x2013;</mo><mn>118341.125</mn><mo>=</mo><mn fontweight="bold">1781.875</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>y</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>33000</mn><mo>&#x2212;</mo><mfrac><mrow><mn>490</mn><mo>&#x00D7;</mo><mn>490</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn>33000</mn><mo>&#x2013;</mo><mn>30012.5</mn><mo>=</mo><mn fontweight="bold">2987.5</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>61595</mn><mo>&#x2212;</mo><mfrac><mrow><mn>973</mn><mo>&#x00D7;</mo><mn>490</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn>61595</mn><mo>&#x2013;</mo><mn>59596.25</mn><mo>=</mo><mn fontweight="bold">1998.75</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mn>1998.75</mn></mrow><mrow><msqrt><mrow><mn>1781.875</mn><mo>&#x00D7;</mo><mn>2987.5</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1998.75</mn></mrow><mrow><mn>2307.2389</mn></mrow></mfrac><mo>=</mo><mn>0.8662</mn><mo>&#x2026;</mo><mn>.</mn><mo>=</mo><mn fontweight="bold">0.866</mn></mrow></math></p>
+<p><b>b</b> The correlation is positive. The higher the IQ, the higher the mark gained in the general knowledge test. (OR The higher the mark gained in the intelligence test the higher the IQ.)</p>
+</Solution>
+</QuestionData>
+<QuestionData number="9">
+<Question>
+<p>In a training scheme for young people, the average time taken for each age group to reach a certain level of proficiency was measured. The data are shown in the table.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>Age <i>x</i> (years)</b></td><td align="right">16</td><td align="right">17</td><td align="right">18</td><td align="right">19</td><td align="right">20</td><td align="right">21</td><td align="right">22</td><td align="right">23</td><td align="right">24</td><td align="right">25</td></tr>
+<tr><td><b>Average time <i>y</i> (hours)</b></td><td align="right">12</td><td align="right">11</td><td align="right">10</td><td align="right">9</td><td align="right">11</td><td align="right">8</td><td align="right">9</td><td align="right">7</td><td align="right">6</td><td align="right">8</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Find <i>S</i><sub><i>xx</i></sub>, <i>S</i><sub><i>yy</i></sub> and <i>S</i><sub><i>xy</i></sub>.</p>
+<p><b>b</b> Use your answers to calculate the product moment correlation coefficient (<i>r</i>).</p>
+<p><b>c</b> Describe and interpret the relationship between average time and age.</p></Question>
+<Solution>
+<p><b>a</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>x</mi><mo>=</mo><mn>205</mn><mtext>&#x2003;</mtext><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>4285</mn><mtext>&#x2003;</mtext><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>y</mi><mo>=</mo><mn>91</mn><mtext>&#x2003;</mtext><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>861</mn><mtext>&#x2003;</mtext><mstyle displaystyle='true'><mo>&#x2211;</mo></mstyle><mi>x</mi><mi>y</mi><mo>=</mo><mn>1821</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>4285</mn><mo>&#x2013;</mo><mfrac><mrow><mn>205</mn><mo>&#x00D7;</mo><mn>205</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn>4285</mn><mo>&#x2212;</mo><mn>4202.5</mn><mo>=</mo><mn fontweight="bold">82.5</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>y</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>861</mn><mo>&#x2013;</mo><mfrac><mrow><mn>91</mn><mo>&#x00D7;</mo><mn>91</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn>861</mn><mo>&#x2212;</mo><mn>828.1</mn><mo>=</mo><mn fontweight="bold">32.9</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>1821</mn><mo>&#x2212;</mo><mfrac><mrow><mn>205</mn><mo>&#x00D7;</mo><mn>91</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn>1821</mn><mo>&#x2013;</mo><mn>1865.5</mn><mo>=</mo><mo>&#x2212;</mo><mn fontweight="bold">44.5</mn></mrow></math></p>
+<p><b>b</b> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mo>&#x2212;</mo><mn>44.5</mn></mrow><mrow><msqrt><mrow><mn>82.5</mn><mo>&#x00D7;</mo><mn>32.9</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>&#x2212;</mo><mn>44.5</mn></mrow><mrow><mn>52.09846</mn><mo>&#x2026;</mo></mrow></mfrac><mo>=</mo><mo>&#x2212;</mo><mn>0.8541</mn><mo>&#x2026;</mo><mo>=</mo><mo>&#x2212;</mo><mn fontweight="bold">0.854</mn></mrow></math></p>
+<p><b>c</b> The correlation is negative. The greater the age the less time taken to reach the required level of proficiency.</p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="C"><p><b>Exercise 6C</b></p>
+<QuestionData number="1">
+<Question>
+<p>The following product moment correlation coefficients were calculated</p>
+<p><table width="50%"><col align="left" valign="top"/><tbody><tr><td><b>i</b> &#x2212;0.96</td><td><b>ii</b> &#x2212;0.35</td><td><b>iii</b> 0 </td><td><b>iv</b> 0.72</td></tr></tbody></table></p>
+<p>Write down the coefficient that</p>
+<p><table width="70%"><col align="left" valign="top"/><tbody><tr><td><b>a</b> shows the least correlation,</td><td><b>b</b> shows the most correlation.</td></tr></tbody></table></p>
+</Question><Solution>
+<p><b>a (iii)</b> The value 0 shows no correlation.</p>
+<p><b>b (i)</b> &#x2212;0.96 is high negative correlation.</p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Here are some product moment correlation coefficients.</p>
+<p><table width="70%"><col align="left" valign="top"/><tbody><tr><td><b>i</b> &#x2212;1,</td><td><b>ii</b> &#x2212;0.5,</td><td><b>iii</b> 0</td><td><b>iv</b> 0.5,</td><td><b>v</b> 1.</td></tr></tbody></table></p>
+<p>Write down which one shows</p>
+<p><table width="70%"><col align="left" valign="top"/><tbody><tr><td><b>a</b> perfect negative correlation,</td><td><b>b</b> zero correlation.</td></tr></tbody></table></p>
+</Question><Solution>
+<p><b>a (i)</b></p>
+<p><b>b (iii)</b></p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>Ahmed works out the product moment correlation coefficient between the heights of a group of fathers and the heights of their sons to be 0.954. Write down what this tells you about the relationship between their heights.</p>
+</Question>
+<Solution>
+<p>There is a strong positive correlation between the heights of fathers and their sons.</p>
+<p>The taller the father the taller the son will be.</p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>Maria draws some scatter diagrams. They are shown below.</p>
+<p><img src="images\S1QF08.jpg"/></p>
+<p>Write down which scatter diagram shows:</p>
+<p><b>i</b> a correlation of +1,</p>
+<p><b>ii</b> a correlation that could be described as strong positive correlation,</p>
+<p><b>iii</b> a correlation of about &#x2212;0.97,</p>
+<p><b>iv</b> a correlation that shows almost no correlation.</p>
+</Question>
+<Solution>
+<p><b>a goes with (ii)</b></p>
+<p><b>b goes with (iv)</b></p>
+<p><b>c goes with (iii)</b></p>
+<p><b>d goes with (i)</b>.</p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>Jake finds that the product moment correlation coefficients between two variables <i>x</i> and <i>y</i> is 0.95. The product moment correlation coefficient between two other variables <i>s</i> and <i>t</i> was &#x2212;0.95. Discuss how these two coefficients differ.</p>
+</Question><Solution>
+<p><i>x</i> and <i>y</i> have a positive correlation that is close to 1. As one increases so does the other.</p>
+<p><i>s</i> and <i>t</i> have a negative correlation that is close to &#x2212;1. As one rises the other falls.</p>
+<p>The rate of rise in one pair of variables is the same as the rate of fall of the other pair.</p>
+</Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>Patsy collects some data to find out if there is any relationship between the numbers of car accidents and computer ownership. She calculates the product moment correlation coefficient between the two variables. There is a strong positive correlation. She says as car accidents increase so does computer ownership. Write down whether or not this is sensible. Give reasons for your answer.</p>
+</Question><Solution>
+<p>This is not sensible as there is no way that one is directly dependent on the other. It could be that you are more likely to drive a car if you own a computer.</p>
+</Solution></QuestionData>
+<QuestionData number="7">
+<Question>
+<p>Raj collects some data to find out whether there is any relationship between the height of students in his year group and the pass rate in driving tests. He finds that there is a strong positive correlation. He says that as height increases, so does your chance of passing your driving test. Is this sensible? Give reasons for your answer.</p>
+</Question><Solution>
+<p>This is not sensible. Pass rates in driving tests do not depend on height. There will be some other reason for his results. Possibly the ages of the students are different or it could just be accidental.</p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="D"><p><b>Exercise 6D</b></p>
+<QuestionData number="1">
+<Question>
+<p>Coding is to be used to work out the value of the product moment correlation coefficient for the following sets of data. Suggest a suitable coding for each.</p>
+<p><b>a</b>
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center">2000</td><td align="center">2010</td><td align="center">2015</td><td align="center">2005</td><td align="center">2003</td><td align="center">2006</td></tr>
+<tr><td><b><i>y</i></b></td><td align="center">3</td><td align="center">6</td><td align="center">21</td><td align="center">6</td><td align="center">9</td><td align="center">18</td></tr></tbody>
+</table></p>
+<p><b>b</b>
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>s</i></b></td><td align="center">100</td><td align="center">300</td><td align="center">200</td><td align="center">400</td><td align="center">300</td><td align="center">700</td></tr>
+<tr><td><b><i>t</i></b></td><td align="center">2</td><td align="center">0</td><td align="center">1</td><td align="center">3</td><td align="center">3</td><td align="center">6</td></tr></tbody>
+</table></p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><i>x</i> &#x2212; 2000 and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mi>y</mi><mn>3</mn></mfrac></mrow></math>(OR <i>x</i> &#x2212; any number beginning 20--)</p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mi>s</mi><mrow><mn>100</mn></mrow></mfrac></mrow></math> and leave <i>t</i> as it is.</p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>For the two variables <i>x</i> and <i>y</i> the coding of <i>A</i> = <i>x</i> &#x2212; 7 and <i>B</i> = <i>y</i> &#x2212; 100 is to be used.</p>
+<p>The product moment correlation coefficient for <i>A</i> and <i>B</i> is found to be 0.973.</p>
+<p>What is the product moment correlation coefficient for <i>x</i> and <i>y</i>?</p>
+</Question><Solution>
+<p>0.973</p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>Use the coding: <i>p</i> = <i>x</i> and <i>q</i> = <i>y</i> &#x2212; 100 to work out the product moment correlation coefficient for the following data.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center">0</td><td align="center">5</td><td align="center">3</td><td align="center">2</td><td align="center">1</td></tr>
+<tr><td><b><i>y</i></b></td><td align="center">100</td><td align="center">117</td><td align="center">112</td><td align="center">110</td><td align="center">106</td></tr></tbody>
+</table></p>
+</Question><Solution>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><i>p</i></td><td align="center">0</td><td align="center">5</td><td align="center">3</td><td align="center">2</td><td align="center">1</td></tr> <tr><td align="center"><i>q</i></td><td align="center">0</td><td align="center">17</td><td align="center">12</td><td align="center">10</td><td align="center">6</td></tr></tbody></table></p>
+<p>
+<table width="80%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>p</i> = 11</td><td>&#x03A3;<i>p</i><sup>2</sup> = 39</td><td>&#x03A3;<i>q</i> = 45</td><td>&#x03A3;<i>q</i><sup>2</sup> =569</td><td>&#x03A3;<i>pq</i> = 147</td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>S</mtext><mrow><mi>p</mi><mi>p</mi></mrow></msub><mo>=</mo><mn>39</mn><mo>&#x2212;</mo><mfrac><mrow><mn>11</mn><mo>&#x00D7;</mo><mn>11</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>14.8</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>S</mtext><mrow><mi>q</mi><mi>q</mi></mrow></msub><mo>=</mo><mn>569</mn><mo>&#x2212;</mo><mfrac><mrow><mn>45</mn><mo>&#x00D7;</mo><mn>45</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>164</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mtext>S</mtext><mrow><mi>p</mi><mi>q</mi></mrow></msub><mo>=</mo><mn>147</mn><mo>&#x2212;</mo><mfrac><mrow><mn>11</mn><mo>&#x00D7;</mo><mn>45</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>48</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mn>48</mn></mrow><mrow><msqrt><mrow><mn>14.8</mn><mo>&#x00D7;</mo><mn>164</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>48</mn></mrow><mrow><mn>49.2666</mn><mo>&#x2026;</mo></mrow></mfrac><mo>=</mo><mn>0.9742</mn><mo>&#x2026;</mo><mo>=</mo><mn fontweight="bold">0.974</mn></mrow></math></p>
+<p>Coding does not affect the value of the product moment correlation coefficient.</p>
+<p>So for <i>x</i> and <i>y</i> we have <b><i>r</i> = 0.974</b></p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The product moment correlation is to be worked out for the following data set using coding.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center">50</td><td align="center">40</td><td align="center">55</td><td align="center">45</td><td align="center">60</td></tr>
+<tr><td><b><i>y</i></b></td><td align="center">4</td><td align="center">3</td><td align="center">5</td><td align="center">4</td><td align="center">6</td></tr></tbody>
+</table></p>
+<p><b>a</b> Using the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><semantics><mrow><mi>p</mi><mo>=</mo><mfrac><mi>x</mi><mn>5</mn></mfrac></mrow></semantics></math> and <i>t</i> = <i>y</i> find the values of <i>S</i><sub><i>pp</i></sub>, <i>S</i><sub><i>tt</i></sub> and <i>S</i><sub><i>pt</i></sub>.</p>
+<p><b>b</b> Calculate the product moment correlation between <i>p</i> and <i>t</i>.</p>
+<p><b>c</b> Write down the product moment correlation between <i>x</i> and <i>y</i>.</p>
+</Question><Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+ <tr><td align="center"><i>p</i></td><td align="center">10</td><td align="center">8</td><td align="center">11</td><td align="center">9</td><td align="center">12</td></tr> <tr><td align="center"><i>t</i></td><td align="center">4</td><td align="center">3</td><td align="center">5</td><td align="center">4</td><td align="center">6</td></tr></tbody></table></p>
+<p>
+<table width="80%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>p</i> = 50</td><td>&#x03A3;<i>p</i><sup>2</sup> = 510</td><td>&#x03A3;<i>t</i> = 22</td><td>&#x03A3;<i>t</i><sup>2</sup> = 102</td><td>&#x03A3;<i>pt</i> = 227</td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>p</mi><mi>p</mi></mrow></msub><mo>=</mo><mn>510</mn><mo>&#x2212;</mo><mfrac><mrow><mn>50</mn><mo>&#x00D7;</mo><mn>50</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn fontweight="bold">10</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>t</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>102</mn><mo>&#x2212;</mo><mfrac><mrow><mn>22</mn><mo>&#x00D7;</mo><mn>22</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn fontweight="bold">5.2</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>p</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>227</mn><mo>&#x2212;</mo><mfrac><mrow><mn>50</mn><mo>&#x00D7;</mo><mn>22</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn fontweight="bold">7</mn></mrow></math></p>
+<p><b>b</b></p><p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>r</mi><mo>=</mo><mfrac><mn>7</mn><mrow><msqrt><mrow><mn>10</mn><mo>&#x00D7;</mo><mn>5.2</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mn>7</mn><mrow><mn>7.2111</mn><mo>&#x2026;</mo></mrow></mfrac><mo>=</mo><mn>0.9707</mn><mo>&#x2026;</mo><mo>=</mo><mn fontweight="bold">0.971</mn></mrow></math></p>
+<p><b>c</b></p>
+<p><b><i>r</i> = 0.971</b> (Coding has no effect on the value of <i>r</i>)</p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The tail length (<i>t</i> cm) and the mass (<i>m</i> grams) for each of eight woodmice were measured. The data is shown in the table.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>t</i> (cm)</b></td><td align="center">8.5</td><td align="center">7.5</td><td align="center">8.6</td><td align="center">7.3</td><td align="center">8.1</td><td align="center">7.5</td><td align="center">8.0</td><td align="center">7.8</td></tr>
+<tr><td><b><i>m</i> (g)</b></td><td align="center">28</td><td align="center">22</td><td align="center">26</td><td align="center">21</td><td align="center">25</td><td align="center">20</td><td align="center">20</td><td align="center">22</td></tr></tbody></table></p>
+<p><b>a</b> Using the coding <i>x</i> = <i>t</i> &#x2212; 7.3 and <i>y</i> = <i>m</i> &#x2212; 20 complete the following table</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center">1.2</td><td>&#x00A0;</td><td>&#x00A0;</td><td align="center">0</td><td>&#x00A0;</td><td>&#x00A0;</td><td>&#x00A0;</td><td align="center">0.5</td></tr>
+<tr><td><b><i>y</i></b></td><td align="center">8</td><td>&#x00A0;</td><td>&#x00A0;</td><td align="center">1</td><td>&#x00A0;</td><td>&#x00A0;</td><td>&#x00A0;</td><td>&#x00A0;</td></tr></tbody></table></p>
+<p><b>b</b> Find <i>S</i><sub><i>xx</i></sub>, <i>S</i><sub><i>yy</i></sub> and <i>S</i><sub><i>xy</i></sub>.</p>
+<p><b>c</b> Calculate the value of the product moment correlation coefficient between <i>x</i> and <i>y</i>.</p>
+<p><b>d</b> Write down the product moment correlation coefficient between <i>t</i> and <i>m</i>.</p>
+<p><b>e</b> Write down the conclusion that can be drawn about the relationship between tail length and mass of woodmice.</p>
+</Question><Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><i>x</i></td><td align="center">1.2</td><td align="center">0.2</td><td align="center">1.3</td><td align="center">0</td><td align="center">0.8</td><td align="center">0.2</td><td align="center">0.7</td><td align="center">0.5</td></tr> <tr><td align="center"><i>y</i></td><td align="center">8</td><td align="center">2</td><td align="center">6</td><td align="center">1</td><td align="center">5</td><td align="center">0</td><td align="center">0</td><td align="center">2</td></tr></tbody></table></p>
+<p><b>b</b></p>
+<p>
+<table width="80%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>x</i> = 4.9</td><td>&#x03A3;<i>x</i><sup>2</sup> = 4.59</td><td>&#x03A3;<i>y</i> = 24</td><td>&#x03A3;<i>y</i><sup>2</sup> = 134</td><td>&#x03A3;<i>xy</i> = 22.8</td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>4.59</mn><mo>&#x2212;</mo><mfrac><mrow><mn>4.9</mn><mo>&#x00D7;</mo><mn>4.9</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">1.58875</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>y</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>134</mn><mo>&#x2212;</mo><mfrac><mrow><mn>24</mn><mo>&#x00D7;</mo><mn>24</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">62</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>22.8</mn><mo>&#x2212;</mo><mfrac><mrow><mn>4.9</mn><mo>&#x00D7;</mo><mn>24</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">8.1</mn></mrow></math></p>
+<p><b>c</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mn>8.1</mn></mrow><mrow><msqrt><mrow><mn>1.58875</mn><mo>&#x00D7;</mo><mn>62</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>8.1</mn></mrow><mrow><mn>9.9248</mn><mo>&#x2026;</mo></mrow></mfrac><mo>=</mo><mn>0.8161</mn><mo>&#x2026;</mo><mo>=</mo><mn fontweight="bold">0.816</mn></mrow></math></p>
+<p><b>d</b></p>
+<p><b><i>r</i> = 0.816</b></p>
+<p><b>e</b> Positive correlation.</p>
+<p>The greater the mass of a wood mouse the longer the tail length.</p>
+</Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>A shopkeeper thinks that the more newspapers he sells in a week the more sweets he sells. He records the amount of money (<i>m</i> pounds) that he takes in newspaper sales and also the amount of money he takes in sweet sales (<i>s</i> pounds) each week for seven weeks. The data are shown are the following table.</p>
+<p><table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>Newspaper sales (<i>m</i> pounds)</b></td><td align="center">380</td><td align="center">402</td><td align="center">370</td><td align="center">365</td><td align="center">410</td><td align="center">392</td><td align="center">385</td></tr>
+<tr><td><b>Sweet sales (<i>s</i> pounds)</b></td><td align="center">560</td><td align="center">543</td><td align="center">564</td><td align="center">573</td><td align="center">550</td><td align="center">544</td><td align="center">530</td></tr></tbody>
+</table></p>
+<p><b>a</b> Use the coding <i>x</i> = <i>m</i> &#x2212; 365 and <i>y</i> = <i>s</i> &#x2212; 530 to find S<sub><i>xx</i></sub>, S<sub><i>yy</i></sub> and S<sub><i>xy</i></sub>.</p>
+<p><b>b</b> Calculate the product moment correlation coefficient for <i>m</i> and <i>s</i>.</p>
+<p><b>c</b> State, with a reason, whether or not what the shopkeeper thinks is correct.</p>
+</Question><Solution>
+<p><b>a</b></p>
+<p>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><b><i>x</i></b></td><td align="center"><b>15</b></td><td align="center"><b>37</b></td><td align="center"><b>5</b></td><td align="center"><b>0</b></td><td align="center"><b>45</b></td><td align="center"><b>27</b></td><td align="center"><b>20</b></td></tr> <tr><td align="center"><b><i>y</i></b></td><td align="center"><b>30</b></td><td align="center"><b>13</b></td><td align="center"><b>34</b></td><td align="center"><b>43</b></td><td align="center"><b>20</b></td><td align="center"><b>14</b></td><td align="center"><b>0</b></td></tr></tbody></table></p>
+<p>
+<table width="80%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>x</i> = 149</td><td>&#x03A3;<i>x</i><sup>2</sup> = 4773</td><td>&#x03A3;<i>y</i> = 154</td><td>&#x03A3;<i>y</i><sup>2</sup> = 4670</td><td>&#x03A3;<i>xy</i> = 2379</td></tr></tbody></table></p> 
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi mathvariant="normal">S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>4773</mn><mo>&#x2212;</mo><mfrac><mrow><mn>149</mn><mo>&#x00D7;</mo><mn>149</mn></mrow><mn>7</mn></mfrac><mo>=</mo><mn fontweight="bold">1601.4285</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi mathvariant="normal">S</mi><mrow><mi>y</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>4670</mn><mo>&#x2212;</mo><mfrac><mrow><mn>154</mn><mo>&#x00D7;</mo><mn>154</mn></mrow><mn>7</mn></mfrac><mo>=</mo><mn fontweight="bold">1282</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi mathvariant="normal">S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>2379</mn><mo>&#x2212;</mo><mfrac><mrow><mn>149</mn><mo>&#x00D7;</mo><mn>154</mn></mrow><mn>7</mn></mfrac><mo>=</mo><mn fontweight="bold">&#x2212; 899</mn></mrow></math></p>
+<p><b>b</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi fontweight="bold">r</mi><mo>=</mo><mfrac><mrow><mo>&#x2212;</mo><mn>899</mn></mrow><mrow><msqrt><mrow><mn>1601.4285</mn><mo>&#x00D7;</mo><mn>1282</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>&#x2212;</mo><mn>899</mn></mrow><mrow><mn>1432.84</mn><mo>&#x2026;</mo><mn>..</mn></mrow></mfrac><mo>=</mo><mo>&#x2212;</mo><mn>0.6274</mn><mo>&#x2026;</mo><mo>=</mo><mn fontweight="bold">&#x2212; 0.627</mn></mrow></math></p>
+<p><b>c</b> The shopkeeper is not correct. This is negative correlation so as the newspaper sales go up the sweet sales go down</p></Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="E"><p><b>Mixed exercise 6E</b></p>
+<QuestionData number="1">
+<Question>
+<p>The following table shows the distance (<i>x</i>) in miles and the cost (<i>y</i>) in pounds of each of 10 taxi journeys.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i> (miles)</b></td><td align="center">8</td><td align="center">6.5</td><td align="center">4</td><td align="center">2.5</td><td align="center">5.5</td><td align="center">9</td><td align="center">2</td><td align="center">10</td><td align="center">4.5</td><td align="center">7.5</td></tr>
+<tr><td><b><i>y</i> (pounds)</b></td><td align="center">10.2</td><td align="center">8.8</td><td align="center">7.2</td><td align="center">5.7</td><td align="center">7.4</td><td align="center">11.0</td><td align="center">5.2</td><td align="center">12.0</td><td align="center">6.4</td><td align="center">10.0</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Draw a scatter diagram to represent these data.</p>
+<p><b>b</b> Describe and interpret the correlation between the two variables.</p></Question>
+<Solution>
+<p><b>a</b></p>
+<p><img src="images\S1F063.jpg"/></p>
+<p><b>b</b></p>
+<p>The correlation is positive. The further the taxi travels the more it costs.</p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>The following scatter diagrams were drawn.</p>
+<p><img src="images\S1QF09.jpg"/></p>
+<p><b>a</b> State whether each shows positive, negative or no correlation.</p>
+<p><b>b</b> Interpret each scatter diagram in context.</p>
+</Question><Solution>
+<p><b>a</b> i is positive correlation. ii is negative correlation. iii is no correlation.</p>
+<p><b>b</b> i &#x2013; The older the snake the longer it is likely to be.</p>
+<p>ii &#x2013; The higher the unemployment the lower the drop in wages.</p>
+<p>iii &#x2013; There is no correlation between the age and the height of men.</p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>The following scatter diagrams were drawn by a student.</p>
+<p><img src="images\S1QF10.jpg"/></p>
+<p>The student calculated the product moment correlation coefficient for each set of data. The values were:
+<table width="70%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>a</b> &#x2212;0.12</td><td><b>b</b> 0.87</td><td><b>c</b> &#x2212;0.81</td></tr></tbody></table></p>
+<p>Write down which value corresponds to each scatter diagram. Give a reason for your answer.</p>
+</Question>
+<Solution>
+<p>
+<table width="70%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>(i) is 0.87</td><td>(ii) is &#x2212; 0.12</td><td>(iii) is &#x2212; 0.81.</td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The product moment correlation coefficient for a person&#x2019;s age and his score on a memory test is &#x2212;0.86. Interpret this value.</p></Question>
+<Solution>
+<p>As a persons age increases their score on a memory test decreases.</p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>Wai wants to know whether the 10 people in her group are as good at Science as they are at Art. She collected the end of term test marks for Science (<i>s</i>), and Art (<i>a</i>), and coded them using <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>x</mi><mo>=</mo><mfrac><mi>s</mi><mrow><mn>10</mn></mrow></mfrac></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mi>a</mi><mrow><mn>10</mn></mrow></mfrac></mrow></math>.</p>
+<p>The data she collected can be summarised as follows,
+<table width="70%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>x</i> = 67</td><td>&#x03A3;<i>x</i><sup>2</sup> = 465</td><td>&#x03A3;<i>y</i> = 65</td><td>&#x03A3;<i>y</i><sup>2</sup> = 429</td><td>&#x03A3;<i>xy</i> = 434.</td></tr></tbody></table></p>
+<p><b>a</b> Work out the product moment correlation coefficient for <i>x</i> and <i>y</i>.</p>
+<p><b>b</b> Write down the product moment correlation coefficient for <i>s</i> and <i>a</i>.</p>
+<p><b>c</b> Write down whether or not it is it true to say that the people in Wai&#x2019;s group who are good at Science are also good at Art. Give a reason for your answer.</p></Question>
+<Solution>
+<p><b>a</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>465</mn><mo>&#x2212;</mo><mfrac><mrow><mn>67</mn><mo>&#x00D7;</mo><mn>67</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn>16.1</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>y</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>429</mn><mo>&#x2212;</mo><mfrac><mrow><mn>65</mn><mo>&#x00D7;</mo><mn>65</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn>6.5</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>434</mn><mo>&#x2212;</mo><mfrac><mrow><mn>67</mn><mo>&#x00D7;</mo><mn>65</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mo>&#x2212;</mo><mn>1.5</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mo>&#x2212;</mo><mn>1.5</mn></mrow><mrow><msqrt><mrow><mn>16.1</mn><mo>&#x00D7;</mo><mn>6.5</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>&#x2212;</mo><mn>1.5</mn></mrow><mrow><mn>10.2298</mn><mo>&#x2026;</mo></mrow></mfrac><mo>=</mo><mo>&#x2212;</mo><mn>0.1466</mn><mo>&#x2026;</mo><mo>=</mo><mn fontweight="bold">&#x2212; 0.147</mn></mrow></math></p>
+<p><b>b</b>&#x00A0;<b><i>r</i> = &#x2212; 0.147</b></p>
+<p><b>c</b> This is negative correlation that is close to 0. There is little evidence to suggest that students in the group who are good at science will also be good at art.</p>
+</Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>Nimer thinks that oranges that are very juicy cost more than those that are not very juicy. He buys 20 oranges from different places, and measures the amount of juice (<i>j</i> ml), that each orange produces. He also notes the price (<i>p</i>) of each orange.</p>
+<p>The data can be summarised as follows,
+<table width="70%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>j</i> = 979</td><td>&#x03A3;<i>p</i> = 735</td><td>&#x03A3;<i>j</i><sup>2</sup> = 52 335</td><td>&#x03A3;<i>p</i><sup>2</sup> = 32 156</td><td>&#x03A3;<i>jp</i> = 39 950.</td></tr></tbody></table></p>
+<p><b>a</b> Find <i>S</i><sub><i>jj</i></sub>, <i>S</i><sub><i>pp</i></sub> and <i>S</i><sub><i>jp</i></sub>.</p>
+<p><b>b</b> Using your answers to <b>a</b> calculate the product moment correlation coefficient.</p>
+<p><b>c</b> Describe the type of correlation between the amount of juice and the cost and state, with a reason, whether or not Nimer is correct.</p>
+</Question><Solution>
+<p><b>a</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>j</mi><mi>j</mi></mrow></msub><mo>=</mo><mn>52335</mn><mo>&#x2212;</mo><mfrac><mrow><mn>979</mn><mo>&#x00D7;</mo><mn>979</mn></mrow><mrow><mn>20</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">4412.95</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>p</mi><mi>p</mi></mrow></msub><mo>=</mo><mn>32156</mn><mo>&#x2212;</mo><mfrac><mrow><mn>735</mn><mo>&#x00D7;</mo><mn>735</mn></mrow><mrow><mn>20</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">5144.75</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>j</mi><mi>p</mi></mrow></msub><mo>=</mo><mn>39950</mn><mo>&#x2212;</mo><mfrac><mrow><mn>979</mn><mo>&#x00D7;</mo><mn>735</mn></mrow><mrow><mn>20</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">3971.75</mn></mrow></math></p>
+<p><b>b</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mn>3971.75</mn></mrow><mrow><msqrt><mrow><mn>4412.95</mn><mo>&#x00D7;</mo><mn>5144.75</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3971.75</mn></mrow><mrow><mn>4764.8215</mn></mrow></mfrac><mo>=</mo><mn>0.8335</mn><mo>&#x2026;</mo><mo>=</mo><mn fontweight="bold">0.834</mn></mrow></math></p>
+<p><b>c</b> This is a positive correlation that is close to 1 so Nimer is correct.</p>
+</Solution></QuestionData>
+<QuestionData number="7">
+<Question>
+<p>The following table shows the values of two variables <i>v</i> and <i>m</i>.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>v</i></b></td><td align="center">50</td><td align="center">70</td><td align="center">60</td><td align="center">82</td><td align="center">45</td><td align="center">35</td><td align="center">110</td><td align="center">70</td><td align="center">35</td><td align="center">30</td></tr>
+<tr><td><b><i>m</i></b></td><td align="center">140</td><td align="center">200</td><td align="center">180</td><td align="center">210</td><td align="center">120</td><td align="center">100</td><td align="center">200</td><td align="center">180</td><td align="center">120</td><td align="center">60</td></tr>
+</tbody>
+</table></p>
+<p>The results were coded using <i>x</i> = <i>v</i> &#x2212; 30 and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mi>m</mi><mrow><mn>20</mn></mrow></mfrac></mrow></math>.</p>
+<p><b>a</b> Complete the table for <i>x</i> and <i>y</i>.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>x</i></b></td><td align="center">20</td><td align="center">40</td><td>&#x00A0;</td><td>&#x00A0;</td><td align="center">15</td><td>&#x00A0;</td><td>&#x00A0;</td><td align="center">40</td><td>&#x00A0;</td><td align="center">0</td></tr><tr><td align="center"><b><i>y</i></b></td><td align="center">7</td><td align="center">10</td><td>&#x00A0;</td><td align="center">10.5</td><td align="center">6</td><td>&#x00A0;</td><td>&#x00A0;</td><td>&#x00A0;</td><td>&#x00A0;</td><td align="center">3</td></tr></tbody>
+</table></p>
+<p><b>b</b> Calculate <i>S</i><sub><i>xx</i></sub>, <i>S</i><sub><i>yy</i></sub> and <i>S</i><sub><i>xy</i></sub>.</p>
+<p>(You may use &#x03A3;<i>x</i> = 287, &#x03A3;<i>x</i><sup>2</sup> = 13 879, &#x03A3;<i>y</i> = 75.5, &#x03A3;<i>y</i><sup>2</sup> = 627.25, &#x03A3;<i>xy</i> = 2661.)</p>
+<p><b>c</b> Using your answers to <b>b</b> calculate the product moment correlation coefficient for <i>x</i> and <i>y</i>.</p>
+<p><b>d</b> Write down the product moment correlation coefficient for <i>v</i> and <i>m</i>.</p>
+<p><b>e</b> Describe and interpret your product moment correlation coefficient for <i>v</i> and <i>m</i>.</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><i>x</i></td><td align="center">20</td><td align="center">40</td><td align="center">30</td><td align="center">52</td><td align="center">15</td><td align="center">5</td><td align="center">80</td><td align="center">40</td><td align="center">5</td><td align="center">0</td></tr> <tr><td align="center"><i>y</i></td><td align="center">7</td><td align="center">10</td><td align="center">9</td><td align="center">10.5</td><td align="center">6</td><td align="center">5</td><td align="center">10</td><td align="center">9</td><td align="center">6</td><td align="center">3</td></tr></tbody></table></p>
+<p><b>b</b></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>13879</mn><mo>&#x2212;</mo><mfrac><mrow><mn>287</mn><mo>&#x00D7;</mo><mn>287</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">5642.1</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>y</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>627.25</mn><mo>&#x2212;</mo><mfrac><mrow><mn>75.5</mn><mo>&#x00D7;</mo><mn>75.5</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">57.225</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>2661</mn><mo>&#x2212;</mo><mfrac><mrow><mn>287</mn><mo>&#x00D7;</mo><mn>75.5</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">494.15</mn></mrow></math></p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mn>494.15</mn></mrow><mrow><msqrt><mrow><mn>5642.1</mn><mo>&#x00D7;</mo><mn>57.225</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>494.15</mn></mrow><mrow><mn>568.2</mn></mrow></mfrac><mo>=</mo><mn>0.8696</mn><mo>&#x2026;</mo><mo>=</mo><mn fontweight="bold">0.870</mn></mrow></math></p>
+<p><b>d</b>&#x00A0;<i>r</i> = <b>0.870</b></p>
+<p><b>e</b> This is positive correlation that is close to 1. As <i>v</i> increases so <i>m</i> increases.</p>
+</Solution></QuestionData>
+<QuestionData number="8">
+<Question>
+<p>Each of 10 cows was given an additive (<i>x</i>) every day for four weeks to see if it would improve their milk yield (<i>y</i>). At the beginning the average milk yield per day was 4 gallons. The milk yield of each cow was measured on the last day of the four weeks. The data collected is shown in the table.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b>Cow</b></td><td align="center">A</td><td align="center">B</td><td align="center">C</td><td align="center">D</td><td align="center">E</td><td align="center">F</td><td align="center">G</td><td align="center">H</td><td align="center">I</td><td align="center">J</td></tr>
+<tr><td><b>Additive, <i>x</i> (25 gm units)</b></td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td><td align="center">5</td><td align="center">6</td><td align="center">7</td><td align="center">8</td><td align="center">9</td><td align="center">10</td></tr>
+<tr><td><b>Yield, <i>y</i> (gallons)</b></td><td align="center">4.0</td><td align="center">4.2</td><td align="center">4.3</td><td align="center">4.5</td><td align="center">4.5</td><td align="center">4.7</td><td align="center">5.2</td><td align="center">5.2</td><td align="center">5.1</td><td align="center">5.1</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Draw a scatter diagram of these data.</p>
+<p><b>b</b> Write down any conclusions you can draw from the scatter diagram.</p>
+<p><b>c</b> From the diagram write down, with a reason, the amount of additive that could be given to each cow to maximise yield and minimise cost.</p>
+<p><b>d</b> The product moment correlation coefficient is to be calculated for the first seven cows. Write down why you think cows H, I and J are being left out for this calculation.</p>
+<p><b>e</b> Use the values <i>S</i><sub><i>xx</i></sub> = 28, <i>S</i><sub><i>yy</i></sub> = 0.90857 and <i>S</i><sub><i>xy</i></sub> = 4.8 to calculate the product moment correlation coefficient for the seven cows.</p>
+<p><b>f</b> Write down, with a reason, how the product moment correlation coefficient for all 10 cows would differ from your answer to <b>e</b>.</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><img src="images\S1F064.jpg"/></p>
+<p><b>b</b></p>
+<p>The additive seems to improve milk yield as the scatter diagram shows positive correlation. Generally as the additive is increased so the yield increases.</p>
+<p>There could however be some other reasons for some of the increase in yield.</p>
+<p><b>c Seven units.</b> (The yield levels off at this point.)</p>
+<p><b>d</b> The scatter diagram stops rising after cow seven (G).</p>
+<p><b>e</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mn>4.8</mn></mrow><mrow><msqrt><mrow><mn>28</mn><mo>&#x00D7;</mo><mn>0.90857</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>4.8</mn></mrow><mrow><mn>5.0438</mn><mo>&#x2026;</mo></mrow></mfrac><mo>=</mo><mn>0.9516</mn><mo>&#x2026;</mo><mo>=</mo><mn fontweight="bold">0.952</mn></mrow></math></p>
+<p><b>f</b> It would go down as the scatter diagram ceases to rise for the last three cows &#x2013; it goes down for the last two so the correlation would not be as strong.</p>
+</Solution></QuestionData>
+<QuestionData number="9">
+<Question>
+<p>The following table shows the engine size (<i>c</i>), in cubic centimetres, and the fuel consumption (<i>f</i>), in miles per gallon to the nearest mile, for 10 car models.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>c</i> (cm<sup>3</sup>)</b></td><td align="center">1000</td><td align="center">1200</td><td align="center">1400</td><td align="center">1500</td><td align="center">1600</td><td align="center">1800</td><td align="center">2000</td><td align="center">2200</td><td align="center">2500</td><td align="center">3000</td></tr>
+<tr><td><b><i>f</i> (mpg)</b></td><td align="center">46</td><td align="center">42</td><td align="center">43</td><td align="center">39</td><td align="center">41</td><td align="center">37</td><td align="center">35</td><td align="center">29</td><td align="center">28</td><td align="center">25</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> On graph paper draw a scatter diagram to represent these data.</p>
+<p><b>b</b> Write down whether the correlation coefficient between <i>c</i> and <i>f</i> is positive or negative. Give a reason for your answer.</p>
+<p>The data can be summarised as follows:</p>
+<p>&#x03A3;<i>cf</i> = 626 100, &#x03A3;<i>c</i> = 18 200, &#x03A3;<i>f</i> = 365</p>
+<p><b>c</b> Calculate <i>S</i><sub><i>cf</i></sub></p>
+<p><b>d</b> The product moment correlation coefficient could be found by using coding. Suggest suitable coding.</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p><img src="images\S1F065.jpg"/></p>
+<p><b>b</b> The correlation is negative. As the number of cc's goes up the petrol consumption goes down. If the axes were moved to go through the mean point most values would be in the second and fourth quadrant.</p>
+<p><b>c</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><msub><mi>S</mi><mrow><mi>c</mi><mi>f</mi></mrow></msub><mo>=</mo><mn>626100</mn><mo>&#x2212;</mo><mfrac><mrow><mn>18200</mn><mo>&#x00D7;</mo><mn>365</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn fontweight="bold">&#x2212;38200</mn></mrow></math></p>
+<p><b>d</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mfrac><mi>c</mi><mrow><mn>100</mn></mrow></mfrac></mrow></math>&#x00A0;or&#x00A0;<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mi>c</mi><mrow><mn>200</mn></mrow></mfrac></mrow></math>&#x00A0;and&#x00A0; <i>f</i> &#x2212; 25 (<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mi>c</mi><mo>&#x2212;</mo><mn>1000</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow></math> is another alternative)</p>
+</Solution></QuestionData>
+<QuestionData number="10">
+<Question>
+<p>In a study on health, a clinic measured the age, (<i>a</i> years), and the diastolic blood pressure, (<i>d</i> in mm of mercury), of eight patients. The table shows the results.
+<table border="1" cellpadding="5" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><b><i>a</i> (years)</b></td><td align="center">20</td><td align="center">35</td><td align="center">50</td><td align="center">25</td><td align="center">60</td><td align="center">45</td><td align="center">25</td><td align="center">70</td></tr>
+<tr><td><b><i>d</i> (mm)</b></td><td align="center">55</td><td align="center">60</td><td align="center">80</td><td align="center">85</td><td align="center">75</td><td align="center">85</td><td align="center">70</td><td align="center">85</td></tr>
+</tbody>
+</table></p>
+<p><b>a</b> Using the coding <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>x</mi><mo>=</mo><mfrac><mi>a</mi><mn>5</mn></mfrac></mrow></math> and <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>y</mi><mo>=</mo><mfrac><mi>d</mi><mn>5</mn></mfrac><mo>&#x2212;</mo><mn>11</mn></mrow></math> calculate <i>S</i><sub><i>xx</i></sub>, <i>S</i><sub><i>yy</i></sub> and <i>S</i><sub><i>xy</i></sub>.</p>
+<p><b>b</b> Using your answers to <b>a</b> work out the product moment correlation coefficient for <i>x</i> and <i>y</i>.</p>
+<p><b>c</b> Write down the product moment correlation coefficient between <i>a</i> and <i>d</i>.</p>
+<p><b>d</b> Interpret your answer to <b>c</b>.</p>
+</Question>
+<Solution>
+<p><b>a</b></p>
+<p>
+<table border="1" cellpadding="3" cellspacing="0">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td align="center"><i>x</i></td><td align="center">4</td><td align="center">7</td><td align="center">10</td><td align="center">5</td><td align="center">12</td><td align="center">9</td><td align="center">5</td><td align="center">14</td></tr> <tr><td align="center"><i>y</i></td><td align="center">0</td><td align="center">1</td><td align="center">5</td><td align="center">6</td><td align="center">4</td><td align="center">6</td><td align="center">3</td><td align="center">6</td></tr></tbody></table></p>
+<p>
+<table width="80%">
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>&#x03A3;<i>x</i> = 66</td><td>&#x03A3;<i>x</i><sup>2</sup> = 636</td><td>&#x03A3;<i>y</i> = 31</td><td>&#x03A3;<i>y</i><sup>2</sup> = 159</td><td>&#x03A3;<i>xy</i> = 288</td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>x</mi></mrow></msub><mo>=</mo><mn>636</mn><mo>&#x2212;</mo><mfrac><mrow><mn>66</mn><mo>&#x00D7;</mo><mn>66</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">91.5</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>y</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>159</mn><mo>&#x2212;</mo><mfrac><mrow><mn>31</mn><mo>&#x00D7;</mo><mn>31</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">38.875</mn></mrow></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mo>=</mo><mn>288</mn><mo>&#x2212;</mo><mfrac><mrow><mn>66</mn><mo>&#x00D7;</mo><mn>31</mn></mrow><mn>8</mn></mfrac><mo>=</mo><mn fontweight="bold">32.25</mn></mrow></math></p>
+<p><b>b</b><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mi>r</mi><mo>=</mo><mfrac><mrow><mn>32.25</mn></mrow><mrow><msqrt><mrow><mn>91.5</mn><mo>&#x00D7;</mo><mn>38.875</mn></mrow></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>32.25</mn></mrow><mrow><mn>59.6411</mn><mo>&#x2026;</mo></mrow></mfrac><mo>=</mo><mn>0.5407</mn><mo>&#x2026;</mo><mo>=</mo><mn fontweight="bold">0.541</mn></mrow></math></p>
+<p><b>c</b>&#x00A0;<b><i>r</i></b> = <b>0.541</b></p>
+<p><b>d</b> This is a positive correlation that is midway between 0 and 1. There is some evidence to suggest that as age increases so does blood pressure.</p>
+</Solution>
+</QuestionData>
+</Exercise>
+</Chapter>
+</Section>
+</Unit>
+</SubjectArea>
+</ProductTitle>
+</ExamBoard>
+</Level>
+</Subject>
+</Harcourt>

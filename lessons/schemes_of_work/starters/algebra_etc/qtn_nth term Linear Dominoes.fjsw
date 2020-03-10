@@ -1,0 +1,605 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='dominos 24' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='input'/>
+    <active-option view-id='input' option-id='input.paired.4'/>
+    <active-option view-id='output' option-id='output'/>
+    <active-option view-id='solution' option-id='solution'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">6</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&plus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">1</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mtext mathsize="17pt">7</mtext>
+        <mtext mathsize="17pt">,</mtext>
+        <mtext mathsize="17pt">13</mtext>
+        <mtext mathsize="17pt">,</mtext>
+        <mtext mathsize="17pt">19</mtext>
+        <mtext mathsize="17pt">,</mtext>
+        <mtext mathsize="17pt">25...</mtext>
+        <mo>.</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">3</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&plus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">2</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">5</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">8</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">11</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">14</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">.....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">5</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">3</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">2</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">7</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">12</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">17</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">.....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+<math display = 'block'>
+  <mrow>
+    <mn mathsize = '17pt'>4</mn>
+    <mi mathsize = '17pt'>n</mi>
+    <mtext mathsize = '17pt'>&nbsp;</mtext>
+    <mo mathsize = '17pt'>&plus;</mo>
+    <mtext mathsize = '17pt'>&nbsp;</mtext>
+    <mn mathsize = '17pt'>2</mn>
+  </mrow>
+</math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">6</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">10</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">14</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">18</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">.....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">1</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">0</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">1</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">2</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">3</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">......</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">4</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">2</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">2</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">6</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">10</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">14</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">......</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">3</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">1</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">2</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">5</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">8</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">11</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">10</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">+</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">6</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">16</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">26</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">36</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">46</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">.....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">7</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">5</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">2</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">9</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">16</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">23</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">.....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">8</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">+</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">2</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">10</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">18</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">26</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">34</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">.....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">6</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo mathsize="17pt">&minus;</mo>
+        <mn mathsize="17pt">5</mn>
+        <mo mathsize="17pt">,</mo>
+        <mo mathsize="17pt">&minus;</mo>
+        <mn mathsize="17pt">4</mn>
+        <mo mathsize="17pt">,</mo>
+        <mo mathsize="17pt">&minus;</mo>
+        <mn mathsize="17pt">3</mn>
+        <mo mathsize="17pt">,</mo>
+        <mo mathsize="17pt">&minus;</mo>
+        <mn mathsize="17pt">2</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">.....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">6</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">10</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo mathsize="17pt">&minus;</mo>
+        <mn mathsize="17pt">4</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">2</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">8</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">14</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">.....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">4</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">+</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">3</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">7</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">11</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">15</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">19</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">.....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">+</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">7</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">8</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">9</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">10</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">11</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">.....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">2</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">8</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo mathsize="17pt">&minus;</mo>
+        <mn mathsize="17pt">6</mn>
+        <mo mathsize="17pt">,</mo>
+        <mo mathsize="17pt">&minus;</mo>
+        <mn mathsize="17pt">4</mn>
+        <mo mathsize="17pt">,</mo>
+        <mo mathsize="17pt">&minus;</mo>
+        <mn mathsize="17pt">2</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">0</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">....</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">5</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">+</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">6</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">11</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">16</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">21</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">26</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">7</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">+</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">3</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">10</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">17</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">24</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">31</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">......</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">8</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">10</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mo mathsize="17pt">&minus;</mo>
+        <mn mathsize="17pt">2</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">6</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">14</mn>
+        <mo mathsize="17pt">,</mo>
+        <mn mathsize="17pt">22</mn>
+        <mo mathsize="17pt" lspace="0px" rspace="0px">....</mo>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">2</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mn mathsize="17pt">2</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <msup>
+          <mn mathsize="17pt">20</mn>
+          <mi mathvariant="italic" mathsize="17pt">th</mi>
+        </msup>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic" mathsize="17pt">term</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mi mathvariant="italic" mathsize="17pt">is</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">38</mn>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">3</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">+</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">8</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <msup>
+          <mn mathsize="17pt">15</mn>
+          <mi mathvariant="italic">th</mi>
+        </msup>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic" mathsize="17pt">term</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mi mathvariant="italic" mathsize="17pt">is</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">53</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">6</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">10</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <msup>
+          <mn mathsize="17pt">50</mn>
+          <mi mathvariant="italic">th</mi>
+        </msup>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic" mathsize="17pt">term</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mi mathvariant="italic" mathsize="17pt">is</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">290</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">4</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">&minus;</mo>
+        <mn mathsize="17pt">8</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <msup>
+          <mn mathsize="17pt">20</mn>
+          <mi mathvariant="italic">th</mi>
+        </msup>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic" mathsize="17pt">term</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mi mathvariant="italic" mathsize="17pt">is</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">72</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mn mathsize="17pt">5</mn>
+        <mi mathsize="17pt">n</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mo mathsize="17pt">+</mo>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">1</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <msup>
+          <mn mathsize="17pt">16</mn>
+          <mi mathvariant="italic">th</mi>
+        </msup>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic" mathsize="17pt">term</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mi mathvariant="italic" mathsize="17pt">is</mi>
+        <mtext mathsize="17pt">&nbsp;</mtext>
+        <mn mathsize="17pt">81</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math>
+      <mtext>Start</mtext>
+    </math>
+    <math>
+      <mtext>Finish</mtext>
+    </math>
+  </eqnpair>
+</eqnpairs>

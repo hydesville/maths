@@ -1,0 +1,599 @@
+<!--
+
+Formulator Jigsaw Edition 2005
+Copyright (c) 2005 by Hermitech Laboratory. All Rights Reserved.
+http://www.hermitech.ic.zt.ua
+
+This file contains a summary information about the puzzle document.
+
+NOTE - Formulator Jigsaw Edition 2005 will add and remove 
+       information about the saved puzzle document in this 
+       file. Please do not edit what you see in these blocks 
+       of generated text. Changes to this file may cause 
+       incorrect behavior.
+
+-->
+
+<eqnpairs>
+  <author></author>
+  <institution></institution>
+  <comments></comments>
+  <template id='standard hexagonal jigsaw 30' left-margin='15.00' top-margin='15.00' right-margin='15.00' bottom-margin='15.00' width='210' height='297' scale='1.00' orientation='portrait'/>
+  <gui-settings>
+    <active-view view-id='solution'/>
+    <active-option view-id='input' option-id='input.paired.16'/>
+    <active-option view-id='output' option-id='output.normal size'/>
+    <active-option view-id='solution' option-id='solution.full version'/>
+    <active-option view-id='table' option-id='table'/>
+  </gui-settings>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>3</mn>
+          <mn>5</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>30</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>18</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>2</mn>
+          <mn>7</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>35</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>10</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>3</mn>
+          <mn>8</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>40</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>15</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>7</mn>
+          <mn>10</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>40</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>28</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>5</mn>
+          <mn>6</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>24</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>20</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>3</mn>
+          <mn>4</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>28</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>21</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>4</mn>
+          <mn>5</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>60</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>48</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>5</mn>
+          <mn>8</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>72</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>45</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>3</mn>
+          <mn>4</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>2400</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>1800</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>2</mn>
+          <mn>5</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>320</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>128</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>5</mn>
+          <mn>8</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>256</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>160</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>2</mn>
+          <mn>3</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>174</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>116</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>5</mn>
+          <mn>6</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>78</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>65</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>3</mn>
+          <mn>4</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>120</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>90</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>4</mn>
+          <mn>5</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>365</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>292</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>7</mn>
+          <mn>8</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>2400</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>2100</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>3</mn>
+          <mn>4</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>180</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>135</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>5</mn>
+          <mn>9</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>4266</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>2370</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>2</mn>
+          <mn>5</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>60</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>24</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>4</mn>
+          <mn>8</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>400</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>200</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>3</mn>
+          <mn>4</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>280</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>210</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>7</mn>
+          <mn>10</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>290</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>203</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>2</mn>
+          <mn>3</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>78</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>52</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>4</mn>
+          <mn>5</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>70</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>56</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>5</mn>
+          <mn>6</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>72</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>60</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>11</mn>
+          <mn>12</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>60</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>55</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>4</mn>
+          <mn>9</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>126</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>56</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>3</mn>
+          <mn>5</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>95</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>57</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>3</mn>
+          <mn>4</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>340</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>255</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+  <eqnpair>
+    <math display="block">
+      <mrow>
+        <mfrac>
+          <mn>2</mn>
+          <mn>3</mn>
+        </mfrac>
+        <mtext>&nbsp;</mtext>
+        <mi mathvariant="italic">of</mi>
+        <mtext>&nbsp;</mtext>
+        <mn>381</mn>
+      </mrow>
+    </math>
+    <math display="block">
+      <mrow>
+        <mn>254</mn>
+      </mrow>
+    </math>
+  </eqnpair>
+</eqnpairs>

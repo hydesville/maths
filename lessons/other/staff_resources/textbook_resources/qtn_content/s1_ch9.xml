@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Harcourt>
+<Subject type="Mathematics">
+	<Level age="">
+	<ExamBoard title="AandAS">
+	<ProductTitle name="Solutionbank">
+	<SubjectArea name="Statistics" abbrev="S">
+	<Unit number="1">
+	<Section>
+	<Chapter number="9" title="Normal distribution"><p><b>Chapter 9</b></p>
+	<Exercise letter="A"><p><b>Exercise 9A</b></p>
+<QuestionData number="1">
+<Question><p>Use tables of the normal distribution to find the following.</p>
+<p><b>a</b> P(<i>Z</i> &#x003C; 2.12)</p>
+<p><b>b</b> P(<i>Z</i> &#x003C; 1.36)</p>
+<p><b>c</b> P(<i>Z</i> &#x003E; 0.84)</p>
+<p><b>d</b> P(<i>Z</i> &#x003C; &#x2212;0.38)</p></Question>
+<Solution>
+<p>(a)	P(<i>z</i> &#x003C; 2.12) = <u>0.9830</u></p>
+<p>(b)	P(<i>z</i> &#x003C; 1.36) = <u>0.9131</u></p>
+<p>(c) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F069.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mn>0.84</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.7995</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder="true"><mn>0.2005</mn><mo stretchy="true">&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+
+<p>(d) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F070.jpg"/></td><td/></tr>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>0.38</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.6480</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mo>=</mo><munder accentunder="true"><mn>0.352</mn><mo stretchy="true">&#x00AF;</mo></munder></mtd></mtr></mtable></math></td><td/></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Use tables of the normal distribution to find the following.</p>
+<p><b>a</b> P(<i>Z</i> &#x003E; 1.25)</p>
+<p><b>b</b> P(<i>Z</i> &#x003E; &#x2212;1.68)</p>
+<p><b>c</b> P(<i>Z</i> &#x003C; &#x2212;1.52)</p>
+<p><b>d</b> P(<i>Z</i> &#x003C; 3.15)</p></Question>
+<Solution>
+<p>(a) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F071.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mn>1.25</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.8944</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>0.1056</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+
+<p>(b) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F072.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mo>&#x2212;</mo><mn>1.68</mn><mo stretchy='false'>)</mo><mo>=</mo><munder accentunder='true'><mrow><munder accentunder="true"><mrow><mn>0.9535</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></tbody></table></p>
+
+<p>(c) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F073.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>1.52</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.9357</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.0643</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+
+<p>(d)<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mn>3.15</mn><mo stretchy='false'>)</mo><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.9992</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>Use tables of the normal distribution to find the following.</p>
+<p><b>a</b> P(<i>Z</i> &#x003E; &#x2212;2.24)</p>
+<p><b>b</b> P(0 &#x003C; <i>Z</i> &#x003C; 1.42)</p>
+<p><b>c</b> P(&#x2212;2.30 &#x003C; <i>Z</i> &#x003C; 0)</p>
+<p><b>d</b> P(<i>Z</i> &#x003C; &#x2212;1.63)</p></Question>
+<Solution>
+<p>(a) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F074.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mo>&#x2212;</mo><mn>2.24</mn><mo stretchy='false'>)</mo><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.9875</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></tbody></table></p>
+
+<p>(b) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F075.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mn>0</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mn>1.42</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.9222</mn><mo>&#x2212;</mo><mn>0.5</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.4222</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+
+<p>(c) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F076.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mo>&#x2212;</mo><mn>2.30</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mn>0</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.9893</mn><mo>&#x2212;</mo><mn>0.5</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.4893</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+
+<p>(d) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F077.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>1.63</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.9484</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.0516</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>Use tables of the normal distribution to find the following.</p>
+<p><b>a</b> P(1.25 &#x003C; <i>Z</i> &#x003C; 2.16)</p>
+<p><b>b</b> P(&#x2212;1.67 &#x003C; <i>Z</i> &#x003C; 2.38)</p>
+<p><b>c</b> P(&#x2212;2.16 &#x003C; <i>Z</i> &#x003C; &#x2212;0.85)</p>
+<p><b>d</b> P(&#x2212;1.57 &#x003C; <i>Z</i> &#x003C; 1.57)</p></Question>
+<Solution>
+<p>(a) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F078.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mn>1.25</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mn>2.16</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mn>2.16</mn><mo stretchy='false'>)</mo><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mn>1.25</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.9846</mn><mo>&#x2212;</mo><mn>0.8944</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.0902</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+
+<p>(b) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F079.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mo>&#x2212;</mo><mn>1.67</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mn>2.38</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mn>2.38</mn><mo stretchy='false'>)</mo><mo>&#x2212;</mo><mrow><mo>[</mo> <mrow><mn>1</mn><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mn>1.67</mn><mo stretchy='false'>)</mo></mrow> <mo>]</mo></mrow></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.9913</mn><mo>&#x2212;</mo><mrow><mo>[</mo> <mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.9525</mn></mrow> <mo>]</mo></mrow></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.9913</mn><mo>&#x2212;</mo><mn>0.0475</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.9438</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+
+<p>(c) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F080.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mo>&#x2212;</mo><mn>2.16</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>0.85</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mn>2.16</mn><mo stretchy='false'>)</mo><mo>&#x2212;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mn>0.85</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.9846</mn><mo>&#x2212;</mo><mn>0.8023</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.1823</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+
+<p>(d) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F081.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mo>&#x2212;</mo><mn>1.57</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mn>1.57</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>2</mn><mo>&#x00D7;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mn>0</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mn>1.57</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>2</mn><mo>&#x00D7;</mo><mo stretchy='false'>[</mo><mn>0.9418</mn><mo>&#x2212;</mo><mn>0.5</mn><mo stretchy='false'>]</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>2</mn><mo>&#x00D7;</mo><mn>0.4418</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.8836</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="B"><p><b>Exercise 9B</b></p>
+<QuestionData number="1">
+<Question>
+<p>Find the value of <i>a</i> in the following.</p>
+<p><b>a</b> P(<i>Z</i> &#x003C; <i>a</i>) = 0.9082</p>
+<p><b>b</b> P(<i>Z</i> &#x003E; <i>a</i>) = 0.0314</p>
+<p><b>c</b> P(<i>Z</i> &#x003C; <i>a</i>) = 0.3372</p>
+<p><b>d</b> P(<i>Z</i> &#x003E; <i>a</i>) = 0.6879</p></Question><Solution>
+<p>(a) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F082.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>1.33</mn></mrow><mo stretchy='true'></mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></tbody></table></p>
+<p>(b) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F083.jpg"/></td><td> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.0314</mn><mo>=</mo><mn>0.9686</mn></mrow></mtd></mtr><mtr><mtd><mspace width="4ex"/><mrow><mo>&#x2234;</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>1.86</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td></tr></tbody></table></p>
+<p>(c) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F084.jpg"/></td><td> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.3372</mn><mo>=</mo><mn>0.6628</mn></mrow></mtd></mtr><mtr><mtd><mrow><mtext>N</mtext><mn>.</mn><mtext>B</mtext><mn>.</mn><mn>0.3372</mn><mo>&#x003C;</mo><mn>0.5</mn><mo>&#x2234;</mo><mi>a</mi><mo>&#x003C;</mo><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mspace width="6ex"/><mrow><mo>&#x2234;</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mo>&#x2212;</mo><mn>0.42</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td></tr></tbody></table></p>
+<p>(d) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F085.jpg"/></td><td> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mo stretchy='false'>[</mo><mtext>N</mtext><mn>.</mn><mtext>B</mtext><mn>.</mn><mi>a</mi><mo>&#x003C;</mo><mn>0</mn><mtext>again</mtext><mo stretchy='false'>]</mo></mrow></mtd></mtr><mtr><mtd><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mo>&#x2212;</mo><mn>0.49</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>Find the value of <i>a</i> in the following.</p>
+<p><b>a</b> P(<i>Z</i> &#x003C; <i>a</i>) = 0.9938</p>
+<p><b>b</b> P(<i>Z</i> &#x003E; <i>a</i>) = 0.4129</p>
+<p><b>c</b> P(<i>Z</i> &#x003E; <i>a</i>) = 0.7611</p>
+<p><b>d</b> P(<i>Z</i> &#x003E; <i>a</i>) = 0.2000</p></Question><Solution>
+<p>(a) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F086.jpg"/></td><td> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>2.50</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></tbody></table></p>
+<p>(b) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F087.jpg"/></td><td> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.4129</mn><mo>=</mo><mn>0.5871</mn></mrow></mtd></mtr><mtr><mtd><mspace width="4ex"/><mrow><mo>&#x2234;</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>0.22</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td></tr></tbody></table></p>
+<p>(c) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F088.jpg"/></td><td> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mo stretchy='false'>[</mo><mtext>N</mtext><mn>.</mn><mtext>B</mtext><mn>.</mn><mi>a</mi><mo>&#x003C;</mo><mn>0</mn><mo>&#x2235;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mi>a</mi><mo stretchy='false'>)</mo><mo>&#x003E;</mo><mn>0.5</mn><mo stretchy='false'>]</mo></mrow></mtd></mtr><mtr><mtd><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mo>&#x2212;</mo><mn>0.71</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td></tr></tbody></table></p>
+<p>(d) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F089.jpg"/></td><td>Using table of percentage points<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>0.8416</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr>
+</tbody>
+</table></p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>Find the value of <i>a</i> in the following.</p>
+<p><b>a</b> P(<i>Z</i> &#x003E; <i>a</i>) = 0.1500</p>
+<p><b>b</b> P(<i>Z</i> &#x003E; <i>a</i>) = 0.9500</p>
+<p><b>c</b> P(<i>Z</i> &#x003E; <i>a</i>) = 0.1112</p>
+<p><b>d</b> P(<i>Z</i> &#x003C; <i>a</i>) = 0.9990</p></Question><Solution>
+<p>(a) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F090.jpg"/></td><td>Use table of percentage points with <i>p</i> = 0.15<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>1.0364</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></tbody></table></p>
+<p>(b) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F091.jpg"/></td><td>1 &#x2212;0.9500 = 0.05 = <i>p</i><br/>Using table of percentage points<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mo>&#x2212;</mo><mn>1.6449</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></tbody></table></p>
+<p>(c) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tr><td><img src="images/S1F092.jpg"/></td><td>1 &#x2212;0.1112 = 0.8888<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>1.22</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></table></p>
+<p>(d) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F093.jpg"/></td><td>1 &#x2212;0.9990 = 0.0010<br/>Use table of percentage points with<br/><i>p</i> = 0.0010<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>3.0902</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>Find the value of <i>a</i> in the following.</p>
+<p><b>a</b> P(0 &#x003C; <i>Z</i> &#x003C; <i>a</i>) = 0.3554</p>
+<p><b>b</b> P(0 &#x003C; <i>Z</i> &#x003C; <i>a</i>) = 0.4946</p>
+<p><b>c</b> P(&#x2212;<i>a</i> &#x003C; <i>Z</i> &#x003C; <i>a</i>) = 0.5820</p>
+<p><b>d</b> P(&#x2212;<i>a</i> &#x003C; <i>Z</i> &#x003C; <i>a</i>) = 0.8230</p></Question><Solution>
+<p>(a) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F094.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mi>a</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.8554</mn></mrow></mtd></mtr><mtr><mtd><mspace width="2ex"/><mrow><mo>&#x2234;</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>1.06</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td></tr></tbody></table></p>
+<p>(b) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F095.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mi>a</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.9946</mn></mrow></mtd></mtr><mtr><mtd><mspace width="2ex"/><mrow><mo>&#x2234;</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>2.55</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td></tr></tbody></table></p>
+<p>(c) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F096.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mspace width="4ex"/><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mn>0</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mi>a</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mn>0.5820</mn></mrow></mtd></mtr><mtr><mtd><mspace width="12ex"/><mrow><mo>=</mo><mn>0.2910</mn></mrow></mtd></mtr><mtr><mtd><mspace width="1.5ex"/><mrow><mo>&#x2234;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mi>a</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.7910</mn></mrow></mtd></mtr><mtr><mtd><mspace width="5.5ex"/><mrow><mo>&#x2234;</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>0.81</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td></tr></tbody></table></p>
+<p>(d) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F097.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mn>0</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mi>a</mi><mo stretchy='false'>)</mo></mrow></mtd><mtd><mo>=</mo></mtd><mtd columnalign="left"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mn>0.8230</mn></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>0.4115</mn></mrow></mtd></mtr></mtable></mrow></math></td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mo>&#x2234;</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mi>a</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.9115</mn></mrow></mtd></mtr><mtr><mtd><mspace width="4ex"/><mrow><mo>&#x2234;</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>1.35</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>Find the value of <i>a</i> in the following.</p>
+<p><b>a</b> p(0 &#x003C; <i>Z</i> &#x003C; <i>a</i>) = 0.10</p>
+<p><b>b</b> p(0 &#x003C; <i>Z</i> &#x003C; <i>a</i>) = 0.35</p>
+<p><b>c</b> p(&#x2212;<i>a</i> &#x003C; <i>Z</i> &#x003C; <i>a</i>) = 0.80</p>
+<p><b>d</b> p(&#x2212;<i>a</i> &#x003C; <i>Z</i> &#x003C; <i>a</i>) = 0.40</p></Question><Solution>
+<p>(a) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F098.jpg"/></td><td>p = 0.5 &#x2212;0.1 = 0.4000<br/>Use table of percentage points<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>0.2533</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></tbody></table></p>
+<p>(b) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F099.jpg"/></td><td>p = 0.5 &#x2212;0.35 = 0.1500<br/>Use table of percentage points<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>1.0364</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></tbody></table></p>
+<p>(c) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F100.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>p</mtext><mo>=</mo><mn>0.5</mn><mo>&#x2212;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mn>0.8</mn><mo>=</mo><mn>0.1000</mn></mrow></math><br/>Use table of percentage points<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>1.2816</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></tbody></table></p>
+<p>(d) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F101.jpg"/></td><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mn>0</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mi>a</mi><mo stretchy='false'>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#x00D7;</mo><mn>0.4</mn><mo>=</mo><mn>0.20</mn></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>p</mtext><mo>=</mo><mn>0.5</mn><mo>&#x2212;</mo><mn>0.2</mn><mo>=</mo><mn>0.3000</mn></mrow></math><br/>Use table of percentage points<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>a</mi><mo>=</mo><mn>0.5244</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></math></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="C"><p><b>Exercise 9C</b></p>
+<QuestionData number="1">
+<Question>
+<p>The random variable <i>X</i> ~ N(30, 2<sup>2</sup>).</p>
+<p>Find <b>a</b> P(<i>X</i> &#x003C; 33),</p>
+<p><b>b</b> P(<i>X</i> &#x003E; 26).</p>
+</Question>
+<Solution>
+<p>(a)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003C;</mo><mn>33</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo>(</mo><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>33</mn><mo>&#x2212;</mo><mn>30</mn></mrow><mn>2</mn></mfrac><mo>)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mi>Z</mi><mo>&#x003C;</mo><mn>1.5</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.9332</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F102.jpg"/></td></tr></tbody></table></p>
+<p>(b)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='true'>(</mo><mi>X</mi><mo>&#x003E;</mo><mn>26</mn><mo stretchy='true'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo>(</mo><mi>Z</mi><mo>&#x003E;</mo><mfrac><mrow><mn>26</mn><mo>&#x2212;</mo><mn>30</mn></mrow><mn>2</mn></mfrac><mo>)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='true'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mo>&#x2212;</mo><mn>2</mn><mo stretchy='true'>)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.9772</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F103.jpg"/></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>The random variable <i>X</i> ~ N(40, 9).</p>
+<p>Find <b>a</b> P(<i>X</i> &#x003E; 45),</p>
+<p><b>b</b> P(<i>X</i> &#x003C; 38).</p>
+</Question><Solution>
+<p>(a)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003E;</mo><mn>45</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='true'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mfrac><mrow><mn>45</mn><mo>&#x2212;</mo><mn>40</mn></mrow><mrow><msqrt><mn>9</mn></msqrt></mrow></mfrac><mo stretchy='true'>)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy="true">(</mo><mi>Z</mi><mo>&#x003E;</mo><mn>1.67</mn><mo stretchy='true'>)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.9525</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.0475</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mspace width="1ex"/><mrow><mo stretchy="false">(</mo><mtext>allow AWRT</mtext><mspace width="1ex"/><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.048</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F104.jpg"/></td></tr></tbody></table></p>
+<p>(b)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003C;</mo><mn>38</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy="true">(</mo><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>38</mn><mo>&#x2212;</mo><mn>40</mn></mrow><mn>3</mn></mfrac><mo stretchy="true">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>0.67</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.7486</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.2514</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mspace width="1ex"/><mrow><mo stretchy="false">(</mo><mtext>allow AWRT</mtext><mspace width="1ex"/><mn>0.251</mn><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mn>0.252</mn><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F105.jpg"/></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="3">
+<Question>
+<p>The random variable <i>Y</i> ~ N(25, 25).</p>
+<p>Find <b>a</b> P(<i>Y</i> &#x003C; 20),</p>
+<p><b>b</b> P(18 &#x003C; <i>Y</i> &#x003C; 26).</p>
+</Question><Solution>
+<p>(a)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>Y</mi><mo>&#x003C;</mo><mn>20</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy="true">(</mo><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>20</mn><mo>&#x2212;</mo><mn>25</mn></mrow><mrow><msqrt><mrow><mn>25</mn></mrow></msqrt></mrow></mfrac><mo stretchy="true">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.8413</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.1587</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F106.jpg"/></td></tr></tbody></table></p>
+<p>(b)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mn>18</mn><mo>&#x003C;</mo><mi>Y</mi><mo>&#x003C;</mo><mn>26</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mrow><mo>(</mo><mrow><mfrac><mrow><mn>18</mn><mo>&#x2212;</mo><mn>25</mn></mrow><mn>5</mn></mfrac><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>26</mn><mo>&#x2212;</mo><mn>25</mn></mrow><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mo>&#x2212;</mo><mn>1.4</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mn>0.2</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mo>=</mo><mrow><mo stretchy="false">(</mo><mn>0.5793</mn><mo>&#x2212;</mo><mn>0.5</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>0.9192</mn><mo>&#x2212;</mo><mn>0.5</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.4985</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F107.jpg"/></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The random variable <i>X</i> ~ N(18, 10).</p>
+<p>Find <b>a</b> P(<i>X</i> &#x003E; 20),</p>
+<p><b>b</b> P(<i>X</i> &#x003C; 15).</p>
+</Question><Solution>
+<p>(a)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003E;</mo><mn>20</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003E;</mo><mfrac><mrow><mn>20</mn><mo>&#x2212;</mo><mn>18</mn></mrow><mrow><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mi>Z</mi><mo>&#x003E;</mo><mn>0.6324</mn><mo>&#x2026;</mo><mo stretchy="false">)</mo><mspace width="1ex"/><mtext>Use</mtext><mspace width="1ex"/><mn>0.63</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.7357</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.2643</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mo stretchy="false">(</mo><mtext>Calculator</mtext><mspace width="1ex"/><mn>0.26354</mn><mo>&#x2026;</mo><mn>.</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mtext>allow AWRT</mtext><mspace width="1ex"/><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.264</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.263</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F108.jpg"/></td></tr></tbody></table></p>
+<p>(b)<br/>
+<table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003C;</mo><mn>15</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>15</mn><mo>&#x2212;</mo><mn>18</mn></mrow><mrow><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>0.9486</mn><mo>&#x2026;</mo><mo stretchy="false">)</mo><mspace width="1ex"/><mo stretchy="false">[</mo><mtext>Use</mtext><mo>&#x2212;</mo><mn>0.95</mn><mo stretchy="false">]</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.8289</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.1711</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mo stretchy="false">(</mo><mtext>Calculator:</mtext><mspace width="1ex"/><mn>0.17139</mn><mo>&#x2026;</mo><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mtext>allow AWRT</mtext><mspace width="1ex"/><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mspace width="1ex"/><mn>0.171</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F109.jpg"/></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The random variable <i>X</i> ~ N(20, 8).</p>
+<p>Find <b>a</b> P(<i>X</i> &#x003E; 15),</p>
+<p><b>b</b> the value of <i>a</i> such that P(<i>X</i> &#x003C; <i>a</i>) = 0.8051.</p>
+</Question><Solution>
+<p>(a)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003E;</mo><mn>15</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003E;</mo><mfrac><mrow><mn>15</mn><mo>&#x2212;</mo><mn>20</mn></mrow><mrow><msqrt><mn>8</mn></msqrt></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy="false">(</mo><mi>Z</mi><mo>&#x003E;</mo><mo>&#x2212;</mo><mn>1.767</mn><mo>&#x2026;</mo><mo stretchy="false">)</mo><mspace width="1ex"/><mtext>Use</mtext><mo>&#x2212;</mo><mn>1.77</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>0.9616</mn><mspace width="1ex"/><mo stretchy="false">(</mo><mtext>Calculator:</mtext><mspace width="1ex"/><mn>0.96145</mn><mo>&#x2026;</mo><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mtext>allow AWRT</mtext><mspace width="1ex"/><munder accentunder='true'><mrow><mn>0.961</mn><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mn>0.962</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F110.jpg"/></td></tr></tbody></table></p>
+<p>(b)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003C;</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.8051</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mi>a</mi><mo>&#x2212;</mo><mn>20</mn></mrow><mrow><msqrt><mn>8</mn></msqrt></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.8051</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mfrac><mrow><mi>a</mi><mo>&#x2212;</mo><mn>20</mn></mrow><mrow><msqrt><mn>8</mn></msqrt></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.86</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mi>a</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>22.43</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mo stretchy="false">(</mo><mtext>allow AWRT</mtext><mspace width="1ex"/><mn>22.4</mn><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F111.jpg"/></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The random variable <i>Y</i> ~ N(30, 5<sup>2</sup>).</p>
+<p>Find the value of <i>a</i> such that P(<i>Y</i> &#x003E; <i>a</i>) = 0.30.</p>
+</Question><Solution>
+<p><table>
+<col align="left" valign="top" width="350px" />
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>Y</mi><mo>&#x003E;</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.30</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mfrac><mrow><mi>a</mi><mo>&#x2212;</mo><mn>30</mn></mrow><mn>5</mn></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.5244</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mi>a</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>5</mn><mo>&#x00D7;</mo><mn>0.5244</mn><mo>+</mo><mn>30</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>a</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>32.622</mn><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>32.6</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mspace width="1ex"/><mo stretchy="false">(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F112.jpg"/></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="7">
+<Question>
+<p>The random variable <i>X</i> ~ N(15, 3<sup>2</sup>).</p>
+<p>Find the value of <i>a</i> such that P(<i>X</i> &#x003E; <i>a</i>) = 0.15.</p>
+</Question><Solution>
+<p><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mtext>p</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003E;</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.15</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mfrac><mrow><mi>a</mi><mo>&#x2212;</mo><mn>15</mn></mrow><mn>3</mn></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>1.0364</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mi>a</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>3</mn><mo>&#x00D7;</mo><mn>1.0364</mn><mo>+</mo><mn>15</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>a</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>18.1092</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>a</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>18.1</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mo stretchy="false">(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F113.jpg"/></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="8">
+<Question>
+<p>The random variable <i>X</i> ~ N(20, 12).</p>
+<p>Find the value of <i>a</i> and the value of <i>b</i> such that</p>
+<p><b>a</b> P(<i>X</i> &#x003C; <i>a</i>) = 0.40,</p>
+<p><b>b</b> P(<i>X</i> &#x003E; <i>b</i>) = 0.6915.</p>
+<p><b>c</b> Write down P(<i>b</i> &#x003C; <i>X</i> &#x003C; <i>a</i>).</p>
+</Question><Solution>
+<p>(a)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mtext>p</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003C;</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.40</mn><mspace width="1ex"/><mtext>Use</mtext><mspace width="1ex"/><mtext>P</mtext><mo>=</mo><mn>0.4000</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mfrac><mrow><mi>a</mi><mo>&#x2212;</mo><mn>20</mn></mrow><mrow><msqrt><mrow><mn>12</mn></mrow></msqrt></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mo>&#x2212;</mo><mn>0.2533</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>a</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>19.122</mn><mo>&#x2026;</mo><mspace width="1ex"/><mo>&#x2234;</mo><mspace width="1ex"/><mi>a</mi><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>19.1</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mo stretchy="false">(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F114.jpg"/></td></tr></tbody></table></p>
+<p>(b)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003E;</mo><mtext>b</mtext><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.6915</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mfrac><mrow><mtext>b</mtext><mo>&#x2212;</mo><mn>20</mn></mrow><mrow><msqrt><mrow><mn>12</mn></mrow></msqrt></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mo>&#x2212;</mo><mn>0.5</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mtext>b</mtext></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>18.267</mn><mo>&#x2026;</mo><mspace width="1ex"/><mo>&#x2234;</mo><mtext>b</mtext><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>18.3</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mo stretchy="false">(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F115.jpg"/></td></tr></tbody></table></p>
+<p>(c)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="left"><mrow><mtext>p</mtext><mo stretchy="false">(</mo><mtext>b</mtext><mo>&#x003C;</mo><mi>X</mi><mo>&#x003C;</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.40</mn><mo>&#x2212;</mo><mo stretchy="false">[</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.6915</mn><mo stretchy="false">]</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.0915</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F116.jpg"/></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="9">
+<Question>
+<p>The random variable <i>Y</i> ~ N(100, 15<sup>2</sup>).</p>
+<p>Find the value of <i>a</i> and the value of <i>b</i> such that</p>
+<p><b>a</b> P(<i>Y</i> &#x003E; <i>a</i>) = 0.975,</p>
+<p><b>b</b> P(<i>Y</i> &#x003C; <i>b</i>) = 0.10.</p>
+<p><b>c</b> Write down P(<i>a</i> &#x003C; <i>Y</i> &#x003C; <i>b</i>).</p>
+</Question><Solution>
+<p>(a)<br/>
+<table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>Y</mi><mo>&#x003E;</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.975</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mfrac><mrow><mi>a</mi><mo>&#x2212;</mo><mn>100</mn></mrow><mrow><mn>15</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mo>&#x2212;</mo><mn>1.96</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mi>a</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>70.6</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F117.jpg"/></td></tr></tbody></table></p>
+<p>(b)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>Y</mi><mo>&#x003C;</mo><mtext>b</mtext><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.10</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mfrac><mrow><mtext>b</mtext><mo>&#x2212;</mo><mn>100</mn></mrow><mrow><mn>15</mn></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mo>&#x2212;</mo><mn>1.2816</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mtext>b</mtext></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>80.776</mn><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>80.8</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mo stretchy="false">(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F118.jpg"/></td></tr></tbody></table></p>
+<p>(c)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="left"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>a</mi><mo>&#x003C;</mo><mi>Y</mi><mo>&#x003C;</mo><mtext>b</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.10</mn><mo>&#x2212;</mo><mn>0.025</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.075</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F119.jpg"/></td></tr></tbody></table></p>
+</Solution></QuestionData>
+<QuestionData number="10">
+<Question>
+<p>The random variable <i>X</i> ~ N(80, 16).</p>
+<p>Find the value of <i>a</i> and the value of <i>b</i> such that</p>
+<p><b>a</b> P(<i>X</i> &#x003E; <i>a</i>) = 0.40,</p>
+<p><b>b</b> P(<i>X</i> &#x003C; <i>b</i>) = 0.5636.</p>
+<p><b>c</b> Write down P(<i>b</i> &#x003C; <i>X</i> &#x003C; <i>a</i>).</p>
+</Question><Solution>
+<p>(a)<br/><table>
+<col align="left" valign="top" width="350px" />
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003E;</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.40</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mfrac><mrow><mi>a</mi><mo>&#x2212;</mo><mn>80</mn></mrow><mrow><msqrt><mrow><mn>16</mn></mrow></msqrt></mrow></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.2533</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mi>a</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>81.0</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mo stretchy="false">(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F120.jpg"/></td></tr></tbody></table></p>
+<p>(b)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mi>X</mi><mo>&#x003C;</mo><mtext>b</mtext><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.5636</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mfrac><mrow><mi>b</mi><mo>&#x2212;</mo><mn>80</mn></mrow><mn>4</mn></mfrac></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.16</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mi>b</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>80.64</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F121.jpg"/></td></tr></tbody></table></p>
+<p>(c)<br/><table>
+<col align="left" valign="top" width="350px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtable><mtr><mtd columnalign="left"><mrow><mtext>P</mtext><mo stretchy="false">(</mo><mtext>b</mtext><mo>&#x003C;</mo><mi>X</mi><mo>&#x003C;</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mo stretchy="false">[</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.4</mn><mo stretchy="false">]</mo><mo>&#x2212;</mo><mn>0.5636</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.6</mn><mo>&#x2212;</mo><mn>0.5636</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.0364</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></mrow></math></td><td><img src="images/S1F122.jpg"/></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+</Exercise>
+<Exercise letter="D"><p><b>Exercise 9D</b></p>
+<QuestionData number="1">
+<Question>
+<p>The random variable <i>X</i> ~ N(<i>&#x03BC;</i>, 5<sup>2</sup>) and P(<i>X</i> &#x003C; 18) = 0.9032.</p>
+<p>Find the value of <i>&#x03BC;</i>.</p>
+</Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F123.jpg"/></td><td><img src="images/S1F124.jpg"/></td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mspace width="6ex"/><mo>&#x21D2;</mo><mspace width="6ex"/><mn>1.30</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>18</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mn>5</mn></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mspace width="3ex"/><mo>&#x2234;</mo><mspace width="9ex"/><mi>&#x03BC;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>18</mn><mo>&#x2212;</mo><mn>5</mn><mo>&#x00D7;</mo><mn>1.30</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>&#x03BC;</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>11.5</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></p>
+</Solution></QuestionData>
+<QuestionData number="2">
+<Question>
+<p>The random variable <i>X</i> ~ N(11, &#x03C3;<sup>2</sup>) and P(<i>X</i> &#x003E; 20) = 0.01.</p>
+<p>Find the value of &#x03C3;.</p></Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F125.jpg"/></td><td><img src="images/S1F126.jpg"/></td></tr>
+</tbody></table></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mspace width="7"/><mo>&#x21D2;</mo><mspace width="5ex"/><mn>2.3263</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>20</mn><mo>&#x2212;</mo><mn>11</mn></mrow><mi>&#x03C3;</mi></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mspace width="3ex"/><mo>&#x2234;</mo><mspace width="9ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn>9</mn><mrow><mn>2.3263</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mo>=</mo><mrow><mn>3.8688</mn><mo>&#x2026;</mo><mn>.</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mspace width="3ex"/><mo>&#x2234;</mo><mspace width="9ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>3.87</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder><mspace width="2ex"/><mo stretchy="false">(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>The random variable <i>Y</i> ~ N(<i>&#x03BC;</i>, 40) and P(<i>Y</i> &#x003C; 25) = 0.15.</p>
+<p>Find the value of <i>&#x03BC;</i>.</p></Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F127.jpg"/></td><td><img src="images/S1F128.jpg"/></td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mspace width="5ex"/><mo>&#x21D2;</mo><mspace width="5ex"/><mo>&#x2212;</mo><mn>1.0364</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>25</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mrow><msqrt><mrow><mn>40</mn></mrow></msqrt></mrow></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>&#x03BC;</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>31.554</mn><mo>&#x2026;</mo><mn>.</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>31.6</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder><mspace width="3ex"/><mo stretchy="false">(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The random variable <i>Y</i> ~ N(50, &#x03C3;<sup>2</sup>) and P(<i>Y</i> &#x003E; 40) = 0.6554.</p>
+<p>Find the value of &#x03C3;.</p>
+</Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody><tr><td><img src="images/S1F129.jpg"/></td><td><img src="images/S1F130.jpg"/></td></tr></tbody></table></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mspace width="5ex"/><mo>&#x21D2;</mo><mspace width="5ex"/><mo>&#x2212;</mo><mn>0.4</mn></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mn>40</mn><mo>&#x2212;</mo><mn>50</mn></mrow><mi>&#x03C3;</mi></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mspace width="3ex"/><mo>&#x2234;</mo><mspace width="8ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mn>10</mn></mrow><mrow><mn>0.4</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>&#x03C3;</mi></mtd><mtd columnalign="left"><mrow><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mo>=</mo><mn>25</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>The random variable <i>X</i> ~ N(<i>&#x03BC;</i>, &#x03C3;<sup>2</sup>).</p>
+<p>Given that P(<i>X</i> &#x003C; 17) = 0.8159 and P(<i>X</i> &#x003C; 25) = 0.9970, find the value of <i>&#x03BC;</i> and the value of &#x03C3;.</p></Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F131.jpg"/></td><td><img src="images/S1F132.jpg"/></td></tr>
+</tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mspace width="1ex"/><mo>&#x21D2;</mo><mspace width="2ex"/><mn>0.90</mn><mspace width="1ex"/><mi>&#x03C3;</mi><mo>=</mo><mn>17</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="16ex"/><mrow><munder accentunder="true"><mrow><mn>2.75</mn><mi>&#x03C3;</mi><mo>=</mo><mn>25</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mrow><mtext>Subtract</mtext></mrow></mtd><mtd columnalign="right"><mrow><mn>1.85</mn><mspace width="1ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>8</mn></mrow></mtd></mtr><mtr><mtd><mspace width="4ex"/><mo>&#x2234;</mo></mtd><mtd columnalign="right"><mrow><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn>8</mn><mrow><mn>1.85</mn></mrow></mfrac><mo>=</mo><mn>4.3243</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mrow><mi>&#x03BC;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>17</mn><mo>&#x2212;</mo><mn>0.90</mn><mo>&#x00D7;</mo><mn>&#x03C3;.</mn></mrow></mtd></mtr><mtr><mtd/><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>13.1081</mn></mrow></mtd></mtr><mtr><mtd><mrow><mspace width="1ex"/><mo>&#x2234;</mo><mspace width="1ex"/><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mi>&#x03BC;</mi><mo>=</mo><mn>13.1</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></mtd><mtd columnalign="right"><mrow><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>4.32</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder><mspace width="3ex"/><mo stretchy="false">(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The random variable <i>Y</i> ~ N(<i>&#x03BC;</i>, &#x03C3;<sup>2</sup>).</p>
+<p>Given that P(<i>Y</i> &#x003C; 25) = 0.10 and P(<i>Y</i> &#x003E; 35) = 0.005, find the value of <i>&#x03BC;</i> and the value of &#x03C3;.</p>
+</Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody><tr><td><img src="images/S1F133.jpg"/></td><td><img src="images/S1F134.jpg"/></td></tr></tbody></table></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mspace width="1ex"/><mo>&#x21D2;</mo><mspace width="1ex"/><mn>2.5758</mn><mi>&#x03C3;</mi><mo>=</mo><mn>35</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow></mtd></mtr><mtr><mtd><mspace width="12ex"/><mrow><munder accentunder="true"><mrow><mo>&#x2212;</mo><mn>1.2816</mn><mi>&#x03C3;</mi><mo>=</mo><mn>25</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi><mn>.</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mrow><mtext>Subtract</mtext></mrow></mtd><mtd columnalign="right"><mspace width="4ex"/><mrow><mn>3.8574</mn><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>10</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>2.59241</mn><mo>&#x2026;</mo><mn>..</mn></mrow></mtd></mtr><mtr><mtd><mo>&#x2234;</mo></mtd><mtd columnalign="right"><mrow><mi>&#x03BC;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>35</mn><mo>&#x2212;</mo><mn>2.5758</mn><mo>&#x00D7;</mo><mn>2.59241</mn><mo>&#x2026;</mo><mn>.</mn></mrow></mtd></mtr><mtr><mtd/><mtd/><mtd columnalign="left"><mrow><mo>=</mo><mn>28.322</mn><mo>&#x2026;</mo></mrow></mtd></mtr><mtr><mtd><mo>&#x2234;</mo></mtd><mtd><mrow><mi>&#x03BC;</mi><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>28.3</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></mtd><mtd columnalign="left"><mspace width="2ex"/><mrow><mo>,</mo><mspace width="2ex"/><mi>&#x03C3;</mi><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>2.59</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder><mspace width="3ex"/><mo stretchy="false">(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question><p>
+The random variable <i>X</i> ~ N(<i>&#x03BC;</i>, &#x03C3;<sup>2</sup>).</p>
+<p>Given that P(<i>X</i> &#x003E; 15) = 0.20 and P(<i>X</i> &#x003C; 9) = 0.20, find the value of <i>&#x03BC;</i> and the value of &#x03C3;.</p></Question>
+<Hint><p><b>Hint</b> for Question 7: Draw a diagram and use symmetry to find <i>&#x03BC;</i>.</p></Hint>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F135.jpg"/></td><td><img src="images/S1F136.jpg"/></td></tr></tbody></table></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>By symmetry</mtext><mspace width="2ex"/><mi>&#x03BC;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo stretchy="false">(</mo><mn>9</mn><mo>+</mo><mn>15</mn><mo stretchy="false">)</mo><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>12</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mspace width="2ex"/><mo>&#x21D2;</mo></mrow></mtd><mtd columnalign="right"><mrow><mn>0.8416</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>15</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mo>=</mo><mfrac><mn>3</mn><mi>&#x03C3;</mi></mfrac></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="2ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn>3</mn><mrow><mn>0.8416</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mi>&#x03C3;</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>3.56</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="8">
+<Question>
+<p>The random variable <i>X</i> ~ N(<i>&#x03BC;</i>, &#x03C3;<sup>2</sup>).</p>
+<p>The lower quartile of <i>X</i> is 25 and the upper quartile of <i>X</i> is 45.</p>
+<p>Find the value of <i>&#x03BC;</i> and the value of &#x03C3;.</p></Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F137.jpg"/></td><td><img src="images/S1F138.jpg"/></td></tr>
+</tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>By Symmetry</mtext><mspace width="1ex"/><mi>&#x03BC;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo stretchy="false">(</mo><mn>25</mn><mo>+</mo><mn>45</mn><mo stretchy="false">)</mo><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>35</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mspace width="2ex"/><mo>&#x21D2;</mo></mrow></mtd><mtd columnalign="right"><mrow><mn>0.67</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>45</mn><mo>&#x2212;</mo><mn>35</mn></mrow><mi>&#x03C3;</mi></mfrac></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="1ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>0.67</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mrow><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>14.92</mn><mspace width="2ex"/><mo stretchy="false">(</mo><mtext>or</mtext><mspace width="1ex"/><mn>14.826</mn><mo>&#x2026;</mo><mspace width="1ex"/><mtext>on Calculator</mtext><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="5ex"/><mrow><mo>&#x2234;</mo><mspace width="2ex"/><mtext>accept</mtext><mspace width="2ex"/><mi>&#x03C3;</mi><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>14.9</mn><mspace width="1ex"/><mtext>or</mtext><mspace width="1ex"/><mn>14.8</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></math>
+</p>
+</Solution>
+</QuestionData>
+<QuestionData number="9">
+<Question>
+<p>The random variable <i>X</i> ~ N(0, &#x03C3;<sup>2</sup>).</p>
+<p>Given that P(&#x2212;4 &#x003C; <i>X</i> &#x003C; 4) = 0.6, find the value of &#x03C3;.</p></Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F139.jpg"/></td><td><img src="images/S1F140.jpg"/></td></tr>
+</tbody></table></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>By Symmetry</mtext><mspace width="1ex"/><mi>&#x03BC;</mi><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>0</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mspace width="3ex"/><mo>&#x21D2;</mo></mrow></mtd><mtd columnalign="right"><mrow><mn>0.8416</mn></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn>4</mn><mi>&#x03C3;</mi></mfrac></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="1ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mfrac><mn>4</mn><mrow><mn>0.8416</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mrow><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>4.75</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder><mspace width="2ex"/><mn>3</mn><mtext>sf</mtext></mrow></mtd></mtr></mtable></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="10">
+<Question>
+<p>The random variable <i>X</i> ~ N(2.68, &#x03C3;<sup>2</sup>).</p>
+<p>Given that P(<i>X</i> &#x003E; 2<i>a</i>) = 0.2 and P(<i>X</i> &#x003C; <i>a</i>) = 0.4, find the value of &#x03C3; and the value of <i>a</i>.</p></Question>
+<Solution>
+<p><table width="90%">
+<col align="left" valign="top"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F141.jpg"/></td><td><img src="images/S1F142.jpg"/></td></tr>
+</tbody></table></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mspace width="1ex"/><mo>&#x21D2;</mo></mrow></mtd><mtd columnalign="left"><mrow><mspace width="1.3ex"/><mn>0.8416</mn><mi>&#x03C3;</mi><mo>=</mo><mn>2</mn><mi>a</mi><mo>&#x2212;</mo><mn>2.68</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><munder accentunder="true"><mrow><mo>&#x2212;</mo><mn>0.2533</mn><mi>&#x03C3;</mi><mo>=</mo><mi>a</mi><mo>&#x2212;</mo><mn>2.68</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder><mo>&#x00D7;</mo><mn>2</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mrow><mo>&#x2212;</mo><mn>0.5066</mn><mi>&#x03C3;</mi><mo>=</mo><mn>2</mn><mi>a</mi><mo>&#x2212;</mo><mn>5.36</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="left"><mspace width="1.5ex"/><mrow><munder accentunder="true"><mrow><mn>0.8416</mn><mi>&#x03C3;</mi><mo>=</mo><mn>2</mn><mi>a</mi><mo>&#x2212;</mo><mn>2.68</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math><br/>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mrow><mtext>Subtract</mtext><mo>:</mo></mrow></mtd><mtd columnalign="right"><mspace width="5ex"/><mrow><mn>1.3482</mn><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>2.68</mn></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mrow><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>1.9878</mn><mo>&#x2026;</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mrow><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>1.99</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder><mspace width="2ex"/><mn>3</mn><mtext>sf</mtext></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mrow><mi>a</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>2.68</mn><mo>&#x2212;</mo><mn>0.2533</mn><mi>&#x03C3;</mi></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo></mrow></mtd><mtd columnalign="right"><mi>a</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>2.176</mn><mo>&#x2026;</mo></mrow></mtd></mtr><mtr><mtd/><mtd columnalign="right"><mrow><mi>a</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><munder accentunder="true"><mrow><munder accentunder="true"><mrow><mn>2.18</mn></mrow><mo stretchy="true">&#x00AF;</mo></munder></mrow><mo stretchy="true">&#x00AF;</mo></munder><mspace width="2ex"/><mn>3</mn><mtext>sf</mtext></mrow></mtd></mtr></mtable></math></p>
+</Solution>
+</QuestionData>
+</Exercise>
+ <Exercise letter="E"><p><b>Exercise 9E</b></p>
+<QuestionData number="1">
+<Question>
+<p>The heights of a large group of men are normally distributed with a mean of 178 cm and a standard deviation of 4 cm.</p>
+<p>A man is selected at random from this group.</p>
+<p><b>a</b> Find the probability that he is taller than 185 cm.</p>
+<p>A manufacturer of door frames wants to ensure that fewer than 0.005 men have to stoop to pass through the frame.</p>
+<p><b>b</b> On the basis of this group, find the minimum height of a door frame.</p></Question>
+<Solution>
+<p>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>M</mtext><mo>&#x223C;</mo><mtext>N</mtext><msup><mrow><mo stretchy='false'>(</mo><mn>178</mn><mo>,</mo><mn>4</mn></mrow><mn>2</mn></msup><mo stretchy='false'>)</mo></mrow></math></p>
+<p>(a) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>M</mtext><mo>&#x003E;</mo><mn>185</mn><mo stretchy='false'>)</mo><mo>=</mo><mrow><mtext>P</mtext><mo>(</mo><mi>Z</mi><mo>&#x003E;</mo><mfrac><mrow><mn>185</mn><mo>&#x2212;</mo><mn>178</mn></mrow><mn>4</mn></mfrac><mo>)</mo></mrow></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="10ex"/><mtable><mtr><mtd><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mn>1.75</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.9599</mn></mrow></mtd></mtr><mtr><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.0401</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F143.jpg"/></td></tr></tbody></table></p>
+<p>(b)
+<table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>M</mtext><mo>&#x003E;</mo><mtext>h</mtext><mo stretchy='false'>)</mo><mo>=</mo><mn>0.005</mn></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mo>&#x21D2;</mo><mspace width="2ex"/><mn>2.5758</mn></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mtext>h</mtext><mo>&#x2212;</mo><mn>178</mn></mrow><mn>4</mn></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="2ex"/><mtext>h</mtext></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>188.3032</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="2ex"/><mtext>h</mtext></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>188</mn><mtext>cm</mtext></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F144.jpg"/></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="2">
+<Question>
+<p>The weights of steel sheets produced by a factory are known to be normally distributed with mean 32.5 kg and standard deviation 2.2 kg.</p>
+<p><b>a</b> Find the percentage of sheets that weigh less than 30 kg.</p>
+<p>Bob requires sheets that weigh between 31.6 kg and 34.8 kg.</p>
+<p><b>b</b> Find the percentage of sheets produced that satisfy Bob&#x0027;s requirements.</p></Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>W</mtext><mo>&#x223C;</mo><mtext>N</mtext><msup><mrow><mo stretchy='false'>(</mo><mn>32.5</mn><mo>,</mo><mn>2.2</mn></mrow><mn>2</mn></msup><mo stretchy='false'>)</mo></mrow></math></p>
+<p>(a)
+<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>W</mtext><mo>&#x003C;</mo><mn>30</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>30</mn><mo>&#x2212;</mo><mn>32.5</mn></mrow><mrow><mn>2.2</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>1.14</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.8729</mn></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>0.1271</mn><mspace width="2ex"/><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>12.7</mn><mo>%</mo><mtext>or</mtext><mn>12.8</mn><mo>%</mo></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F145.jpg"/></td></tr></tbody></table></p>
+<p>(Calculator gives 0.1279.. so allow <u>AWRT (0.127 - 0.128)</u>)</p>
+<p>(b) <table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td>P(31.6 &#x003C; W &#x003C; 34.8)<br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="left"><mo>=</mo><mtext>P</mtext><mrow><mo>(</mo><mrow><mfrac><mrow><mn>31.6</mn><mo>&#x2212;</mo><mn>32.5</mn></mrow><mrow><mn>2.2</mn></mrow></mfrac><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>34.8</mn><mo>&#x2212;</mo><mn>32.5</mn></mrow><mrow><mn>2.2</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mtext>P</mtext><mo stretchy='false'>(</mo><mo>&#x2212;</mo><mn>0.41</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mn>1.05</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.8531</mn><mo>&#x2212;</mo><mo stretchy='false'>(</mo><mn>1</mn><mo>&#x2212;</mo><mn>0.6591</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd columnalign="left"><mrow><mo>=</mo><mn>0.5122</mn></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F146.jpg"/></td></tr></tbody></table></p>
+<p>(Calculator gives 0.510856 &#x2026; So allow AWRT <u>0.511 or 0.512</u>)</p>
+<p>So 51.1% or 51.2% of sheets satisfy Bob&#x0027;s requirements</p>
+</Solution>
+</QuestionData>
+<QuestionData number="3">
+<Question>
+<p>The time a mobile phone battery lasts before needing to be recharged is assumed to be normally distributed with a mean of 48 hours and a standard deviation of 8 hours.</p>
+<p><b>a</b> Find the probability that a battery will last for more than 60 hours.</p>
+<p><b>b</b> Find the probability that the battery lasts less than 35 hours.</p></Question>
+<Solution>
+<p>T ~ N(48, 8<sup>2</sup>)</p>
+<p>(a) <table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>T</mtext><mo>&#x003E;</mo><mn>60</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003E;</mo><mfrac><mrow><mn>60</mn><mo>&#x2212;</mo><mn>48</mn></mrow><mn>8</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mn>1.5</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.9332</mn></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.0668</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F147.jpg"/></td></tr></tbody></table></p>
+<p>(b)	<table>
+<col align="left" valign="top" width="250px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>T</mtext><mo>&#x003C;</mo><mn>35</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>35</mn><mo>&#x2212;</mo><mn>48</mn></mrow><mn>8</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>1.63</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.9484</mn></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>0.0516</mn></mrow></mtd><mtd><mrow></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F148.jpg"/></td></tr></tbody></table></p>
+<p>(Calculator gives 0.05208&#x2026; so allow AWRT <u>0.052</u>)</p>
+</Solution>
+</QuestionData>
+<QuestionData number="4">
+<Question>
+<p>The random variable <i>X</i> ~ N(24, &#x03C3;<sup>2</sup>).</p>
+<p>Given that P(<i>X</i> &#x003E; 30) = 0.05, find</p>
+<p><b>a</b> the value of &#x03C3;,</p>
+<p><b>b</b> P(<i>X</i> &#x003C; 20),</p>
+<p><b>c</b> the value of <i>d</i> so that P(<i>X</i> &#x003E; <i>d</i>) = 0.01.</p>
+</Question>
+<Solution>
+<p>X ~ N (24, &#x03C3;<sup>2</sup>)</p>
+<p>(a)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo>&#x003E;</mo><mn>30</mn><mo stretchy='false'>)</mo><mo>=</mo><mn>0.05</mn></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mo>&#x21D2;</mo><mspace width="2ex"/><mn>1.6449</mn></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mn>30</mn><mo>&#x2212;</mo><mn>24</mn></mrow><mi>&#x03C3;</mi></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="2ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mn>6</mn><mrow><mn>1.6449</mn></mrow></mfrac><mo>=</mo><mn>3.6476</mn><mo>&#x2026;</mo></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="2ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><mn>3.65</mn><mo stretchy='false'>(</mo><mn>3</mn><mspace width="1ex"/><mtext>sf</mtext><mo stretchy='false'>)</mo></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F149.jpg"/></td></tr></tbody></table></p>
+<p>(b)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo>&#x003C;</mo><mn>20</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>20</mn><mo>&#x2212;</mo><mn>24</mn></mrow><mi>&#x03C3;</mi></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>1.10</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.8643</mn></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.1357</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F150.jpg"/></td></tr></tbody></table></p>
+<p>(Calculator gives 0.1364&#x2026; so allow AWRT <u>0.136</u>)</p>
+<p>(c)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo>&#x003E;</mo><mtext>d</mtext><mo stretchy='false'>)</mo><mo>=</mo><mn>0.01</mn></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mo>&#x21D2;</mo><mn>2.3263</mn></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mtext>d</mtext><mo>&#x2212;</mo><mn>24</mn></mrow><mi>&#x03C3;</mi></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="2ex"/><mtext>d</mtext></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>32.485</mn><mo>&#x2026;</mo><mn>.</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mtext>d</mtext></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>32.5</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="2ex"/><mo stretchy='false'>(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy='false'>)</mo></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F151.jpg"/></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="5">
+<Question>
+<p>A machine dispenses liquid into plastic cups in such a way that the volume of liquid dispensed is normally distributed with a mean of 120 ml. The cups have a capacity of 140 ml and the probability that the machine dispenses too much liquid so that the cup overflows is 0.01.</p>
+<p><b>a</b> Find the standard deviation of the volume of liquid dispensed.</p>
+<p><b>b</b> Find the probability that the machine dispenses less than 110 ml.</p>
+<p>Ten percent of customers complain that the machine has not dispensed enough liquid.</p>
+<p><b>c</b> Find the largest volume of liquid that will lead to a complaint.</p></Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>L</mtext><mo>&#x223C;</mo><mtext>N</mtext><mo stretchy='false'>(</mo><mn>120</mn><mo>,</mo><msup><mi>&#x03C3;</mi><mn>2</mn></msup><mo stretchy='false'>)</mo></mrow></math></p>
+<p>(a)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>L</mtext><mo>&#x003E;</mo><mn>140</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>0.01</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mo>&#x21D2;</mo><mn>2.3263</mn></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mn>140</mn><mo>&#x2212;</mo><mn>120</mn></mrow><mi>&#x03C3;</mi></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="2ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>8.5973</mn><mo>&#x2026;</mo><mspace width="2ex"/><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>8.60</mn><mspace width="1ex"/><mtext>ml</mtext></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F152.jpg"/></td></tr></tbody></table></p>
+<p>(b)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>L</mtext><mo>&#x003C;</mo><mn>110</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo>(</mo><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>110</mn><mo>&#x2212;</mo><mn>120</mn></mrow><mi>&#x03C3;</mi></mfrac><mo>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>1.16</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.8770</mn></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>0.123</mn></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F153.jpg"/></td></tr></tbody></table></p>
+<p>(Calculator gives 0.12238&#x2026; so allow AWRT <u>0.122 or 0.123</u>)</p>
+<p>(c)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>L</mtext><mo>&#x003C;</mo><mtext>c</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.10</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mo>&#x21D2;</mo><mo>&#x2212;</mo><mn>1.2816</mn></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mtext>c</mtext><mo>&#x2212;</mo><mn>120</mn></mrow><mi>&#x03C3;</mi></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="2ex"/><mtext>c</mtext></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>108.98</mn><mo>&#x2026;</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>109</mn><mspace width="1ex"/><mtext>ml</mtext></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="2ex"/><mo stretchy='false'>(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy='false'>)</mo></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F154.jpg"/></td></tr></tbody></table></p>
+</Solution>
+</QuestionData>
+<QuestionData number="6">
+<Question>
+<p>The random variable <i>X</i> ~ N(<i>&#x03BC;</i>, &#x03C3;<sup>2</sup>). The lower quartile of <i>X</i> is 20 and the upper quartile is 40. Find <i>&#x03BC;</i> and &#x03C3;.</p></Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>X</mi><mo>&#x223C;</mo><mtext>N</mtext><mo stretchy='false'>(</mo><mi>&#x03BC;</mi><mo>,</mo><msup><mi>&#x03C3;</mi><mn>2</mn></msup><mo stretchy='false'>)</mo></mrow></math>
+<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F154B.jpg"/></td><td><img src="images/S1F155.jpg"/></td></tr></tbody></table>
+</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>By</mtext><mspace width="1ex"/><mtext>symmetry</mtext><mspace width="2ex"/><mi>&#x03BC;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo stretchy='false'>(</mo><mn>20</mn><mo>+</mo><mn>40</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>30</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mo>&#x21D2;</mo><mfrac><mrow><mn>40</mn><mo>&#x2212;</mo><mn>30</mn></mrow><mi>&#x03C3;</mi></mfrac></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>0.67</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="2ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>14.925</mn><mo>&#x2026;</mo><mn>..</mn></mrow></mtd></mtr></mtable></math></p>
+<p>(Calculator gives 14.82&#x2026; so allow AWRT <u>14.8 or 14.9</u>)</p>
+</Solution>
+</QuestionData>
+<QuestionData number="7">
+<Question>
+<p>The heights of seedlings are normally distributed. Given that 10% of the seedlings are taller than 15 cm and 5% are shorter than 4 cm, find the mean and standard deviation of the heights.</p></Question>
+<Solution>
+<p><table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F156.jpg"/></td><td><img src="images/S1F157.jpg"/></td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mi>Z</mi><mi>&#x03C3;</mi><mo>=</mo><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi><mo>&#x21D2;</mo></mrow></mtd><mtd><mrow><mo>&#x2212;</mo><mn>1.6449</mn><mspace width="1ex"/><mi>&#x03C3;</mi><mo>=</mo><mn>4</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd><mrow><munder accentunder='true'><mrow><mn>1.2816</mn><mspace width="1ex"/><mi>&#x03C3;</mi><mo>=</mo><mn>15</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow><mtext>Subtract</mtext></mrow></mtd><mtd><mrow><mn>2.9265</mn><mspace width="1ex"/><mi>&#x03C3;</mi><mo>=</mo><mn>11</mn></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mo>&#x2234;</mo></mtd><mtd><mrow><mi>&#x03C3;</mi><mo>=</mo><mn>3.7587</mn><mo>&#x2026;</mo><mo>=</mo><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>3.76</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mtext>cm</mtext><mspace width="1ex"/><mo stretchy='false'>(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow><mi>&#x03BC;</mi><mo>=</mo><mn>15</mn><mo>&#x2212;</mo><mn>1.2816</mn><mspace width="1ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mo>&#x2234;</mo></mtd><mtd><mrow><mi>&#x03BC;</mi><mo>=</mo><mn>10.2</mn><mspace width="1ex"/><mtext>cm</mtext><mspace width="1ex"/><mo stretchy='false'>(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy='false'>)</mo></mrow></mtd><mtd><mrow></mrow></mtd></mtr></mtable></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="8">
+<Question>
+<p>A psychologist gives a student two different tests. The first test has a mean of 80 and a standard deviation of 10 and the student scored 85.</p>
+<p><b>a</b> Find the probability of scoring 85 or more on the first test.</p>
+<p>The second test has a mean of 100 and a standard deviation of 15. The student scored 105 on the second test.</p>
+<p><b>b</b> Find the probability of a score of 105 or more on the second test.</p>
+<p><b>c</b> State, giving a reason, which of the student&#x2019;s two test scores was better.</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>T</mtext><mo>&#x223C;</mo><mtext>N</mtext><msup><mrow><mo stretchy='false'>(</mo><mn>80</mn><mo>,</mo><mn>10</mn></mrow><mn>2</mn></msup><mo stretchy='false'>)</mo></mrow></math></p>
+<p>(a)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>T</mtext><mo>&#x003E;</mo><mn>85</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003E;</mo><mfrac><mrow><mn>85</mn><mo>&#x2212;</mo><mn>80</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mn>0.5</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.6915</mn></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.3085</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F158.jpg"/></td></tr></tbody></table></p>
+<p>(b)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>S</mtext><mo>&#x223C;</mo><mtext>N</mtext><msup><mrow><mo stretchy='false'>(</mo><mn>100</mn><mo>,</mo><mn>15</mn></mrow><mn>2</mn></msup><mo stretchy='false'>)</mo></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>S</mtext><mo>&#x003E;</mo><mn>105</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003E;</mo><mfrac><mrow><mn>105</mn><mo>&#x2212;</mo><mn>100</mn></mrow><mrow><mn>15</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mn>0.33</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.6293</mn></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>0.3707</mn></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F159.jpg"/></td></tr></tbody></table></p>
+<p>(Calculator gives 0.36944&#x2026; so allow <u>0.369, 0.370 or 0.371</u>)</p>
+<p>(c)	1<sup>st</sup> score is best since a lower proportion of scores will beat it. (or Z value of 1<sup>st</sup> test in higher so this is the better result)</p>
+</Solution>
+</QuestionData>
+<QuestionData number="9">
+<Question>
+<p>Jam is sold in jars and the mean weight of the contents is 108 grams. Only 3% of jars have contents weighing less than 100 grams. Assuming that the weight of jam in a jar is normally distributed find</p>
+<p><b>a</b> the standard deviation of the weight of jam in a jar,</p>
+<p><b>b</b> the proportion of jars where the contents weigh more than 115 grams.</p></Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>J</mtext><mo>&#x223C;</mo><mtext>N</mtext><mo stretchy='false'>(</mo><mn>108</mn><mo>,</mo><msup><mi>&#x03C3;</mi><mn>2</mn></msup><mo stretchy='false'>)</mo></mrow></math></p>
+<p>(a)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>J</mtext><mo>&#x003C;</mo><mn>100</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>0.03</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mo>&#x21D2;</mo><mo>&#x2212;</mo><mn>1.88</mn></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mn>100</mn><mo>&#x2212;</mo><mn>108</mn></mrow><mi>&#x03C3;</mi></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mspace width="2ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>4.255</mn><mo>&#x2026;</mo><mn>..</mn></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F160.jpg"/></td></tr></tbody></table></p>
+<p>(Calculator gives 4.2535&#x2026; so allow AWRT <u>4.25&#x2013;4.26</u>)</p>
+<p>(b)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>J</mtext><mo>&#x003E;</mo><mn>115</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003E;</mo><mfrac><mrow><mn>115</mn><mo>&#x2212;</mo><mn>108</mn></mrow><mi>&#x03C3;</mi></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003E;</mo><mn>1.65</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.9505</mn></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>0.0495</mn></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F161.jpg"/></td></tr></tbody></table></p>
+<p>(Calculator gives: 0.0499&#x2026; so allow AWRT 0.050)</p>
+</Solution>
+</QuestionData>
+<QuestionData number="10">
+<Question>
+<p>The waiting time at a doctor&#x2019;s surgery is assumed to be normally distributed with standard deviation of 3.8 minutes. Given that the probability of waiting more than 15 minutes is 0.0446, find</p>
+<p><b>a</b> the mean waiting time,</p>
+<p><b>b</b> the probability of waiting fewer than 5 minutes.</p>
+</Question>
+<Solution>
+<p><table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>T</mtext><mo>&#x223C;</mo><mtext>N</mtext><mo stretchy='false'>(</mo><mi>&#x03BC;</mi><msup><mrow><mo>,</mo><mn>3.8</mn></mrow><mn>2</mn></msup><mo stretchy='false'>)</mo></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>T</mtext><mo>&#x003E;</mo><mn>15</mn><mo stretchy='false'>)</mo><mo>=</mo><mn>0.0446</mn></mrow></math></td><td><img src="images/S1F162.jpg"/></td></tr></tbody></table></p>
+<p>(a)<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="1ex"/><mtable><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mo>&#x21D2;</mo><mn>1.70</mn></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mn>15</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mrow><mn>3.8</mn></mrow></mfrac></mrow></mtd></mtr></mtable></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mspace width="15.5ex"/><mtable><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mi>&#x03BC;</mi></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>15</mn><mo>&#x2212;</mo><mn>3.8</mn><mo>&#x00D7;</mo><mn>1.70</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>&#x03BC;</mi></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><mn>8.54</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder><mspace width="1ex"/><mo stretchy='false'>(</mo><mn>3</mn><mtext>sf</mtext><mo stretchy='false'>)</mo><mspace width="1ex"/><mtext>minutes</mtext></mrow></mtd></mtr></mtable></math></p>
+<p>(b) <table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mtext>T</mtext><mo>&#x003C;</mo><mn>5</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>5</mn><mo>&#x2212;</mo><mn>8.54</mn></mrow><mrow><mn>3.8</mn></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>0.93</mn><mo>&#x2026;</mo><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.8238</mn></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.1762</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F163.jpg"/></td></tr></tbody></table></p>
+<p>(Calculater gives 0.17577&#x2026; so allow AWRT <u>0.176</u>)</p>
+</Solution>
+</QuestionData>
+<QuestionData number="11">
+<Question>
+<p>The thickness of some plastic shelving produced by a factory is normally distributed. As part of the production process the shelving is tested with two gauges. The first gauge is 7 mm thick and 98.61% of the shelving passes through this gauge. The second gauge is 5.2 mm thick and only 1.02% of the shelves pass through this gauge.</p>
+<p>Find the mean and standard deviation of the thickness of the shelving.</p>
+</Question>
+<Solution>
+<p>T ~ N (<i>&#x03BC;</i>, &#x03C3;<sup>2</sup>)</p>
+<p><table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><img src="images/S1F164.jpg"/></td><td><img src="images/S1F165.jpg"/></td></tr></tbody></table></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mi>Z</mi><mi>&#x03C3;</mi><mo>=</mo><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow></mtd><mtd><mrow><mo>&#x21D2;</mo><mn>2.20</mn><mspace width="1ex"/><mi>&#x03C3;</mi><mo>=</mo><mn>7</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd><mrow><munder accentunder='true'><mrow><mo>&#x2212;</mo><mn>2.32</mn><mspace width="1ex"/><mi>&#x03C3;</mi><mo>=</mo><mn>5.2</mn><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math><br/>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>Subtract</mtext><mspace width="2ex"/><mn>4.52</mn><mspace width="1ex"/><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>1.8</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>&#x03C3;</mi></mrow></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>0.3982</mn><mo>&#x2026;</mo><mn>.</mn></mrow></mtd></mtr></mtable></math></p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mi>&#x03BC;</mi><mo>=</mo><mn>7</mn><mo>&#x2212;</mo><mn>2.20</mn><mspace width="1ex"/><mi>&#x03C3;</mi><mspace width="1ex"/><mo>&#x21D2;</mo></mrow><mspace width="1ex"/><mrow><mi>&#x03BC;</mi><mo>=</mo><mn>6.1238</mn><mo>&#x2026;</mo><mn>.</mn></mrow></mtd></mtr><mtr><mtd><mo>&#x2234;</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mi>&#x03BC;</mi><mo>=</mo><mn>6.12</mn><mspace width="1ex"/><mtext>mm</mtext><mo>,</mo><mi>&#x03C3;</mi><mo>=</mo><mn>0.398</mn><mspace width="1ex"/><mtext>mm</mtext></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></p>
+</Solution>
+</QuestionData>
+<QuestionData number="12">
+<Question>
+<p>The random variable <i>X</i> ~ N(14, 9). Find</p>
+<p><b>a</b> P(<i>X</i> &#x2265; 11),</p>
+<p><b>b</b> P(9 &#x003C; <i>X</i> &#x003C; 11).</p>
+</Question>
+<Solution>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>X</mi><mo>&#x223C;</mo><mtext>N</mtext><msup><mrow><mo stretchy='false'>(</mo><mn>14</mn><mo>,</mo><mn>3</mn></mrow><mn>2</mn></msup><mo stretchy='false'>)</mo></mrow></math></p>
+<p>(a)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo>&#x2265;</mo><mn>11</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mi>Z</mi><mo>&#x2265;</mo><mfrac><mrow><mn>11</mn><mo>&#x2212;</mo><mn>14</mn></mrow><mn>3</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x2265;</mo><mo>&#x2212;</mo><mn>1</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd><mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.8413</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd><mtd><mrow></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F166.jpg"/></td></tr></tbody></table></p>
+<p>(b)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mn>9</mn><mo>&#x003C;</mo><mi>X</mi><mo>&#x003C;</mo><mn>11</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mrow><mo>(</mo><mrow><mfrac><mrow><mn>9</mn><mo>&#x2212;</mo><mn>14</mn></mrow><mn>3</mn></mfrac><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>11</mn><mo>&#x2212;</mo><mn>14</mn></mrow><mn>3</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mo>&#x2212;</mo><mn>1.67</mn><mo>&#x003C;</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>1</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>0.9525</mn><mo>&#x2212;</mo><mn>0.8413</mn></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>0.1112</mn></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F167.jpg"/></td></tr></tbody></table></p>
+<p>(Calculater gives: 0.11086 &#x2026; so allow AWRT <u>0.111</u>)</p>
+</Solution>
+</QuestionData>
+<QuestionData number="13">
+<Question>
+<p>The random variable <i>X</i> ~ N(20, 5<sup>2</sup>). Find</p>
+<p><b>a</b> P(<i>X</i> &#x2264; 16),</p>
+<p><b>b</b> the value of <i>d</i> such that P(<i>X</i> &#x003C; <i>d</i>) = 0.95.</p></Question>
+<Solution>
+<p><i>X</i> ~ <i>N</i>(20, 5<sup>2</sup>)</p>
+<p>(a)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo>&#x2264;</mo><mn>16</mn><mo stretchy='false'>)</mo></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo>(</mo><mi>Z</mi><mo>&#x003C;</mo><mfrac><mrow><mn>16</mn><mo>&#x2212;</mo><mn>20</mn></mrow><mn>5</mn></mfrac><mo>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>Z</mi><mo>&#x003C;</mo><mo>&#x2212;</mo><mn>0.8</mn><mo stretchy='false'>)</mo></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>1</mn><mo>&#x2212;</mo><mn>0.7881</mn></mrow></mtd></mtr><mtr><mtd><mrow></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><munder accentunder='true'><mrow><munder accentunder='true'><mrow><mn>0.2119</mn></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow><mo stretchy='true'>&#x00AF;</mo></munder></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F067.jpg"/></td></tr></tbody></table></p>
+<p>(b)	<table>
+<col align="left" valign="top" width="300px"/>
+<col align="left" valign="top"/>
+<tbody>
+<tr><td><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mtext>P</mtext><mo stretchy='false'>(</mo><mi>X</mi><mo>&#x003C;</mo><mi>d</mi><mo stretchy='false'>)</mo><mo>=</mo><mn>0.95</mn></mrow></math><br/><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtable><mtr><mtd columnalign="right"><mrow><mi>Z</mi><mo>=</mo><mfrac><mrow><mi>X</mi><mo>&#x2212;</mo><mi>&#x03BC;</mi></mrow><mi>&#x03C3;</mi></mfrac><mo>&#x21D2;</mo><mn>1.6449</mn></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mfrac><mrow><mi>d</mi><mo>&#x2212;</mo><mn>20</mn></mrow><mn>5</mn></mfrac></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>&#x2234;</mo><mi>d</mi></mrow></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>20</mn><mo>+</mo><mn>5</mn><mo>&#x00D7;</mo><mn>1.6449</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>d</mi></mtd><mtd columnalign="left"><mo>=</mo><mrow><mn>28.2</mn></mrow></mtd></mtr></mtable></math></td><td><img src="images/S1F149.jpg"/></td></tr></tbody></table>
+</p></Solution>
+</QuestionData></Exercise>
+</Chapter>
+</Section>
+</Unit>
+</SubjectArea>
+</ProductTitle>
+</ExamBoard>
+</Level>
+</Subject>
+</Harcourt>
